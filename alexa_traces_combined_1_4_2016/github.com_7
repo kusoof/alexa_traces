@@ -1,0 +1,534 @@
+{
+    "DOMContentLoadedEvent": "comp_4", 
+    "activities": [
+        {
+            "cached": false, 
+            "children": [
+                "dchunk_0_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_0", 
+            "mimeType": "text/html", 
+            "sentTime": 0.0, 
+            "size": 16722, 
+            "type": "resource", 
+            "url": "https://github.com/"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_1_0", 
+                "comp_11"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_3", 
+            "mimeType": "text/css", 
+            "sentTime": 0.4229400000003807, 
+            "size": 263364, 
+            "type": "resource", 
+            "url": "https://assets-cdn.github.com/assets/github2-437a4328e52a95ed09a1fa29276622738971546748cbd528b4f1bd3a5462d981.css"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_11"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_1", 
+            "mimeType": "image/png", 
+            "sentTime": 0.42455400000108057, 
+            "size": 89017, 
+            "type": "resource", 
+            "url": "https://assets-cdn.github.com/images/modules/home/gh-enterprise-code.png"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_11"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_6", 
+            "mimeType": "application/x-font-woff", 
+            "sentTime": 0.5860309999989113, 
+            "size": 16740, 
+            "type": "resource", 
+            "url": "https://assets-cdn.github.com/static/fonts/octicons/octicons.woff?v=6f0908ee5b07e503e10c6040adaebd65ea4f4c0e"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_10", 
+                "comp_11"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_8", 
+            "mimeType": "application/javascript", 
+            "sentTime": 0.7447209999991173, 
+            "size": 391310, 
+            "type": "resource", 
+            "url": "https://assets-cdn.github.com/assets/github-b42430c121e963c7370a99d029c78f3c2fdc9b75b73adf817f07802e33988e81.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_2", 
+                "comp_11"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_5", 
+            "mimeType": "application/javascript", 
+            "sentTime": 0.4263519999985874, 
+            "size": 208959, 
+            "type": "resource", 
+            "url": "https://assets-cdn.github.com/assets/frameworks-b7c9523d93e6cd0235a0a8b7d1a691f7909d3834cd9c9caa7b1674ba508b644c.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_0", 
+                "comp_11"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_2", 
+            "mimeType": "text/css", 
+            "sentTime": 0.42282600000180537, 
+            "size": 189748, 
+            "type": "resource", 
+            "url": "https://assets-cdn.github.com/assets/github-e22d623d751b610e17d11f367d278f39da959fc110f2fce97536b485292df111.css"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_11"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_4", 
+            "mimeType": "image/png", 
+            "sentTime": 0.5530870000002324, 
+            "size": 7292, 
+            "type": "resource", 
+            "url": "https://assets-cdn.github.com/images/modules/home/octicons-bg.png"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_11"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_9", 
+            "mimeType": "image/png", 
+            "sentTime": 0.4257260000013048, 
+            "size": 667518, 
+            "type": "resource", 
+            "url": "https://assets-cdn.github.com/images/modules/home/desktop-windows.png?v=1"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_11"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_7", 
+            "mimeType": "image/png", 
+            "sentTime": 0.425677999999607, 
+            "size": 516094, 
+            "type": "resource", 
+            "url": "https://assets-cdn.github.com/images/modules/home/desktop-mac.png?v=1"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "comp_2"
+            ], 
+            "docUrl": "https://github.com/", 
+            "enclosing": "None", 
+            "endTime": 0.5358889999988605, 
+            "evalType": "recalcStyle", 
+            "frame": 0, 
+            "id": "comp_0", 
+            "startTime": 0.5271480000010342, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://assets-cdn.github.com/assets/github-e22d623d751b610e17d11f367d278f39da959fc110f2fce97536b485292df111.css"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "download_4", 
+                "comp_1_1"
+            ], 
+            "docUrl": "https://github.com/", 
+            "enclosing": "comp_1", 
+            "endTime": 0.5530870000002324, 
+            "evalType": "recalcStyle", 
+            "frame": 0, 
+            "id": "comp_1_0", 
+            "startTime": 0.5374300000003132, 
+            "subtree": "subtree_comp_1", 
+            "type": "eval", 
+            "url": "https://assets-cdn.github.com/assets/github2-437a4328e52a95ed09a1fa29276622738971546748cbd528b4f1bd3a5462d981.css"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "download_6", 
+                "comp_2"
+            ], 
+            "docUrl": "https://github.com/", 
+            "enclosing": "comp_1", 
+            "endTime": 0.5852770000019518, 
+            "evalType": "recalcStyle", 
+            "frame": 0, 
+            "id": "comp_1_1", 
+            "startTime": 0.5530870000002324, 
+            "subtree": "subtree_comp_1", 
+            "type": "eval", 
+            "url": "https://assets-cdn.github.com/assets/github2-437a4328e52a95ed09a1fa29276622738971546748cbd528b4f1bd3a5462d981.css"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_6"
+            ], 
+            "docUrl": "https://github.com/", 
+            "enclosing": "None", 
+            "endTime": 0.744604999999865, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_2", 
+            "startTime": 0.6699300000000221, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://assets-cdn.github.com/assets/frameworks-b7c9523d93e6cd0235a0a8b7d1a691f7909d3834cd9c9caa7b1674ba508b644c.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_4"
+            ], 
+            "docUrl": "https://github.com/", 
+            "enclosing": "None", 
+            "endTime": 0.7449330000017653, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_3", 
+            "name": "DOMContentLoaded", 
+            "startTime": 0.7449320000014268, 
+            "subtree": "None", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_5"
+            ], 
+            "docUrl": "https://github.com/", 
+            "enclosing": "None", 
+            "endTime": 0.7469559999990452, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_4", 
+            "name": "DOMContentLoaded", 
+            "startTime": 0.744935999999143, 
+            "subtree": "None", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_11"
+            ], 
+            "docUrl": "https://github.com/", 
+            "enclosing": "None", 
+            "endTime": 0.7552670000004582, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_5", 
+            "name": "DOMContentLoaded", 
+            "startTime": 0.7469620000010764, 
+            "subtree": "None", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://github.com/", 
+            "enclosing": "None", 
+            "endTime": 0.7668349999985367, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_10", 
+            "name": "error", 
+            "startTime": 0.7668330000014976, 
+            "subtree": "None", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://github.com/", 
+            "enclosing": "None", 
+            "endTime": 39.44184799999857, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_11", 
+            "name": "load", 
+            "startTime": 39.44184799999857, 
+            "subtree": "None", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "children": [
+                "download_2", 
+                "pchunk_0_1"
+            ], 
+            "docUrl": "https://github.com/", 
+            "endColumn": 185, 
+            "endRow": 77, 
+            "endTag": "link", 
+            "endTime": 0.4224080000021786, 
+            "frame": 0, 
+            "id": "pchunk_0_0", 
+            "isFragment": false, 
+            "startColumn": 25, 
+            "startRow": 1, 
+            "startTag": "html", 
+            "startTime": 0.42168799999853945, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_3", 
+                "pchunk_0_2"
+            ], 
+            "docUrl": "https://github.com/", 
+            "endColumn": 186, 
+            "endRow": 78, 
+            "endTag": "link", 
+            "endTime": 0.42298700000173994, 
+            "frame": 0, 
+            "id": "pchunk_0_1", 
+            "isFragment": false, 
+            "startColumn": 186, 
+            "startRow": 78, 
+            "startTag": "link", 
+            "startTime": 0.4228949999996985, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_1", 
+                "pchunk_0_3"
+            ], 
+            "docUrl": "https://github.com/", 
+            "endColumn": 125, 
+            "endRow": 205, 
+            "endTag": "img", 
+            "endTime": 0.4238180000029388, 
+            "frame": 0, 
+            "id": "pchunk_0_2", 
+            "isFragment": false, 
+            "startColumn": 81, 
+            "startRow": 84, 
+            "startTag": "meta", 
+            "startTime": 0.4229930000001332, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_7", 
+                "pchunk_0_4"
+            ], 
+            "docUrl": "https://github.com/", 
+            "endColumn": 144, 
+            "endRow": 262, 
+            "endTag": "img", 
+            "endTime": 0.4250720000018191, 
+            "frame": 0, 
+            "id": "pchunk_0_3", 
+            "isFragment": false, 
+            "startColumn": 8, 
+            "startRow": 206, 
+            "startTag": "div", 
+            "startTime": 0.4245760000012524, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_9", 
+                "pchunk_0_5"
+            ], 
+            "docUrl": "https://github.com/", 
+            "endColumn": 137, 
+            "endRow": 263, 
+            "endTag": "img", 
+            "endTime": 0.42573300000003655, 
+            "frame": 0, 
+            "id": "pchunk_0_4", 
+            "isFragment": false, 
+            "startColumn": 137, 
+            "startRow": 263, 
+            "startTag": "img", 
+            "startTime": 0.42569600000206265, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_5", 
+                "pchunk_0_6"
+            ], 
+            "docUrl": "https://github.com/", 
+            "endColumn": 169, 
+            "endRow": 314, 
+            "endTag": "script", 
+            "endTime": 0.42606399999931455, 
+            "frame": 0, 
+            "id": "pchunk_0_5", 
+            "isFragment": false, 
+            "startColumn": 10, 
+            "startRow": 264, 
+            "startTag": "div", 
+            "startTime": 0.42573800000172923, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_8", 
+                "pchunk_0_7"
+            ], 
+            "docUrl": "https://github.com/", 
+            "endColumn": 179, 
+            "endRow": 315, 
+            "endTag": "script", 
+            "endTime": 0.7446799999997893, 
+            "frame": 0, 
+            "id": "pchunk_0_6", 
+            "isFragment": false, 
+            "startColumn": 170, 
+            "startRow": 315, 
+            "startTag": "script", 
+            "startTime": 0.7446270000000368, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "comp_3"
+            ], 
+            "docUrl": "https://github.com/", 
+            "endColumn": 7, 
+            "endRow": 325, 
+            "endTag": "html", 
+            "endTime": 0.7448510000031092, 
+            "frame": 0, 
+            "id": "pchunk_0_7", 
+            "isFragment": false, 
+            "startColumn": 97, 
+            "startRow": 319, 
+            "startTag": "div", 
+            "startTime": 0.7447370000008959, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_0", 
+                "dchunk_0_1"
+            ], 
+            "id": "dchunk_0_0", 
+            "offset": 41, 
+            "resource": "download_0", 
+            "size": 4646, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_1", 
+                "dchunk_0_2"
+            ], 
+            "id": "dchunk_0_1", 
+            "offset": 4687, 
+            "resource": "download_0", 
+            "size": 0, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_2", 
+                "dchunk_0_3"
+            ], 
+            "id": "dchunk_0_2", 
+            "offset": 4687, 
+            "resource": "download_0", 
+            "size": 5722, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_3", 
+                "dchunk_0_4"
+            ], 
+            "id": "dchunk_0_3", 
+            "offset": 10409, 
+            "resource": "download_0", 
+            "size": 2648, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_4", 
+                "dchunk_0_5"
+            ], 
+            "id": "dchunk_0_4", 
+            "offset": 13057, 
+            "resource": "download_0", 
+            "size": 0, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_5", 
+                "dchunk_0_6"
+            ], 
+            "id": "dchunk_0_5", 
+            "offset": 13057, 
+            "resource": "download_0", 
+            "size": 2492, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_6", 
+                "dchunk_0_7"
+            ], 
+            "id": "dchunk_0_6", 
+            "offset": 15549, 
+            "resource": "download_0", 
+            "size": 9, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_7"
+            ], 
+            "id": "dchunk_0_7", 
+            "offset": 15558, 
+            "resource": "download_0", 
+            "size": 351, 
+            "type": "download_chunk"
+        }
+    ], 
+    "frames": [
+        {
+            "id": 0, 
+            "subframes": [], 
+            "url": "https://github.com/"
+        }
+    ], 
+    "loadEvent": "comp_11", 
+    "name": "https://github.com/", 
+    "root_activity": "download_0"
+}

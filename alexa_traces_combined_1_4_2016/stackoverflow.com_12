@@ -1,0 +1,2835 @@
+{
+    "DOMContentLoadedEvent": "comp_14_0", 
+    "activities": [
+        {
+            "cached": true, 
+            "children": [
+                "comp_16_0", 
+                "comp_52"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_40", 
+            "mimeType": "text/javascript", 
+            "sentTime": 0.4832960000003368, 
+            "size": 25252, 
+            "type": "resource", 
+            "url": "http://www.google-analytics.com/analytics.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "dchunk_0_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_0", 
+            "mimeType": "text/html", 
+            "sentTime": 0.0, 
+            "size": 241864, 
+            "type": "resource", 
+            "url": "http://stackoverflow.com/"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_50_0", 
+                "comp_52"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_22", 
+            "mimeType": "application/x-javascript", 
+            "sentTime": 0.9690600000003542, 
+            "size": 3708, 
+            "type": "resource", 
+            "url": "http://clc.stackoverflow.com/j/p?d=hireme&l=1&lw=569"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_51", 
+                "comp_52"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_23", 
+            "mimeType": "text/css", 
+            "sentTime": 1.1994850000000952, 
+            "size": 7279, 
+            "type": "resource", 
+            "url": "http://cdn.sstatic.net/clc/styles/jobs.min.css?v=f811b4704c4c"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_52"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_8", 
+            "mimeType": "image/svg+xml", 
+            "sentTime": 0.3119649999998728, 
+            "size": 32155, 
+            "type": "resource", 
+            "url": "http://cdn.sstatic.net/Img/share-sprite-new.svg?v=24e64812c790"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_2", 
+                "comp_52"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_3", 
+            "mimeType": "text/css", 
+            "sentTime": 0.2717130000000907, 
+            "size": 226575, 
+            "type": "resource", 
+            "url": "http://cdn.sstatic.net/stackoverflow/all.css?v=00635778dbde"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_0", 
+                "comp_52"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_1", 
+            "mimeType": "text/javascript", 
+            "sentTime": 0.19325500000013562, 
+            "size": 93868, 
+            "type": "resource", 
+            "url": "http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_17_0", 
+                "comp_52"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_41", 
+            "mimeType": "application/x-javascript", 
+            "sentTime": 0.48374000000058004, 
+            "size": 1900, 
+            "type": "resource", 
+            "url": "http://b.scorecardresearch.com/beacon.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "dchunk_1_0", 
+                "comp_52"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_21", 
+            "mimeType": "text/html", 
+            "sentTime": 0.8000510000001668, 
+            "size": 1253, 
+            "type": "resource", 
+            "url": "https://stackauth.com/auth/global/read?request=MzziRTNbnkWIz8tQQn2B8I8WHxHMSgr%2Bw7MUKPxT5U1FtcdWYrxauk8CM2gpJlE%2BKNqcRiO6ltzycsdr4dM51w%3D%3D&nonce=BJeZVQAAAAA91GkqdYhdzQ%3D%3D"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_57"
+            ], 
+            "httpMethod": "POST", 
+            "id": "download_25", 
+            "mimeType": "text/plain", 
+            "sentTime": 10.588920000000144, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "http://stackoverflow.com/gps/event"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_52"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_7", 
+            "mimeType": "image/png", 
+            "sentTime": 0.38100699999995413, 
+            "size": 635, 
+            "type": "resource", 
+            "url": "http://i.stack.imgur.com/PAJ96.png"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_52"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_6", 
+            "mimeType": "image/svg+xml", 
+            "sentTime": 0.30919100000028266, 
+            "size": 32155, 
+            "type": "resource", 
+            "url": "http://cdn.sstatic.net/img/share-sprite-new.svg?v=24e64812c790"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_52"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_28", 
+            "mimeType": "image/svg+xml", 
+            "originalResource": "download_6", 
+            "sentTime": 0.31037500000002183, 
+            "size": 32155, 
+            "type": "resource", 
+            "url": "http://cdn.sstatic.net/img/share-sprite-new.svg?v=24e64812c790"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_40", 
+                "comp_52"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_18", 
+            "mimeType": "text/plain", 
+            "sentTime": 0.5495829999999842, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "http://b.scorecardresearch.com/b?c1=2&c2=17440561&ns__t=1436129029154&ns_c=UTF-8&c8=Stack%20Overflow&c7=http%3A%2F%2Fstackoverflow.com%2F&c9="
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_39", 
+                "comp_52"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_17", 
+            "mimeType": "application/javascript", 
+            "sentTime": 0.6188950000005207, 
+            "size": 951, 
+            "type": "resource", 
+            "url": "http://engine.adzerk.net/ados?t=1436129029223&request={%22Placements%22:[{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk1537110891%22,%22ATA%22:[17,2221],%22Z%22:45}],%22Keywords%22:%22undefined%22,%22Referrer%22:%22%22,%22IsAsync%22:true}"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_24", 
+                "comp_52"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_15", 
+            "mimeType": "image/gif", 
+            "sentTime": 0.5473259999998845, 
+            "size": 35, 
+            "type": "resource", 
+            "url": "http://www.google-analytics.com/r/collect?v=1&_v=j37&a=630961300&t=pageview&_s=1&dl=http%3A%2F%2Fstackoverflow.com%2F&ul=en-gb&de=UTF-8&dt=Stack%20Overflow&sd=24-bit&sr=1440x900&vp=185x185&je=1&fl=11.2%20r202&_u=AEAAAAQAI~&jid=1137173619&cid=719573807.1436129029&tid=UA-5620270-1&_r=1&z=1434580205"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_33", 
+                "comp_52"
+            ], 
+            "httpMethod": "POST", 
+            "id": "download_16", 
+            "mimeType": "application/json", 
+            "sentTime": 0.5922179999997752, 
+            "size": 135, 
+            "type": "resource", 
+            "url": "http://stackoverflow.com/users/login/global/request"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_20", 
+                "comp_21_0", 
+                "comp_52"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_13", 
+            "mimeType": "application/javascript", 
+            "sentTime": 0.5001480000000811, 
+            "size": 81542, 
+            "type": "resource", 
+            "url": "http://cdn.sstatic.net/Js/full-anon.en.js?v=0ae718390f1f"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_52"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_24", 
+            "mimeType": "image/gif", 
+            "sentTime": 1.201216000000386, 
+            "size": 43, 
+            "type": "resource", 
+            "url": "http://clc.stackoverflow.com/j/i?an=Y2Fi4DX6k1vVesmDAQiYmBmYWRkZGBnYGYE8DpAQC4PRdiaGzK-7Py-av9WeCSzLyAUkGMrWYBefuQ27-LlHjFjFFWN_zd1qfm3frPUA&pt=228"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_52"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_9", 
+            "mimeType": "image/png", 
+            "sentTime": 0.3978530000003957, 
+            "size": 314, 
+            "type": "resource", 
+            "url": "http://i.stack.imgur.com/PVepA.png"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_1", 
+                "comp_52"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_2", 
+            "mimeType": "application/javascript", 
+            "sentTime": 0.2426999999997861, 
+            "size": 35245, 
+            "type": "resource", 
+            "url": "http://cdn.sstatic.net/Js/stub.en.js?v=54797a79194d"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_47", 
+                "comp_52"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_19", 
+            "mimeType": "image/gif", 
+            "sentTime": 0.859958000000006, 
+            "size": 43, 
+            "type": "resource", 
+            "url": "http://ums.adtechus.com/mapuser?providerid=1053;userid=YVVmoTFSMvV5VzegYFF88WdUZf15VWH9MAa1EIiP&cfp"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_52"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_10", 
+            "mimeType": "image/png", 
+            "sentTime": 0.34410699999989447, 
+            "size": 262, 
+            "type": "resource", 
+            "url": "http://i.stack.imgur.com/xKsQb.png"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_52"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_5", 
+            "mimeType": "image/svg+xml", 
+            "sentTime": 0.31086599999980535, 
+            "size": 9187, 
+            "type": "resource", 
+            "url": "http://cdn.sstatic.net/stackoverflow/img/sprites.svg?v=1bc768be1b3c"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_52"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_39", 
+            "mimeType": "image/svg+xml", 
+            "originalResource": "download_5", 
+            "sentTime": 0.47621499999968364, 
+            "size": 9187, 
+            "type": "resource", 
+            "url": "http://cdn.sstatic.net/stackoverflow/img/sprites.svg?v=1bc768be1b3c"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_19_0", 
+                "comp_52"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_12", 
+            "mimeType": "application/x-javascript", 
+            "sentTime": 0.483567000000221, 
+            "size": 7874, 
+            "type": "resource", 
+            "url": "http://edge.quantserve.com/quant.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_52"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_4", 
+            "mimeType": "image/png", 
+            "sentTime": 0.3182090000000244, 
+            "size": 259, 
+            "type": "resource", 
+            "url": "http://i.stack.imgur.com/tKsDb.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_52"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_29", 
+            "mimeType": "image/png", 
+            "originalResource": "download_4", 
+            "sentTime": 0.3254640000004656, 
+            "size": 259, 
+            "type": "resource", 
+            "url": "http://i.stack.imgur.com/tKsDb.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_52"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_30", 
+            "mimeType": "image/png", 
+            "originalResource": "download_4", 
+            "sentTime": 0.3385500000003958, 
+            "size": 259, 
+            "type": "resource", 
+            "url": "http://i.stack.imgur.com/tKsDb.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_52"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_31", 
+            "mimeType": "image/png", 
+            "originalResource": "download_4", 
+            "sentTime": 0.34150099999988015, 
+            "size": 259, 
+            "type": "resource", 
+            "url": "http://i.stack.imgur.com/tKsDb.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_52"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_32", 
+            "mimeType": "image/png", 
+            "originalResource": "download_4", 
+            "sentTime": 0.3472330000004149, 
+            "size": 259, 
+            "type": "resource", 
+            "url": "http://i.stack.imgur.com/tKsDb.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_52"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_33", 
+            "mimeType": "image/png", 
+            "originalResource": "download_4", 
+            "sentTime": 0.3494060000002719, 
+            "size": 259, 
+            "type": "resource", 
+            "url": "http://i.stack.imgur.com/tKsDb.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_52"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_34", 
+            "mimeType": "image/png", 
+            "originalResource": "download_4", 
+            "sentTime": 0.3552110000000539, 
+            "size": 259, 
+            "type": "resource", 
+            "url": "http://i.stack.imgur.com/tKsDb.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_52"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_35", 
+            "mimeType": "image/png", 
+            "originalResource": "download_4", 
+            "sentTime": 0.3562019999999393, 
+            "size": 259, 
+            "type": "resource", 
+            "url": "http://i.stack.imgur.com/tKsDb.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_52"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_36", 
+            "mimeType": "image/png", 
+            "originalResource": "download_4", 
+            "sentTime": 0.36506400000052963, 
+            "size": 259, 
+            "type": "resource", 
+            "url": "http://i.stack.imgur.com/tKsDb.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_52"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_37", 
+            "mimeType": "image/png", 
+            "originalResource": "download_4", 
+            "sentTime": 0.38337500000034197, 
+            "size": 259, 
+            "type": "resource", 
+            "url": "http://i.stack.imgur.com/tKsDb.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_52"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_38", 
+            "mimeType": "image/png", 
+            "originalResource": "download_4", 
+            "sentTime": 0.39773299999978917, 
+            "size": 259, 
+            "type": "resource", 
+            "url": "http://i.stack.imgur.com/tKsDb.png"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_23_0", 
+                "comp_52"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_14", 
+            "mimeType": "application/javascript", 
+            "sentTime": 0.4822759999997288, 
+            "size": 29899, 
+            "type": "resource", 
+            "url": "http://static.adzerk.net/ados.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_52"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_20", 
+            "mimeType": "image/gif", 
+            "sentTime": 0.9654220000002169, 
+            "size": 43, 
+            "type": "resource", 
+            "url": "http://engine.adzerk.net/i.gif?e=eyJhdiI6NDE0LCJhdCI6MTcsImJ0IjowLCJjbSI6MTIwOCwiY2giOjExNzgsImNyIjoyNjg4LCJkaSI6IjljYzA0NDhjN2NjNzRjYzZiMGY5NzUyNjJiMGJmZWQ2IiwiZG0iOjEsImZjIjo0NzMyLCJmbCI6MzQwOCwiaXAiOiI5MC4xOTMuMjM0LjE3NiIsIm53IjoyMiwicGMiOjAsInByIjo2MTczNywicnQiOjEsInN0Ijo4Mjc3LCJ1ayI6InVlMS0xODhhZDFjYzRkZmM0NjEyYmNmMDcwZTA5NTI1MTlkYyIsInpuIjo0NSwidHMiOjE0MzYxMjkwMjg3NzYsImJmIjp0cnVlLCJwbiI6ImFkemVyazE1MzcxMTA4OTEifQ&s=dpSOtfDiHQDC9eorEEdWmZ6IfIc"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_52"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_11", 
+            "mimeType": "image/png", 
+            "sentTime": 0.4009809999997742, 
+            "size": 50604, 
+            "type": "resource", 
+            "url": "http://cdn.sstatic.net/img/favicons-sprite16.png?v=8337d488b4496d6160783b8943d43836"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_1"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "enclosing": "None", 
+            "endTime": 0.2426000000004933, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_0", 
+            "startTime": 0.19936299999972107, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_2"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "enclosing": "None", 
+            "endTime": 0.27163300000029267, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_1", 
+            "startTime": 0.2662110000001121, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "http://cdn.sstatic.net/Js/stub.en.js?v=54797a79194d"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "comp_3"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "enclosing": "None", 
+            "endTime": 0.3049170000003869, 
+            "evalType": "recalcStyle", 
+            "frame": 0, 
+            "id": "comp_2", 
+            "startTime": 0.2921010000000024, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "http://cdn.sstatic.net/stackoverflow/all.css?v=00635778dbde"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_4"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "enclosing": "None", 
+            "endTime": 0.3075150000004214, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_3", 
+            "startTime": 0.3049220000002606, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_5"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "enclosing": "None", 
+            "endTime": 0.30765900000005786, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_4", 
+            "startTime": 0.30757900000025984, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_8"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "enclosing": "None", 
+            "endTime": 0.31066499999997177, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_5", 
+            "startTime": 0.31056400000034046, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_11"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "enclosing": "None", 
+            "endTime": 0.31516400000055, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_6", 
+            "startTime": 0.3121980000005351, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_12"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "enclosing": "None", 
+            "endTime": 0.3153019999999742, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_7", 
+            "startTime": 0.31524200000058045, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_27"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "enclosing": "None", 
+            "endTime": 0.3984740000005331, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_8", 
+            "startTime": 0.39832100000057835, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_28"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "enclosing": "None", 
+            "endTime": 0.39869199999975535, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_9", 
+            "startTime": 0.39857300000039686, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_29", 
+                "comp_15"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "enclosing": "None", 
+            "endTime": 0.4006120000003648, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_10", 
+            "startTime": 0.3989019999999073, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_14", 
+                "comp_11_1"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "enclosing": "comp_11", 
+            "endTime": 0.4818169999998645, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_11_0", 
+            "startTime": 0.4814519999999902, 
+            "subtree": "subtree_comp_11", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_32"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "enclosing": "comp_11", 
+            "endTime": 0.482387000000017, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_11_1", 
+            "startTime": 0.4818169999998645, 
+            "subtree": "subtree_comp_11", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_33"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "enclosing": "None", 
+            "endTime": 0.48256599999967875, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_12", 
+            "startTime": 0.4824740000003658, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_40", 
+                "comp_13_1"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "enclosing": "comp_13", 
+            "endTime": 0.4831770000000688, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_13_0", 
+            "startTime": 0.48289199999999255, 
+            "subtree": "subtree_comp_13", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_12", 
+                "comp_13_2"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "enclosing": "comp_13", 
+            "endTime": 0.4834399999999732, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_13_1", 
+            "startTime": 0.4831770000000688, 
+            "subtree": "subtree_comp_13", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_41", 
+                "comp_13_3"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "enclosing": "comp_13", 
+            "endTime": 0.48365800000010495, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_13_2", 
+            "startTime": 0.4834399999999732, 
+            "subtree": "subtree_comp_13", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_34"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "enclosing": "comp_13", 
+            "endTime": 0.483766000000287, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_13_3", 
+            "startTime": 0.48365800000010495, 
+            "subtree": "subtree_comp_13", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_13", 
+                "comp_14_1"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "enclosing": "comp_14", 
+            "endTime": 0.49927800000023126, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_14_0", 
+            "name": "DOMContentLoaded", 
+            "startTime": 0.48425399999996444, 
+            "subtree": "subtree_comp_14", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_52"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "enclosing": "comp_14", 
+            "endTime": 0.5028769999998985, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_14_1", 
+            "name": "DOMContentLoaded", 
+            "startTime": 0.49927800000023126, 
+            "subtree": "subtree_comp_14", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_18"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "enclosing": "None", 
+            "endTime": 0.5207760000002963, 
+            "evalType": "timer", 
+            "frame": 0, 
+            "id": "comp_15", 
+            "mode": "load", 
+            "startTime": 0.5197760000000926, 
+            "subtree": "None", 
+            "timeout": 20, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_15", 
+                "comp_16_1"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "enclosing": "comp_16", 
+            "endTime": 0.5470439999999144, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_16_0", 
+            "startTime": 0.5207840000002761, 
+            "subtree": "subtree_comp_16", 
+            "type": "eval", 
+            "url": "http://www.google-analytics.com/analytics.js"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [], 
+            "docUrl": "http://stackoverflow.com/", 
+            "enclosing": "comp_16", 
+            "endTime": 0.5477049999999508, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_16_1", 
+            "startTime": 0.5470439999999144, 
+            "subtree": "subtree_comp_16", 
+            "type": "eval", 
+            "url": "http://www.google-analytics.com/analytics.js"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_18", 
+                "comp_17_1"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "enclosing": "comp_17", 
+            "endTime": 0.5494770000004792, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_17_0", 
+            "startTime": 0.5477410000003147, 
+            "subtree": "subtree_comp_17", 
+            "type": "eval", 
+            "url": "http://b.scorecardresearch.com/beacon.js"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [], 
+            "docUrl": "http://stackoverflow.com/", 
+            "enclosing": "comp_17", 
+            "endTime": 0.5496730000004391, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_17_1", 
+            "startTime": 0.5494770000004792, 
+            "subtree": "subtree_comp_17", 
+            "type": "eval", 
+            "url": "http://b.scorecardresearch.com/beacon.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_22"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "enclosing": "None", 
+            "endTime": 0.5587729999997464, 
+            "evalType": "timer", 
+            "frame": 0, 
+            "id": "comp_18", 
+            "mode": "load", 
+            "startTime": 0.5577229999998963, 
+            "subtree": "None", 
+            "timeout": 20, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_19", 
+                "comp_19_1"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "enclosing": "comp_19", 
+            "endTime": 0.5643500000005588, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_19_0", 
+            "startTime": 0.5588070000003427, 
+            "subtree": "subtree_comp_19", 
+            "type": "eval", 
+            "url": "http://edge.quantserve.com/quant.js"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [], 
+            "docUrl": "http://stackoverflow.com/", 
+            "enclosing": "comp_19", 
+            "endTime": 0.5645370000002004, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_19_1", 
+            "startTime": 0.5643500000005588, 
+            "subtree": "subtree_comp_19", 
+            "type": "eval", 
+            "url": "http://edge.quantserve.com/quant.js"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [], 
+            "docUrl": "http://stackoverflow.com/", 
+            "enclosing": "None", 
+            "endTime": 0.5781680000000051, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_20", 
+            "startTime": 0.5645599999998012, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "http://cdn.sstatic.net/Js/full-anon.en.js?v=0ae718390f1f"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_16", 
+                "comp_21_1"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "enclosing": "comp_21", 
+            "endTime": 0.5922179999997752, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_21_0", 
+            "name": "load", 
+            "startTime": 0.5781800000004296, 
+            "subtree": "subtree_comp_21", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_56_0"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "enclosing": "comp_21", 
+            "endTime": 0.6084940000000643, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_21_1", 
+            "name": "load", 
+            "startTime": 0.5922179999997752, 
+            "subtree": "subtree_comp_21", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_25"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "enclosing": "None", 
+            "endTime": 0.6112410000005184, 
+            "evalType": "timer", 
+            "frame": 0, 
+            "id": "comp_22", 
+            "mode": "load", 
+            "startTime": 0.6100349999996979, 
+            "subtree": "None", 
+            "timeout": 20, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_17", 
+                "comp_23_1"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "enclosing": "comp_23", 
+            "endTime": 0.6187490000002072, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_23_0", 
+            "startTime": 0.6112739999998666, 
+            "subtree": "subtree_comp_23", 
+            "type": "eval", 
+            "url": "http://static.adzerk.net/ados.js"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [], 
+            "docUrl": "http://stackoverflow.com/", 
+            "enclosing": "comp_23", 
+            "endTime": 0.6190180000003238, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_23_1", 
+            "startTime": 0.6187490000002072, 
+            "subtree": "subtree_comp_23", 
+            "type": "eval", 
+            "url": "http://static.adzerk.net/ados.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://stackoverflow.com/", 
+            "enclosing": "None", 
+            "endTime": 0.6191420000004655, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_24", 
+            "name": "load", 
+            "startTime": 0.6190520000000106, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_26"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "enclosing": "None", 
+            "endTime": 0.6327909999999974, 
+            "evalType": "timer", 
+            "frame": 0, 
+            "id": "comp_25", 
+            "mode": "load", 
+            "startTime": 0.6315420000000813, 
+            "subtree": "None", 
+            "timeout": 20, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_27"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "enclosing": "None", 
+            "endTime": 0.6550660000002608, 
+            "evalType": "timer", 
+            "frame": 0, 
+            "id": "comp_26", 
+            "mode": "load", 
+            "startTime": 0.653823999999986, 
+            "subtree": "None", 
+            "timeout": 20, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_28"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "enclosing": "None", 
+            "endTime": 0.6768190000002505, 
+            "evalType": "timer", 
+            "frame": 0, 
+            "id": "comp_27", 
+            "mode": "load", 
+            "startTime": 0.6754069999997228, 
+            "subtree": "None", 
+            "timeout": 20, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_29"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "enclosing": "None", 
+            "endTime": 0.6993540000003122, 
+            "evalType": "timer", 
+            "frame": 0, 
+            "id": "comp_28", 
+            "mode": "load", 
+            "startTime": 0.6982399999997142, 
+            "subtree": "None", 
+            "timeout": 20, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_30"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "enclosing": "None", 
+            "endTime": 0.7207900000003065, 
+            "evalType": "timer", 
+            "frame": 0, 
+            "id": "comp_29", 
+            "mode": "load", 
+            "startTime": 0.7195840000003955, 
+            "subtree": "None", 
+            "timeout": 20, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_31"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "enclosing": "None", 
+            "endTime": 0.7422200000000885, 
+            "evalType": "timer", 
+            "frame": 0, 
+            "id": "comp_30", 
+            "mode": "load", 
+            "startTime": 0.7410140000001775, 
+            "subtree": "None", 
+            "timeout": 20, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_32"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "enclosing": "None", 
+            "endTime": 0.7645220000003974, 
+            "evalType": "timer", 
+            "frame": 0, 
+            "id": "comp_31", 
+            "mode": "load", 
+            "startTime": 0.7633050000004005, 
+            "subtree": "None", 
+            "timeout": 20, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_36"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "enclosing": "None", 
+            "endTime": 0.7859969999999521, 
+            "evalType": "timer", 
+            "frame": 0, 
+            "id": "comp_32", 
+            "mode": "load", 
+            "startTime": 0.784867000000304, 
+            "subtree": "None", 
+            "timeout": 20, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_34"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "enclosing": "None", 
+            "endTime": 0.7979089999998905, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_33", 
+            "name": "readystatechange", 
+            "startTime": 0.7975640000004205, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_35_0"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "enclosing": "None", 
+            "endTime": 0.7979789999999412, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_34", 
+            "name": "readystatechange", 
+            "startTime": 0.7979420000001483, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_21", 
+                "comp_35_1"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "enclosing": "comp_35", 
+            "endTime": 0.799087000000327, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_35_0", 
+            "name": "readystatechange", 
+            "startTime": 0.7980930000003355, 
+            "subtree": "subtree_comp_35", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://stackoverflow.com/", 
+            "enclosing": "comp_35", 
+            "endTime": 0.8002550000001065, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_35_1", 
+            "name": "readystatechange", 
+            "startTime": 0.799087000000327, 
+            "subtree": "subtree_comp_35", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_37"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "enclosing": "None", 
+            "endTime": 0.8105740000000878, 
+            "evalType": "timer", 
+            "frame": 0, 
+            "id": "comp_36", 
+            "mode": "load", 
+            "startTime": 0.8094970000001922, 
+            "subtree": "None", 
+            "timeout": 20, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_38"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "enclosing": "None", 
+            "endTime": 0.8324020000000019, 
+            "evalType": "timer", 
+            "frame": 0, 
+            "id": "comp_37", 
+            "mode": "load", 
+            "startTime": 0.8309110000000146, 
+            "subtree": "None", 
+            "timeout": 20, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_41"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "enclosing": "None", 
+            "endTime": 0.8554240000003119, 
+            "evalType": "timer", 
+            "frame": 0, 
+            "id": "comp_38", 
+            "mode": "load", 
+            "startTime": 0.8533250000000407, 
+            "subtree": "None", 
+            "timeout": 20, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "comp_45_0"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "enclosing": "None", 
+            "endTime": 0.8614269999998214, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_39", 
+            "startTime": 0.8612309999998615, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "http://engine.adzerk.net/ados?t=1436129029223&request={%22Placements%22:[{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk1537110891%22,%22ATA%22:[17,2221],%22Z%22:45}],%22Keywords%22:%22undefined%22,%22Referrer%22:%22%22,%22IsAsync%22:true}"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://stackoverflow.com/", 
+            "enclosing": "None", 
+            "endTime": 0.8659340000003795, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_40", 
+            "name": "error", 
+            "startTime": 0.86572200000046, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_42"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "enclosing": "None", 
+            "endTime": 0.8787950000005367, 
+            "evalType": "timer", 
+            "frame": 0, 
+            "id": "comp_41", 
+            "mode": "load", 
+            "startTime": 0.8776550000002317, 
+            "subtree": "None", 
+            "timeout": 20, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_43"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "enclosing": "None", 
+            "endTime": 0.9012490000004618, 
+            "evalType": "timer", 
+            "frame": 0, 
+            "id": "comp_42", 
+            "mode": "load", 
+            "startTime": 0.9001029999999446, 
+            "subtree": "None", 
+            "timeout": 20, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_44"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "enclosing": "None", 
+            "endTime": 0.9247050000003583, 
+            "evalType": "timer", 
+            "frame": 0, 
+            "id": "comp_43", 
+            "mode": "load", 
+            "startTime": 0.9217570000000705, 
+            "subtree": "None", 
+            "timeout": 20, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_46_0"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "enclosing": "None", 
+            "endTime": 0.9452719999999317, 
+            "evalType": "timer", 
+            "frame": 0, 
+            "id": "comp_44", 
+            "mode": "load", 
+            "startTime": 0.9440560000002733, 
+            "subtree": "None", 
+            "timeout": 20, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_20", 
+                "comp_45_1"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "enclosing": "comp_45", 
+            "endTime": 0.9652450000003228, 
+            "evalType": "timer", 
+            "frame": 0, 
+            "id": "comp_45_0", 
+            "mode": "load", 
+            "startTime": 0.9643660000001546, 
+            "subtree": "subtree_comp_45", 
+            "timeout": 100, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://stackoverflow.com/", 
+            "enclosing": "comp_45", 
+            "endTime": 0.9668039999996836, 
+            "evalType": "timer", 
+            "frame": 0, 
+            "id": "comp_45_1", 
+            "mode": "load", 
+            "startTime": 0.9652450000003228, 
+            "subtree": "subtree_comp_45", 
+            "timeout": 100, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_22", 
+                "comp_46_1"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "enclosing": "comp_46", 
+            "endTime": 0.9688960000003135, 
+            "evalType": "timer", 
+            "frame": 0, 
+            "id": "comp_46_0", 
+            "mode": "load", 
+            "startTime": 0.9668510000001334, 
+            "subtree": "subtree_comp_46", 
+            "timeout": 20, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://stackoverflow.com/", 
+            "enclosing": "comp_46", 
+            "endTime": 0.969188000000031, 
+            "evalType": "timer", 
+            "frame": 0, 
+            "id": "comp_46_1", 
+            "mode": "load", 
+            "startTime": 0.9688960000003135, 
+            "subtree": "subtree_comp_46", 
+            "timeout": 20, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://stackoverflow.com/", 
+            "enclosing": "None", 
+            "endTime": 0.9737949999998818, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_47", 
+            "name": "load", 
+            "startTime": 0.9734479999997347, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_1_1"
+            ], 
+            "docUrl": "https://stackauth.com/auth/global/read?request=MzziRTNbnkWIz8tQQn2B8I8WHxHMSgr%2Bw7MUKPxT5U1FtcdWYrxauk8CM2gpJlE%2BKNqcRiO6ltzycsdr4dM51w%3D%3D&nonce=BJeZVQAAAAA91GkqdYhdzQ%3D%3D", 
+            "enclosing": "None", 
+            "endTime": 1.1874779999998282, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_48", 
+            "startTime": 1.1843280000002778, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_23", 
+                "comp_50_1"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "enclosing": "comp_50", 
+            "endTime": 1.1974280000004, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_50_0", 
+            "startTime": 1.1961510000000999, 
+            "subtree": "subtree_comp_50", 
+            "type": "eval", 
+            "url": "http://clc.stackoverflow.com/j/p?d=hireme&l=1&lw=569"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_24", 
+                "comp_50_2"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "enclosing": "comp_50", 
+            "endTime": 1.2013050000005023, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_50_1", 
+            "startTime": 1.1974280000004, 
+            "subtree": "subtree_comp_50", 
+            "type": "eval", 
+            "url": "http://clc.stackoverflow.com/j/p?d=hireme&l=1&lw=569"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://stackoverflow.com/", 
+            "enclosing": "comp_50", 
+            "endTime": 1.2016240000002654, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_50_2", 
+            "startTime": 1.2013050000005023, 
+            "subtree": "subtree_comp_50", 
+            "type": "eval", 
+            "url": "http://clc.stackoverflow.com/j/p?d=hireme&l=1&lw=569"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [], 
+            "docUrl": "http://stackoverflow.com/", 
+            "enclosing": "None", 
+            "endTime": 1.2304979999998977, 
+            "evalType": "recalcStyle", 
+            "frame": 0, 
+            "id": "comp_51", 
+            "startTime": 1.2240289999999732, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "http://cdn.sstatic.net/clc/styles/jobs.min.css?v=f811b4704c4c"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://stackoverflow.com/", 
+            "enclosing": "None", 
+            "endTime": 1.3020670000005339, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_52", 
+            "name": "load", 
+            "startTime": 1.3008639999998195, 
+            "subtree": "None", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_25", 
+                "comp_56_1"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "enclosing": "comp_56", 
+            "endTime": 10.588920000000144, 
+            "evalType": "timer", 
+            "frame": 0, 
+            "id": "comp_56_0", 
+            "mode": "end", 
+            "startTime": 10.586903999999777, 
+            "subtree": "subtree_comp_56", 
+            "timeout": 10000, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://stackoverflow.com/", 
+            "enclosing": "comp_56", 
+            "endTime": 10.589090000000397, 
+            "evalType": "timer", 
+            "frame": 0, 
+            "id": "comp_56_1", 
+            "mode": "end", 
+            "startTime": 10.588920000000144, 
+            "subtree": "subtree_comp_56", 
+            "timeout": 10000, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_58"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "enclosing": "None", 
+            "endTime": 10.685500000000502, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_57", 
+            "name": "readystatechange", 
+            "startTime": 10.685418000000027, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://stackoverflow.com/", 
+            "enclosing": "None", 
+            "endTime": 10.689752000000226, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_58", 
+            "name": "readystatechange", 
+            "startTime": 10.68551800000023, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "children": [
+                "download_1", 
+                "pchunk_0_1"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "endColumn": 86, 
+            "endRow": 18, 
+            "endTag": "script", 
+            "endTime": 0.1930179999990287, 
+            "frame": 0, 
+            "id": "pchunk_0_0", 
+            "isFragment": false, 
+            "startColumn": 6, 
+            "startRow": 1, 
+            "startTag": "html", 
+            "startTime": 0.19268600000032166, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_2", 
+                "pchunk_0_2"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "endColumn": 74, 
+            "endRow": 19, 
+            "endTag": "script", 
+            "endTime": 0.24265900000045804, 
+            "frame": 0, 
+            "id": "pchunk_0_1", 
+            "isFragment": false, 
+            "startColumn": 65, 
+            "startRow": 19, 
+            "startTag": "script", 
+            "startTime": 0.24262199999975564, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_3", 
+                "pchunk_0_3"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "endColumn": 105, 
+            "endRow": 20, 
+            "endTag": "link", 
+            "endTime": 0.2717259999999442, 
+            "frame": 0, 
+            "id": "pchunk_0_2", 
+            "isFragment": false, 
+            "startColumn": 105, 
+            "startRow": 20, 
+            "startTag": "link", 
+            "startTime": 0.27165400000012596, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_4", 
+                "comp_3"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "endColumn": 13, 
+            "endRow": 31, 
+            "endTag": "script", 
+            "endTime": 0.271761000000879, 
+            "frame": 0, 
+            "id": "pchunk_0_3", 
+            "isFragment": false, 
+            "startColumn": 101, 
+            "startRow": 22, 
+            "startTag": "link", 
+            "startTime": 0.27173300000049494, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_5", 
+                "comp_4"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "endColumn": 17, 
+            "endRow": 41, 
+            "endTag": "script", 
+            "endTime": 0.3075600000011036, 
+            "frame": 0, 
+            "id": "pchunk_0_4", 
+            "isFragment": false, 
+            "startColumn": 16, 
+            "startRow": 33, 
+            "startTag": "script", 
+            "startTime": 0.3075360000002547, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_6", 
+                "pchunk_0_6"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "endColumn": 62, 
+            "endRow": 150, 
+            "endTag": "a", 
+            "endTime": 0.30865199999789183, 
+            "frame": 0, 
+            "id": "pchunk_0_5", 
+            "isFragment": false, 
+            "startColumn": 7, 
+            "startRow": 44, 
+            "startTag": "head", 
+            "startTime": 0.3076710000004823, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_28", 
+                "pchunk_0_7"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "endColumn": 128, 
+            "endRow": 205, 
+            "endTag": "input", 
+            "endTime": 0.31007900000258815, 
+            "frame": 0, 
+            "id": "pchunk_0_6", 
+            "isFragment": false, 
+            "startColumn": 42, 
+            "startRow": 151, 
+            "startTag": "span", 
+            "startTime": 0.3092240000005404, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_8", 
+                "comp_5"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "endColumn": 13, 
+            "endRow": 214, 
+            "endTag": "script", 
+            "endTime": 0.3105150000010326, 
+            "frame": 0, 
+            "id": "pchunk_0_7", 
+            "isFragment": false, 
+            "startColumn": 23, 
+            "startRow": 206, 
+            "startTag": "form", 
+            "startTime": 0.31047099999977945, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_5", 
+                "pchunk_0_9"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "endColumn": 29, 
+            "endRow": 220, 
+            "endTag": "a", 
+            "endTime": 0.3108510000001843, 
+            "frame": 0, 
+            "id": "pchunk_0_8", 
+            "isFragment": false, 
+            "startColumn": 27, 
+            "startRow": 216, 
+            "startTag": "div", 
+            "startTime": 0.3106809999999314, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_8", 
+                "pchunk_0_10"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "endColumn": 27, 
+            "endRow": 262, 
+            "endTag": "li", 
+            "endTime": 0.31163699999979144, 
+            "frame": 0, 
+            "id": "pchunk_0_9", 
+            "isFragment": false, 
+            "startColumn": 20, 
+            "startRow": 222, 
+            "startTag": "a", 
+            "startTime": 0.3108970000002955, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_11", 
+                "comp_6"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "endColumn": 13, 
+            "endRow": 301, 
+            "endTag": "script", 
+            "endTime": 0.3121080000018992, 
+            "frame": 0, 
+            "id": "pchunk_0_10", 
+            "isFragment": false, 
+            "startColumn": 21, 
+            "startRow": 263, 
+            "startTag": "li", 
+            "startTime": 0.31199000000015076, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_12", 
+                "comp_7"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "endColumn": 13, 
+            "endRow": 307, 
+            "endTag": "script", 
+            "endTime": 0.31522299999960524, 
+            "frame": 0, 
+            "id": "pchunk_0_11", 
+            "isFragment": false, 
+            "startColumn": 6, 
+            "startRow": 302, 
+            "startTag": "div", 
+            "startTime": 0.31519699999989825, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_4", 
+                "pchunk_0_13"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "endColumn": 218, 
+            "endRow": 426, 
+            "endTag": "img", 
+            "endTime": 0.31736100000489387, 
+            "frame": 0, 
+            "id": "pchunk_0_12", 
+            "isFragment": false, 
+            "startColumn": 18, 
+            "startRow": 308, 
+            "startTag": "div", 
+            "startTime": 0.31531300000006013, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_29", 
+                "pchunk_0_14"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "endColumn": 332, 
+            "endRow": 744, 
+            "endTag": "img", 
+            "endTime": 0.3226019999865457, 
+            "frame": 0, 
+            "id": "pchunk_0_13", 
+            "isFragment": false, 
+            "startColumn": 229, 
+            "startRow": 426, 
+            "startTag": "a", 
+            "startTime": 0.3183870000002571, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_30", 
+                "pchunk_0_15"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "endColumn": 218, 
+            "endRow": 1196, 
+            "endTag": "img", 
+            "endTime": 0.33452999999826716, 
+            "frame": 0, 
+            "id": "pchunk_0_14", 
+            "isFragment": false, 
+            "startColumn": 343, 
+            "startRow": 744, 
+            "startTag": "a", 
+            "startTime": 0.3254910000005111, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_31", 
+                "pchunk_0_16"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "endColumn": 218, 
+            "endRow": 1342, 
+            "endTag": "img", 
+            "endTime": 0.34028299999135925, 
+            "frame": 0, 
+            "id": "pchunk_0_15", 
+            "isFragment": false, 
+            "startColumn": 229, 
+            "startRow": 1196, 
+            "startTag": "a", 
+            "startTime": 0.33857499999976426, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_10", 
+                "pchunk_0_17"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "endColumn": 240, 
+            "endRow": 1446, 
+            "endTag": "img", 
+            "endTime": 0.3431449999925462, 
+            "frame": 0, 
+            "id": "pchunk_0_16", 
+            "isFragment": false, 
+            "startColumn": 229, 
+            "startRow": 1342, 
+            "startTag": "a", 
+            "startTime": 0.3415210000002844, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_32", 
+                "pchunk_0_18"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "endColumn": 218, 
+            "endRow": 1553, 
+            "endTag": "img", 
+            "endTime": 0.3457350000007864, 
+            "frame": 0, 
+            "id": "pchunk_0_17", 
+            "isFragment": false, 
+            "startColumn": 262, 
+            "startRow": 1446, 
+            "startTag": "a", 
+            "startTime": 0.3441419999999198, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_33", 
+                "pchunk_0_19"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "endColumn": 218, 
+            "endRow": 1663, 
+            "endTag": "img", 
+            "endTime": 0.3485830000026908, 
+            "frame": 0, 
+            "id": "pchunk_0_18", 
+            "isFragment": false, 
+            "startColumn": 229, 
+            "startRow": 1553, 
+            "startTag": "a", 
+            "startTime": 0.34725799999978335, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_34", 
+                "pchunk_0_20"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "endColumn": 218, 
+            "endRow": 1872, 
+            "endTag": "img", 
+            "endTime": 0.35286799999448704, 
+            "frame": 0, 
+            "id": "pchunk_0_19", 
+            "isFragment": false, 
+            "startColumn": 229, 
+            "startRow": 1663, 
+            "startTag": "a", 
+            "startTime": 0.34942599999976665, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_35", 
+                "pchunk_0_21"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "endColumn": 218, 
+            "endRow": 1906, 
+            "endTag": "img", 
+            "endTime": 0.355877000005421, 
+            "frame": 0, 
+            "id": "pchunk_0_20", 
+            "isFragment": false, 
+            "startColumn": 229, 
+            "startRow": 1872, 
+            "startTag": "a", 
+            "startTime": 0.3552529999997205, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_36", 
+                "pchunk_0_22"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "endColumn": 218, 
+            "endRow": 2320, 
+            "endTag": "img", 
+            "endTime": 0.3615489999883721, 
+            "frame": 0, 
+            "id": "pchunk_0_21", 
+            "isFragment": false, 
+            "startColumn": 229, 
+            "startRow": 1906, 
+            "startTag": "a", 
+            "startTime": 0.3562240000001111, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_7", 
+                "pchunk_0_23"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "endColumn": 339, 
+            "endRow": 3099, 
+            "endTag": "img", 
+            "endTime": 0.37425200000507175, 
+            "frame": 0, 
+            "id": "pchunk_0_22", 
+            "isFragment": false, 
+            "startColumn": 229, 
+            "startRow": 2320, 
+            "startTag": "a", 
+            "startTime": 0.36508800000046904, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_37", 
+                "pchunk_0_24"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "endColumn": 218, 
+            "endRow": 3206, 
+            "endTag": "img", 
+            "endTime": 0.3823979999997391, 
+            "frame": 0, 
+            "id": "pchunk_0_23", 
+            "isFragment": false, 
+            "startColumn": 349, 
+            "startRow": 3099, 
+            "startTag": "a", 
+            "startTime": 0.3810380000004443, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_38", 
+                "pchunk_0_25"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "endColumn": 218, 
+            "endRow": 3700, 
+            "endTag": "img", 
+            "endTime": 0.3916009999829839, 
+            "frame": 0, 
+            "id": "pchunk_0_24", 
+            "isFragment": false, 
+            "startColumn": 229, 
+            "startRow": 3206, 
+            "startTag": "a", 
+            "startTime": 0.38340100000004895, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_9", 
+                "pchunk_0_26"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "endColumn": 432, 
+            "endRow": 3700, 
+            "endTag": "img", 
+            "endTime": 0.39786500000082015, 
+            "frame": 0, 
+            "id": "pchunk_0_25", 
+            "isFragment": false, 
+            "startColumn": 229, 
+            "startRow": 3700, 
+            "startTag": "a", 
+            "startTime": 0.3977610000001732, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_27", 
+                "comp_8"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "endColumn": 9, 
+            "endRow": 3715, 
+            "endTag": "script", 
+            "endTime": 0.39812899999469664, 
+            "frame": 0, 
+            "id": "pchunk_0_26", 
+            "isFragment": false, 
+            "startColumn": 441, 
+            "startRow": 3700, 
+            "startTag": "a", 
+            "startTime": 0.39788399999997637, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_28", 
+                "comp_9"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "endColumn": 21, 
+            "endRow": 3721, 
+            "endTag": "script", 
+            "endTime": 0.39853800000037154, 
+            "frame": 0, 
+            "id": "pchunk_0_27", 
+            "isFragment": false, 
+            "startColumn": 15, 
+            "startRow": 3715, 
+            "startTag": "div", 
+            "startTime": 0.3984790000004068, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_29", 
+                "comp_10"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "endColumn": 1709, 
+            "endRow": 3726, 
+            "endTag": "script", 
+            "endTime": 0.39885299999968993, 
+            "frame": 0, 
+            "id": "pchunk_0_28", 
+            "isFragment": false, 
+            "startColumn": 74, 
+            "startRow": 3722, 
+            "startTag": "div", 
+            "startTime": 0.3987059999999474, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_11", 
+                "pchunk_0_30"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "endColumn": 105, 
+            "endRow": 3739, 
+            "endTag": "div", 
+            "endTime": 0.4008930000018154, 
+            "frame": 0, 
+            "id": "pchunk_0_29", 
+            "isFragment": false, 
+            "startColumn": 14, 
+            "startRow": 3727, 
+            "startTag": "div", 
+            "startTime": 0.40062699999998586, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_39", 
+                "pchunk_0_31"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "endColumn": 36, 
+            "endRow": 3896, 
+            "endTag": "span", 
+            "endTime": 0.40267199999561853, 
+            "frame": 0, 
+            "id": "pchunk_0_30", 
+            "isFragment": false, 
+            "startColumn": 111, 
+            "startRow": 3739, 
+            "startTag": "div", 
+            "startTime": 0.4009990000004109, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_32", 
+                "comp_11_0"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "endColumn": 336, 
+            "endRow": 4052, 
+            "endTag": "script", 
+            "endTime": 0.47943999999188236, 
+            "frame": 0, 
+            "id": "pchunk_0_31", 
+            "isFragment": false, 
+            "startColumn": 43, 
+            "startRow": 3896, 
+            "startTag": "span", 
+            "startTime": 0.4762350000000879, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_33", 
+                "comp_12"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "endColumn": 9, 
+            "endRow": 4057, 
+            "endTag": "script", 
+            "endTime": 0.48245700000006764, 
+            "frame": 0, 
+            "id": "pchunk_0_32", 
+            "isFragment": false, 
+            "startColumn": 8, 
+            "startRow": 4053, 
+            "startTag": "script", 
+            "startTime": 0.48240400000031514, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_34", 
+                "comp_13_0"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "endColumn": 13, 
+            "endRow": 4084, 
+            "endTag": "script", 
+            "endTime": 0.4825989999999365, 
+            "frame": 0, 
+            "id": "pchunk_0_33", 
+            "isFragment": false, 
+            "startColumn": 12, 
+            "startRow": 4059, 
+            "startTag": "script", 
+            "startTime": 0.4825799999998708, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "comp_14_0"
+            ], 
+            "docUrl": "http://stackoverflow.com/", 
+            "endColumn": 7, 
+            "endRow": 4086, 
+            "endTag": "html", 
+            "endTime": 0.4837999999999738, 
+            "frame": 0, 
+            "id": "pchunk_0_34", 
+            "isFragment": false, 
+            "startColumn": 11, 
+            "startRow": 4085, 
+            "startTag": "body", 
+            "startTime": 0.48378500000035274, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_0", 
+                "dchunk_0_1"
+            ], 
+            "id": "dchunk_0_0", 
+            "offset": 23, 
+            "resource": "download_0", 
+            "size": 1131, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_1", 
+                "dchunk_0_2"
+            ], 
+            "id": "dchunk_0_1", 
+            "offset": 1154, 
+            "resource": "download_0", 
+            "size": 9, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_2", 
+                "dchunk_0_3"
+            ], 
+            "id": "dchunk_0_2", 
+            "offset": 1163, 
+            "resource": "download_0", 
+            "size": 0, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_3", 
+                "dchunk_0_4"
+            ], 
+            "id": "dchunk_0_3", 
+            "offset": 1163, 
+            "resource": "download_0", 
+            "size": 1815, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_4", 
+                "dchunk_0_5"
+            ], 
+            "id": "dchunk_0_4", 
+            "offset": 2978, 
+            "resource": "download_0", 
+            "size": 356, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_5", 
+                "dchunk_0_6"
+            ], 
+            "id": "dchunk_0_5", 
+            "offset": 3334, 
+            "resource": "download_0", 
+            "size": 3856, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_6", 
+                "dchunk_0_7"
+            ], 
+            "id": "dchunk_0_6", 
+            "offset": 7190, 
+            "resource": "download_0", 
+            "size": 2618, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_7", 
+                "dchunk_0_8"
+            ], 
+            "id": "dchunk_0_7", 
+            "offset": 9808, 
+            "resource": "download_0", 
+            "size": 162, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_8", 
+                "dchunk_0_9"
+            ], 
+            "id": "dchunk_0_8", 
+            "offset": 9970, 
+            "resource": "download_0", 
+            "size": 118, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_9", 
+                "dchunk_0_10"
+            ], 
+            "id": "dchunk_0_9", 
+            "offset": 10088, 
+            "resource": "download_0", 
+            "size": 1546, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_10", 
+                "dchunk_0_11"
+            ], 
+            "id": "dchunk_0_10", 
+            "offset": 11634, 
+            "resource": "download_0", 
+            "size": 1470, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_11", 
+                "dchunk_0_12"
+            ], 
+            "id": "dchunk_0_11", 
+            "offset": 13104, 
+            "resource": "download_0", 
+            "size": 172, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_12", 
+                "dchunk_0_13"
+            ], 
+            "id": "dchunk_0_12", 
+            "offset": 13276, 
+            "resource": "download_0", 
+            "size": 6774, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_13", 
+                "dchunk_0_14"
+            ], 
+            "id": "dchunk_0_13", 
+            "offset": 20050, 
+            "resource": "download_0", 
+            "size": 17361, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_14", 
+                "dchunk_0_15"
+            ], 
+            "id": "dchunk_0_14", 
+            "offset": 37411, 
+            "resource": "download_0", 
+            "size": 26786, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_15", 
+                "dchunk_0_16"
+            ], 
+            "id": "dchunk_0_15", 
+            "offset": 64197, 
+            "resource": "download_0", 
+            "size": 8448, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_16", 
+                "dchunk_0_17"
+            ], 
+            "id": "dchunk_0_16", 
+            "offset": 72645, 
+            "resource": "download_0", 
+            "size": 6597, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_17", 
+                "dchunk_0_18"
+            ], 
+            "id": "dchunk_0_17", 
+            "offset": 79242, 
+            "resource": "download_0", 
+            "size": 6490, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_18", 
+                "dchunk_0_19"
+            ], 
+            "id": "dchunk_0_18", 
+            "offset": 85732, 
+            "resource": "download_0", 
+            "size": 6045, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_19", 
+                "dchunk_0_20"
+            ], 
+            "id": "dchunk_0_19", 
+            "offset": 91777, 
+            "resource": "download_0", 
+            "size": 12635, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_20", 
+                "dchunk_0_21"
+            ], 
+            "id": "dchunk_0_20", 
+            "offset": 104412, 
+            "resource": "download_0", 
+            "size": 2392, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_21", 
+                "dchunk_0_22"
+            ], 
+            "id": "dchunk_0_21", 
+            "offset": 106804, 
+            "resource": "download_0", 
+            "size": 23418, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_22", 
+                "dchunk_0_23"
+            ], 
+            "id": "dchunk_0_22", 
+            "offset": 130222, 
+            "resource": "download_0", 
+            "size": 46580, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_23", 
+                "dchunk_0_24"
+            ], 
+            "id": "dchunk_0_23", 
+            "offset": 176802, 
+            "resource": "download_0", 
+            "size": 6173, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_24", 
+                "dchunk_0_25"
+            ], 
+            "id": "dchunk_0_24", 
+            "offset": 182975, 
+            "resource": "download_0", 
+            "size": 29705, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_25", 
+                "dchunk_0_26"
+            ], 
+            "id": "dchunk_0_25", 
+            "offset": 212680, 
+            "resource": "download_0", 
+            "size": 203, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_26", 
+                "dchunk_0_27"
+            ], 
+            "id": "dchunk_0_26", 
+            "offset": 212883, 
+            "resource": "download_0", 
+            "size": 797, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_27", 
+                "dchunk_0_28"
+            ], 
+            "id": "dchunk_0_27", 
+            "offset": 213680, 
+            "resource": "download_0", 
+            "size": 269, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_28", 
+                "dchunk_0_29"
+            ], 
+            "id": "dchunk_0_28", 
+            "offset": 213949, 
+            "resource": "download_0", 
+            "size": 1780, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_29", 
+                "dchunk_0_30"
+            ], 
+            "id": "dchunk_0_29", 
+            "offset": 215729, 
+            "resource": "download_0", 
+            "size": 440, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_30", 
+                "dchunk_0_31"
+            ], 
+            "id": "dchunk_0_30", 
+            "offset": 216169, 
+            "resource": "download_0", 
+            "size": 12078, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_31", 
+                "dchunk_0_32"
+            ], 
+            "id": "dchunk_0_31", 
+            "offset": 228247, 
+            "resource": "download_0", 
+            "size": 11178, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_32", 
+                "dchunk_0_33"
+            ], 
+            "id": "dchunk_0_32", 
+            "offset": 239425, 
+            "resource": "download_0", 
+            "size": 132, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_33", 
+                "dchunk_0_34"
+            ], 
+            "id": "dchunk_0_33", 
+            "offset": 239557, 
+            "resource": "download_0", 
+            "size": 1300, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_34"
+            ], 
+            "id": "dchunk_0_34", 
+            "offset": 240857, 
+            "resource": "download_0", 
+            "size": 9, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_1", 
+                "comp_48"
+            ], 
+            "docUrl": "https://stackauth.com/auth/global/read?request=MzziRTNbnkWIz8tQQn2B8I8WHxHMSgr%2Bw7MUKPxT5U1FtcdWYrxauk8CM2gpJlE%2BKNqcRiO6ltzycsdr4dM51w%3D%3D&nonce=BJeZVQAAAAA91GkqdYhdzQ%3D%3D", 
+            "endColumn": 27, 
+            "endRow": 20, 
+            "endTag": "script", 
+            "endTime": 1.1842860000006112, 
+            "frame": 1, 
+            "id": "pchunk_1_0", 
+            "isFragment": false, 
+            "startColumn": 6, 
+            "startRow": 0, 
+            "startTag": "html", 
+            "startTime": 1.1841340000000855, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [], 
+            "docUrl": "https://stackauth.com/auth/global/read?request=MzziRTNbnkWIz8tQQn2B8I8WHxHMSgr%2Bw7MUKPxT5U1FtcdWYrxauk8CM2gpJlE%2BKNqcRiO6ltzycsdr4dM51w%3D%3D&nonce=BJeZVQAAAAA91GkqdYhdzQ%3D%3D", 
+            "endColumn": 45, 
+            "endRow": 21, 
+            "endTag": "html", 
+            "endTime": 1.1875610000006418, 
+            "frame": 1, 
+            "id": "pchunk_1_1", 
+            "isFragment": false, 
+            "startColumn": 25, 
+            "startRow": 21, 
+            "startTag": "head", 
+            "startTime": 1.1874930000003587, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_0", 
+                "dchunk_1_1"
+            ], 
+            "id": "dchunk_1_0", 
+            "offset": 6, 
+            "resource": "download_21", 
+            "size": 1200, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_1"
+            ], 
+            "id": "dchunk_1_1", 
+            "offset": 1206, 
+            "resource": "download_21", 
+            "size": 20, 
+            "type": "download_chunk"
+        }
+    ], 
+    "frames": [
+        {
+            "id": 0, 
+            "subframes": [
+                1
+            ], 
+            "url": "http://stackoverflow.com/"
+        }, 
+        {
+            "id": 1, 
+            "parent": 0, 
+            "subframes": [], 
+            "url": "https://stackauth.com/auth/global/read?request=MzziRTNbnkWIz8tQQn2B8I8WHxHMSgr%2Bw7MUKPxT5U1FtcdWYrxauk8CM2gpJlE%2BKNqcRiO6ltzycsdr4dM51w%3D%3D&nonce=BJeZVQAAAAA91GkqdYhdzQ%3D%3D"
+        }
+    ], 
+    "loadEvent": "comp_52", 
+    "name": "http://stackoverflow.com/", 
+    "root_activity": "download_0"
+}

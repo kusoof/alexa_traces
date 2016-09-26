@@ -1,0 +1,4689 @@
+{
+    "DOMContentLoadedEvent": "comp_20_0", 
+    "activities": [
+        {
+            "cached": true, 
+            "children": [
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_96", 
+            "mimeType": "text/plain", 
+            "originalResource": "download_41", 
+            "sentTime": 0.6681909999997515, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "http://diply.com/v2/assets/fonts/Raleway-Black.woff"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_26_0", 
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_25", 
+            "mimeType": "application/json", 
+            "sentTime": 0.7646469999999681, 
+            "size": 98388, 
+            "type": "resource", 
+            "url": "http://service-search.diply.com/api/v1/search/publishedarticles/mustread?pageSize=100&next=&locale=en"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_101", 
+            "mimeType": "text/plain", 
+            "originalResource": "download_41", 
+            "sentTime": 0.668217000000368, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "http://diply.com/v2/assets/fonts/Raleway-Bold.svg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "dchunk_0_0", 
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_47", 
+            "mimeType": "text/html", 
+            "sentTime": 1.6949530000001687, 
+            "size": 33477, 
+            "type": "resource", 
+            "url": "http://staticxx.facebook.com/connect/xd_arbiter/r/P5DLcu0KGJB.js?version=42#channel=f10f7d9e8&origin=http%3A%2F%2Fdiply.com"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_91", 
+            "mimeType": "text/plain", 
+            "originalResource": "download_41", 
+            "sentTime": 0.6681580000004033, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "http://diply.com/v2/assets/fonts/AvenirLTStd-Roman.ttf"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_89", 
+            "mimeType": "text/plain", 
+            "originalResource": "download_41", 
+            "sentTime": 0.6681479999997464, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "http://diply.com/v2/assets/fonts/AvenirLTStd-Heavy.svg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_68", 
+            "mimeType": "image/jpeg", 
+            "sentTime": 1.3187609999995402, 
+            "size": 316574, 
+            "type": "resource", 
+            "url": "http://cdns.diply.com/article-images/a/72c98ad6-b7ac-40d2-b3c9-830e3675c030_desktop.jpg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_39", 
+            "mimeType": "text/html", 
+            "sentTime": 1.4934720000001107, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "about:blank"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_40", 
+            "mimeType": "text/html", 
+            "sentTime": 1.4944900000000416, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "about:blank"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_110", 
+            "mimeType": "text/plain", 
+            "originalResource": "download_41", 
+            "sentTime": 0.6682789999995293, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "http://diply.com/v2/assets/fonts/Raleway-Regular.svg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_54", 
+            "mimeType": "image/jpeg", 
+            "sentTime": 1.3171849999998813, 
+            "size": 342211, 
+            "type": "resource", 
+            "url": "http://cdns.diply.com/article-images/a/af40323e-4630-45a7-9461-5cac32a102bd_desktop.jpg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_72", 
+            "mimeType": "image/png", 
+            "sentTime": 1.3191509999996924, 
+            "size": 371707, 
+            "type": "resource", 
+            "url": "http://cdns.diply.com/article-images/a/7605cba9-1ac6-4d77-8dc3-a12dc24bf662_desktop.png"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_65", 
+            "mimeType": "image/jpeg", 
+            "sentTime": 1.3185309999998935, 
+            "size": 93964, 
+            "type": "resource", 
+            "url": "http://cdns.diply.com/article-images/a/def66630-8b6c-404a-9461-7b098e17b98f_desktop.jpg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_30_0", 
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_18", 
+            "mimeType": "application/x-javascript", 
+            "sentTime": 0.7499939999997878, 
+            "size": 8046, 
+            "type": "resource", 
+            "url": "http://edge.quantserve.com/quant.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_18", 
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_13", 
+            "mimeType": "application/javascript", 
+            "sentTime": 0.7508330000000569, 
+            "size": 1307, 
+            "type": "resource", 
+            "url": "http://diply.com/v2/js/feed.min.js?v=CecCHE5jdugwvEWJIj9_qP-Pkh6f515ETY3Yuxc4Ycw"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_8", 
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_9", 
+            "mimeType": "text/css", 
+            "sentTime": 0.6665659999998752, 
+            "size": 260, 
+            "type": "resource", 
+            "url": "http://cdn.diply.com/resources/Fonts/Font-Arimo.css"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_33", 
+            "mimeType": "image/jpeg", 
+            "sentTime": 0.9778630000000703, 
+            "size": 322639, 
+            "type": "resource", 
+            "url": "http://cdns.diply.com/article-images/a/808b58c8-97a6-4c8f-bb5a-2f0c72f3d501_desktop.jpg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_27_0", 
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_27", 
+            "mimeType": "application/json", 
+            "sentTime": 0.664400999999998, 
+            "size": 180, 
+            "type": "resource", 
+            "url": "http://service-auth.diply.com/api/v1/auth/view"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_17", 
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_14", 
+            "mimeType": "application/javascript", 
+            "sentTime": 0.750358999999662, 
+            "size": 841, 
+            "type": "resource", 
+            "url": "http://diply.com/v2/js/infiniteScroll.min.js?v=e206-L_f9ccjV7BDzcCjagSU7DEyG_OQTsmWukgQue8"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_111", 
+            "mimeType": "text/plain", 
+            "originalResource": "download_41", 
+            "sentTime": 0.6682840000003125, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "http://diply.com/v2/assets/fonts/Raleway-Thin.woff"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_66", 
+            "mimeType": "image/jpeg", 
+            "sentTime": 1.317692999999963, 
+            "size": 118134, 
+            "type": "resource", 
+            "url": "http://cdns.diply.com/article-images/a/8286bd4d-faa1-4cc4-bdc9-4637af333689_desktop.jpg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_63", 
+            "mimeType": "image/jpeg", 
+            "sentTime": 1.318224999999984, 
+            "size": 275970, 
+            "type": "resource", 
+            "url": "http://cdns.diply.com/article-images/a/787f877e-2e24-4d2a-9d8b-f3c788cce421_desktop.jpg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_14_0", 
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_12", 
+            "mimeType": "application/javascript", 
+            "sentTime": 0.7448750000003201, 
+            "size": 2141, 
+            "type": "resource", 
+            "url": "http://diply.com/v2/js/site.min.js?v=iOIEGW-ejdFZIz4l94EcmWyX5ph-91gs8L91X1qxieg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_75", 
+            "mimeType": "image/jpeg", 
+            "sentTime": 1.3192680000001928, 
+            "size": 203704, 
+            "type": "resource", 
+            "url": "http://cdns.diply.com/article-images/a/e0d47376-c54b-406d-b8c9-f73c2d0205b1_desktop.jpg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_12", 
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_11", 
+            "mimeType": "application/javascript", 
+            "sentTime": 0.6820479999996678, 
+            "size": 6024, 
+            "type": "resource", 
+            "url": "http://diply.com/v2/js/jquery-lang.min.js?v=NsLlcNr40ger89zDt0hAglDgJ-5Lu-r6ddoEMmPS0Nw"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_95", 
+            "mimeType": "text/plain", 
+            "originalResource": "download_41", 
+            "sentTime": 0.6681859999998778, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "http://diply.com/v2/assets/fonts/AvenirLTStd-Medium.svg"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_107", 
+            "mimeType": "text/plain", 
+            "originalResource": "download_41", 
+            "sentTime": 0.668257999999696, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "http://diply.com/v2/assets/fonts/Raleway-Medium.svg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_36", 
+            "mimeType": "image/jpeg", 
+            "sentTime": 0.9782100000002174, 
+            "size": 171114, 
+            "type": "resource", 
+            "url": "http://cdns.diply.com/article-images/a/ebbb229e-dbb4-4c44-bcb5-5400b2175883_desktop.jpg"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_84", 
+            "mimeType": "text/plain", 
+            "originalResource": "download_41", 
+            "sentTime": 0.6681150000003981, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "http://diply.com/v2/assets/fonts/AvenirLTStd-Black.woff"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_7", 
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_1", 
+            "mimeType": "text/css", 
+            "sentTime": 0.6660240000001068, 
+            "size": 1851, 
+            "type": "resource", 
+            "url": "http://cdn.diply.com/resources/Fonts/Font-SourceSansPro.css"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_53", 
+            "mimeType": "application/x-font-woff", 
+            "sentTime": 1.6929549999995288, 
+            "size": 12540, 
+            "type": "resource", 
+            "url": "http://cdn.diply.com/resources/Fonts/Arimo.woff"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_109", 
+            "mimeType": "text/plain", 
+            "originalResource": "download_41", 
+            "sentTime": 0.6682730000002266, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "http://diply.com/v2/assets/fonts/Raleway-Regular.ttf"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_67", 
+            "mimeType": "image/jpeg", 
+            "sentTime": 1.3186459999997169, 
+            "size": 152177, 
+            "type": "resource", 
+            "url": "http://cdns.diply.com/article-images/a/7e9a2e63-18b7-4938-9741-ef8886b888bd_desktop.jpg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_29", 
+            "mimeType": "image/png", 
+            "sentTime": 0.9790469999998095, 
+            "size": 345275, 
+            "type": "resource", 
+            "url": "http://cdn.diply.com/article-images/a/a270065a-285d-412c-afa5-b6d955ef0957_desktop.png"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_9_0", 
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_6", 
+            "mimeType": "text/css", 
+            "sentTime": 0.6668460000000778, 
+            "size": 36210, 
+            "type": "resource", 
+            "url": "http://diply.com/v2/assets/css/home.min.css?v=pBw-2U0q9nePVAbKZ8UdRitbm59Xy-lag77kFCfVP1o"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_100", 
+            "mimeType": "text/plain", 
+            "originalResource": "download_41", 
+            "sentTime": 0.6682110000001558, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "http://diply.com/v2/assets/fonts/Raleway-Bold.ttf"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_3", 
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_7", 
+            "mimeType": "application/javascript", 
+            "sentTime": 0.5375139999996463, 
+            "size": 85593, 
+            "type": "resource", 
+            "url": "http://diply.com/v2/lib/jquery/dist/jquery.min.js?v=j6c60LlBesdfhh6eIu7si5Hwz2dWAEcWKhsf2-URb-I"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_92", 
+            "mimeType": "text/plain", 
+            "originalResource": "download_41", 
+            "sentTime": 0.6681689999995797, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "http://diply.com/v2/assets/fonts/AvenirLTStd-Roman.svg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_69", 
+            "mimeType": "image/gif", 
+            "sentTime": 1.3606019999997443, 
+            "size": 43, 
+            "type": "resource", 
+            "url": "https://d5nxst8fruw4z.cloudfront.net/atrk.gif?frame_height=811&frame_width=934&iframe=0&title=Diply&time=1474462613988&time_zone_offset=-60&screen_params=1440x900x24&java_enabled=1&cookie_enabled=1&ref_url=&host_url=http%3A%2F%2Fdiply.com%2F&random_number=10515758346&sess_cookie=37a1ec601574cd201e47fe3dd29&sess_cookie_flag=1&user_cookie=cd57c05e14e5ff99672f1f6cf17&user_cookie_flag=0&dynamic=true&domain=diply.com&account=PA4wi1asyr00gj&jsv=20130128&user_lang=en-GB"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_114", 
+            "mimeType": "text/plain", 
+            "originalResource": "download_41", 
+            "sentTime": 0.6683000000002721, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "http://diply.com/v2/assets/fonts/Gotham-Bold.woff"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_112", 
+            "mimeType": "text/plain", 
+            "originalResource": "download_41", 
+            "sentTime": 0.6682890000001862, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "http://diply.com/v2/assets/fonts/Raleway-Thin.ttf"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_70", 
+            "mimeType": "image/jpeg", 
+            "sentTime": 1.318956000000071, 
+            "size": 128887, 
+            "type": "resource", 
+            "url": "http://cdns.diply.com/article-images/a/28d4c54f-91e6-4f61-a8ae-112525ff8b4a_desktop.jpg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_64", 
+            "mimeType": "image/jpeg", 
+            "sentTime": 1.3183859999999186, 
+            "size": 237973, 
+            "type": "resource", 
+            "url": "http://cdns.diply.com/article-images/a/b0fc99dd-4461-4d39-a8a9-d7c19355ef76_desktop.jpg"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_94", 
+            "mimeType": "text/plain", 
+            "originalResource": "download_41", 
+            "sentTime": 0.6681799999996656, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "http://diply.com/v2/assets/fonts/AvenirLTStd-Medium.ttf"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_104", 
+            "mimeType": "text/plain", 
+            "originalResource": "download_41", 
+            "sentTime": 0.6682419999997364, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "http://diply.com/v2/assets/fonts/Raleway-Light.svg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_13", 
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_16", 
+            "mimeType": "application/javascript", 
+            "sentTime": 0.6838399999996909, 
+            "size": 72642, 
+            "type": "resource", 
+            "url": "http://diply.com/v2/lib/handlebars/handlebars.min.js?v=ZEqxqq_o82eD92_4Ax0e73bly3jOIu3qqWi7dxogn3c"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_74_0", 
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_31", 
+            "mimeType": "application/javascript", 
+            "sentTime": 0.7495950000002267, 
+            "size": 3725, 
+            "type": "resource", 
+            "url": "https://d31qbv1cthcecs.cloudfront.net/atrk.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_51", 
+            "mimeType": "image/jpeg", 
+            "sentTime": 1.3160470000002533, 
+            "size": 137690, 
+            "type": "resource", 
+            "url": "http://cdns.diply.com/article-images/a/688f14bc-35b6-4415-8f66-87f313a4dbad_desktop.jpg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_6", 
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_2", 
+            "mimeType": "text/css", 
+            "sentTime": 0.6645680000001448, 
+            "size": 1508, 
+            "type": "resource", 
+            "url": "http://cdn.diply.com/resources/Fonts/Font-Roboto.css"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_60", 
+            "mimeType": "application/font-woff", 
+            "sentTime": 1.6930869999996503, 
+            "size": 82216, 
+            "type": "resource", 
+            "url": "http://diply.com/v2/assets/fonts/Raleway-Regular.woff"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_108", 
+            "mimeType": "text/plain", 
+            "originalResource": "download_41", 
+            "sentTime": 0.6682629999995697, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "http://diply.com/v2/assets/fonts/Raleway-Regular.woff"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_85", 
+            "mimeType": "text/plain", 
+            "originalResource": "download_41", 
+            "sentTime": 0.6681220000000394, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "http://diply.com/v2/assets/fonts/AvenirLTStd-Black.ttf"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_88", 
+            "mimeType": "text/plain", 
+            "originalResource": "download_41", 
+            "sentTime": 0.6681419999995342, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "http://diply.com/v2/assets/fonts/AvenirLTStd-Heavy.ttf"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_23", 
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_22", 
+            "mimeType": "text/html", 
+            "sentTime": 0.7467180000003282, 
+            "size": 955, 
+            "type": "resource", 
+            "url": "http://diply.com/v2/assets/svg/menu/icn-hamburger.html"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_81", 
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_44", 
+            "mimeType": "image/gif", 
+            "sentTime": 1.5237669999996797, 
+            "size": 35, 
+            "type": "resource", 
+            "url": "http://www.google-analytics.com/collect?v=1&_v=j46&a=1483132702&t=pageview&_s=1&dl=http%3A%2F%2Fdiply.com%2F&ul=en-gb&de=UTF-8&dt=Diply&sd=24-bit&sr=1440x900&vp=919x811&je=1&fl=11.2%20r202&_u=QCCAgAQ~&jid=2043503653&cid=2087344062.1436129269&tid=UA-44184928-2&gtm=GTM-WGSVK3&z=2130419057"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_77_0", 
+                "comp_78", 
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_37", 
+            "mimeType": "text/javascript", 
+            "sentTime": 1.2789519999996628, 
+            "size": 27809, 
+            "type": "resource", 
+            "url": "http://www.google-analytics.com/analytics.js"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_102", 
+            "mimeType": "text/plain", 
+            "originalResource": "download_41", 
+            "sentTime": 0.6682220000002417, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "http://diply.com/v2/assets/fonts/Raleway-Light.woff"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_43", 
+            "mimeType": "image/jpeg", 
+            "sentTime": 1.315426000000116, 
+            "size": 462029, 
+            "type": "resource", 
+            "url": "http://cdns.diply.com/article-images/a/b6955c64-e815-456a-a5a8-c40dd62201c8_desktop.jpg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_89", 
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_77", 
+            "mimeType": "image/gif", 
+            "sentTime": 2.1299239999998463, 
+            "size": 35, 
+            "type": "resource", 
+            "url": "https://pixel.quantserve.com/pixel/p-SWhWMjVP4Tqu8.gif?idmatch=0"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_52", 
+            "mimeType": "text/plain", 
+            "sentTime": 1.2998600000000806, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "http://b.scorecardresearch.com/b?c1=2&c2=17462746&ns__t=1474462613930&ns_c=UTF-8&cv=3.1&c8=Diply&c7=http%3A%2F%2Fdiply.com%2F&c9="
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_113", 
+            "mimeType": "text/plain", 
+            "originalResource": "download_41", 
+            "sentTime": 0.6682950000003984, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "http://diply.com/v2/assets/fonts/Raleway-Thin.svg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "dchunk_2_0", 
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_48", 
+            "mimeType": "text/html", 
+            "sentTime": 1.695082999999613, 
+            "size": 33477, 
+            "type": "resource", 
+            "url": "https://staticxx.facebook.com/connect/xd_arbiter/r/P5DLcu0KGJB.js?version=42#channel=f10f7d9e8&origin=http%3A%2F%2Fdiply.com"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_11", 
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_10", 
+            "mimeType": "application/javascript", 
+            "sentTime": 0.67264299999988, 
+            "size": 36868, 
+            "type": "resource", 
+            "url": "http://diply.com/v2/lib/bootstrap/dist/js/bootstrap.min.js?v=KXn5puMvxCw-dAYznun-drMdG1IFl3agK0p_pqT9KAo"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_31_0", 
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_19", 
+            "mimeType": "application/x-javascript", 
+            "sentTime": 0.7498089999999138, 
+            "size": 1495, 
+            "type": "resource", 
+            "url": "http://b.scorecardresearch.com/beacon.js"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_93", 
+            "mimeType": "text/plain", 
+            "originalResource": "download_41", 
+            "sentTime": 0.6681749999997919, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "http://diply.com/v2/assets/fonts/AvenirLTStd-Medium.woff"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_1", 
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_5", 
+            "mimeType": "text/css", 
+            "sentTime": 0.5368170000001555, 
+            "size": 121260, 
+            "type": "resource", 
+            "url": "http://diply.com/v2/lib/bootstrap/dist/css/bootstrap.min.css?v=7s5uDGW3AHqw6xtJmNNtr-OBRJUlgkNJEo78P4b0yRw"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_106", 
+            "mimeType": "text/plain", 
+            "originalResource": "download_41", 
+            "sentTime": 0.6682520000003933, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "http://diply.com/v2/assets/fonts/Raleway-Medium.ttf"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_34", 
+            "mimeType": "image/png", 
+            "sentTime": 0.9779950000001918, 
+            "size": 564787, 
+            "type": "resource", 
+            "url": "http://cdns.diply.com/article-images/a/f6c245a1-8705-47f1-8cd3-88a269eee3ff_desktop.png"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "dchunk_1_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_0", 
+            "mimeType": "text/html", 
+            "sentTime": 0.0, 
+            "size": 16415, 
+            "type": "resource", 
+            "url": "http://diply.com/"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_86", 
+            "mimeType": "text/plain", 
+            "originalResource": "download_41", 
+            "sentTime": 0.6681300000000192, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "http://diply.com/v2/assets/fonts/AvenirLTStd-Black.svg"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_103", 
+            "mimeType": "text/plain", 
+            "originalResource": "download_41", 
+            "sentTime": 0.6682270000001154, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "http://diply.com/v2/assets/fonts/Raleway-Light.ttf"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_62", 
+            "mimeType": "image/jpeg", 
+            "sentTime": 1.3180160000001706, 
+            "size": 62207, 
+            "type": "resource", 
+            "url": "http://cdns.diply.com/article-images/a/0aee06c8-92e4-4297-b37e-e260613c0a24_desktop.jpg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_71", 
+            "mimeType": "image/gif", 
+            "sentTime": 1.524315999999999, 
+            "size": 35, 
+            "type": "resource", 
+            "url": "https://stats.g.doubleclick.net/r/collect?t=dc&aip=1&_r=3&v=1&_v=j46&tid=UA-44184928-2&cid=2087344062.1436129269&jid=2043503653&_u=QCCAgAQ~&z=1629066216"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_116", 
+            "mimeType": "text/plain", 
+            "originalResource": "download_41", 
+            "sentTime": 0.6683149999998932, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "http://diply.com/v2/assets/fonts/Gotham-Bold.svg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_34", 
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_30", 
+            "mimeType": "text/html", 
+            "sentTime": 0.9681479999999283, 
+            "size": 488, 
+            "type": "resource", 
+            "url": "http://diply.com/v2/assets/svg/icn-play.html"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_32", 
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_124", 
+            "mimeType": "text/html", 
+            "originalResource": "download_30", 
+            "sentTime": 0.9767009999995935, 
+            "size": 488, 
+            "type": "resource", 
+            "url": "http://diply.com/v2/assets/svg/icn-play.html"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_33_0", 
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_125", 
+            "mimeType": "text/html", 
+            "originalResource": "download_30", 
+            "sentTime": 1.214799999999741, 
+            "size": 488, 
+            "type": "resource", 
+            "url": "http://diply.com/v2/assets/svg/icn-play.html"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_98", 
+            "mimeType": "text/plain", 
+            "originalResource": "download_41", 
+            "sentTime": 0.6682019999998374, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "http://diply.com/v2/assets/fonts/Raleway-Black.svg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_49", 
+            "mimeType": "image/gif", 
+            "sentTime": 1.5316949999996723, 
+            "size": 44, 
+            "type": "resource", 
+            "url": "https://www.facebook.com/tr/?id=969519813086003&ev=PageView&dl=http%3A%2F%2Fdiply.com%2F&rl=&if=false&ts=1474462614162&v=2.5.0"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_88", 
+                "comp_90"
+            ], 
+            "httpMethod": "OPTIONS", 
+            "id": "download_41", 
+            "mimeType": "text/plain", 
+            "sentTime": 1.218880999999783, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "https://goviral-engine-bus.servicebus.windows.net/views-in-hub/messages/?timeout=60"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_90"
+            ], 
+            "httpMethod": "POST", 
+            "id": "download_58", 
+            "mimeType": "application/xml", 
+            "sentTime": 1.6815189999997529, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "https://goviral-engine-bus.servicebus.windows.net/views-in-hub/messages/?timeout=60"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_2", 
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_3", 
+            "mimeType": "text/css", 
+            "sentTime": 0.5370599999996557, 
+            "size": 348899, 
+            "type": "resource", 
+            "url": "http://diply.com/v2/assets/css/app.min.css?v=FcQwwmdkq7ufeUTjCwGr6Sux4bXjCaYTwos5OFAwbZE"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_46", 
+            "mimeType": "image/gif", 
+            "sentTime": 1.4901229999995849, 
+            "size": 43, 
+            "type": "resource", 
+            "url": "https://www.facebook.com/impression.php/f1f0e6dbfc/?api_key=627392657291988&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_24_0", 
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_23", 
+            "mimeType": "application/json", 
+            "sentTime": 0.7612280000003011, 
+            "size": 6712, 
+            "type": "resource", 
+            "url": "http://service-content.diply.com/api/v1/homepage"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_50", 
+            "mimeType": "image/jpeg", 
+            "sentTime": 1.3166789999995672, 
+            "size": 153937, 
+            "type": "resource", 
+            "url": "http://cdns.diply.com/article-images/a/e79ce9ae-f3bf-4f16-971f-46276caf7067_desktop.jpg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_35", 
+            "mimeType": "image/jpeg", 
+            "sentTime": 0.97858400000041, 
+            "size": 168633, 
+            "type": "resource", 
+            "url": "http://cdns.diply.com/article-images/a/c1e4b13d-78c5-49a9-ac21-d95d4698ea5e_desktop.jpg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_61", 
+            "mimeType": "image/jpeg", 
+            "sentTime": 1.3178630000002158, 
+            "size": 130216, 
+            "type": "resource", 
+            "url": "http://cdns.diply.com/article-images/a/7722a464-e01d-41c9-bd41-91703114535b_desktop.jpg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_4", 
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_8", 
+            "mimeType": "application/javascript", 
+            "sentTime": 0.6556229999996503, 
+            "size": 1617, 
+            "type": "resource", 
+            "url": "http://diply.com/v2/js/js.cookie.min.js?v=cz4uf3iBCbPuoMdWjqcwtSxBNH7sEALZaPVn8mofFJ0"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_5_0", 
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_4", 
+            "mimeType": "application/javascript", 
+            "sentTime": 0.6562690000000657, 
+            "size": 4433, 
+            "type": "resource", 
+            "url": "http://diply.com/v2/js/analytics.min.js?v=pQtuvWhlZyNZ0N8J38gITzCzNEe5X4K7E_NuOgvMAdI"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_59", 
+            "mimeType": "application/x-font-woff", 
+            "sentTime": 1.692837999999938, 
+            "size": 12588, 
+            "type": "resource", 
+            "url": "http://cdn.diply.com/resources/Fonts/ArimoBold.woff"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_19", 
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_15", 
+            "mimeType": "application/javascript", 
+            "sentTime": 0.7512589999996635, 
+            "size": 914, 
+            "type": "resource", 
+            "url": "http://diply.com/v2/js/home.min.js?v=k8J93h8fEShTD-rg14pvNHVVAuhnY5NeU0Q6F46FN6M"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_79_0", 
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_38", 
+            "mimeType": "application/x-javascript", 
+            "sentTime": 1.2839599999997517, 
+            "size": 9319, 
+            "type": "resource", 
+            "url": "http://connect.facebook.net/en_US/fbevents.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_28_0", 
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_17", 
+            "mimeType": "application/javascript", 
+            "sentTime": 0.6695440000003146, 
+            "size": 53585, 
+            "type": "resource", 
+            "url": "http://www.googletagmanager.com/gtm.js?id=GTM-WGSVK3"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_56", 
+            "mimeType": "application/font-woff", 
+            "sentTime": 1.6930190000002767, 
+            "size": 82240, 
+            "type": "resource", 
+            "url": "http://diply.com/v2/assets/fonts/Raleway-Medium.woff"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_105", 
+            "mimeType": "text/plain", 
+            "originalResource": "download_41", 
+            "sentTime": 0.6682479999999487, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "http://diply.com/v2/assets/fonts/Raleway-Medium.woff"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_73", 
+            "mimeType": "text/plain", 
+            "sentTime": 1.9291910000001735, 
+            "size": 58, 
+            "type": "resource", 
+            "url": "http://a9489d67d4e3c2e4388c7366a97c04644.profile.lhr5.cloudfront.net/test.png"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_42", 
+            "mimeType": "image/jpeg", 
+            "sentTime": 1.3152129999998579, 
+            "size": 524684, 
+            "type": "resource", 
+            "url": "http://cdns.diply.com/article-images/a/06ebff67-9d30-4061-910d-1c36720806aa_desktop.jpg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_25_0", 
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_24", 
+            "mimeType": "application/json", 
+            "sentTime": 0.7665839999999662, 
+            "size": 4780, 
+            "type": "resource", 
+            "url": "http://service-content.diply.com/api/v1/mustread"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_87", 
+            "mimeType": "text/plain", 
+            "originalResource": "download_41", 
+            "sentTime": 0.6681360000002314, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "http://diply.com/v2/assets/fonts/AvenirLTStd-Heavy.woff"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_90", 
+            "mimeType": "text/plain", 
+            "originalResource": "download_41", 
+            "sentTime": 0.6681529999996201, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "http://diply.com/v2/assets/fonts/AvenirLTStd-Roman.woff"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_22", 
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_21", 
+            "mimeType": "text/html", 
+            "sentTime": 0.7477529999996477, 
+            "size": 5198, 
+            "type": "resource", 
+            "url": "http://diply.com/v2/assets/svg/icn-globe.html"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_115", 
+            "mimeType": "text/plain", 
+            "originalResource": "download_41", 
+            "sentTime": 0.6683039999998073, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "http://diply.com/v2/assets/fonts/Gotham-Bold.ttf"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_57", 
+            "mimeType": "image/jpeg", 
+            "sentTime": 1.3175460000002204, 
+            "size": 121134, 
+            "type": "resource", 
+            "url": "http://cdns.diply.com/article-images/a/06cb447a-6c49-45e0-9725-aad790cd059f_desktop.jpg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_55", 
+            "mimeType": "application/font-woff", 
+            "sentTime": 1.6932289999995191, 
+            "size": 82672, 
+            "type": "resource", 
+            "url": "http://diply.com/v2/assets/fonts/Raleway-Bold.woff"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_99", 
+            "mimeType": "text/plain", 
+            "originalResource": "download_41", 
+            "sentTime": 0.6682069999997111, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "http://diply.com/v2/assets/fonts/Raleway-Bold.woff"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_28", 
+            "mimeType": "image/jpeg", 
+            "sentTime": 0.9770650000000387, 
+            "size": 163920, 
+            "type": "resource", 
+            "url": "http://cdns.diply.com/article-images/a/4a459a91-33d5-48ad-b25d-66831a56ba6e_desktop.jpg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_45", 
+            "mimeType": "image/jpeg", 
+            "sentTime": 1.3156669999998485, 
+            "size": 37159, 
+            "type": "resource", 
+            "url": "http://cdns.diply.com/article-images/a/ea8c1724-cec6-4ffa-84fe-2cd152ad59e9_desktop.jpg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_75", 
+                "comp_76_0", 
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_26", 
+            "mimeType": "application/x-javascript", 
+            "sentTime": 0.7602520000000368, 
+            "size": 189728, 
+            "type": "resource", 
+            "url": "http://connect.facebook.net/en_US/sdk.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_21", 
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_20", 
+            "mimeType": "image/svg+xml", 
+            "sentTime": 0.7460000000000946, 
+            "size": 2782, 
+            "type": "resource", 
+            "url": "http://diply.com/v2/assets/svg/diply-new.svg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_32", 
+            "mimeType": "image/jpeg", 
+            "sentTime": 0.9776000000001659, 
+            "size": 191835, 
+            "type": "resource", 
+            "url": "http://cdns.diply.com/article-images/a/366e292f-eb99-4e7d-9d0c-b7cabafd99c2_desktop.jpg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_76", 
+            "mimeType": "image/jpeg", 
+            "sentTime": 1.3164239999996425, 
+            "size": 204490, 
+            "type": "resource", 
+            "url": "http://cdns.diply.com/article-images/a/56587854-d4a5-4998-986c-496a661ada4e_desktop.jpg"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_97", 
+            "mimeType": "text/plain", 
+            "originalResource": "download_41", 
+            "sentTime": 0.6681959999996252, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "http://diply.com/v2/assets/fonts/Raleway-Black.ttf"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_90"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_74", 
+            "mimeType": "image/jpeg", 
+            "sentTime": 1.3193819999996776, 
+            "size": 312693, 
+            "type": "resource", 
+            "url": "http://cdns.diply.com/article-images/a/64ee5b56-2bdc-4f8f-9d34-4184d73941f1_desktop.jpg"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_1_1"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "None", 
+            "endTime": 0.5366930000000139, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_0", 
+            "startTime": 0.5364369999997507, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "comp_3"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "None", 
+            "endTime": 0.5951679999998305, 
+            "evalType": "recalcStyle", 
+            "frame": 1, 
+            "id": "comp_1", 
+            "startTime": 0.5805380000001605, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "http://diply.com/v2/lib/bootstrap/dist/css/bootstrap.min.css?v=7s5uDGW3AHqw6xtJmNNtr-OBRJUlgkNJEo78P4b0yRw"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "download_60", 
+                "download_56", 
+                "download_55", 
+                "comp_3"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "None", 
+            "endTime": 0.6157139999995707, 
+            "evalType": "recalcStyle", 
+            "frame": 1, 
+            "id": "comp_2", 
+            "startTime": 0.5976620000001276, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "http://diply.com/v2/assets/css/app.min.css?v=FcQwwmdkq7ufeUTjCwGr6Sux4bXjCaYTwos5OFAwbZE"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_1_4"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "None", 
+            "endTime": 0.6555319999997664, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_3", 
+            "startTime": 0.6162059999996927, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "http://diply.com/v2/lib/jquery/dist/jquery.min.js?v=j6c60LlBesdfhh6eIu7si5Hwz2dWAEcWKhsf2-URb-I"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_1_5"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "None", 
+            "endTime": 0.6562299999995957, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_4", 
+            "startTime": 0.6556309999996301, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "http://diply.com/v2/js/js.cookie.min.js?v=cz4uf3iBCbPuoMdWjqcwtSxBNH7sEALZaPVn8mofFJ0"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_27", 
+                "comp_5_1"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_5", 
+            "endTime": 0.664400999999998, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_5_0", 
+            "startTime": 0.6562729999996009, 
+            "subtree": "subtree_comp_5", 
+            "type": "eval", 
+            "url": "http://diply.com/v2/js/analytics.min.js?v=pQtuvWhlZyNZ0N8J38gITzCzNEe5X4K7E_NuOgvMAdI"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_1_6"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_5", 
+            "endTime": 0.6645079999998416, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_5_1", 
+            "startTime": 0.664400999999998, 
+            "subtree": "subtree_comp_5", 
+            "type": "eval", 
+            "url": "http://diply.com/v2/js/analytics.min.js?v=pQtuvWhlZyNZ0N8J38gITzCzNEe5X4K7E_NuOgvMAdI"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "comp_10_0"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "None", 
+            "endTime": 0.6654660000003787, 
+            "evalType": "recalcStyle", 
+            "frame": 1, 
+            "id": "comp_6", 
+            "startTime": 0.6645710000002509, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "http://cdn.diply.com/resources/Fonts/Font-Roboto.css"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "comp_10_0"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "None", 
+            "endTime": 0.6665259999999762, 
+            "evalType": "recalcStyle", 
+            "frame": 1, 
+            "id": "comp_7", 
+            "startTime": 0.6660279999996419, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "http://cdn.diply.com/resources/Fonts/Font-SourceSansPro.css"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "download_53", 
+                "download_59", 
+                "comp_10_0"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "None", 
+            "endTime": 0.6668060000001788, 
+            "evalType": "recalcStyle", 
+            "frame": 1, 
+            "id": "comp_8", 
+            "startTime": 0.6665689999999813, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "http://cdn.diply.com/resources/Fonts/Font-Arimo.css"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "download_84", 
+                "comp_9_1"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_9", 
+            "endTime": 0.6681150000003981, 
+            "evalType": "recalcStyle", 
+            "frame": 1, 
+            "id": "comp_9_0", 
+            "startTime": 0.6668490000001839, 
+            "subtree": "subtree_comp_9", 
+            "type": "eval", 
+            "url": "http://diply.com/v2/assets/css/home.min.css?v=pBw-2U0q9nePVAbKZ8UdRitbm59Xy-lag77kFCfVP1o"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "download_85", 
+                "comp_9_2"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_9", 
+            "endTime": 0.6681220000000394, 
+            "evalType": "recalcStyle", 
+            "frame": 1, 
+            "id": "comp_9_1", 
+            "startTime": 0.6681150000003981, 
+            "subtree": "subtree_comp_9", 
+            "type": "eval", 
+            "url": "http://diply.com/v2/assets/css/home.min.css?v=pBw-2U0q9nePVAbKZ8UdRitbm59Xy-lag77kFCfVP1o"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "download_86", 
+                "comp_9_3"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_9", 
+            "endTime": 0.6681300000000192, 
+            "evalType": "recalcStyle", 
+            "frame": 1, 
+            "id": "comp_9_2", 
+            "startTime": 0.6681220000000394, 
+            "subtree": "subtree_comp_9", 
+            "type": "eval", 
+            "url": "http://diply.com/v2/assets/css/home.min.css?v=pBw-2U0q9nePVAbKZ8UdRitbm59Xy-lag77kFCfVP1o"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "download_87", 
+                "comp_9_4"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_9", 
+            "endTime": 0.6681360000002314, 
+            "evalType": "recalcStyle", 
+            "frame": 1, 
+            "id": "comp_9_3", 
+            "startTime": 0.6681300000000192, 
+            "subtree": "subtree_comp_9", 
+            "type": "eval", 
+            "url": "http://diply.com/v2/assets/css/home.min.css?v=pBw-2U0q9nePVAbKZ8UdRitbm59Xy-lag77kFCfVP1o"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "download_88", 
+                "comp_9_5"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_9", 
+            "endTime": 0.6681419999995342, 
+            "evalType": "recalcStyle", 
+            "frame": 1, 
+            "id": "comp_9_4", 
+            "startTime": 0.6681360000002314, 
+            "subtree": "subtree_comp_9", 
+            "type": "eval", 
+            "url": "http://diply.com/v2/assets/css/home.min.css?v=pBw-2U0q9nePVAbKZ8UdRitbm59Xy-lag77kFCfVP1o"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "download_89", 
+                "comp_9_6"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_9", 
+            "endTime": 0.6681479999997464, 
+            "evalType": "recalcStyle", 
+            "frame": 1, 
+            "id": "comp_9_5", 
+            "startTime": 0.6681419999995342, 
+            "subtree": "subtree_comp_9", 
+            "type": "eval", 
+            "url": "http://diply.com/v2/assets/css/home.min.css?v=pBw-2U0q9nePVAbKZ8UdRitbm59Xy-lag77kFCfVP1o"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "download_90", 
+                "comp_9_7"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_9", 
+            "endTime": 0.6681529999996201, 
+            "evalType": "recalcStyle", 
+            "frame": 1, 
+            "id": "comp_9_6", 
+            "startTime": 0.6681479999997464, 
+            "subtree": "subtree_comp_9", 
+            "type": "eval", 
+            "url": "http://diply.com/v2/assets/css/home.min.css?v=pBw-2U0q9nePVAbKZ8UdRitbm59Xy-lag77kFCfVP1o"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "download_91", 
+                "comp_9_8"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_9", 
+            "endTime": 0.6681580000004033, 
+            "evalType": "recalcStyle", 
+            "frame": 1, 
+            "id": "comp_9_7", 
+            "startTime": 0.6681529999996201, 
+            "subtree": "subtree_comp_9", 
+            "type": "eval", 
+            "url": "http://diply.com/v2/assets/css/home.min.css?v=pBw-2U0q9nePVAbKZ8UdRitbm59Xy-lag77kFCfVP1o"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "download_92", 
+                "comp_9_9"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_9", 
+            "endTime": 0.6681689999995797, 
+            "evalType": "recalcStyle", 
+            "frame": 1, 
+            "id": "comp_9_8", 
+            "startTime": 0.6681580000004033, 
+            "subtree": "subtree_comp_9", 
+            "type": "eval", 
+            "url": "http://diply.com/v2/assets/css/home.min.css?v=pBw-2U0q9nePVAbKZ8UdRitbm59Xy-lag77kFCfVP1o"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "download_93", 
+                "comp_9_10"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_9", 
+            "endTime": 0.6681749999997919, 
+            "evalType": "recalcStyle", 
+            "frame": 1, 
+            "id": "comp_9_9", 
+            "startTime": 0.6681689999995797, 
+            "subtree": "subtree_comp_9", 
+            "type": "eval", 
+            "url": "http://diply.com/v2/assets/css/home.min.css?v=pBw-2U0q9nePVAbKZ8UdRitbm59Xy-lag77kFCfVP1o"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "download_94", 
+                "comp_9_11"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_9", 
+            "endTime": 0.6681799999996656, 
+            "evalType": "recalcStyle", 
+            "frame": 1, 
+            "id": "comp_9_10", 
+            "startTime": 0.6681749999997919, 
+            "subtree": "subtree_comp_9", 
+            "type": "eval", 
+            "url": "http://diply.com/v2/assets/css/home.min.css?v=pBw-2U0q9nePVAbKZ8UdRitbm59Xy-lag77kFCfVP1o"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "download_95", 
+                "comp_9_12"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_9", 
+            "endTime": 0.6681859999998778, 
+            "evalType": "recalcStyle", 
+            "frame": 1, 
+            "id": "comp_9_11", 
+            "startTime": 0.6681799999996656, 
+            "subtree": "subtree_comp_9", 
+            "type": "eval", 
+            "url": "http://diply.com/v2/assets/css/home.min.css?v=pBw-2U0q9nePVAbKZ8UdRitbm59Xy-lag77kFCfVP1o"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "download_96", 
+                "comp_9_13"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_9", 
+            "endTime": 0.6681909999997515, 
+            "evalType": "recalcStyle", 
+            "frame": 1, 
+            "id": "comp_9_12", 
+            "startTime": 0.6681859999998778, 
+            "subtree": "subtree_comp_9", 
+            "type": "eval", 
+            "url": "http://diply.com/v2/assets/css/home.min.css?v=pBw-2U0q9nePVAbKZ8UdRitbm59Xy-lag77kFCfVP1o"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "download_97", 
+                "comp_9_14"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_9", 
+            "endTime": 0.6681959999996252, 
+            "evalType": "recalcStyle", 
+            "frame": 1, 
+            "id": "comp_9_13", 
+            "startTime": 0.6681909999997515, 
+            "subtree": "subtree_comp_9", 
+            "type": "eval", 
+            "url": "http://diply.com/v2/assets/css/home.min.css?v=pBw-2U0q9nePVAbKZ8UdRitbm59Xy-lag77kFCfVP1o"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "download_98", 
+                "comp_9_15"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_9", 
+            "endTime": 0.6682019999998374, 
+            "evalType": "recalcStyle", 
+            "frame": 1, 
+            "id": "comp_9_14", 
+            "startTime": 0.6681959999996252, 
+            "subtree": "subtree_comp_9", 
+            "type": "eval", 
+            "url": "http://diply.com/v2/assets/css/home.min.css?v=pBw-2U0q9nePVAbKZ8UdRitbm59Xy-lag77kFCfVP1o"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "download_99", 
+                "comp_9_16"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_9", 
+            "endTime": 0.6682069999997111, 
+            "evalType": "recalcStyle", 
+            "frame": 1, 
+            "id": "comp_9_15", 
+            "startTime": 0.6682019999998374, 
+            "subtree": "subtree_comp_9", 
+            "type": "eval", 
+            "url": "http://diply.com/v2/assets/css/home.min.css?v=pBw-2U0q9nePVAbKZ8UdRitbm59Xy-lag77kFCfVP1o"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "download_100", 
+                "comp_9_17"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_9", 
+            "endTime": 0.6682110000001558, 
+            "evalType": "recalcStyle", 
+            "frame": 1, 
+            "id": "comp_9_16", 
+            "startTime": 0.6682069999997111, 
+            "subtree": "subtree_comp_9", 
+            "type": "eval", 
+            "url": "http://diply.com/v2/assets/css/home.min.css?v=pBw-2U0q9nePVAbKZ8UdRitbm59Xy-lag77kFCfVP1o"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "download_101", 
+                "comp_9_18"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_9", 
+            "endTime": 0.668217000000368, 
+            "evalType": "recalcStyle", 
+            "frame": 1, 
+            "id": "comp_9_17", 
+            "startTime": 0.6682110000001558, 
+            "subtree": "subtree_comp_9", 
+            "type": "eval", 
+            "url": "http://diply.com/v2/assets/css/home.min.css?v=pBw-2U0q9nePVAbKZ8UdRitbm59Xy-lag77kFCfVP1o"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "download_102", 
+                "comp_9_19"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_9", 
+            "endTime": 0.6682220000002417, 
+            "evalType": "recalcStyle", 
+            "frame": 1, 
+            "id": "comp_9_18", 
+            "startTime": 0.668217000000368, 
+            "subtree": "subtree_comp_9", 
+            "type": "eval", 
+            "url": "http://diply.com/v2/assets/css/home.min.css?v=pBw-2U0q9nePVAbKZ8UdRitbm59Xy-lag77kFCfVP1o"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "download_103", 
+                "comp_9_20"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_9", 
+            "endTime": 0.6682270000001154, 
+            "evalType": "recalcStyle", 
+            "frame": 1, 
+            "id": "comp_9_19", 
+            "startTime": 0.6682220000002417, 
+            "subtree": "subtree_comp_9", 
+            "type": "eval", 
+            "url": "http://diply.com/v2/assets/css/home.min.css?v=pBw-2U0q9nePVAbKZ8UdRitbm59Xy-lag77kFCfVP1o"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "download_104", 
+                "comp_9_21"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_9", 
+            "endTime": 0.6682419999997364, 
+            "evalType": "recalcStyle", 
+            "frame": 1, 
+            "id": "comp_9_20", 
+            "startTime": 0.6682270000001154, 
+            "subtree": "subtree_comp_9", 
+            "type": "eval", 
+            "url": "http://diply.com/v2/assets/css/home.min.css?v=pBw-2U0q9nePVAbKZ8UdRitbm59Xy-lag77kFCfVP1o"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "download_105", 
+                "comp_9_22"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_9", 
+            "endTime": 0.6682479999999487, 
+            "evalType": "recalcStyle", 
+            "frame": 1, 
+            "id": "comp_9_21", 
+            "startTime": 0.6682419999997364, 
+            "subtree": "subtree_comp_9", 
+            "type": "eval", 
+            "url": "http://diply.com/v2/assets/css/home.min.css?v=pBw-2U0q9nePVAbKZ8UdRitbm59Xy-lag77kFCfVP1o"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "download_106", 
+                "comp_9_23"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_9", 
+            "endTime": 0.6682520000003933, 
+            "evalType": "recalcStyle", 
+            "frame": 1, 
+            "id": "comp_9_22", 
+            "startTime": 0.6682479999999487, 
+            "subtree": "subtree_comp_9", 
+            "type": "eval", 
+            "url": "http://diply.com/v2/assets/css/home.min.css?v=pBw-2U0q9nePVAbKZ8UdRitbm59Xy-lag77kFCfVP1o"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "download_107", 
+                "comp_9_24"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_9", 
+            "endTime": 0.668257999999696, 
+            "evalType": "recalcStyle", 
+            "frame": 1, 
+            "id": "comp_9_23", 
+            "startTime": 0.6682520000003933, 
+            "subtree": "subtree_comp_9", 
+            "type": "eval", 
+            "url": "http://diply.com/v2/assets/css/home.min.css?v=pBw-2U0q9nePVAbKZ8UdRitbm59Xy-lag77kFCfVP1o"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "download_108", 
+                "comp_9_25"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_9", 
+            "endTime": 0.6682629999995697, 
+            "evalType": "recalcStyle", 
+            "frame": 1, 
+            "id": "comp_9_24", 
+            "startTime": 0.668257999999696, 
+            "subtree": "subtree_comp_9", 
+            "type": "eval", 
+            "url": "http://diply.com/v2/assets/css/home.min.css?v=pBw-2U0q9nePVAbKZ8UdRitbm59Xy-lag77kFCfVP1o"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "download_109", 
+                "comp_9_26"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_9", 
+            "endTime": 0.6682730000002266, 
+            "evalType": "recalcStyle", 
+            "frame": 1, 
+            "id": "comp_9_25", 
+            "startTime": 0.6682629999995697, 
+            "subtree": "subtree_comp_9", 
+            "type": "eval", 
+            "url": "http://diply.com/v2/assets/css/home.min.css?v=pBw-2U0q9nePVAbKZ8UdRitbm59Xy-lag77kFCfVP1o"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "download_110", 
+                "comp_9_27"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_9", 
+            "endTime": 0.6682789999995293, 
+            "evalType": "recalcStyle", 
+            "frame": 1, 
+            "id": "comp_9_26", 
+            "startTime": 0.6682730000002266, 
+            "subtree": "subtree_comp_9", 
+            "type": "eval", 
+            "url": "http://diply.com/v2/assets/css/home.min.css?v=pBw-2U0q9nePVAbKZ8UdRitbm59Xy-lag77kFCfVP1o"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "download_111", 
+                "comp_9_28"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_9", 
+            "endTime": 0.6682840000003125, 
+            "evalType": "recalcStyle", 
+            "frame": 1, 
+            "id": "comp_9_27", 
+            "startTime": 0.6682789999995293, 
+            "subtree": "subtree_comp_9", 
+            "type": "eval", 
+            "url": "http://diply.com/v2/assets/css/home.min.css?v=pBw-2U0q9nePVAbKZ8UdRitbm59Xy-lag77kFCfVP1o"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "download_112", 
+                "comp_9_29"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_9", 
+            "endTime": 0.6682890000001862, 
+            "evalType": "recalcStyle", 
+            "frame": 1, 
+            "id": "comp_9_28", 
+            "startTime": 0.6682840000003125, 
+            "subtree": "subtree_comp_9", 
+            "type": "eval", 
+            "url": "http://diply.com/v2/assets/css/home.min.css?v=pBw-2U0q9nePVAbKZ8UdRitbm59Xy-lag77kFCfVP1o"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "download_113", 
+                "comp_9_30"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_9", 
+            "endTime": 0.6682950000003984, 
+            "evalType": "recalcStyle", 
+            "frame": 1, 
+            "id": "comp_9_29", 
+            "startTime": 0.6682890000001862, 
+            "subtree": "subtree_comp_9", 
+            "type": "eval", 
+            "url": "http://diply.com/v2/assets/css/home.min.css?v=pBw-2U0q9nePVAbKZ8UdRitbm59Xy-lag77kFCfVP1o"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "download_114", 
+                "comp_9_31"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_9", 
+            "endTime": 0.6683000000002721, 
+            "evalType": "recalcStyle", 
+            "frame": 1, 
+            "id": "comp_9_30", 
+            "startTime": 0.6682950000003984, 
+            "subtree": "subtree_comp_9", 
+            "type": "eval", 
+            "url": "http://diply.com/v2/assets/css/home.min.css?v=pBw-2U0q9nePVAbKZ8UdRitbm59Xy-lag77kFCfVP1o"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "download_115", 
+                "comp_9_32"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_9", 
+            "endTime": 0.6683039999998073, 
+            "evalType": "recalcStyle", 
+            "frame": 1, 
+            "id": "comp_9_31", 
+            "startTime": 0.6683000000002721, 
+            "subtree": "subtree_comp_9", 
+            "type": "eval", 
+            "url": "http://diply.com/v2/assets/css/home.min.css?v=pBw-2U0q9nePVAbKZ8UdRitbm59Xy-lag77kFCfVP1o"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "download_116", 
+                "comp_9_33"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_9", 
+            "endTime": 0.6683149999998932, 
+            "evalType": "recalcStyle", 
+            "frame": 1, 
+            "id": "comp_9_32", 
+            "startTime": 0.6683039999998073, 
+            "subtree": "subtree_comp_9", 
+            "type": "eval", 
+            "url": "http://diply.com/v2/assets/css/home.min.css?v=pBw-2U0q9nePVAbKZ8UdRitbm59Xy-lag77kFCfVP1o"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "comp_10_0"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_9", 
+            "endTime": 0.6687089999995806, 
+            "evalType": "recalcStyle", 
+            "frame": 1, 
+            "id": "comp_9_33", 
+            "startTime": 0.6683149999998932, 
+            "subtree": "subtree_comp_9", 
+            "type": "eval", 
+            "url": "http://diply.com/v2/assets/css/home.min.css?v=pBw-2U0q9nePVAbKZ8UdRitbm59Xy-lag77kFCfVP1o"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_17", 
+                "comp_10_1"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_10", 
+            "endTime": 0.6693809999997029, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_10_0", 
+            "startTime": 0.668985000000248, 
+            "subtree": "subtree_comp_10", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_1_11"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_10", 
+            "endTime": 0.6696329999995214, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_10_1", 
+            "startTime": 0.6693809999997029, 
+            "subtree": "subtree_comp_10", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_1_12"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "None", 
+            "endTime": 0.6819299999997384, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_11", 
+            "startTime": 0.673544999999649, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "http://diply.com/v2/lib/bootstrap/dist/js/bootstrap.min.js?v=KXn5puMvxCw-dAYznun-drMdG1IFl3agK0p_pqT9KAo"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_1_13"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "None", 
+            "endTime": 0.6837850000001708, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_12", 
+            "startTime": 0.6825460000000021, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "http://diply.com/v2/js/jquery-lang.min.js?v=NsLlcNr40ger89zDt0hAglDgJ-5Lu-r6ddoEMmPS0Nw"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_1_14"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "None", 
+            "endTime": 0.7447629999996934, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_13", 
+            "startTime": 0.6853060000003097, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "http://diply.com/v2/lib/handlebars/handlebars.min.js?v=ZEqxqq_o82eD92_4Ax0e73bly3jOIu3qqWi7dxogn3c"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_20", 
+                "comp_14_1"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_14", 
+            "endTime": 0.7460000000000946, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_14_0", 
+            "startTime": 0.7448809999996229, 
+            "subtree": "subtree_comp_14", 
+            "type": "eval", 
+            "url": "http://diply.com/v2/js/site.min.js?v=iOIEGW-ejdFZIz4l94EcmWyX5ph-91gs8L91X1qxieg"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_22", 
+                "comp_14_2"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_14", 
+            "endTime": 0.7467180000003282, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_14_1", 
+            "startTime": 0.7460000000000946, 
+            "subtree": "subtree_comp_14", 
+            "type": "eval", 
+            "url": "http://diply.com/v2/js/site.min.js?v=iOIEGW-ejdFZIz4l94EcmWyX5ph-91gs8L91X1qxieg"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_21", 
+                "comp_14_3"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_14", 
+            "endTime": 0.7477529999996477, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_14_2", 
+            "startTime": 0.7467180000003282, 
+            "subtree": "subtree_comp_14", 
+            "type": "eval", 
+            "url": "http://diply.com/v2/js/site.min.js?v=iOIEGW-ejdFZIz4l94EcmWyX5ph-91gs8L91X1qxieg"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_1_15"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_14", 
+            "endTime": 0.7489459999997052, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_14_3", 
+            "startTime": 0.7477529999996477, 
+            "subtree": "subtree_comp_14", 
+            "type": "eval", 
+            "url": "http://diply.com/v2/js/site.min.js?v=iOIEGW-ejdFZIz4l94EcmWyX5ph-91gs8L91X1qxieg"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_1_16"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "None", 
+            "endTime": 0.7491929999996501, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_15", 
+            "startTime": 0.7490770000003977, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_31", 
+                "comp_16_1"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_16", 
+            "endTime": 0.7494619999997667, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_16_0", 
+            "startTime": 0.7492620000002717, 
+            "subtree": "subtree_comp_16", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_19", 
+                "comp_16_2"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_16", 
+            "endTime": 0.7497199999997974, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_16_1", 
+            "startTime": 0.7494619999997667, 
+            "subtree": "subtree_comp_16", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_18", 
+                "comp_16_3"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_16", 
+            "endTime": 0.7499139999999898, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_16_2", 
+            "startTime": 0.7497199999997974, 
+            "subtree": "subtree_comp_16", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_1_17"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_16", 
+            "endTime": 0.7500749999999243, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_16_3", 
+            "startTime": 0.7499139999999898, 
+            "subtree": "subtree_comp_16", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_1_18"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "None", 
+            "endTime": 0.7507709999999861, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_17", 
+            "startTime": 0.7503710000000865, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "http://diply.com/v2/js/infiniteScroll.min.js?v=e206-L_f9ccjV7BDzcCjagSU7DEyG_OQTsmWukgQue8"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_1_19"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "None", 
+            "endTime": 0.7512070000002495, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_18", 
+            "startTime": 0.7508429999998043, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "http://diply.com/v2/js/feed.min.js?v=CecCHE5jdugwvEWJIj9_qP-Pkh6f515ETY3Yuxc4Ycw"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_1_20"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "None", 
+            "endTime": 0.7515409999996336, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_19", 
+            "startTime": 0.7512679999999818, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "http://diply.com/v2/js/home.min.js?v=k8J93h8fEShTD-rg14pvNHVVAuhnY5NeU0Q6F46FN6M"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_26", 
+                "comp_20_1"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_20", 
+            "endTime": 0.759900000000016, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_20_0", 
+            "name": "DOMContentLoaded", 
+            "startTime": 0.7515910000001895, 
+            "subtree": "subtree_comp_20", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_23", 
+                "comp_20_2"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_20", 
+            "endTime": 0.7612280000003011, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_20_1", 
+            "name": "DOMContentLoaded", 
+            "startTime": 0.759900000000016, 
+            "subtree": "subtree_comp_20", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_25", 
+                "comp_20_3"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_20", 
+            "endTime": 0.7646469999999681, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_20_2", 
+            "name": "DOMContentLoaded", 
+            "startTime": 0.7612280000003011, 
+            "subtree": "subtree_comp_20", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_24", 
+                "comp_20_4"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_20", 
+            "endTime": 0.7665839999999662, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_20_3", 
+            "name": "DOMContentLoaded", 
+            "startTime": 0.7646469999999681, 
+            "subtree": "subtree_comp_20", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_90"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_20", 
+            "endTime": 0.7714759999998932, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_20_4", 
+            "name": "DOMContentLoaded", 
+            "startTime": 0.7665839999999662, 
+            "subtree": "subtree_comp_20", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "None", 
+            "endTime": 0.9385030000003098, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_21", 
+            "name": "load", 
+            "startTime": 0.9347399999996924, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "None", 
+            "endTime": 0.9403140000003987, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_22", 
+            "name": "load", 
+            "startTime": 0.9390910000001895, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "None", 
+            "endTime": 0.9413020000001779, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_23", 
+            "name": "load", 
+            "startTime": 0.9405539999997927, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_28", 
+                "comp_24_1"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_24", 
+            "endTime": 0.9644310000003316, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_24_0", 
+            "name": "load", 
+            "startTime": 0.9416439999995418, 
+            "subtree": "subtree_comp_24", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_32", 
+                "comp_24_2"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_24", 
+            "endTime": 0.9647119999999632, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_24_1", 
+            "name": "load", 
+            "startTime": 0.9644310000003316, 
+            "subtree": "subtree_comp_24", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_33", 
+                "comp_24_3"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_24", 
+            "endTime": 0.9648669999996855, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_24_2", 
+            "name": "load", 
+            "startTime": 0.9647119999999632, 
+            "subtree": "subtree_comp_24", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_34", 
+                "comp_24_4"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_24", 
+            "endTime": 0.9650359999995999, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_24_3", 
+            "name": "load", 
+            "startTime": 0.9648669999996855, 
+            "subtree": "subtree_comp_24", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_36", 
+                "comp_24_5"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_24", 
+            "endTime": 0.9651990000002115, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_24_4", 
+            "name": "load", 
+            "startTime": 0.9650359999995999, 
+            "subtree": "subtree_comp_24", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_35", 
+                "comp_24_6"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_24", 
+            "endTime": 0.9653580000003785, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_24_5", 
+            "name": "load", 
+            "startTime": 0.9651990000002115, 
+            "subtree": "subtree_comp_24", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_29", 
+                "comp_24_7"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_24", 
+            "endTime": 0.9655350000002727, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_24_6", 
+            "name": "load", 
+            "startTime": 0.9653580000003785, 
+            "subtree": "subtree_comp_24", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_30", 
+                "comp_24_8"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_24", 
+            "endTime": 0.9681479999999283, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_24_7", 
+            "name": "load", 
+            "startTime": 0.9655350000002727, 
+            "subtree": "subtree_comp_24", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_24", 
+            "endTime": 0.9683759999998074, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_24_8", 
+            "name": "load", 
+            "startTime": 0.9681479999999283, 
+            "subtree": "subtree_comp_24", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_124", 
+                "comp_25_1"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_25", 
+            "endTime": 0.9767009999995935, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_25_0", 
+            "name": "load", 
+            "startTime": 0.9685989999998128, 
+            "subtree": "subtree_comp_25", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_25", 
+            "endTime": 0.9767970000002606, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_25_1", 
+            "name": "load", 
+            "startTime": 0.9767009999995935, 
+            "subtree": "subtree_comp_25", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_125", 
+                "comp_26_1"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_26", 
+            "endTime": 1.214799999999741, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_26_0", 
+            "name": "load", 
+            "startTime": 1.1238419999999678, 
+            "subtree": "subtree_comp_26", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_26", 
+            "endTime": 1.2151149999999689, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_26_1", 
+            "name": "load", 
+            "startTime": 1.214799999999741, 
+            "subtree": "subtree_comp_26", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_41", 
+                "comp_27_1"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_27", 
+            "endTime": 1.218880999999783, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_27_0", 
+            "name": "load", 
+            "startTime": 1.2167349999999715, 
+            "subtree": "subtree_comp_27", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_58"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_27", 
+            "endTime": 1.219651999999769, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_27_1", 
+            "name": "load", 
+            "startTime": 1.218880999999783, 
+            "subtree": "subtree_comp_27", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_37", 
+                "comp_28_1"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_28", 
+            "endTime": 1.2785270000003948, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_28_0", 
+            "startTime": 1.219825000000128, 
+            "subtree": "subtree_comp_28", 
+            "type": "eval", 
+            "url": "http://www.googletagmanager.com/gtm.js?id=GTM-WGSVK3"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "comp_29_0"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_28", 
+            "endTime": 1.2837719999997717, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_28_1", 
+            "startTime": 1.2785270000003948, 
+            "subtree": "subtree_comp_28", 
+            "type": "eval", 
+            "url": "http://www.googletagmanager.com/gtm.js?id=GTM-WGSVK3"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_28", 
+            "endTime": 1.2850969999999506, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_28_2", 
+            "startTime": 1.2844960000002175, 
+            "subtree": "subtree_comp_28", 
+            "type": "eval", 
+            "url": "http://www.googletagmanager.com/gtm.js?id=GTM-WGSVK3"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_38", 
+                "comp_29_1"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_29", 
+            "endTime": 1.2839599999997517, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_29_0", 
+            "startTime": 1.2837719999997717, 
+            "subtree": "subtree_comp_28", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_28_2"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_29", 
+            "endTime": 1.2844960000002175, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_29_1", 
+            "startTime": 1.2839599999997517, 
+            "subtree": "subtree_comp_28", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_77", 
+                "comp_30_1"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_30", 
+            "endTime": 1.29181299999982, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_30_0", 
+            "startTime": 1.2851190000001225, 
+            "subtree": "subtree_comp_30", 
+            "type": "eval", 
+            "url": "http://edge.quantserve.com/quant.js"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_30", 
+            "endTime": 1.292935999999827, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_30_1", 
+            "startTime": 1.29181299999982, 
+            "subtree": "subtree_comp_30", 
+            "type": "eval", 
+            "url": "http://edge.quantserve.com/quant.js"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_52", 
+                "comp_31_1"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_31", 
+            "endTime": 1.2997669999995196, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_31_0", 
+            "startTime": 1.2929590000003373, 
+            "subtree": "subtree_comp_31", 
+            "type": "eval", 
+            "url": "http://b.scorecardresearch.com/beacon.js"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_31", 
+            "endTime": 1.3000369999999748, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_31_1", 
+            "startTime": 1.2997669999995196, 
+            "subtree": "subtree_comp_31", 
+            "type": "eval", 
+            "url": "http://b.scorecardresearch.com/beacon.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "None", 
+            "endTime": 1.3098849999996673, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_32", 
+            "name": "load", 
+            "startTime": 1.302400999999918, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_42", 
+                "comp_33_1"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_33", 
+            "endTime": 1.3152129999998579, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_33_0", 
+            "name": "load", 
+            "startTime": 1.309903999999733, 
+            "subtree": "subtree_comp_33", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_43", 
+                "comp_33_2"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_33", 
+            "endTime": 1.315426000000116, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_33_1", 
+            "name": "load", 
+            "startTime": 1.3152129999998579, 
+            "subtree": "subtree_comp_33", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_45", 
+                "comp_33_3"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_33", 
+            "endTime": 1.3156669999998485, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_33_2", 
+            "name": "load", 
+            "startTime": 1.315426000000116, 
+            "subtree": "subtree_comp_33", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_51", 
+                "comp_33_4"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_33", 
+            "endTime": 1.3160470000002533, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_33_3", 
+            "name": "load", 
+            "startTime": 1.3156669999998485, 
+            "subtree": "subtree_comp_33", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_76", 
+                "comp_33_5"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_33", 
+            "endTime": 1.3164239999996425, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_33_4", 
+            "name": "load", 
+            "startTime": 1.3160470000002533, 
+            "subtree": "subtree_comp_33", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_50", 
+                "comp_33_6"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_33", 
+            "endTime": 1.3166789999995672, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_33_5", 
+            "name": "load", 
+            "startTime": 1.3164239999996425, 
+            "subtree": "subtree_comp_33", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_54", 
+                "comp_33_7"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_33", 
+            "endTime": 1.3171849999998813, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_33_6", 
+            "name": "load", 
+            "startTime": 1.3166789999995672, 
+            "subtree": "subtree_comp_33", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_57", 
+                "comp_33_8"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_33", 
+            "endTime": 1.3175460000002204, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_33_7", 
+            "name": "load", 
+            "startTime": 1.3171849999998813, 
+            "subtree": "subtree_comp_33", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_66", 
+                "comp_33_9"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_33", 
+            "endTime": 1.317692999999963, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_33_8", 
+            "name": "load", 
+            "startTime": 1.3175460000002204, 
+            "subtree": "subtree_comp_33", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_61", 
+                "comp_33_10"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_33", 
+            "endTime": 1.3178630000002158, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_33_9", 
+            "name": "load", 
+            "startTime": 1.317692999999963, 
+            "subtree": "subtree_comp_33", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_62", 
+                "comp_33_11"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_33", 
+            "endTime": 1.3180160000001706, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_33_10", 
+            "name": "load", 
+            "startTime": 1.3178630000002158, 
+            "subtree": "subtree_comp_33", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_63", 
+                "comp_33_12"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_33", 
+            "endTime": 1.318224999999984, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_33_11", 
+            "name": "load", 
+            "startTime": 1.3180160000001706, 
+            "subtree": "subtree_comp_33", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_64", 
+                "comp_33_13"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_33", 
+            "endTime": 1.3183859999999186, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_33_12", 
+            "name": "load", 
+            "startTime": 1.318224999999984, 
+            "subtree": "subtree_comp_33", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_65", 
+                "comp_33_14"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_33", 
+            "endTime": 1.3185309999998935, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_33_13", 
+            "name": "load", 
+            "startTime": 1.3183859999999186, 
+            "subtree": "subtree_comp_33", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_67", 
+                "comp_33_15"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_33", 
+            "endTime": 1.3186459999997169, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_33_14", 
+            "name": "load", 
+            "startTime": 1.3185309999998935, 
+            "subtree": "subtree_comp_33", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_68", 
+                "comp_33_16"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_33", 
+            "endTime": 1.3187609999995402, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_33_15", 
+            "name": "load", 
+            "startTime": 1.3186459999997169, 
+            "subtree": "subtree_comp_33", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_70", 
+                "comp_33_17"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_33", 
+            "endTime": 1.318956000000071, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_33_16", 
+            "name": "load", 
+            "startTime": 1.3187609999995402, 
+            "subtree": "subtree_comp_33", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_72", 
+                "comp_33_18"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_33", 
+            "endTime": 1.3191509999996924, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_33_17", 
+            "name": "load", 
+            "startTime": 1.318956000000071, 
+            "subtree": "subtree_comp_33", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_75", 
+                "comp_33_19"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_33", 
+            "endTime": 1.3192680000001928, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_33_18", 
+            "name": "load", 
+            "startTime": 1.3191509999996924, 
+            "subtree": "subtree_comp_33", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_74", 
+                "comp_33_20"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_33", 
+            "endTime": 1.3193819999996776, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_33_19", 
+            "name": "load", 
+            "startTime": 1.3192680000001928, 
+            "subtree": "subtree_comp_33", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_33", 
+            "endTime": 1.3262640000002648, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_33_20", 
+            "name": "load", 
+            "startTime": 1.3193819999996776, 
+            "subtree": "subtree_comp_33", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "None", 
+            "endTime": 1.332419999999729, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_34", 
+            "name": "load", 
+            "startTime": 1.326296999999613, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_69", 
+                "comp_74_1"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_74", 
+            "endTime": 1.3571270000002187, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_74_0", 
+            "startTime": 1.3548259999997754, 
+            "subtree": "subtree_comp_74", 
+            "type": "eval", 
+            "url": "https://d31qbv1cthcecs.cloudfront.net/atrk.js"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_73", 
+                "comp_74_2"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_74", 
+            "endTime": 1.3607819999997446, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_74_1", 
+            "startTime": 1.3571270000002187, 
+            "subtree": "subtree_comp_74", 
+            "type": "eval", 
+            "url": "https://d31qbv1cthcecs.cloudfront.net/atrk.js"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_74", 
+            "endTime": 1.360990000000129, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_74_2", 
+            "startTime": 1.3607819999997446, 
+            "subtree": "subtree_comp_74", 
+            "type": "eval", 
+            "url": "https://d31qbv1cthcecs.cloudfront.net/atrk.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "None", 
+            "endTime": 1.4835910000001604, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_75", 
+            "startTime": 1.3610140000000683, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "http://connect.facebook.net/en_US/sdk.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_46", 
+                "comp_76_1"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_76", 
+            "endTime": 1.4898599999996804, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_76_0", 
+            "name": "load", 
+            "startTime": 1.4836109999996552, 
+            "subtree": "subtree_comp_76", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_39", 
+                "comp_76_2"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_76", 
+            "endTime": 1.492761999999857, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_76_1", 
+            "name": "load", 
+            "startTime": 1.4898599999996804, 
+            "subtree": "subtree_comp_76", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_40", 
+                "comp_76_3"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_76", 
+            "endTime": 1.4940440000000308, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_76_2", 
+            "name": "load", 
+            "startTime": 1.492761999999857, 
+            "subtree": "subtree_comp_76", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_47", 
+                "download_48"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_76", 
+            "endTime": 1.495350999999573, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_76_3", 
+            "name": "load", 
+            "startTime": 1.4940440000000308, 
+            "subtree": "subtree_comp_76", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_44", 
+                "comp_77_1"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_77", 
+            "endTime": 1.5236439999998765, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_77_0", 
+            "startTime": 1.495708999999806, 
+            "subtree": "subtree_comp_77", 
+            "type": "eval", 
+            "url": "http://www.google-analytics.com/analytics.js"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_71", 
+                "comp_77_2"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_77", 
+            "endTime": 1.5242419999995036, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_77_1", 
+            "startTime": 1.5236439999998765, 
+            "subtree": "subtree_comp_77", 
+            "type": "eval", 
+            "url": "http://www.google-analytics.com/analytics.js"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_77", 
+            "endTime": 1.524916000000303, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_77_2", 
+            "startTime": 1.5242419999995036, 
+            "subtree": "subtree_comp_77", 
+            "type": "eval", 
+            "url": "http://www.google-analytics.com/analytics.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "None", 
+            "endTime": 1.5249839999996766, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_78", 
+            "name": "load", 
+            "startTime": 1.5249299999995856, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_49", 
+                "comp_79_1"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_79", 
+            "endTime": 1.5315890000001673, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_79_0", 
+            "startTime": 1.5249979999998686, 
+            "subtree": "subtree_comp_79", 
+            "type": "eval", 
+            "url": "http://connect.facebook.net/en_US/fbevents.js"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_79", 
+            "endTime": 1.5319110000000364, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_79_1", 
+            "startTime": 1.5315890000001673, 
+            "subtree": "subtree_comp_79", 
+            "type": "eval", 
+            "url": "http://connect.facebook.net/en_US/fbevents.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "None", 
+            "endTime": 1.7045280000002094, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_81", 
+            "name": "load", 
+            "startTime": 1.703679000000193, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_1"
+            ], 
+            "docUrl": "http://staticxx.facebook.com/connect/xd_arbiter/r/P5DLcu0KGJB.js?version=42#channel=f10f7d9e8&origin=http%3A%2F%2Fdiply.com", 
+            "enclosing": "None", 
+            "endTime": 1.8180819999997766, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_82", 
+            "startTime": 1.7905799999998635, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_2_1"
+            ], 
+            "docUrl": "https://staticxx.facebook.com/connect/xd_arbiter/r/P5DLcu0KGJB.js?version=42#channel=f10f7d9e8&origin=http%3A%2F%2Fdiply.com", 
+            "enclosing": "None", 
+            "endTime": 1.837470999999823, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_83", 
+            "startTime": 1.819934000000103, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_2"
+            ], 
+            "docUrl": "http://staticxx.facebook.com/connect/xd_arbiter/r/P5DLcu0KGJB.js?version=42#channel=f10f7d9e8&origin=http%3A%2F%2Fdiply.com", 
+            "enclosing": "None", 
+            "endTime": 1.8389539999998306, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_84", 
+            "startTime": 1.8387949999996636, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_2_2"
+            ], 
+            "docUrl": "https://staticxx.facebook.com/connect/xd_arbiter/r/P5DLcu0KGJB.js?version=42#channel=f10f7d9e8&origin=http%3A%2F%2Fdiply.com", 
+            "enclosing": "None", 
+            "endTime": 1.8409529999998995, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_85", 
+            "startTime": 1.8406709999999293, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "None", 
+            "endTime": 1.9285030000000916, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_88", 
+            "name": "load", 
+            "startTime": 1.9278510000003735, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "None", 
+            "endTime": 2.470589999999902, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_89", 
+            "name": "load", 
+            "startTime": 2.4701130000003104, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "None", 
+            "endTime": 3.5446789999996327, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_90", 
+            "name": "load", 
+            "startTime": 3.5293830000000526, 
+            "subtree": "None", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "children": [
+                "pchunk_2_1", 
+                "comp_83"
+            ], 
+            "docUrl": "https://staticxx.facebook.com/connect/xd_arbiter/r/P5DLcu0KGJB.js?version=42#channel=f10f7d9e8&origin=http%3A%2F%2Fdiply.com", 
+            "endColumn": 3180, 
+            "endRow": 49, 
+            "endTag": "script", 
+            "endTime": 1.819351999997707, 
+            "frame": 2, 
+            "id": "pchunk_2_0", 
+            "isFragment": false, 
+            "startColumn": 21, 
+            "startRow": 0, 
+            "startTag": "html", 
+            "startTime": 1.8191559999995661, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_2", 
+                "comp_85"
+            ], 
+            "docUrl": "https://staticxx.facebook.com/connect/xd_arbiter/r/P5DLcu0KGJB.js?version=42#channel=f10f7d9e8&origin=http%3A%2F%2Fdiply.com", 
+            "endColumn": 3904, 
+            "endRow": 49, 
+            "endTag": "script", 
+            "endTime": 1.8405420000008235, 
+            "frame": 2, 
+            "id": "pchunk_2_1", 
+            "isFragment": false, 
+            "startColumn": 3229, 
+            "startRow": 49, 
+            "startTag": "b", 
+            "startTime": 1.8400190000002112, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [], 
+            "docUrl": "https://staticxx.facebook.com/connect/xd_arbiter/r/P5DLcu0KGJB.js?version=42#channel=f10f7d9e8&origin=http%3A%2F%2Fdiply.com", 
+            "endColumn": 3918, 
+            "endRow": 49, 
+            "endTag": "html", 
+            "endTime": 1.8409950000004756, 
+            "frame": 2, 
+            "id": "pchunk_2_2", 
+            "isFragment": false, 
+            "startColumn": 3911, 
+            "startRow": 49, 
+            "startTag": "body", 
+            "startTime": 1.8409849999998187, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_0", 
+                "dchunk_2_1"
+            ], 
+            "id": "dchunk_2_0", 
+            "offset": 22, 
+            "resource": "download_48", 
+            "size": 32718, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_1", 
+                "dchunk_2_2"
+            ], 
+            "id": "dchunk_2_1", 
+            "offset": 32740, 
+            "resource": "download_48", 
+            "size": 675, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_2"
+            ], 
+            "id": "dchunk_2_2", 
+            "offset": 33415, 
+            "resource": "download_48", 
+            "size": 7, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_1", 
+                "comp_0"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "endColumn": 13, 
+            "endRow": 41, 
+            "endTag": "script", 
+            "endTime": 0.5361479999992298, 
+            "frame": 1, 
+            "id": "pchunk_1_0", 
+            "isFragment": false, 
+            "startColumn": 16, 
+            "startRow": 2, 
+            "startTag": "html", 
+            "startTime": 0.5353720000002795, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_5", 
+                "pchunk_1_2"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "endColumn": 131, 
+            "endRow": 44, 
+            "endTag": "link", 
+            "endTime": 0.5369579999996859, 
+            "frame": 1, 
+            "id": "pchunk_1_1", 
+            "isFragment": false, 
+            "startColumn": 131, 
+            "startRow": 44, 
+            "startTag": "link", 
+            "startTime": 0.536710999999741, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_3", 
+                "pchunk_1_3"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "endColumn": 113, 
+            "endRow": 45, 
+            "endTag": "link", 
+            "endTime": 0.5373950000002878, 
+            "frame": 1, 
+            "id": "pchunk_1_2", 
+            "isFragment": false, 
+            "startColumn": 113, 
+            "startRow": 45, 
+            "startTag": "link", 
+            "startTime": 0.5369689999997718, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_7", 
+                "pchunk_1_4"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "endColumn": 111, 
+            "endRow": 46, 
+            "endTag": "script", 
+            "endTime": 0.5374329999995098, 
+            "frame": 1, 
+            "id": "pchunk_1_3", 
+            "isFragment": false, 
+            "startColumn": 102, 
+            "startRow": 46, 
+            "startTag": "script", 
+            "startTime": 0.5374050000000352, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_8", 
+                "pchunk_1_5"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "endColumn": 101, 
+            "endRow": 47, 
+            "endTag": "script", 
+            "endTime": 0.6555889999999636, 
+            "frame": 1, 
+            "id": "pchunk_1_4", 
+            "isFragment": false, 
+            "startColumn": 92, 
+            "startRow": 47, 
+            "startTag": "script", 
+            "startTime": 0.6555490000000646, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_4", 
+                "pchunk_1_6"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "endColumn": 101, 
+            "endRow": 48, 
+            "endTag": "script", 
+            "endTime": 0.6562539999995352, 
+            "frame": 1, 
+            "id": "pchunk_1_5", 
+            "isFragment": false, 
+            "startColumn": 92, 
+            "startRow": 48, 
+            "startTag": "script", 
+            "startTime": 0.6562379999995755, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_2", 
+                "pchunk_1_7"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "endColumn": 98, 
+            "endRow": 51, 
+            "endTag": "link", 
+            "endTime": 0.66547300000002, 
+            "frame": 1, 
+            "id": "pchunk_1_6", 
+            "isFragment": false, 
+            "startColumn": 98, 
+            "startRow": 51, 
+            "startTag": "link", 
+            "startTime": 0.6645250000001397, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_1", 
+                "pchunk_1_8"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "endColumn": 105, 
+            "endRow": 52, 
+            "endTag": "link", 
+            "endTime": 0.6665309999998499, 
+            "frame": 1, 
+            "id": "pchunk_1_7", 
+            "isFragment": false, 
+            "startColumn": 105, 
+            "startRow": 52, 
+            "startTag": "link", 
+            "startTime": 0.665990999999849, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_9", 
+                "pchunk_1_9"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "endColumn": 97, 
+            "endRow": 53, 
+            "endTag": "link", 
+            "endTime": 0.6668099999997139, 
+            "frame": 1, 
+            "id": "pchunk_1_8", 
+            "isFragment": false, 
+            "startColumn": 97, 
+            "startRow": 53, 
+            "startTag": "link", 
+            "startTime": 0.6665380000004006, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_6", 
+                "pchunk_1_10"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "endColumn": 114, 
+            "endRow": 58, 
+            "endTag": "link", 
+            "endTime": 0.6687140000003637, 
+            "frame": 1, 
+            "id": "pchunk_1_9", 
+            "isFragment": false, 
+            "startColumn": 114, 
+            "startRow": 58, 
+            "startTag": "link", 
+            "startTime": 0.6668170000002647, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_11", 
+                "comp_10_0"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "endColumn": 13, 
+            "endRow": 74, 
+            "endTag": "script", 
+            "endTime": 0.668934000000263, 
+            "frame": 1, 
+            "id": "pchunk_1_10", 
+            "isFragment": false, 
+            "startColumn": 7, 
+            "startRow": 61, 
+            "startTag": "head", 
+            "startTime": 0.6687259999998787, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_10", 
+                "pchunk_1_12"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "endColumn": 120, 
+            "endRow": 275, 
+            "endTag": "script", 
+            "endTime": 0.6713330000002316, 
+            "frame": 1, 
+            "id": "pchunk_1_11", 
+            "isFragment": false, 
+            "startColumn": 76, 
+            "startRow": 80, 
+            "startTag": "div", 
+            "startTime": 0.6696449999999459, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_11", 
+                "pchunk_1_13"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "endColumn": 103, 
+            "endRow": 276, 
+            "endTag": "script", 
+            "endTime": 0.682013999999981, 
+            "frame": 1, 
+            "id": "pchunk_1_12", 
+            "isFragment": false, 
+            "startColumn": 94, 
+            "startRow": 276, 
+            "startTag": "script", 
+            "startTime": 0.6819509999995716, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_16", 
+                "pchunk_1_14"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "endColumn": 114, 
+            "endRow": 277, 
+            "endTag": "script", 
+            "endTime": 0.6838229999993928, 
+            "frame": 1, 
+            "id": "pchunk_1_13", 
+            "isFragment": false, 
+            "startColumn": 105, 
+            "startRow": 277, 
+            "startTag": "script", 
+            "startTime": 0.6837969999996858, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_12", 
+                "pchunk_1_15"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "endColumn": 96, 
+            "endRow": 278, 
+            "endTag": "script", 
+            "endTime": 0.7448380000005272, 
+            "frame": 1, 
+            "id": "pchunk_1_14", 
+            "isFragment": false, 
+            "startColumn": 87, 
+            "startRow": 278, 
+            "startTag": "script", 
+            "startTime": 0.7447879999999714, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_16", 
+                "comp_15"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "endColumn": 9, 
+            "endRow": 297, 
+            "endTag": "script", 
+            "endTime": 0.7490489999991041, 
+            "frame": 1, 
+            "id": "pchunk_1_15", 
+            "isFragment": false, 
+            "startColumn": 18, 
+            "startRow": 282, 
+            "startTag": "div", 
+            "startTime": 0.7489669999995385, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_17", 
+                "comp_16_0"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "endColumn": 9, 
+            "endRow": 332, 
+            "endTag": "script", 
+            "endTime": 0.7492390000006708, 
+            "frame": 1, 
+            "id": "pchunk_1_16", 
+            "isFragment": false, 
+            "startColumn": 8, 
+            "startRow": 299, 
+            "startTag": "script", 
+            "startTime": 0.7492190000002665, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_14", 
+                "pchunk_1_18"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "endColumn": 102, 
+            "endRow": 346, 
+            "endTag": "script", 
+            "endTime": 0.7502929999991466, 
+            "frame": 1, 
+            "id": "pchunk_1_17", 
+            "isFragment": false, 
+            "startColumn": 10, 
+            "startRow": 334, 
+            "startTag": "noscript", 
+            "startTime": 0.7500879999997778, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_13", 
+                "pchunk_1_19"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "endColumn": 92, 
+            "endRow": 347, 
+            "endTag": "script", 
+            "endTime": 0.7508130000005622, 
+            "frame": 1, 
+            "id": "pchunk_1_18", 
+            "isFragment": false, 
+            "startColumn": 83, 
+            "startRow": 347, 
+            "startTag": "script", 
+            "startTime": 0.7507850000001781, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_15", 
+                "pchunk_1_20"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "endColumn": 92, 
+            "endRow": 348, 
+            "endTag": "script", 
+            "endTime": 0.7512429999997039, 
+            "frame": 1, 
+            "id": "pchunk_1_19", 
+            "isFragment": false, 
+            "startColumn": 83, 
+            "startRow": 348, 
+            "startTag": "script", 
+            "startTime": 0.7512180000003355, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "comp_20_0"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "endColumn": 7, 
+            "endRow": 352, 
+            "endTag": "html", 
+            "endTime": 0.751563000000715, 
+            "frame": 1, 
+            "id": "pchunk_1_20", 
+            "isFragment": false, 
+            "startColumn": 7, 
+            "startRow": 351, 
+            "startTag": "body", 
+            "startTime": 0.7515530000000581, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_0", 
+                "dchunk_1_1"
+            ], 
+            "id": "dchunk_1_0", 
+            "offset": 35, 
+            "resource": "download_0", 
+            "size": 3628, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_1", 
+                "dchunk_1_2"
+            ], 
+            "id": "dchunk_1_1", 
+            "offset": 3663, 
+            "resource": "download_0", 
+            "size": 0, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_2", 
+                "dchunk_1_3"
+            ], 
+            "id": "dchunk_1_2", 
+            "offset": 3663, 
+            "resource": "download_0", 
+            "size": 0, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_3", 
+                "dchunk_1_4"
+            ], 
+            "id": "dchunk_1_3", 
+            "offset": 3663, 
+            "resource": "download_0", 
+            "size": 9, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_4", 
+                "dchunk_1_5"
+            ], 
+            "id": "dchunk_1_4", 
+            "offset": 3672, 
+            "resource": "download_0", 
+            "size": 9, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_5", 
+                "dchunk_1_6"
+            ], 
+            "id": "dchunk_1_5", 
+            "offset": 3681, 
+            "resource": "download_0", 
+            "size": 9, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_6", 
+                "dchunk_1_7"
+            ], 
+            "id": "dchunk_1_6", 
+            "offset": 3690, 
+            "resource": "download_0", 
+            "size": 0, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_7", 
+                "dchunk_1_8"
+            ], 
+            "id": "dchunk_1_7", 
+            "offset": 3690, 
+            "resource": "download_0", 
+            "size": 0, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_8", 
+                "dchunk_1_9"
+            ], 
+            "id": "dchunk_1_8", 
+            "offset": 3690, 
+            "resource": "download_0", 
+            "size": 0, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_9", 
+                "dchunk_1_10"
+            ], 
+            "id": "dchunk_1_9", 
+            "offset": 3690, 
+            "resource": "download_0", 
+            "size": 0, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_10", 
+                "dchunk_1_11"
+            ], 
+            "id": "dchunk_1_10", 
+            "offset": 3690, 
+            "resource": "download_0", 
+            "size": 666, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_11", 
+                "dchunk_1_12"
+            ], 
+            "id": "dchunk_1_11", 
+            "offset": 4356, 
+            "resource": "download_0", 
+            "size": 7972, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_12", 
+                "dchunk_1_13"
+            ], 
+            "id": "dchunk_1_12", 
+            "offset": 12328, 
+            "resource": "download_0", 
+            "size": 9, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_13", 
+                "dchunk_1_14"
+            ], 
+            "id": "dchunk_1_13", 
+            "offset": 12337, 
+            "resource": "download_0", 
+            "size": 9, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_14", 
+                "dchunk_1_15"
+            ], 
+            "id": "dchunk_1_14", 
+            "offset": 12346, 
+            "resource": "download_0", 
+            "size": 9, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_15", 
+                "dchunk_1_16"
+            ], 
+            "id": "dchunk_1_15", 
+            "offset": 12355, 
+            "resource": "download_0", 
+            "size": 359, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_16", 
+                "dchunk_1_17"
+            ], 
+            "id": "dchunk_1_16", 
+            "offset": 12714, 
+            "resource": "download_0", 
+            "size": 1476, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_17", 
+                "dchunk_1_18"
+            ], 
+            "id": "dchunk_1_17", 
+            "offset": 14190, 
+            "resource": "download_0", 
+            "size": 548, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_18", 
+                "dchunk_1_19"
+            ], 
+            "id": "dchunk_1_18", 
+            "offset": 14738, 
+            "resource": "download_0", 
+            "size": 9, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_19", 
+                "dchunk_1_20"
+            ], 
+            "id": "dchunk_1_19", 
+            "offset": 14747, 
+            "resource": "download_0", 
+            "size": 9, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_20"
+            ], 
+            "id": "dchunk_1_20", 
+            "offset": 14756, 
+            "resource": "download_0", 
+            "size": 9, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_1", 
+                "comp_82"
+            ], 
+            "docUrl": "http://staticxx.facebook.com/connect/xd_arbiter/r/P5DLcu0KGJB.js?version=42#channel=f10f7d9e8&origin=http%3A%2F%2Fdiply.com", 
+            "endColumn": 3180, 
+            "endRow": 49, 
+            "endTag": "script", 
+            "endTime": 1.789733999999953, 
+            "frame": 0, 
+            "id": "pchunk_0_0", 
+            "isFragment": false, 
+            "startColumn": 21, 
+            "startRow": 0, 
+            "startTag": "html", 
+            "startTime": 1.7894820000001346, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_2", 
+                "comp_84"
+            ], 
+            "docUrl": "http://staticxx.facebook.com/connect/xd_arbiter/r/P5DLcu0KGJB.js?version=42#channel=f10f7d9e8&origin=http%3A%2F%2Fdiply.com", 
+            "endColumn": 3904, 
+            "endRow": 49, 
+            "endTag": "script", 
+            "endTime": 1.8387570000004416, 
+            "frame": 0, 
+            "id": "pchunk_0_1", 
+            "isFragment": false, 
+            "startColumn": 3229, 
+            "startRow": 49, 
+            "startTag": "b", 
+            "startTime": 1.8384470000000874, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [], 
+            "docUrl": "http://staticxx.facebook.com/connect/xd_arbiter/r/P5DLcu0KGJB.js?version=42#channel=f10f7d9e8&origin=http%3A%2F%2Fdiply.com", 
+            "endColumn": 3918, 
+            "endRow": 49, 
+            "endTag": "html", 
+            "endTime": 1.8389870000000883, 
+            "frame": 0, 
+            "id": "pchunk_0_2", 
+            "isFragment": false, 
+            "startColumn": 3911, 
+            "startRow": 49, 
+            "startTag": "body", 
+            "startTime": 1.8389569999999367, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_0", 
+                "dchunk_0_1"
+            ], 
+            "id": "dchunk_0_0", 
+            "offset": 21, 
+            "resource": "download_47", 
+            "size": 32718, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_1", 
+                "dchunk_0_2"
+            ], 
+            "id": "dchunk_0_1", 
+            "offset": 32739, 
+            "resource": "download_47", 
+            "size": 675, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_2"
+            ], 
+            "id": "dchunk_0_2", 
+            "offset": 33414, 
+            "resource": "download_47", 
+            "size": 7, 
+            "type": "download_chunk"
+        }
+    ], 
+    "frames": [
+        {
+            "id": 2, 
+            "parent": 1, 
+            "subframes": [], 
+            "url": "https://staticxx.facebook.com/connect/xd_arbiter/r/P5DLcu0KGJB.js?version=42#channel=f10f7d9e8&origin=http%3A%2F%2Fdiply.com"
+        }, 
+        {
+            "id": 1, 
+            "subframes": [
+                2, 
+                0
+            ], 
+            "url": "http://diply.com/"
+        }, 
+        {
+            "id": 0, 
+            "parent": 1, 
+            "subframes": [], 
+            "url": "http://staticxx.facebook.com/connect/xd_arbiter/r/P5DLcu0KGJB.js?version=42#channel=f10f7d9e8&origin=http%3A%2F%2Fdiply.com"
+        }
+    ], 
+    "loadEvent": "comp_90", 
+    "name": "http://diply.com/", 
+    "root_activity": "download_0"
+}

@@ -1,0 +1,1644 @@
+{
+    "DOMContentLoadedEvent": "comp_708", 
+    "activities": [
+        {
+            "cached": false, 
+            "children": [
+                "comp_4", 
+                "comp_72"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_1", 
+            "mimeType": "text/javascript", 
+            "sentTime": 0.5630320000000211, 
+            "size": 11628, 
+            "type": "resource", 
+            "url": "https://instagramstatic-a.akamaihd.net/h1/scripts/webfont.js/c0456c81549b.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_23", 
+                "comp_72"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_7", 
+            "mimeType": "image/jpeg", 
+            "sentTime": 1.2107550000000629, 
+            "size": 32106, 
+            "type": "resource", 
+            "url": "https://instagramstatic-a.akamaihd.net/h1/images/homepage/screenshot2.jpg/2d9d7248af43.jpg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_27", 
+                "comp_72"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_14", 
+            "mimeType": "image/jpeg", 
+            "sentTime": 1.2109629999995377, 
+            "size": 26442, 
+            "type": "resource", 
+            "url": "https://instagramstatic-a.akamaihd.net/h1/images/homepage/screenshot4.jpg/001bc33056c1.jpg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "dchunk_0_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_0", 
+            "mimeType": "text/html", 
+            "sentTime": 0.0, 
+            "size": 14810, 
+            "type": "resource", 
+            "url": "https://www.instagram.com/"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_72"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_18", 
+            "mimeType": "image/gif", 
+            "sentTime": 1.6441869999998744, 
+            "size": 44, 
+            "type": "resource", 
+            "url": "https://www.facebook.com/tr/?id=1425767024389221&ev=ViewContent&dl=https%3A%2F%2Fwww.instagram.com%2F&rl=&if=false&ts=1474461473762&v=2.5.0"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "dchunk_2_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_22", 
+            "mimeType": "text/html", 
+            "sentTime": 2.0464449999999488, 
+            "size": 33477, 
+            "type": "resource", 
+            "url": "https://staticxx.facebook.com/connect/xd_arbiter/r/P5DLcu0KGJB.js?version=42#cb=f8336a5b4&domain=www.instagram.com&origin=https%3A%2F%2Fwww.instagram.com%2Ff2dd214b44&relation=parent&error=unknown_user"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_308"
+            ], 
+            "httpMethod": "POST", 
+            "id": "download_23", 
+            "mimeType": "application/json", 
+            "sentTime": 2.9126509999996415, 
+            "size": 16, 
+            "type": "resource", 
+            "url": "https://www.instagram.com/ajax/bz"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_7_0", 
+                "comp_72"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_2", 
+            "mimeType": "text/javascript", 
+            "sentTime": 0.9802039999995031, 
+            "size": 206593, 
+            "type": "resource", 
+            "url": "https://instagramstatic-a.akamaihd.net/h1/bundles/en_US_LandingPage.js/65310e3d628e.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_72"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_6", 
+            "mimeType": "image/png", 
+            "sentTime": 1.2361519999994925, 
+            "size": 1653, 
+            "type": "resource", 
+            "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2hpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDoyRTNGMkVENTlEMjE2ODExODIyQUNEMjMwNzUzNTEzMyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDowMzIxMkU3QTcxMUUxMUUyQjdFMUNDNDg3OTE3RUY5RCIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDowMzIxMkU3OTcxMUUxMUUyQjdFMUNDNDg3OTE3RUY5RCIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M2IChNYWNpbnRvc2gpIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6ODJGQzEwNTI1MDIyNjgxMTgyMkFDRDIzMDc1MzUxMzMiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6MkUzRjJFRDU5RDIxNjgxMTgyMkFDRDIzMDc1MzUxMzMiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz6COBsvAAACo0lEQVR42uyZu08UURjFZ1Y2GjQ+MIaEmODb1qVGQkMhhZ001rKN8Q+AWFjY2NqwGgsrKwq1oqAxgYagogWNxS6ymvAw+AAW3TCem5xNbibcuzM7995x4nzJL8zOzM6cc1/fd1k/CAIvy1HwMh65gdxAbiDj0WXjoeVyWXmtUqlkpgdGwCdQBTezOISmwEXQLxre1kv8qJlYNywUEX6wH+fLUYfaf7kKnQdPwAswbEDDYXAGnAZFFwYmwAC4DB6BGwnEHwE9FC6MnHRh4Fjo+w86NCHEnwrNjYILA49BM6GJg8SL+OHCwDyYVJgYlc6tSsffIojfAruu8sCswsR9cJaf74INih/nuUMa8TuuS4lZ/n0oPafIVUq0/ksSfp8x8SbyQKsn9vh5BSxq7v8t9VqQVHzbTBwj+/aBC+BtS1A4k0rP8rlkNkNDsKPMbKoa/UKilhgNl+V0STQgOK64LobBU/BOV7/I19gbJ8A5jYY/oAa+J50DdzTiPWbP8Q4ar79NAxZ5j5NirunZicCEgSmu56rY4BCKG1WuSroVq2ZiDnwA9+LuGTSrkFw2fLQ6iQ+YeLp50MsWa0R4pyidf4HtpBsaE8voVXCLz9rikGto3jcEjoJ98B7U0/yvhBA/xhqn1ROilFhW9FgPxbfmX4nH9TQMhMV7bNV1HouibpBC5zi8fvKegpSVE5koGBQvlrzX0oo1yPwhNkDXeW6X5cZ+aLNfkqpY6wYuKcS/EtlYOicnv27p+KvCxDXWVNYNDEcQ3y5UJq64MLCXULzORNOFgRnwmZN1ukPxsokFFmybYMnFKrQGnhmsd9ZIKjuy1MO38Sslk9htKWmJefM8TonwL/TAHEsKIf6NrZd0WTRQJVYjnwNpR/4rZW4gN5Dx+CvAABjBsk/oCqxuAAAAAElFTkSuQmCC"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_72"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_16", 
+            "mimeType": "text/html", 
+            "sentTime": 1.6333589999994729, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "about:blank"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_22", 
+                "comp_72"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_5", 
+            "mimeType": "image/jpeg", 
+            "sentTime": 1.210400999999365, 
+            "size": 42261, 
+            "type": "resource", 
+            "url": "https://instagramstatic-a.akamaihd.net/h1/images/homepage/screenshot1.jpg/aafd8c6b005d.jpg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_72"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_13", 
+            "mimeType": "image/png", 
+            "sentTime": 1.2357539999993605, 
+            "size": 109828, 
+            "type": "resource", 
+            "url": "https://instagramstatic-a.akamaihd.net/h1/images/homepage/home-phones.png/38825c9d5aa2.png"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_72"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_12", 
+            "mimeType": "image/png", 
+            "sentTime": 1.236007999999856, 
+            "size": 154435, 
+            "type": "resource", 
+            "url": "https://instagramstatic-a.akamaihd.net/h1/sprites/core/87d7c0.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_25", 
+            "mimeType": "image/png", 
+            "originalResource": "download_12", 
+            "sentTime": 2.09939200000008, 
+            "size": 154435, 
+            "type": "resource", 
+            "url": "https://instagramstatic-a.akamaihd.net/h1/sprites/core/87d7c0.png"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_72"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_21", 
+            "mimeType": "image/gif", 
+            "sentTime": 1.6440130000000863, 
+            "size": 44, 
+            "type": "resource", 
+            "url": "https://www.facebook.com/tr/?id=1425767024389221&ev=PageView&dl=https%3A%2F%2Fwww.instagram.com%2F&rl=&if=false&ts=1474461473762&v=2.5.0"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_29", 
+                "comp_72"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_4", 
+            "mimeType": "application/x-javascript", 
+            "sentTime": 1.1158079999995607, 
+            "size": 189728, 
+            "type": "resource", 
+            "url": "https://connect.facebook.net/en_US/sdk.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "dchunk_1_0", 
+                "comp_72"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_20", 
+            "mimeType": "text/html", 
+            "sentTime": 1.6889129999999568, 
+            "size": 33477, 
+            "type": "resource", 
+            "url": "https://staticxx.facebook.com/connect/xd_arbiter/r/P5DLcu0KGJB.js?version=42#channel=f2dd214b44&origin=https%3A%2F%2Fwww.instagram.com"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_6", 
+                "comp_72"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_3", 
+            "mimeType": "text/javascript", 
+            "sentTime": 0.5699199999999109, 
+            "size": 443649, 
+            "type": "resource", 
+            "url": "https://instagramstatic-a.akamaihd.net/h1/bundles/en_US_Commons.js/517aaec8d1f6.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_26", 
+                "comp_72"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_10", 
+            "mimeType": "image/jpeg", 
+            "sentTime": 1.211051999999654, 
+            "size": 35056, 
+            "type": "resource", 
+            "url": "https://instagramstatic-a.akamaihd.net/h1/images/homepage/screenshot5.jpg/f5ae123ab1e2.jpg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_35_0", 
+                "comp_72"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_15", 
+            "mimeType": "application/x-javascript", 
+            "sentTime": 1.1967619999995804, 
+            "size": 9319, 
+            "type": "resource", 
+            "url": "https://connect.facebook.net/en_US/fbevents.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_24", 
+                "comp_72"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_8", 
+            "mimeType": "image/png", 
+            "sentTime": 1.2225730000000112, 
+            "size": 3754, 
+            "type": "resource", 
+            "url": "https://instagramstatic-a.akamaihd.net/h1/images/appstore-install-badges/badge_ios_english-en.png/4b70f6fae447.png"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_28", 
+                "comp_72"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_9", 
+            "mimeType": "image/jpeg", 
+            "sentTime": 1.2108600000001388, 
+            "size": 24052, 
+            "type": "resource", 
+            "url": "https://instagramstatic-a.akamaihd.net/h1/images/homepage/screenshot3.jpg/629d23a3c7b2.jpg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_72"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_19", 
+            "mimeType": "image/gif", 
+            "sentTime": 1.6445059999996374, 
+            "size": 44, 
+            "type": "resource", 
+            "url": "https://www.facebook.com/tr/?ev=6021483937929&dl=https%3A%2F%2Fwww.instagram.com%2F&rl=&if=false&ts=1474461473763&cd[value]=0.00&cd[currency]=USD&v=2.5.0"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_25", 
+                "comp_72"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_11", 
+            "mimeType": "image/png", 
+            "sentTime": 1.2233109999997396, 
+            "size": 3420, 
+            "type": "resource", 
+            "url": "https://instagramstatic-a.akamaihd.net/h1/images/appstore-install-badges/english_get.png/74c874cf7dc5.png"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_72"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_17", 
+            "mimeType": "image/gif", 
+            "sentTime": 1.6298839999999473, 
+            "size": 43, 
+            "type": "resource", 
+            "url": "https://www.facebook.com/impression.php/f2eba38404/?api_key=124024574287414&lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_72"
+            ], 
+            "docUrl": "https://www.instagram.com/", 
+            "enclosing": "None", 
+            "endTime": 0, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_708", 
+            "name": "DOMContentLoaded", 
+            "startTime": 0, 
+            "subtree": "None", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_1"
+            ], 
+            "docUrl": "https://www.instagram.com/", 
+            "enclosing": "None", 
+            "endTime": 0.5623909999994794, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_0", 
+            "startTime": 0.5622269999994387, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_2"
+            ], 
+            "docUrl": "https://www.instagram.com/", 
+            "enclosing": "None", 
+            "endTime": 0.5628339999993841, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_1", 
+            "startTime": 0.5627569999996922, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_4"
+            ], 
+            "docUrl": "https://www.instagram.com/", 
+            "enclosing": "None", 
+            "endTime": 0.5663239999994403, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_2", 
+            "startTime": 0.5651289999996152, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_5"
+            ], 
+            "docUrl": "https://www.instagram.com/", 
+            "enclosing": "None", 
+            "endTime": 0.5697659999996176, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_3", 
+            "startTime": 0.5693619999992734, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 3, 
+            "children": [], 
+            "docUrl": "https://www.instagram.com/", 
+            "enclosing": "None", 
+            "endTime": 0.9218860000000859, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_4", 
+            "startTime": 0.910080999999991, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://instagramstatic-a.akamaihd.net/h1/scripts/webfont.js/c0456c81549b.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_6"
+            ], 
+            "docUrl": "https://www.instagram.com/", 
+            "enclosing": "None", 
+            "endTime": 0.9800759999998263, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_6", 
+            "startTime": 0.9683109999996304, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://instagramstatic-a.akamaihd.net/h1/bundles/en_US_Commons.js/517aaec8d1f6.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_4", 
+                "comp_7_1"
+            ], 
+            "docUrl": "https://www.instagram.com/", 
+            "enclosing": "comp_7", 
+            "endTime": 1.1149789999999484, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_7_0", 
+            "startTime": 0.9811389999995299, 
+            "subtree": "subtree_comp_7", 
+            "type": "eval", 
+            "url": "https://instagramstatic-a.akamaihd.net/h1/bundles/en_US_LandingPage.js/65310e3d628e.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_7", 
+                "comp_15_0"
+            ], 
+            "docUrl": "https://www.instagram.com/", 
+            "enclosing": "comp_7", 
+            "endTime": 1.1963569999998072, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_7_1", 
+            "startTime": 1.1149789999999484, 
+            "subtree": "subtree_comp_7", 
+            "type": "eval", 
+            "url": "https://instagramstatic-a.akamaihd.net/h1/bundles/en_US_LandingPage.js/65310e3d628e.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_15", 
+                "comp_8_1"
+            ], 
+            "docUrl": "https://www.instagram.com/", 
+            "enclosing": "comp_8", 
+            "endTime": 1.1966349999993326, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_8_0", 
+            "startTime": 1.1964159999997719, 
+            "subtree": "subtree_comp_8", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_8"
+            ], 
+            "docUrl": "https://www.instagram.com/", 
+            "enclosing": "comp_8", 
+            "endTime": 1.1969030000000203, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_8_1", 
+            "startTime": 1.1966349999993326, 
+            "subtree": "subtree_comp_8", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_9"
+            ], 
+            "docUrl": "https://www.instagram.com/", 
+            "enclosing": "None", 
+            "endTime": 1.1971969999995054, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_9", 
+            "startTime": 1.1969419999995807, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_13", 
+                "comp_15_1"
+            ], 
+            "docUrl": "https://www.instagram.com/", 
+            "enclosing": "comp_15", 
+            "endTime": 1.2090369999996256, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_15_0", 
+            "name": "message", 
+            "startTime": 1.1987339999996038, 
+            "subtree": "subtree_comp_15", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_5", 
+                "comp_15_2"
+            ], 
+            "docUrl": "https://www.instagram.com/", 
+            "enclosing": "comp_15", 
+            "endTime": 1.2092619999993985, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_15_1", 
+            "name": "message", 
+            "startTime": 1.2090369999996256, 
+            "subtree": "subtree_comp_15", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_7", 
+                "comp_15_3"
+            ], 
+            "docUrl": "https://www.instagram.com/", 
+            "enclosing": "comp_15", 
+            "endTime": 1.2106370000001334, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_15_2", 
+            "name": "message", 
+            "startTime": 1.2092619999993985, 
+            "subtree": "subtree_comp_15", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_9", 
+                "comp_15_4"
+            ], 
+            "docUrl": "https://www.instagram.com/", 
+            "enclosing": "comp_15", 
+            "endTime": 1.2107769999993252, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_15_3", 
+            "name": "message", 
+            "startTime": 1.2106370000001334, 
+            "subtree": "subtree_comp_15", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_14", 
+                "comp_15_5"
+            ], 
+            "docUrl": "https://www.instagram.com/", 
+            "enclosing": "comp_15", 
+            "endTime": 1.2108819999994012, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_15_4", 
+            "name": "message", 
+            "startTime": 1.2107769999993252, 
+            "subtree": "subtree_comp_15", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_10", 
+                "comp_15_6"
+            ], 
+            "docUrl": "https://www.instagram.com/", 
+            "enclosing": "comp_15", 
+            "endTime": 1.210980999999265, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_15_5", 
+            "name": "message", 
+            "startTime": 1.2108819999994012, 
+            "subtree": "subtree_comp_15", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_12", 
+                "comp_15_7"
+            ], 
+            "docUrl": "https://www.instagram.com/", 
+            "enclosing": "comp_15", 
+            "endTime": 1.213835999999901, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_15_6", 
+            "name": "message", 
+            "startTime": 1.210980999999265, 
+            "subtree": "subtree_comp_15", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_6", 
+                "comp_15_8"
+            ], 
+            "docUrl": "https://www.instagram.com/", 
+            "enclosing": "comp_15", 
+            "endTime": 1.2186039999996865, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_15_7", 
+            "name": "message", 
+            "startTime": 1.213835999999901, 
+            "subtree": "subtree_comp_15", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_8", 
+                "comp_15_9"
+            ], 
+            "docUrl": "https://www.instagram.com/", 
+            "enclosing": "comp_15", 
+            "endTime": 1.2223340000000462, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_15_8", 
+            "name": "message", 
+            "startTime": 1.2186039999996865, 
+            "subtree": "subtree_comp_15", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_11", 
+                "comp_15_10"
+            ], 
+            "docUrl": "https://www.instagram.com/", 
+            "enclosing": "comp_15", 
+            "endTime": 1.223229999999603, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_15_9", 
+            "name": "message", 
+            "startTime": 1.2223340000000462, 
+            "subtree": "subtree_comp_15", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.instagram.com/", 
+            "enclosing": "comp_15", 
+            "endTime": 1.2451619999992545, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_15_10", 
+            "name": "message", 
+            "startTime": 1.223229999999603, 
+            "subtree": "subtree_comp_15", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.instagram.com/", 
+            "enclosing": "None", 
+            "endTime": 1.5143099999995684, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_22", 
+            "name": "load", 
+            "startTime": 1.512047999999595, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.instagram.com/", 
+            "enclosing": "None", 
+            "endTime": 1.5239709999996194, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_23", 
+            "name": "load", 
+            "startTime": 1.5236459999996441, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.instagram.com/", 
+            "enclosing": "None", 
+            "endTime": 1.5248839999994743, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_24", 
+            "name": "load", 
+            "startTime": 1.524783999999272, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.instagram.com/", 
+            "enclosing": "None", 
+            "endTime": 1.5249909999993179, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_25", 
+            "name": "load", 
+            "startTime": 1.5248940000001312, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.instagram.com/", 
+            "enclosing": "None", 
+            "endTime": 1.5250669999995807, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_26", 
+            "name": "load", 
+            "startTime": 1.5249999999996362, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.instagram.com/", 
+            "enclosing": "None", 
+            "endTime": 1.5251359999992928, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_27", 
+            "name": "load", 
+            "startTime": 1.525075999999899, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.instagram.com/", 
+            "enclosing": "None", 
+            "endTime": 1.5251879999996163, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_28", 
+            "name": "load", 
+            "startTime": 1.5251479999997173, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_34_0"
+            ], 
+            "docUrl": "https://www.instagram.com/", 
+            "enclosing": "None", 
+            "endTime": 1.624493999999686, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_29", 
+            "startTime": 1.527382999999645, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://connect.facebook.net/en_US/sdk.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_17", 
+                "comp_34_1"
+            ], 
+            "docUrl": "https://www.instagram.com/", 
+            "enclosing": "comp_34", 
+            "endTime": 1.6297340000000986, 
+            "evalType": "timer", 
+            "frame": 0, 
+            "id": "comp_34_0", 
+            "mode": "load", 
+            "startTime": 1.6261109999995824, 
+            "subtree": "subtree_comp_34", 
+            "timeout": 0, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_16", 
+                "comp_34_2"
+            ], 
+            "docUrl": "https://www.instagram.com/", 
+            "enclosing": "comp_34", 
+            "endTime": 1.6324879999992845, 
+            "evalType": "timer", 
+            "frame": 0, 
+            "id": "comp_34_1", 
+            "mode": "load", 
+            "startTime": 1.6297340000000986, 
+            "subtree": "subtree_comp_34", 
+            "timeout": 0, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_22", 
+                "comp_34_3"
+            ], 
+            "docUrl": "https://www.instagram.com/", 
+            "enclosing": "comp_34", 
+            "endTime": 1.6372619999992821, 
+            "evalType": "timer", 
+            "frame": 0, 
+            "id": "comp_34_2", 
+            "mode": "load", 
+            "startTime": 1.6324879999992845, 
+            "subtree": "subtree_comp_34", 
+            "timeout": 0, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_20"
+            ], 
+            "docUrl": "https://www.instagram.com/", 
+            "enclosing": "comp_34", 
+            "endTime": 1.6394350000000486, 
+            "evalType": "timer", 
+            "frame": 0, 
+            "id": "comp_34_3", 
+            "mode": "load", 
+            "startTime": 1.6372619999992821, 
+            "subtree": "subtree_comp_34", 
+            "timeout": 0, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_21", 
+                "comp_35_1"
+            ], 
+            "docUrl": "https://www.instagram.com/", 
+            "enclosing": "comp_35", 
+            "endTime": 1.6439110000001165, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_35_0", 
+            "startTime": 1.6394430000000284, 
+            "subtree": "subtree_comp_35", 
+            "type": "eval", 
+            "url": "https://connect.facebook.net/en_US/fbevents.js"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_18", 
+                "comp_35_2"
+            ], 
+            "docUrl": "https://www.instagram.com/", 
+            "enclosing": "comp_35", 
+            "endTime": 1.6441479999994044, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_35_1", 
+            "startTime": 1.6439110000001165, 
+            "subtree": "subtree_comp_35", 
+            "type": "eval", 
+            "url": "https://connect.facebook.net/en_US/fbevents.js"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_19", 
+                "comp_35_3"
+            ], 
+            "docUrl": "https://www.instagram.com/", 
+            "enclosing": "comp_35", 
+            "endTime": 1.6444459999993342, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_35_2", 
+            "startTime": 1.6441479999994044, 
+            "subtree": "subtree_comp_35", 
+            "type": "eval", 
+            "url": "https://connect.facebook.net/en_US/fbevents.js"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [], 
+            "docUrl": "https://www.instagram.com/", 
+            "enclosing": "comp_35", 
+            "endTime": 1.6446329999998852, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_35_3", 
+            "startTime": 1.6444459999993342, 
+            "subtree": "subtree_comp_35", 
+            "type": "eval", 
+            "url": "https://connect.facebook.net/en_US/fbevents.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_1_1"
+            ], 
+            "docUrl": "https://staticxx.facebook.com/connect/xd_arbiter/r/P5DLcu0KGJB.js?version=42#channel=f2dd214b44&origin=https%3A%2F%2Fwww.instagram.com", 
+            "enclosing": "None", 
+            "endTime": 1.8081819999997606, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_53", 
+            "startTime": 1.7901059999994686, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_1_2"
+            ], 
+            "docUrl": "https://staticxx.facebook.com/connect/xd_arbiter/r/P5DLcu0KGJB.js?version=42#channel=f2dd214b44&origin=https%3A%2F%2Fwww.instagram.com", 
+            "enclosing": "None", 
+            "endTime": 1.808433999999579, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_54", 
+            "startTime": 1.8083729999998468, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.instagram.com/", 
+            "enclosing": "None", 
+            "endTime": 1.9029459999992469, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_72", 
+            "name": "load", 
+            "startTime": 1.8915429999997286, 
+            "subtree": "None", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_2_1", 
+                "comp_102_0"
+            ], 
+            "docUrl": "https://staticxx.facebook.com/connect/xd_arbiter/r/P5DLcu0KGJB.js?version=42#cb=f8336a5b4&domain=www.instagram.com&origin=https%3A%2F%2Fwww.instagram.com%2Ff2dd214b44&relation=parent&error=unknown_user", 
+            "enclosing": "None", 
+            "endTime": 2.067547999999988, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_100", 
+            "startTime": 2.0527320000001055, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_2_2"
+            ], 
+            "docUrl": "https://staticxx.facebook.com/connect/xd_arbiter/r/P5DLcu0KGJB.js?version=42#cb=f8336a5b4&domain=www.instagram.com&origin=https%3A%2F%2Fwww.instagram.com%2Ff2dd214b44&relation=parent&error=unknown_user", 
+            "enclosing": "None", 
+            "endTime": 2.0683579999995345, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_101", 
+            "startTime": 2.0682129999995595, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_25", 
+                "comp_102_1"
+            ], 
+            "docUrl": "https://www.instagram.com/", 
+            "enclosing": "comp_102", 
+            "endTime": 2.0883599999997386, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_102_0", 
+            "name": "message", 
+            "startTime": 2.0693129999999655, 
+            "subtree": "subtree_comp_102", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.instagram.com/", 
+            "enclosing": "comp_102", 
+            "endTime": 2.09891400000015, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_102_1", 
+            "name": "message", 
+            "startTime": 2.0883599999997386, 
+            "subtree": "subtree_comp_102", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_23", 
+                "comp_223_1"
+            ], 
+            "docUrl": "https://www.instagram.com/", 
+            "enclosing": "comp_223", 
+            "endTime": 2.9126509999996415, 
+            "evalType": "timer", 
+            "frame": 0, 
+            "id": "comp_223_0", 
+            "mode": "end", 
+            "startTime": 2.9047899999995934, 
+            "subtree": "subtree_comp_223", 
+            "timeout": 1000, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.instagram.com/", 
+            "enclosing": "comp_223", 
+            "endTime": 2.9148889999996754, 
+            "evalType": "timer", 
+            "frame": 0, 
+            "id": "comp_223_1", 
+            "mode": "end", 
+            "startTime": 2.9126509999996415, 
+            "subtree": "subtree_comp_223", 
+            "timeout": 1000, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.instagram.com/", 
+            "enclosing": "None", 
+            "endTime": 3.469245999999657, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_308", 
+            "name": "load", 
+            "startTime": 3.468399999999747, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "children": [
+                "pchunk_0_1", 
+                "comp_0"
+            ], 
+            "docUrl": "https://www.instagram.com/", 
+            "endColumn": 88, 
+            "endRow": 7, 
+            "endTag": "script", 
+            "endTime": 0.5621879999998782, 
+            "frame": 0, 
+            "id": "pchunk_0_0", 
+            "isFragment": false, 
+            "startColumn": 68, 
+            "startRow": 4, 
+            "startTag": "html", 
+            "startTime": 0.5618289999993067, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_2", 
+                "comp_1"
+            ], 
+            "docUrl": "https://www.instagram.com/", 
+            "endColumn": 9, 
+            "endRow": 22, 
+            "endTag": "script", 
+            "endTime": 0.5624959999986459, 
+            "frame": 0, 
+            "id": "pchunk_0_1", 
+            "isFragment": false, 
+            "startColumn": 30, 
+            "startRow": 9, 
+            "startTag": "meta", 
+            "startTime": 0.56240600000001, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_1", 
+                "pchunk_0_3"
+            ], 
+            "docUrl": "https://www.instagram.com/", 
+            "endColumn": 123, 
+            "endRow": 23, 
+            "endTag": "script", 
+            "endTime": 0.5628759999990507, 
+            "frame": 0, 
+            "id": "pchunk_0_2", 
+            "isFragment": false, 
+            "startColumn": 114, 
+            "startRow": 23, 
+            "startTag": "script", 
+            "startTime": 0.5628479999995761, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_4", 
+                "comp_2"
+            ], 
+            "docUrl": "https://www.instagram.com/", 
+            "endColumn": 17, 
+            "endRow": 150, 
+            "endTag": "script", 
+            "endTime": 0.5643510000018068, 
+            "frame": 0, 
+            "id": "pchunk_0_3", 
+            "isFragment": false, 
+            "startColumn": 23, 
+            "startRow": 25, 
+            "startTag": "style", 
+            "startTime": 0.5632049999994706, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_5", 
+                "comp_3"
+            ], 
+            "docUrl": "https://www.instagram.com/", 
+            "endColumn": 839, 
+            "endRow": 231, 
+            "endTag": "script", 
+            "endTime": 0.5689060000031532, 
+            "frame": 0, 
+            "id": "pchunk_0_4", 
+            "isFragment": false, 
+            "startColumn": 173, 
+            "startRow": 156, 
+            "startTag": "link", 
+            "startTime": 0.566342999999506, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_3", 
+                "pchunk_0_6"
+            ], 
+            "docUrl": "https://www.instagram.com/", 
+            "endColumn": 147, 
+            "endRow": 232, 
+            "endTag": "script", 
+            "endTime": 0.5698079999992842, 
+            "frame": 0, 
+            "id": "pchunk_0_5", 
+            "isFragment": false, 
+            "startColumn": 138, 
+            "startRow": 232, 
+            "startTag": "script", 
+            "startTime": 0.5697780000000421, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_2", 
+                "pchunk_0_7"
+            ], 
+            "docUrl": "https://www.instagram.com/", 
+            "endColumn": 151, 
+            "endRow": 233, 
+            "endTag": "script", 
+            "endTime": 0.9801569999999629, 
+            "frame": 0, 
+            "id": "pchunk_0_6", 
+            "isFragment": false, 
+            "startColumn": 142, 
+            "startRow": 233, 
+            "startTag": "script", 
+            "startTime": 0.9801099999995131, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_8", 
+                "comp_8_0"
+            ], 
+            "docUrl": "https://www.instagram.com/", 
+            "endColumn": 9, 
+            "endRow": 247, 
+            "endTag": "script", 
+            "endTime": 1.1964010000001508, 
+            "frame": 0, 
+            "id": "pchunk_0_7", 
+            "isFragment": false, 
+            "startColumn": 8, 
+            "startRow": 235, 
+            "startTag": "script", 
+            "startTime": 1.196378999999979, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_9", 
+                "comp_9"
+            ], 
+            "docUrl": "https://www.instagram.com/", 
+            "endColumn": 87, 
+            "endRow": 254, 
+            "endTag": "script", 
+            "endTime": 1.1969399999998132, 
+            "frame": 0, 
+            "id": "pchunk_0_8", 
+            "isFragment": false, 
+            "startColumn": 10, 
+            "startRow": 248, 
+            "startTag": "noscript", 
+            "startTime": 1.1969179999996413, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "comp_708"
+            ], 
+            "docUrl": "https://www.instagram.com/", 
+            "endColumn": 7, 
+            "endRow": 257, 
+            "endTag": "html", 
+            "endTime": 1.197227999999086, 
+            "frame": 0, 
+            "id": "pchunk_0_9", 
+            "isFragment": false, 
+            "startColumn": 11, 
+            "startRow": 256, 
+            "startTag": "body", 
+            "startTime": 1.1972200000000157, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_0", 
+                "dchunk_0_1"
+            ], 
+            "id": "dchunk_0_0", 
+            "offset": 372, 
+            "resource": "download_0", 
+            "size": 126, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_1", 
+                "dchunk_0_2"
+            ], 
+            "id": "dchunk_0_1", 
+            "offset": 498, 
+            "resource": "download_0", 
+            "size": 240, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_2", 
+                "dchunk_0_3"
+            ], 
+            "id": "dchunk_0_2", 
+            "offset": 738, 
+            "resource": "download_0", 
+            "size": 9, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_3", 
+                "dchunk_0_4"
+            ], 
+            "id": "dchunk_0_3", 
+            "offset": 747, 
+            "resource": "download_0", 
+            "size": 6806, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_4", 
+                "dchunk_0_5"
+            ], 
+            "id": "dchunk_0_4", 
+            "offset": 7553, 
+            "resource": "download_0", 
+            "size": 5980, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_5", 
+                "dchunk_0_6"
+            ], 
+            "id": "dchunk_0_5", 
+            "offset": 13533, 
+            "resource": "download_0", 
+            "size": 9, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_6", 
+                "dchunk_0_7"
+            ], 
+            "id": "dchunk_0_6", 
+            "offset": 13542, 
+            "resource": "download_0", 
+            "size": 9, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_7", 
+                "dchunk_0_8"
+            ], 
+            "id": "dchunk_0_7", 
+            "offset": 13551, 
+            "resource": "download_0", 
+            "size": 448, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_8", 
+                "dchunk_0_9"
+            ], 
+            "id": "dchunk_0_8", 
+            "offset": 13999, 
+            "resource": "download_0", 
+            "size": 108, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_9"
+            ], 
+            "id": "dchunk_0_9", 
+            "offset": 14107, 
+            "resource": "download_0", 
+            "size": 8, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_1", 
+                "comp_53"
+            ], 
+            "docUrl": "https://staticxx.facebook.com/connect/xd_arbiter/r/P5DLcu0KGJB.js?version=42#channel=f2dd214b44&origin=https%3A%2F%2Fwww.instagram.com", 
+            "endColumn": 3180, 
+            "endRow": 49, 
+            "endTag": "script", 
+            "endTime": 1.7877929999986009, 
+            "frame": 1, 
+            "id": "pchunk_1_0", 
+            "isFragment": false, 
+            "startColumn": 21, 
+            "startRow": 0, 
+            "startTag": "html", 
+            "startTime": 1.7871269999996002, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_2", 
+                "comp_54"
+            ], 
+            "docUrl": "https://staticxx.facebook.com/connect/xd_arbiter/r/P5DLcu0KGJB.js?version=42#channel=f2dd214b44&origin=https%3A%2F%2Fwww.instagram.com", 
+            "endColumn": 3904, 
+            "endRow": 49, 
+            "endTag": "script", 
+            "endTime": 1.8083449999994627, 
+            "frame": 1, 
+            "id": "pchunk_1_1", 
+            "isFragment": false, 
+            "startColumn": 3229, 
+            "startRow": 49, 
+            "startTag": "b", 
+            "startTime": 1.8081869999996343, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [], 
+            "docUrl": "https://staticxx.facebook.com/connect/xd_arbiter/r/P5DLcu0KGJB.js?version=42#channel=f2dd214b44&origin=https%3A%2F%2Fwww.instagram.com", 
+            "endColumn": 3918, 
+            "endRow": 49, 
+            "endTag": "html", 
+            "endTime": 1.8084520000002158, 
+            "frame": 1, 
+            "id": "pchunk_1_2", 
+            "isFragment": false, 
+            "startColumn": 3911, 
+            "startRow": 49, 
+            "startTag": "body", 
+            "startTime": 1.8084369999996852, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_0", 
+                "dchunk_1_1"
+            ], 
+            "id": "dchunk_1_0", 
+            "offset": 21, 
+            "resource": "download_20", 
+            "size": 32718, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_1", 
+                "dchunk_1_2"
+            ], 
+            "id": "dchunk_1_1", 
+            "offset": 32739, 
+            "resource": "download_20", 
+            "size": 675, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_2"
+            ], 
+            "id": "dchunk_1_2", 
+            "offset": 33414, 
+            "resource": "download_20", 
+            "size": 7, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_1", 
+                "comp_100"
+            ], 
+            "docUrl": "https://staticxx.facebook.com/connect/xd_arbiter/r/P5DLcu0KGJB.js?version=42#cb=f8336a5b4&domain=www.instagram.com&origin=https%3A%2F%2Fwww.instagram.com%2Ff2dd214b44&relation=parent&error=unknown_user", 
+            "endColumn": 3180, 
+            "endRow": 49, 
+            "endTag": "script", 
+            "endTime": 2.0521289999996952, 
+            "frame": 2, 
+            "id": "pchunk_2_0", 
+            "isFragment": false, 
+            "startColumn": 21, 
+            "startRow": 0, 
+            "startTag": "html", 
+            "startTime": 2.051894999999604, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_2", 
+                "comp_101"
+            ], 
+            "docUrl": "https://staticxx.facebook.com/connect/xd_arbiter/r/P5DLcu0KGJB.js?version=42#cb=f8336a5b4&domain=www.instagram.com&origin=https%3A%2F%2Fwww.instagram.com%2Ff2dd214b44&relation=parent&error=unknown_user", 
+            "endColumn": 3904, 
+            "endRow": 49, 
+            "endTag": "script", 
+            "endTime": 2.0681709999989835, 
+            "frame": 2, 
+            "id": "pchunk_2_1", 
+            "isFragment": false, 
+            "startColumn": 3229, 
+            "startRow": 49, 
+            "startTag": "b", 
+            "startTime": 2.0679399999999077, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [], 
+            "docUrl": "https://staticxx.facebook.com/connect/xd_arbiter/r/P5DLcu0KGJB.js?version=42#cb=f8336a5b4&domain=www.instagram.com&origin=https%3A%2F%2Fwww.instagram.com%2Ff2dd214b44&relation=parent&error=unknown_user", 
+            "endColumn": 3918, 
+            "endRow": 49, 
+            "endTag": "html", 
+            "endTime": 2.068373999999494, 
+            "frame": 2, 
+            "id": "pchunk_2_2", 
+            "isFragment": false, 
+            "startColumn": 3911, 
+            "startRow": 49, 
+            "startTag": "body", 
+            "startTime": 2.068361999999979, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_0", 
+                "dchunk_2_1"
+            ], 
+            "id": "dchunk_2_0", 
+            "offset": 21, 
+            "resource": "download_22", 
+            "size": 32718, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_1", 
+                "dchunk_2_2"
+            ], 
+            "id": "dchunk_2_1", 
+            "offset": 32739, 
+            "resource": "download_22", 
+            "size": 675, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_2"
+            ], 
+            "id": "dchunk_2_2", 
+            "offset": 33414, 
+            "resource": "download_22", 
+            "size": 7, 
+            "type": "download_chunk"
+        }
+    ], 
+    "frames": [
+        {
+            "id": 0, 
+            "subframes": [
+                1, 
+                2
+            ], 
+            "url": "https://www.instagram.com/"
+        }, 
+        {
+            "id": 1, 
+            "parent": 0, 
+            "subframes": [], 
+            "url": "https://staticxx.facebook.com/connect/xd_arbiter/r/P5DLcu0KGJB.js?version=42#channel=f2dd214b44&origin=https%3A%2F%2Fwww.instagram.com"
+        }, 
+        {
+            "id": 2, 
+            "parent": 0, 
+            "subframes": [], 
+            "url": "https://staticxx.facebook.com/connect/xd_arbiter/r/P5DLcu0KGJB.js?version=42#cb=f8336a5b4&domain=www.instagram.com&origin=https%3A%2F%2Fwww.instagram.com%2Ff2dd214b44&relation=parent&error=unknown_user"
+        }
+    ], 
+    "loadEvent": "comp_72", 
+    "name": "https://www.instagram.com/", 
+    "root_activity": "download_0"
+}

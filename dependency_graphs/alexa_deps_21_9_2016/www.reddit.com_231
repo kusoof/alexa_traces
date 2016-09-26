@@ -1,0 +1,5083 @@
+{
+    "DOMContentLoadedEvent": "comp_15_0", 
+    "activities": [
+        {
+            "cached": false, 
+            "children": [
+                "comp_1820"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_19", 
+            "mimeType": "image/jpeg", 
+            "sentTime": 1.0852709999999206, 
+            "size": 4479, 
+            "type": "resource", 
+            "url": "https://a.thumbs.redditmedia.com/zGcxWFDbvjR2Wub7Gs0536OV_E3p4FD6yoJCaT5sDN8.jpg"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_1820"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_104", 
+            "mimeType": "image/png", 
+            "originalResource": "download_37", 
+            "sentTime": 1.105489999999918, 
+            "size": 67, 
+            "type": "resource", 
+            "url": "https://reddit.com/static/pixel.png"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_52", 
+                "comp_1820"
+            ], 
+            "httpMethod": "POST", 
+            "id": "download_52", 
+            "mimeType": "text/plain", 
+            "sentTime": 1.5542780000005223, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "https://events.redditmedia.com/v1?key=RedditFrontend1&mac=728b8636c8be09db002bc8774dd351d8e22cf80ff6322c029ec423585bb22b2e"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "dchunk_4_0", 
+                "comp_1820"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_39", 
+            "mimeType": "text/html", 
+            "sentTime": 1.1967170000007172, 
+            "size": 1255, 
+            "type": "resource", 
+            "url": "https://www.redditmedia.com/ads/display/300x250#keywords:[s.brandlift.ebay,s.programmatic,k.space,s.frontpage,s.loggedout,k.movie,s.sfw],origin:https://www.reddit.com,properties:percentage:46,full_url:https://www.reddit.com/,age_hours:11133,adblock:off,frame_id:ad_main,pageType:frontpage-listing"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_1820"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_54", 
+            "mimeType": "application/javascript", 
+            "sentTime": 1.8330620000006093, 
+            "size": 4191, 
+            "type": "resource", 
+            "url": "https://s.zkcdn.net/Extensions/adFeedback.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_1820"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_41", 
+            "mimeType": "image/png", 
+            "sentTime": 1.0766419999999925, 
+            "size": 2782, 
+            "type": "resource", 
+            "url": "https://www.redditstatic.com/snoo-upside-down.png"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_1820"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_64", 
+            "mimeType": "image/jpeg", 
+            "sentTime": 2.273619000000508, 
+            "size": 19680, 
+            "type": "resource", 
+            "url": "https://s.zkcdn.net/Advertisers/46ec2a2bc81444389ee0a50fb9200a8a.jpg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_0", 
+                "comp_1820"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_1", 
+            "mimeType": "text/css", 
+            "sentTime": 0.583306000000448, 
+            "size": 1319, 
+            "type": "resource", 
+            "url": "https://www.redditstatic.com/expando.EmkujVgiDq4.css"
+        }, 
+        {
+            "cached": false, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_44", 
+            "mimeType": "application/javascript", 
+            "sentTime": 1.2731260000000475, 
+            "size": 10749, 
+            "type": "resource", 
+            "url": "https://www.redditstatic.com/display.8VJNvjYplkM.js"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_1820"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_106", 
+            "mimeType": "application/javascript", 
+            "originalResource": "download_44", 
+            "sentTime": 1.3921110000001136, 
+            "size": 10749, 
+            "type": "resource", 
+            "url": "https://www.redditstatic.com/display.8VJNvjYplkM.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_1820"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_17", 
+            "mimeType": "image/jpeg", 
+            "sentTime": 1.0834190000005037, 
+            "size": 7302, 
+            "type": "resource", 
+            "url": "https://b.thumbs.redditmedia.com/Fm_OVgCQ8eYNkwjbSgL1ICbTwcAkTOUXvs7epN8A3Zs.jpg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "dchunk_3_0", 
+                "comp_1820"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_25", 
+            "mimeType": "text/html", 
+            "sentTime": 0.9400100000002567, 
+            "size": 353, 
+            "type": "resource", 
+            "url": "https://www.redditmedia.com/gtm/jail?cb=8CqR7FcToPI"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_1820"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_63", 
+            "mimeType": "text/javascript", 
+            "sentTime": 2.1626839999998992, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "https://pagead2.googlesyndication.com/pagead/js/r20160915/r20160919/show_ads_impl.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "dchunk_1_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_0", 
+            "mimeType": "text/html", 
+            "sentTime": 0.0, 
+            "size": 156067, 
+            "type": "resource", 
+            "url": "https://www.reddit.com/"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_1820"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_60", 
+            "mimeType": "text/css", 
+            "sentTime": 1.83347700000013, 
+            "size": 1732, 
+            "type": "resource", 
+            "url": "https://s.zkcdn.net/Extensions/adFeedback.css"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_1820"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_32", 
+            "mimeType": "image/jpeg", 
+            "sentTime": 1.0862990000005084, 
+            "size": 7310, 
+            "type": "resource", 
+            "url": "https://b.thumbs.redditmedia.com/yPmPsNZU5tjRssHm1cylsLCLbVDUEnwZINYA0-bll-s.jpg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_1820"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_61", 
+            "mimeType": "text/javascript", 
+            "sentTime": 2.149720000000343, 
+            "size": 1, 
+            "type": "resource", 
+            "url": "https://pagead2.googlesyndication.com/pub-config/r20160601/ca-pub-9699191536922730.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_16_0", 
+                "comp_1820"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_38", 
+            "mimeType": "application/javascript", 
+            "sentTime": 1.0183649999999034, 
+            "size": 5629, 
+            "type": "resource", 
+            "url": "https://www.redditstatic.com/gtm-jail.jTMwZME_TT8.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_1820"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_27", 
+            "mimeType": "image/jpeg", 
+            "sentTime": 1.1008080000001428, 
+            "size": 6933, 
+            "type": "resource", 
+            "url": "https://b.thumbs.redditmedia.com/xPpq9S5Uv1ruSkK049Vj9mkB3Ib5Fh7Iy_uNUJ9YcVs.jpg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_19", 
+                "comp_1820"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_23", 
+            "mimeType": "application/javascript", 
+            "sentTime": 0.9403959999999643, 
+            "size": 47095, 
+            "type": "resource", 
+            "url": "https://www.redditstatic.com/moat/moatframe.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_9", 
+                "comp_1820"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_5", 
+            "mimeType": "text/javascript", 
+            "sentTime": 0.8668649999999616, 
+            "size": 27809, 
+            "type": "resource", 
+            "url": "https://www.google-analytics.com/analytics.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_1820"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_65", 
+            "mimeType": "image/gif", 
+            "sentTime": 2.2749760000006063, 
+            "size": 43, 
+            "type": "resource", 
+            "url": "https://engine.a.redditmedia.com/i.gif?e=eyJhdiI6NDQxNzYsImF0Ijo4LCJidCI6MCwiY20iOjQ4NjEwNiwiY2giOjc5ODQsImNrIjp7fSwiY3IiOjE2Nzk4NjEsImRpIjoiZGVlY2VlOTQxNjBhNGJlYmE4NWIxMDUxMjg1YWUxYjAiLCJkbSI6MSwiZmMiOjE5OTU5NjIsImZsIjoyMzMxNzcyLCJpcCI6IjEyOC4xNi43MS4xMTYiLCJrdyI6InMuYnJhbmRsaWZ0LmViYXkscy5wcm9ncmFtbWF0aWMsay5zcGFjZSxzLmZyb250cGFnZSxzLmxvZ2dlZG91dCxrLm1vdmllLHMuc2Z3IiwibWsiOiJzLmZyb250cGFnZSIsIm53Ijo1MTQ2LCJwYyI6MCwiZWMiOjAsInByIjoyMDc2MCwicnQiOjEsInJmIjoiaHR0cHM6Ly93d3cucmVkZGl0LmNvbS8iLCJzdCI6MjQ5NTAsInVrIjoidWUxLTMwYTBlZjE4YjkzZDQ5N2M4NGY0Zjk2ZjE4ZjVhMTY1Iiwiem4iOjE2MjI0OCwidHMiOjE0NzQ0NjEzNTM4NzYsImJmIjp0cnVlLCJwbiI6InNwb25zb3JzaGlwIiwiYmEiOjEsImZxIjowfQ&s=fXbVEacAcBfoYadtoXjHsiu4ugg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_18_0", 
+                "comp_1820"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_14", 
+            "mimeType": "text/javascript", 
+            "sentTime": 0.8664440000002287, 
+            "size": 43082, 
+            "type": "resource", 
+            "url": "https://ssl.google-analytics.com/ga.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_1820"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_29", 
+            "mimeType": "image/jpeg", 
+            "sentTime": 1.1030209999998988, 
+            "size": 4367, 
+            "type": "resource", 
+            "url": "https://b.thumbs.redditmedia.com/jvCqiFMYOuWcyy10QfR97mltSUpfwgcyeVChCg2tAtw.jpg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_2", 
+                "comp_1820"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_2", 
+            "mimeType": "application/javascript", 
+            "sentTime": 0.5835830000005444, 
+            "size": 241625, 
+            "type": "resource", 
+            "url": "https://www.redditstatic.com/reddit-init.en.FKjshMZdNKc.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_1820"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_13", 
+            "mimeType": "image/jpeg", 
+            "sentTime": 1.0352730000004158, 
+            "size": 6273, 
+            "type": "resource", 
+            "url": "https://b.thumbs.redditmedia.com/ATVyPwUZNtiM8t7StHh9T3aBxPgXqqcFFN5IqpdQdoc.jpg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_1820"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_56", 
+            "mimeType": "text/javascript", 
+            "sentTime": 2.0549019999998563, 
+            "size": 26274, 
+            "type": "resource", 
+            "url": "https://pagead2.googlesyndication.com/pagead/show_ads.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_1820"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_34", 
+            "mimeType": "image/gif", 
+            "sentTime": 0.9422270000004573, 
+            "size": 67, 
+            "type": "resource", 
+            "url": "https://www.redditstatic.com/droparrowgray.gif"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_1820"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_24", 
+            "mimeType": "image/jpeg", 
+            "sentTime": 1.0992910000004485, 
+            "size": 5619, 
+            "type": "resource", 
+            "url": "https://b.thumbs.redditmedia.com/jGs8krrzUnPrHl5LTxKc1d0yY1QookU0vmpNjkq-Llo.jpg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_1820"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_33", 
+            "mimeType": "image/jpeg", 
+            "sentTime": 1.096426000000065, 
+            "size": 4922, 
+            "type": "resource", 
+            "url": "https://b.thumbs.redditmedia.com/8-WPFowfZo_bHOremUSYTMWIuEqz2cjZzfqVMgtCe7U.jpg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_1820"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_55", 
+            "mimeType": "text/html", 
+            "sentTime": 2.0431050000006508, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "about:blank"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_74", 
+                "comp_1820"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_58", 
+            "mimeType": "text/html", 
+            "sentTime": 2.151657000000341, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "about:blank"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_1820"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_42", 
+            "mimeType": "image/png", 
+            "sentTime": 1.083693000000494, 
+            "size": 1258, 
+            "type": "resource", 
+            "url": "https://www.redditstatic.com/sprite-expando.B29xy2bWnls.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_1820"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_88", 
+            "mimeType": "image/png", 
+            "originalResource": "download_42", 
+            "sentTime": 1.0846630000005462, 
+            "size": 1258, 
+            "type": "resource", 
+            "url": "https://www.redditstatic.com/sprite-expando.B29xy2bWnls.png"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_1820"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_8", 
+            "mimeType": "image/jpeg", 
+            "sentTime": 1.0270020000007207, 
+            "size": 5253, 
+            "type": "resource", 
+            "url": "https://b.thumbs.redditmedia.com/_up1LPNRGwHaM67PJ_J-Wt71t8qE4UfsnaPvfKV2MWE.jpg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_1820"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_15", 
+            "mimeType": "image/jpeg", 
+            "sentTime": 1.0816690000001472, 
+            "size": 2722, 
+            "type": "resource", 
+            "url": "https://b.thumbs.redditmedia.com/onXxOvJbLwvCmUSkasK6isz6q6YVO3PT0ogRfqOLPgM.jpg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_1820"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_35", 
+            "mimeType": "image/png", 
+            "sentTime": 0.949376000000484, 
+            "size": 38406, 
+            "type": "resource", 
+            "url": "https://www.redditstatic.com/sprite-reddit.LhM1Cset6Qc.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_1820"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_67", 
+            "mimeType": "image/png", 
+            "originalResource": "download_35", 
+            "sentTime": 0.9515150000006543, 
+            "size": 38406, 
+            "type": "resource", 
+            "url": "https://www.redditstatic.com/sprite-reddit.LhM1Cset6Qc.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_1820"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_68", 
+            "mimeType": "image/png", 
+            "originalResource": "download_35", 
+            "sentTime": 0.9559020000006058, 
+            "size": 38406, 
+            "type": "resource", 
+            "url": "https://www.redditstatic.com/sprite-reddit.LhM1Cset6Qc.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_1820"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_69", 
+            "mimeType": "image/png", 
+            "originalResource": "download_35", 
+            "sentTime": 0.9560120000005554, 
+            "size": 38406, 
+            "type": "resource", 
+            "url": "https://www.redditstatic.com/sprite-reddit.LhM1Cset6Qc.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_1820"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_77", 
+            "mimeType": "image/png", 
+            "originalResource": "download_35", 
+            "sentTime": 1.0368260000004739, 
+            "size": 38406, 
+            "type": "resource", 
+            "url": "https://www.redditstatic.com/sprite-reddit.LhM1Cset6Qc.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_1820"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_78", 
+            "mimeType": "image/png", 
+            "originalResource": "download_35", 
+            "sentTime": 1.036935000000085, 
+            "size": 38406, 
+            "type": "resource", 
+            "url": "https://www.redditstatic.com/sprite-reddit.LhM1Cset6Qc.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_1820"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_79", 
+            "mimeType": "image/png", 
+            "originalResource": "download_35", 
+            "sentTime": 1.0767690000002403, 
+            "size": 38406, 
+            "type": "resource", 
+            "url": "https://www.redditstatic.com/sprite-reddit.LhM1Cset6Qc.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_1820"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_80", 
+            "mimeType": "image/png", 
+            "originalResource": "download_35", 
+            "sentTime": 1.07841499999995, 
+            "size": 38406, 
+            "type": "resource", 
+            "url": "https://www.redditstatic.com/sprite-reddit.LhM1Cset6Qc.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_1820"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_81", 
+            "mimeType": "image/png", 
+            "originalResource": "download_35", 
+            "sentTime": 1.0805410000002666, 
+            "size": 38406, 
+            "type": "resource", 
+            "url": "https://www.redditstatic.com/sprite-reddit.LhM1Cset6Qc.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_1820"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_82", 
+            "mimeType": "image/png", 
+            "originalResource": "download_35", 
+            "sentTime": 1.0806780000002618, 
+            "size": 38406, 
+            "type": "resource", 
+            "url": "https://www.redditstatic.com/sprite-reddit.LhM1Cset6Qc.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_1820"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_87", 
+            "mimeType": "image/png", 
+            "originalResource": "download_35", 
+            "sentTime": 1.0844090000000506, 
+            "size": 38406, 
+            "type": "resource", 
+            "url": "https://www.redditstatic.com/sprite-reddit.LhM1Cset6Qc.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_1820"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_93", 
+            "mimeType": "image/png", 
+            "originalResource": "download_35", 
+            "sentTime": 1.0893270000005941, 
+            "size": 38406, 
+            "type": "resource", 
+            "url": "https://www.redditstatic.com/sprite-reddit.LhM1Cset6Qc.png"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_24", 
+                "comp_1820"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_40", 
+            "mimeType": "image/png", 
+            "sentTime": 1.151411000000735, 
+            "size": 67, 
+            "type": "resource", 
+            "url": "https://pixel.redditmedia.com/pixel/of_destiny.png?v=Q6OowMUilau5hT9%2Fymipb0V7fELDCnNc1QoIvWwkvJ3MYbE8iYWT%2BTT%2FALZ4c1L9kHw8ZGx7Saa%2Bl%2FTZXtxrRxM33R9C0XzA&r=0.4938437787350267&dnt=false&loid=l99ba4w38hS4VZxMKm&loidcreated=2015-06-15T14%3A51%3A04.322Z"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_1820"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_20", 
+            "mimeType": "image/jpeg", 
+            "sentTime": 1.0878170000005412, 
+            "size": 5877, 
+            "type": "resource", 
+            "url": "https://b.thumbs.redditmedia.com/g20VSD2T0-14AuCqtXc4SJCI_vNiL-BcilmtD1q1irA.jpg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "dchunk_7_0", 
+                "comp_82", 
+                "comp_1820"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_57", 
+            "mimeType": "text/html", 
+            "sentTime": 2.0586080000002767, 
+            "size": 986, 
+            "type": "resource", 
+            "url": "https://www.redditmedia.com/ads/display/300x250-companion"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_1820"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_9", 
+            "mimeType": "image/jpeg", 
+            "sentTime": 1.0807760000006965, 
+            "size": 4228, 
+            "type": "resource", 
+            "url": "https://b.thumbs.redditmedia.com/qdgaezdSKqiN6ZpIXRqaOoFsIU4ruWzDiYpvzM80Kkg.jpg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_1820"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_21", 
+            "mimeType": "image/jpeg", 
+            "sentTime": 1.0911540000006426, 
+            "size": 6245, 
+            "type": "resource", 
+            "url": "https://b.thumbs.redditmedia.com/K3bO7GJi9fZmzromjnWovKjtkOklGzY4oTPKimVEdpw.jpg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_1820"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_31", 
+            "mimeType": "image/jpeg", 
+            "sentTime": 1.0919739999999365, 
+            "size": 4840, 
+            "type": "resource", 
+            "url": "https://b.thumbs.redditmedia.com/rqRX3EVUplPn3GQRksYeVPrD4HmYLx6-ORwaplcigyA.jpg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_44", 
+                "comp_1820"
+            ], 
+            "httpMethod": "POST", 
+            "id": "download_50", 
+            "mimeType": "text/plain", 
+            "sentTime": 1.164469000000281, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "https://events.redditmedia.com/v1?key=RedditFrontend1&mac=43cd4644070e17808b73a1ea2ee562d68171b843f8fb60e964624a254f73bb6b"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_1820"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_45", 
+            "mimeType": "application/javascript", 
+            "sentTime": 1.27298299999984, 
+            "size": 93525, 
+            "type": "resource", 
+            "url": "https://www.redditstatic.com/ad-dependencies.5O7sMdAReBw.js"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_71", 
+                "comp_82", 
+                "comp_1820"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_108", 
+            "mimeType": "application/javascript", 
+            "originalResource": "download_45", 
+            "sentTime": 2.0859989999999016, 
+            "size": 93525, 
+            "type": "resource", 
+            "url": "https://www.redditstatic.com/ad-dependencies.5O7sMdAReBw.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_1820"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_12", 
+            "mimeType": "image/jpeg", 
+            "sentTime": 1.0279239999999845, 
+            "size": 5035, 
+            "type": "resource", 
+            "url": "https://b.thumbs.redditmedia.com/d8dXOQR4UWMdXBfgwY6eBp4sh8mNyXTJunx5xB155Bw.jpg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_1820"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_26", 
+            "mimeType": "image/jpeg", 
+            "sentTime": 1.0999850000007427, 
+            "size": 6106, 
+            "type": "resource", 
+            "url": "https://b.thumbs.redditmedia.com/cHTmlTAndm9aym_zD5lnp2p7rZTyQ7vR0fCmA9Lv-Aw.jpg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_1820"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_11", 
+            "mimeType": "image/svg+xml", 
+            "sentTime": 1.025579000000107, 
+            "size": 7716, 
+            "type": "resource", 
+            "url": "https://www.redditstatic.com/subscribe-header.svg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_1820"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_6", 
+            "mimeType": "image/jpeg", 
+            "sentTime": 1.0285549999998693, 
+            "size": 3675, 
+            "type": "resource", 
+            "url": "https://b.thumbs.redditmedia.com/fNwS_AKODRd7494u16iGDlwns9KdDtf33tBy0SvRk3A.jpg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_1820"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_16", 
+            "mimeType": "image/jpeg", 
+            "sentTime": 1.0870500000000902, 
+            "size": 6691, 
+            "type": "resource", 
+            "url": "https://b.thumbs.redditmedia.com/Emn3-XEIwbRW0p2kE6obKhuu3YCbe34OngDFAYtaOhw.jpg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "dchunk_2_0", 
+                "comp_48", 
+                "comp_1820"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_43", 
+            "mimeType": "text/html", 
+            "sentTime": 1.2623880000001009, 
+            "size": 953, 
+            "type": "resource", 
+            "url": "https://www.redditmedia.com/gtm?id=GTM-NDJTNB&cb=8CqR7FcToPI"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_1820"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_36", 
+            "mimeType": "image/gif", 
+            "sentTime": 0.9556540000003224, 
+            "size": 1100, 
+            "type": "resource", 
+            "url": "https://www.redditstatic.com/throbber.gif"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_80", 
+                "comp_82", 
+                "comp_1820"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_59", 
+            "mimeType": "application/javascript", 
+            "sentTime": 2.095013000000108, 
+            "size": 264, 
+            "type": "resource", 
+            "url": "https://www.redditstatic.com/companion.KW1mOM2pJek.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_1820"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_7", 
+            "mimeType": "image/jpeg", 
+            "sentTime": 1.0336980000001859, 
+            "size": 5078, 
+            "type": "resource", 
+            "url": "https://b.thumbs.redditmedia.com/Mps55KOJT9l7Qn5uEIGVaM5QrC8-KOv5faWa8k0pmbw.jpg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_41_0", 
+                "comp_48", 
+                "comp_1820"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_49", 
+            "mimeType": "application/javascript", 
+            "sentTime": 1.4344049999999697, 
+            "size": 44160, 
+            "type": "resource", 
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-NDJTNB&l=googleTagManager"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_99", 
+                "comp_1820"
+            ], 
+            "httpMethod": "POST", 
+            "id": "download_66", 
+            "mimeType": "text/plain", 
+            "sentTime": 2.167967000000317, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "https://events.redditmedia.com/v1?key=RedditFrontend1&mac=8841017867e352dcf4f3a013bd49be320b4eb2bb09b051b9182f052144d03302"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_1820"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_10", 
+            "mimeType": "image/svg+xml", 
+            "sentTime": 1.0256380000000718, 
+            "size": 6679, 
+            "type": "resource", 
+            "url": "https://www.redditstatic.com/subscribe-header-thanks.svg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_1820"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_22", 
+            "mimeType": "image/jpeg", 
+            "sentTime": 1.0978890000005777, 
+            "size": 3857, 
+            "type": "resource", 
+            "url": "https://b.thumbs.redditmedia.com/LfRH-9l_sV8GA83xPo2Ov8EKTZQrx6kEQwlVjbr-A6k.jpg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_29", 
+                "comp_48", 
+                "comp_1820"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_48", 
+            "mimeType": "application/javascript", 
+            "sentTime": 1.347512000000279, 
+            "size": 5679, 
+            "type": "resource", 
+            "url": "https://www.redditstatic.com/gtm.aX_QHhLRPyo.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_1820"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_28", 
+            "mimeType": "image/jpeg", 
+            "sentTime": 1.10224400000061, 
+            "size": 4484, 
+            "type": "resource", 
+            "url": "https://b.thumbs.redditmedia.com/5jFWFMWhZTc2LGSrqswq15bcyyXMbsfq7uGiz7Ww_sk.jpg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_1820"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_30", 
+            "mimeType": "image/jpeg", 
+            "sentTime": 1.0826370000004317, 
+            "size": 6545, 
+            "type": "resource", 
+            "url": "https://b.thumbs.redditmedia.com/vBBv01jDdn6XV5RnnPAycMo0HRQ7d_gdtPyyBiDehno.jpg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_1820"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_53", 
+            "mimeType": "application/javascript", 
+            "sentTime": 1.4448380000003453, 
+            "size": 57539, 
+            "type": "resource", 
+            "url": "https://engine.a.redditmedia.com/ados?t=1474461353635&request={%22Placements%22:[{%22A%22:5146,%22S%22:24950,%22D%22:%22main%22,%22AT%22:5,%22Z%22:[162248],%22Properties%22:{%22percentage%22:%2246%22,%22full_url%22:%22https%3A%2F%2Fwww.reddit.com%2F%22,%22age_hours%22:%2211133%22,%22adblock%22:%22off%22,%22frame_id%22:%22ad_main%22,%22pageType%22:%22frontpage-listing%22}},{%22A%22:5146,%22S%22:24950,%22D%22:%22sponsorship%22,%22AT%22:8,%22Z%22:[162248],%22Properties%22:{%22percentage%22:%2246%22,%22full_url%22:%22https%3A%2F%2Fwww.reddit.com%2F%22,%22age_hours%22:%2211133%22,%22adblock%22:%22off%22,%22frame_id%22:%22ad_main%22,%22pageType%22:%22frontpage-listing%22}}],%22Keywords%22:%22s.brandlift.ebay%2Cs.programmatic%2Ck.space%2Cs.frontpage%2Cs.loggedout%2Ck.movie%2Cs.sfw%22,%22Referrer%22:%22https%3A%2F%2Fwww.reddit.com%2F%22,%22IsAsync%22:true,%22WriteResults%22:true}"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_1820"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_37", 
+            "mimeType": "image/png", 
+            "sentTime": 1.0087320000002364, 
+            "size": 67, 
+            "type": "resource", 
+            "url": "https://www.reddit.com/static/pixel.png"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "dchunk_5_0", 
+                "comp_1820"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_62", 
+            "mimeType": "text/html", 
+            "sentTime": 2.1623090000002776, 
+            "size": 12716, 
+            "type": "resource", 
+            "url": "https://googleads.g.doubleclick.net/pagead/html/r20160915/r20160919/zrt_lookup.html"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_28", 
+                "comp_1820"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_46", 
+            "mimeType": "text/javascript", 
+            "sentTime": 1.299351999999999, 
+            "size": 1169, 
+            "type": "resource", 
+            "url": "https://www.google-analytics.com/plugins/ga/inpage_linkid.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_48", 
+                "comp_1820"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_51", 
+            "mimeType": "image/gif", 
+            "sentTime": 1.5199620000003051, 
+            "size": 43, 
+            "type": "resource", 
+            "url": "https://sb.scorecardresearch.com/p?c1=2&c2=20632726&cv=2.0&cj=1&c7=https://www.reddit.com/&c4=https://www.reddit.com/"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_14", 
+                "comp_1820"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_4", 
+            "mimeType": "application/javascript", 
+            "sentTime": 1.1056509999998525, 
+            "size": 155315, 
+            "type": "resource", 
+            "url": "https://www.redditstatic.com/reddit.en.QVY1sJ_rM7c.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_1820"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_18", 
+            "mimeType": "image/jpeg", 
+            "sentTime": 1.0902240000004895, 
+            "size": 2895, 
+            "type": "resource", 
+            "url": "https://a.thumbs.redditmedia.com/Q-bL4rk1icNqFrId2hqldFhttdtuqmWytHtcwm7W690.jpg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_1820"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_47", 
+            "mimeType": "application/javascript", 
+            "sentTime": 1.2727910000003249, 
+            "size": 25288, 
+            "type": "resource", 
+            "url": "https://s.zkcdn.net/ados.js?cb=466c150"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_72", 
+                "comp_82", 
+                "comp_1820"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_107", 
+            "mimeType": "application/javascript", 
+            "originalResource": "download_47", 
+            "sentTime": 2.0858250000001135, 
+            "size": 25288, 
+            "type": "resource", 
+            "url": "https://s.zkcdn.net/ados.js?cb=466c150"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_1", 
+                "comp_1820"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_3", 
+            "mimeType": "text/css", 
+            "sentTime": 0.5829870000006849, 
+            "size": 309158, 
+            "type": "resource", 
+            "url": "https://www.redditstatic.com/reddit.-bBmGjhpGho.css"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "comp_2"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "enclosing": "None", 
+            "endTime": 0.6040950000005978, 
+            "evalType": "recalcStyle", 
+            "frame": 1, 
+            "id": "comp_0", 
+            "startTime": 0.6001380000006975, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://www.redditstatic.com/expando.EmkujVgiDq4.css"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "comp_2"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "enclosing": "None", 
+            "endTime": 0.7264580000000933, 
+            "evalType": "recalcStyle", 
+            "frame": 1, 
+            "id": "comp_1", 
+            "startTime": 0.7018000000007305, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://www.redditstatic.com/reddit.-bBmGjhpGho.css"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_1_3"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "enclosing": "None", 
+            "endTime": 0.8606070000005275, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_2", 
+            "startTime": 0.7264610000001994, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://www.redditstatic.com/reddit-init.en.FKjshMZdNKc.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_1_4"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "enclosing": "None", 
+            "endTime": 0.8654850000002625, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_3", 
+            "startTime": 0.8607300000003306, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_1_5"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "enclosing": "None", 
+            "endTime": 0.865961000000425, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_4", 
+            "startTime": 0.8658629999999903, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_14", 
+                "comp_5_1"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "enclosing": "comp_5", 
+            "endTime": 0.8661430000001928, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_5_0", 
+            "startTime": 0.8660030000000916, 
+            "subtree": "subtree_comp_5", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_1_6"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "enclosing": "comp_5", 
+            "endTime": 0.8665369999998802, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_5_1", 
+            "startTime": 0.8661430000001928, 
+            "subtree": "subtree_comp_5", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_5", 
+                "comp_6_1"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "enclosing": "comp_6", 
+            "endTime": 0.8667640000003303, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_6_0", 
+            "startTime": 0.8665760000003502, 
+            "subtree": "subtree_comp_6", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_1_7"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "enclosing": "comp_6", 
+            "endTime": 0.8670099999999366, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_6_1", 
+            "startTime": 0.8667640000003303, 
+            "subtree": "subtree_comp_6", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_25", 
+                "comp_7_1"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "enclosing": "comp_7", 
+            "endTime": 0.9391050000003816, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_7_0", 
+            "startTime": 0.9389099999998507, 
+            "subtree": "subtree_comp_7", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_1_8"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "enclosing": "comp_7", 
+            "endTime": 0.9400900000000547, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_7_1", 
+            "startTime": 0.9391050000003816, 
+            "subtree": "subtree_comp_7", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_23", 
+                "comp_8_1"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "enclosing": "comp_8", 
+            "endTime": 0.940270000000055, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_8_0", 
+            "startTime": 0.9401670000006561, 
+            "subtree": "subtree_comp_8", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_1_9"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "enclosing": "comp_8", 
+            "endTime": 0.940469000000121, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_8_1", 
+            "startTime": 0.940270000000055, 
+            "subtree": "subtree_comp_8", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 3, 
+            "children": [], 
+            "docUrl": "https://www.reddit.com/", 
+            "enclosing": "None", 
+            "endTime": 0.9946500000005472, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_9", 
+            "startTime": 0.9563029999999344, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://www.google-analytics.com/analytics.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_3_1"
+            ], 
+            "docUrl": "https://www.redditmedia.com/gtm/jail?cb=8CqR7FcToPI", 
+            "enclosing": "None", 
+            "endTime": 1.0178830000004382, 
+            "evalType": "execScript", 
+            "frame": 3, 
+            "id": "comp_10", 
+            "startTime": 1.0121250000001965, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_1_16"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "enclosing": "None", 
+            "endTime": 1.0239470000005895, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_11", 
+            "startTime": 1.0237020000004122, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_41", 
+                "comp_12_1"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "enclosing": "comp_12", 
+            "endTime": 1.0766419999999925, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_12_0", 
+            "startTime": 1.0373650000001362, 
+            "subtree": "subtree_comp_12", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_79", 
+                "comp_12_2"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "enclosing": "comp_12", 
+            "endTime": 1.0767690000002403, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_12_1", 
+            "startTime": 1.0766419999999925, 
+            "subtree": "subtree_comp_12", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_1_26"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "enclosing": "comp_12", 
+            "endTime": 1.0781610000003639, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_12_2", 
+            "startTime": 1.0767690000002403, 
+            "subtree": "subtree_comp_12", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_1_52"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "enclosing": "None", 
+            "endTime": 1.1053270000002158, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_13", 
+            "startTime": 1.1051640000005136, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_1_54"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "enclosing": "None", 
+            "endTime": 1.1311430000005203, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_14", 
+            "startTime": 1.1056550000002972, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://www.redditstatic.com/reddit.en.QVY1sJ_rM7c.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_40", 
+                "comp_15_1"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "enclosing": "comp_15", 
+            "endTime": 1.1512720000000627, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_15_0", 
+            "name": "DOMContentLoaded", 
+            "startTime": 1.1311820000000807, 
+            "subtree": "subtree_comp_15", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_50", 
+                "comp_15_2"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "enclosing": "comp_15", 
+            "endTime": 1.164469000000281, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_15_1", 
+            "name": "DOMContentLoaded", 
+            "startTime": 1.1512720000000627, 
+            "subtree": "subtree_comp_15", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_39", 
+                "comp_15_3"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "enclosing": "comp_15", 
+            "endTime": 1.1956580000005488, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_15_2", 
+            "name": "DOMContentLoaded", 
+            "startTime": 1.164469000000281, 
+            "subtree": "subtree_comp_15", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_1820"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "enclosing": "comp_15", 
+            "endTime": 1.2418400000005931, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_15_3", 
+            "name": "DOMContentLoaded", 
+            "startTime": 1.1956580000005488, 
+            "subtree": "subtree_comp_15", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_43", 
+                "comp_16_1"
+            ], 
+            "docUrl": "https://www.redditmedia.com/gtm/jail?cb=8CqR7FcToPI", 
+            "enclosing": "comp_16", 
+            "endTime": 1.260576000000583, 
+            "evalType": "execScript", 
+            "frame": 3, 
+            "id": "comp_16_0", 
+            "startTime": 1.2581600000003164, 
+            "subtree": "subtree_comp_16", 
+            "type": "eval", 
+            "url": "https://www.redditstatic.com/gtm-jail.jTMwZME_TT8.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_3_2"
+            ], 
+            "docUrl": "https://www.redditmedia.com/gtm/jail?cb=8CqR7FcToPI", 
+            "enclosing": "comp_16", 
+            "endTime": 1.2667190000001938, 
+            "evalType": "execScript", 
+            "frame": 3, 
+            "id": "comp_16_1", 
+            "startTime": 1.260576000000583, 
+            "subtree": "subtree_comp_16", 
+            "type": "eval", 
+            "url": "https://www.redditstatic.com/gtm-jail.jTMwZME_TT8.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_47", 
+                "comp_17_1"
+            ], 
+            "docUrl": "https://www.redditmedia.com/ads/display/300x250#keywords:[s.brandlift.ebay,s.programmatic,k.space,s.frontpage,s.loggedout,k.movie,s.sfw],origin:https://www.reddit.com,properties:percentage:46,full_url:https://www.reddit.com/,age_hours:11133,adblock:off,frame_id:ad_main,pageType:frontpage-listing", 
+            "enclosing": "comp_17", 
+            "endTime": 1.2722819999999047, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_17_0", 
+            "startTime": 1.2682720000002519, 
+            "subtree": "subtree_comp_17", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_4_1", 
+                "comp_31_0"
+            ], 
+            "docUrl": "https://www.redditmedia.com/ads/display/300x250#keywords:[s.brandlift.ebay,s.programmatic,k.space,s.frontpage,s.loggedout,k.movie,s.sfw],origin:https://www.reddit.com,properties:percentage:46,full_url:https://www.reddit.com/,age_hours:11133,adblock:off,frame_id:ad_main,pageType:frontpage-listing", 
+            "enclosing": "comp_17", 
+            "endTime": 1.272877000000335, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_17_1", 
+            "startTime": 1.2722819999999047, 
+            "subtree": "subtree_comp_17", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_46", 
+                "comp_18_1"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "enclosing": "comp_18", 
+            "endTime": 1.2990810000001147, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_18_0", 
+            "startTime": 1.2736800000002404, 
+            "subtree": "subtree_comp_18", 
+            "type": "eval", 
+            "url": "https://ssl.google-analytics.com/ga.js"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [], 
+            "docUrl": "https://www.reddit.com/", 
+            "enclosing": "comp_18", 
+            "endTime": 1.2994939999998678, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_18_1", 
+            "startTime": 1.2990810000001147, 
+            "subtree": "subtree_comp_18", 
+            "type": "eval", 
+            "url": "https://ssl.google-analytics.com/ga.js"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [], 
+            "docUrl": "https://www.reddit.com/", 
+            "enclosing": "None", 
+            "endTime": 1.336790000000292, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_19", 
+            "startTime": 1.299514000000272, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://www.redditstatic.com/moat/moatframe.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_4_2"
+            ], 
+            "docUrl": "https://www.redditmedia.com/ads/display/300x250#keywords:[s.brandlift.ebay,s.programmatic,k.space,s.frontpage,s.loggedout,k.movie,s.sfw],origin:https://www.reddit.com,properties:percentage:46,full_url:https://www.reddit.com/,age_hours:11133,adblock:off,frame_id:ad_main,pageType:frontpage-listing", 
+            "enclosing": "None", 
+            "endTime": 1.391634000000522, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_20", 
+            "startTime": 1.3490150000006906, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://www.redditmedia.com/ads/display/300x250#keywords:[s.brandlift.ebay,s.programmatic,k.space,s.frontpage,s.loggedout,k.movie,s.sfw],origin:https://www.reddit.com,properties:percentage:46,full_url:https://www.reddit.com/,age_hours:11133,adblock:off,frame_id:ad_main,pageType:frontpage-listing"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_4_3"
+            ], 
+            "docUrl": "https://www.redditmedia.com/ads/display/300x250#keywords:[s.brandlift.ebay,s.programmatic,k.space,s.frontpage,s.loggedout,k.movie,s.sfw],origin:https://www.reddit.com,properties:percentage:46,full_url:https://www.reddit.com/,age_hours:11133,adblock:off,frame_id:ad_main,pageType:frontpage-listing", 
+            "enclosing": "None", 
+            "endTime": 1.3919670000004771, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_21", 
+            "startTime": 1.3918910000002143, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_4_4"
+            ], 
+            "docUrl": "https://www.redditmedia.com/ads/display/300x250#keywords:[s.brandlift.ebay,s.programmatic,k.space,s.frontpage,s.loggedout,k.movie,s.sfw],origin:https://www.reddit.com,properties:percentage:46,full_url:https://www.reddit.com/,age_hours:11133,adblock:off,frame_id:ad_main,pageType:frontpage-listing", 
+            "enclosing": "None", 
+            "endTime": 1.3953660000006494, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_22", 
+            "startTime": 1.392120000000432, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://www.redditmedia.com/ads/display/300x250#keywords:[s.brandlift.ebay,s.programmatic,k.space,s.frontpage,s.loggedout,k.movie,s.sfw],origin:https://www.reddit.com,properties:percentage:46,full_url:https://www.reddit.com/,age_hours:11133,adblock:off,frame_id:ad_main,pageType:frontpage-listing"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.redditmedia.com/ads/display/300x250#keywords:[s.brandlift.ebay,s.programmatic,k.space,s.frontpage,s.loggedout,k.movie,s.sfw],origin:https://www.reddit.com,properties:percentage:46,full_url:https://www.reddit.com/,age_hours:11133,adblock:off,frame_id:ad_main,pageType:frontpage-listing", 
+            "enclosing": "None", 
+            "endTime": 1.3994689999999537, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_23", 
+            "name": "DOMContentLoaded", 
+            "startTime": 1.3954170000006343, 
+            "subtree": "None", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.reddit.com/", 
+            "enclosing": "None", 
+            "endTime": 1.4012750000001688, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_24", 
+            "name": "load", 
+            "startTime": 1.4004020000002129, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [], 
+            "docUrl": "https://www.reddit.com/", 
+            "enclosing": "None", 
+            "endTime": 1.4255739999998696, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_28", 
+            "startTime": 1.4027850000002218, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://www.google-analytics.com/plugins/ga/inpage_linkid.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_2_1", 
+                "comp_32"
+            ], 
+            "docUrl": "https://www.redditmedia.com/gtm?id=GTM-NDJTNB&cb=8CqR7FcToPI", 
+            "enclosing": "None", 
+            "endTime": 1.4334750000007261, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_29", 
+            "startTime": 1.431311000000278, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://www.redditstatic.com/gtm.aX_QHhLRPyo.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_49", 
+                "comp_30_1"
+            ], 
+            "docUrl": "https://www.redditmedia.com/gtm?id=GTM-NDJTNB&cb=8CqR7FcToPI", 
+            "enclosing": "comp_30", 
+            "endTime": 1.4342080000005808, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_30_0", 
+            "startTime": 1.4335860000001048, 
+            "subtree": "subtree_comp_30", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_2_2"
+            ], 
+            "docUrl": "https://www.redditmedia.com/gtm?id=GTM-NDJTNB&cb=8CqR7FcToPI", 
+            "enclosing": "comp_30", 
+            "endTime": 1.4345030000004044, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_30_1", 
+            "startTime": 1.4342080000005808, 
+            "subtree": "subtree_comp_30", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_53", 
+                "comp_31_1"
+            ], 
+            "docUrl": "https://www.redditmedia.com/ads/display/300x250#keywords:[s.brandlift.ebay,s.programmatic,k.space,s.frontpage,s.loggedout,k.movie,s.sfw],origin:https://www.reddit.com,properties:percentage:46,full_url:https://www.reddit.com/,age_hours:11133,adblock:off,frame_id:ad_main,pageType:frontpage-listing", 
+            "enclosing": "comp_31", 
+            "endTime": 1.4447129999998651, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_31_0", 
+            "startTime": 1.4346740000000864, 
+            "subtree": "subtree_comp_31", 
+            "type": "eval", 
+            "url": "https://www.redditmedia.com/ads/display/300x250#keywords:[s.brandlift.ebay,s.programmatic,k.space,s.frontpage,s.loggedout,k.movie,s.sfw],origin:https://www.reddit.com,properties:percentage:46,full_url:https://www.reddit.com/,age_hours:11133,adblock:off,frame_id:ad_main,pageType:frontpage-listing"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "comp_55_0", 
+                "comp_56"
+            ], 
+            "docUrl": "https://www.redditmedia.com/ads/display/300x250#keywords:[s.brandlift.ebay,s.programmatic,k.space,s.frontpage,s.loggedout,k.movie,s.sfw],origin:https://www.reddit.com,properties:percentage:46,full_url:https://www.reddit.com/,age_hours:11133,adblock:off,frame_id:ad_main,pageType:frontpage-listing", 
+            "enclosing": "comp_31", 
+            "endTime": 1.4449810000005527, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_31_1", 
+            "startTime": 1.4447129999998651, 
+            "subtree": "subtree_comp_31", 
+            "type": "eval", 
+            "url": "https://www.redditmedia.com/ads/display/300x250#keywords:[s.brandlift.ebay,s.programmatic,k.space,s.frontpage,s.loggedout,k.movie,s.sfw],origin:https://www.reddit.com,properties:percentage:46,full_url:https://www.reddit.com/,age_hours:11133,adblock:off,frame_id:ad_main,pageType:frontpage-listing"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_33_0", 
+                "comp_36_0"
+            ], 
+            "docUrl": "https://www.redditmedia.com/gtm/jail?cb=8CqR7FcToPI", 
+            "enclosing": "None", 
+            "endTime": 1.4456310000005033, 
+            "evalType": "fireEvent", 
+            "frame": 3, 
+            "id": "comp_32", 
+            "name": "message", 
+            "startTime": 1.4450080000005983, 
+            "subtree": "None", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_34"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "enclosing": "comp_33", 
+            "endTime": 1.447004000000561, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_33_0", 
+            "name": "message", 
+            "startTime": 1.4457680000004984, 
+            "subtree": "subtree_comp_33", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.reddit.com/", 
+            "enclosing": "comp_33", 
+            "endTime": 1.448167999999896, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_33_1", 
+            "name": "message", 
+            "startTime": 1.4477649999998903, 
+            "subtree": "subtree_comp_33", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_33_1", 
+                "comp_47_0"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "enclosing": "None", 
+            "endTime": 1.4477649999998903, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_34", 
+            "name": "request.adzerk", 
+            "startTime": 1.447004000000561, 
+            "subtree": "subtree_comp_33", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_37"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "enclosing": "comp_36", 
+            "endTime": 1.448833000000377, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_36_0", 
+            "name": "message", 
+            "startTime": 1.4485480000003008, 
+            "subtree": "subtree_comp_36", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.reddit.com/", 
+            "enclosing": "comp_36", 
+            "endTime": 1.4489560000001802, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_36_1", 
+            "name": "message", 
+            "startTime": 1.4488860000001296, 
+            "subtree": "subtree_comp_36", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_36_1"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "enclosing": "None", 
+            "endTime": 1.4488860000001296, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_37", 
+            "name": "loaded.gtm", 
+            "startTime": 1.448833000000377, 
+            "subtree": "subtree_comp_36", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "comp_42_0"
+            ], 
+            "docUrl": "https://www.redditmedia.com/gtm?id=GTM-NDJTNB&cb=8CqR7FcToPI", 
+            "enclosing": "comp_41", 
+            "endTime": 1.519655000000057, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_41_0", 
+            "startTime": 1.5014270000001488, 
+            "subtree": "subtree_comp_41", 
+            "type": "eval", 
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-NDJTNB&l=googleTagManager"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "comp_43"
+            ], 
+            "docUrl": "https://www.redditmedia.com/gtm?id=GTM-NDJTNB&cb=8CqR7FcToPI", 
+            "enclosing": "comp_41", 
+            "endTime": 1.520567000000483, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_41_1", 
+            "startTime": 1.520104000000174, 
+            "subtree": "subtree_comp_41", 
+            "type": "eval", 
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-NDJTNB&l=googleTagManager"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [], 
+            "docUrl": "https://www.redditmedia.com/gtm?id=GTM-NDJTNB&cb=8CqR7FcToPI", 
+            "enclosing": "comp_41", 
+            "endTime": 1.5216989999998987, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_41_2", 
+            "startTime": 1.5206809999999678, 
+            "subtree": "subtree_comp_41", 
+            "type": "eval", 
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-NDJTNB&l=googleTagManager"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_51", 
+                "comp_42_1"
+            ], 
+            "docUrl": "https://www.redditmedia.com/gtm?id=GTM-NDJTNB&cb=8CqR7FcToPI", 
+            "enclosing": "comp_42", 
+            "endTime": 1.519734999999855, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_42_0", 
+            "startTime": 1.519655000000057, 
+            "subtree": "subtree_comp_41", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_41_1"
+            ], 
+            "docUrl": "https://www.redditmedia.com/gtm?id=GTM-NDJTNB&cb=8CqR7FcToPI", 
+            "enclosing": "comp_42", 
+            "endTime": 1.520104000000174, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_42_1", 
+            "startTime": 1.519734999999855, 
+            "subtree": "subtree_comp_41", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_41_2"
+            ], 
+            "docUrl": "https://www.redditmedia.com/gtm?id=GTM-NDJTNB&cb=8CqR7FcToPI", 
+            "enclosing": "None", 
+            "endTime": 1.5206809999999678, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_43", 
+            "startTime": 1.520567000000483, 
+            "subtree": "subtree_comp_41", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.reddit.com/", 
+            "enclosing": "None", 
+            "endTime": 1.5232960000003004, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_44", 
+            "name": "load", 
+            "startTime": 1.521997000000738, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_52", 
+                "comp_47_1"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "enclosing": "comp_47", 
+            "endTime": 1.5542780000005223, 
+            "evalType": "timer", 
+            "frame": 1, 
+            "id": "comp_47_0", 
+            "mode": "load", 
+            "startTime": 1.5495449999998527, 
+            "subtree": "subtree_comp_47", 
+            "timeout": 100, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.reddit.com/", 
+            "enclosing": "comp_47", 
+            "endTime": 1.5544210000007297, 
+            "evalType": "timer", 
+            "frame": 1, 
+            "id": "comp_47_1", 
+            "mode": "load", 
+            "startTime": 1.5542780000005223, 
+            "subtree": "subtree_comp_47", 
+            "timeout": 100, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.redditmedia.com/gtm?id=GTM-NDJTNB&cb=8CqR7FcToPI", 
+            "enclosing": "None", 
+            "endTime": 1.5897610000001805, 
+            "evalType": "fireEvent", 
+            "frame": 2, 
+            "id": "comp_48", 
+            "name": "load", 
+            "startTime": 1.589046000000053, 
+            "subtree": "None", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.reddit.com/", 
+            "enclosing": "None", 
+            "endTime": 1.7116430000005494, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_52", 
+            "name": "load", 
+            "startTime": 1.7111510000004273, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_54", 
+                "comp_55_1"
+            ], 
+            "docUrl": "https://www.redditmedia.com/ads/display/300x250#keywords:[s.brandlift.ebay,s.programmatic,k.space,s.frontpage,s.loggedout,k.movie,s.sfw],origin:https://www.reddit.com,properties:percentage:46,full_url:https://www.reddit.com/,age_hours:11133,adblock:off,frame_id:ad_main,pageType:frontpage-listing", 
+            "enclosing": "comp_55", 
+            "endTime": 1.8329100000000835, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_55_0", 
+            "startTime": 1.824188999999933, 
+            "subtree": "subtree_comp_55", 
+            "type": "eval", 
+            "url": "https://www.redditmedia.com/ads/display/300x250#keywords:[s.brandlift.ebay,s.programmatic,k.space,s.frontpage,s.loggedout,k.movie,s.sfw],origin:https://www.reddit.com,properties:percentage:46,full_url:https://www.reddit.com/,age_hours:11133,adblock:off,frame_id:ad_main,pageType:frontpage-listing"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_60", 
+                "comp_55_2"
+            ], 
+            "docUrl": "https://www.redditmedia.com/ads/display/300x250#keywords:[s.brandlift.ebay,s.programmatic,k.space,s.frontpage,s.loggedout,k.movie,s.sfw],origin:https://www.reddit.com,properties:percentage:46,full_url:https://www.reddit.com/,age_hours:11133,adblock:off,frame_id:ad_main,pageType:frontpage-listing", 
+            "enclosing": "comp_55", 
+            "endTime": 1.8332319999999527, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_55_1", 
+            "startTime": 1.8329100000000835, 
+            "subtree": "subtree_comp_55", 
+            "type": "eval", 
+            "url": "https://www.redditmedia.com/ads/display/300x250#keywords:[s.brandlift.ebay,s.programmatic,k.space,s.frontpage,s.loggedout,k.movie,s.sfw],origin:https://www.reddit.com,properties:percentage:46,full_url:https://www.reddit.com/,age_hours:11133,adblock:off,frame_id:ad_main,pageType:frontpage-listing"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "comp_57_0", 
+                "comp_66", 
+                "comp_83"
+            ], 
+            "docUrl": "https://www.redditmedia.com/ads/display/300x250#keywords:[s.brandlift.ebay,s.programmatic,k.space,s.frontpage,s.loggedout,k.movie,s.sfw],origin:https://www.reddit.com,properties:percentage:46,full_url:https://www.reddit.com/,age_hours:11133,adblock:off,frame_id:ad_main,pageType:frontpage-listing", 
+            "enclosing": "comp_55", 
+            "endTime": 1.8338549999998577, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_55_2", 
+            "startTime": 1.8332319999999527, 
+            "subtree": "subtree_comp_55", 
+            "type": "eval", 
+            "url": "https://www.redditmedia.com/ads/display/300x250#keywords:[s.brandlift.ebay,s.programmatic,k.space,s.frontpage,s.loggedout,k.movie,s.sfw],origin:https://www.reddit.com,properties:percentage:46,full_url:https://www.reddit.com/,age_hours:11133,adblock:off,frame_id:ad_main,pageType:frontpage-listing"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_61_0", 
+                "comp_63_0", 
+                "comp_65_0"
+            ], 
+            "docUrl": "https://www.redditmedia.com/ads/display/300x250#keywords:[s.brandlift.ebay,s.programmatic,k.space,s.frontpage,s.loggedout,k.movie,s.sfw],origin:https://www.reddit.com,properties:percentage:46,full_url:https://www.reddit.com/,age_hours:11133,adblock:off,frame_id:ad_main,pageType:frontpage-listing", 
+            "enclosing": "None", 
+            "endTime": 2.0317460000005667, 
+            "evalType": "timer", 
+            "frame": 4, 
+            "id": "comp_56", 
+            "mode": "load", 
+            "startTime": 1.8526190000002316, 
+            "subtree": "None", 
+            "timeout": 50, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_55", 
+                "comp_57_1"
+            ], 
+            "docUrl": "https://www.redditmedia.com/ads/display/300x250#keywords:[s.brandlift.ebay,s.programmatic,k.space,s.frontpage,s.loggedout,k.movie,s.sfw],origin:https://www.reddit.com,properties:percentage:46,full_url:https://www.reddit.com/,age_hours:11133,adblock:off,frame_id:ad_main,pageType:frontpage-listing", 
+            "enclosing": "comp_57", 
+            "endTime": 2.042511000000559, 
+            "evalType": "timer", 
+            "frame": 4, 
+            "id": "comp_57_0", 
+            "mode": "load", 
+            "startTime": 2.042216000000735, 
+            "subtree": "subtree_comp_57", 
+            "timeout": 100, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_58"
+            ], 
+            "docUrl": "https://www.redditmedia.com/ads/display/300x250#keywords:[s.brandlift.ebay,s.programmatic,k.space,s.frontpage,s.loggedout,k.movie,s.sfw],origin:https://www.reddit.com,properties:percentage:46,full_url:https://www.reddit.com/,age_hours:11133,adblock:off,frame_id:ad_main,pageType:frontpage-listing", 
+            "enclosing": "comp_57", 
+            "endTime": 2.0545030000002953, 
+            "evalType": "timer", 
+            "frame": 4, 
+            "id": "comp_57_1", 
+            "mode": "load", 
+            "startTime": 2.042511000000559, 
+            "subtree": "subtree_comp_57", 
+            "timeout": 100, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_59"
+            ], 
+            "docUrl": "https://www.redditmedia.com/ads/display/300x250#keywords:[s.brandlift.ebay,s.programmatic,k.space,s.frontpage,s.loggedout,k.movie,s.sfw],origin:https://www.reddit.com,properties:percentage:46,full_url:https://www.reddit.com/,age_hours:11133,adblock:off,frame_id:ad_main,pageType:frontpage-listing", 
+            "enclosing": "comp_57", 
+            "endTime": 2.054670999999871, 
+            "evalType": "timer", 
+            "frame": 4, 
+            "id": "comp_57_2", 
+            "mode": "load", 
+            "startTime": 2.054619000000457, 
+            "subtree": "subtree_comp_57", 
+            "timeout": 100, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_56", 
+                "comp_57_4"
+            ], 
+            "docUrl": "https://www.redditmedia.com/ads/display/300x250#keywords:[s.brandlift.ebay,s.programmatic,k.space,s.frontpage,s.loggedout,k.movie,s.sfw],origin:https://www.reddit.com,properties:percentage:46,full_url:https://www.reddit.com/,age_hours:11133,adblock:off,frame_id:ad_main,pageType:frontpage-listing", 
+            "enclosing": "comp_57", 
+            "endTime": 2.0548050000006697, 
+            "evalType": "timer", 
+            "frame": 4, 
+            "id": "comp_57_3", 
+            "mode": "load", 
+            "startTime": 2.054769000000306, 
+            "subtree": "subtree_comp_57", 
+            "timeout": 100, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_73_0"
+            ], 
+            "docUrl": "https://www.redditmedia.com/ads/display/300x250#keywords:[s.brandlift.ebay,s.programmatic,k.space,s.frontpage,s.loggedout,k.movie,s.sfw],origin:https://www.reddit.com,properties:percentage:46,full_url:https://www.reddit.com/,age_hours:11133,adblock:off,frame_id:ad_main,pageType:frontpage-listing", 
+            "enclosing": "comp_57", 
+            "endTime": 2.0549019999998563, 
+            "evalType": "timer", 
+            "frame": 4, 
+            "id": "comp_57_4", 
+            "mode": "load", 
+            "startTime": 2.0548050000006697, 
+            "subtree": "subtree_comp_57", 
+            "timeout": 100, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_57_2"
+            ], 
+            "docUrl": "https://www.redditmedia.com/ads/display/300x250#keywords:[s.brandlift.ebay,s.programmatic,k.space,s.frontpage,s.loggedout,k.movie,s.sfw],origin:https://www.reddit.com,properties:percentage:46,full_url:https://www.reddit.com/,age_hours:11133,adblock:off,frame_id:ad_main,pageType:frontpage-listing", 
+            "enclosing": "None", 
+            "endTime": 2.054619000000457, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_58", 
+            "startTime": 2.0545030000002953, 
+            "subtree": "subtree_comp_57", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_57_3"
+            ], 
+            "docUrl": "https://www.redditmedia.com/ads/display/300x250#keywords:[s.brandlift.ebay,s.programmatic,k.space,s.frontpage,s.loggedout,k.movie,s.sfw],origin:https://www.reddit.com,properties:percentage:46,full_url:https://www.reddit.com/,age_hours:11133,adblock:off,frame_id:ad_main,pageType:frontpage-listing", 
+            "enclosing": "None", 
+            "endTime": 2.054769000000306, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_59", 
+            "startTime": 2.054670999999871, 
+            "subtree": "subtree_comp_57", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_62"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "enclosing": "comp_61", 
+            "endTime": 2.05580000000009, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_61_0", 
+            "name": "message", 
+            "startTime": 2.0554510000001756, 
+            "subtree": "subtree_comp_61", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.reddit.com/", 
+            "enclosing": "comp_61", 
+            "endTime": 2.0561470000002373, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_61_1", 
+            "name": "message", 
+            "startTime": 2.056083000000399, 
+            "subtree": "subtree_comp_61", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_61_1", 
+                "comp_79_0"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "enclosing": "None", 
+            "endTime": 2.056083000000399, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_62", 
+            "name": "response.adzerk", 
+            "startTime": 2.05580000000009, 
+            "subtree": "subtree_comp_61", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_64"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "enclosing": "comp_63", 
+            "endTime": 2.0563350000002174, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_63_0", 
+            "name": "message", 
+            "startTime": 2.0561560000005557, 
+            "subtree": "subtree_comp_63", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.reddit.com/", 
+            "enclosing": "comp_63", 
+            "endTime": 2.056851000000279, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_63_1", 
+            "name": "message", 
+            "startTime": 2.0567909999999756, 
+            "subtree": "subtree_comp_63", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_63_1"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "enclosing": "None", 
+            "endTime": 2.0567909999999756, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_64", 
+            "name": "response.adzerk", 
+            "startTime": 2.0563350000002174, 
+            "subtree": "subtree_comp_63", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_57", 
+                "comp_65_1"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "enclosing": "comp_65", 
+            "endTime": 2.057061000000431, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_65_0", 
+            "name": "message", 
+            "startTime": 2.0568630000007033, 
+            "subtree": "subtree_comp_65", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.reddit.com/", 
+            "enclosing": "comp_65", 
+            "endTime": 2.0588880000004792, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_65_1", 
+            "name": "message", 
+            "startTime": 2.057061000000431, 
+            "subtree": "subtree_comp_65", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.redditmedia.com/ads/display/300x250#keywords:[s.brandlift.ebay,s.programmatic,k.space,s.frontpage,s.loggedout,k.movie,s.sfw],origin:https://www.reddit.com,properties:percentage:46,full_url:https://www.reddit.com/,age_hours:11133,adblock:off,frame_id:ad_main,pageType:frontpage-listing", 
+            "enclosing": "None", 
+            "endTime": 2.0597760000000562, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_66", 
+            "startTime": 2.058930000000146, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://www.redditmedia.com/ads/display/300x250#keywords:[s.brandlift.ebay,s.programmatic,k.space,s.frontpage,s.loggedout,k.movie,s.sfw],origin:https://www.reddit.com,properties:percentage:46,full_url:https://www.reddit.com/,age_hours:11133,adblock:off,frame_id:ad_main,pageType:frontpage-listing"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_107", 
+                "comp_70_1"
+            ], 
+            "docUrl": "https://www.redditmedia.com/ads/display/300x250-companion", 
+            "enclosing": "comp_70", 
+            "endTime": 2.08504400000038, 
+            "evalType": "execScript", 
+            "frame": 7, 
+            "id": "comp_70_0", 
+            "startTime": 2.080706000000646, 
+            "subtree": "subtree_comp_70", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_7_1"
+            ], 
+            "docUrl": "https://www.redditmedia.com/ads/display/300x250-companion", 
+            "enclosing": "comp_70", 
+            "endTime": 2.08585100000073, 
+            "evalType": "execScript", 
+            "frame": 7, 
+            "id": "comp_70_1", 
+            "startTime": 2.08504400000038, 
+            "subtree": "subtree_comp_70", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_7_2"
+            ], 
+            "docUrl": "https://www.redditmedia.com/ads/display/300x250-companion", 
+            "enclosing": "None", 
+            "endTime": 2.0949140000002444, 
+            "evalType": "execScript", 
+            "frame": 7, 
+            "id": "comp_71", 
+            "startTime": 2.0860040000006848, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://www.redditstatic.com/ad-dependencies.5O7sMdAReBw.js"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [], 
+            "docUrl": "https://www.redditmedia.com/ads/display/300x250-companion", 
+            "enclosing": "None", 
+            "endTime": 2.0964610000000903, 
+            "evalType": "execScript", 
+            "frame": 7, 
+            "id": "comp_72", 
+            "startTime": 2.095885000000635, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://s.zkcdn.net/ados.js?cb=466c150"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_61", 
+                "comp_73_1"
+            ], 
+            "docUrl": "https://www.redditmedia.com/ads/display/300x250#keywords:[s.brandlift.ebay,s.programmatic,k.space,s.frontpage,s.loggedout,k.movie,s.sfw],origin:https://www.reddit.com,properties:percentage:46,full_url:https://www.reddit.com/,age_hours:11133,adblock:off,frame_id:ad_main,pageType:frontpage-listing", 
+            "enclosing": "comp_73", 
+            "endTime": 2.14956600000005, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_73_0", 
+            "startTime": 2.0973979999998846, 
+            "subtree": "subtree_comp_73", 
+            "type": "eval", 
+            "url": "https://www.redditmedia.com/ads/display/300x250#keywords:[s.brandlift.ebay,s.programmatic,k.space,s.frontpage,s.loggedout,k.movie,s.sfw],origin:https://www.reddit.com,properties:percentage:46,full_url:https://www.reddit.com/,age_hours:11133,adblock:off,frame_id:ad_main,pageType:frontpage-listing"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_58", 
+                "comp_73_2"
+            ], 
+            "docUrl": "https://www.redditmedia.com/ads/display/300x250#keywords:[s.brandlift.ebay,s.programmatic,k.space,s.frontpage,s.loggedout,k.movie,s.sfw],origin:https://www.reddit.com,properties:percentage:46,full_url:https://www.reddit.com/,age_hours:11133,adblock:off,frame_id:ad_main,pageType:frontpage-listing", 
+            "enclosing": "comp_73", 
+            "endTime": 2.1514900000001944, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_73_1", 
+            "startTime": 2.14956600000005, 
+            "subtree": "subtree_comp_73", 
+            "type": "eval", 
+            "url": "https://www.redditmedia.com/ads/display/300x250#keywords:[s.brandlift.ebay,s.programmatic,k.space,s.frontpage,s.loggedout,k.movie,s.sfw],origin:https://www.reddit.com,properties:percentage:46,full_url:https://www.reddit.com/,age_hours:11133,adblock:off,frame_id:ad_main,pageType:frontpage-listing"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_62", 
+                "comp_73_3"
+            ], 
+            "docUrl": "https://www.redditmedia.com/ads/display/300x250#keywords:[s.brandlift.ebay,s.programmatic,k.space,s.frontpage,s.loggedout,k.movie,s.sfw],origin:https://www.reddit.com,properties:percentage:46,full_url:https://www.reddit.com/,age_hours:11133,adblock:off,frame_id:ad_main,pageType:frontpage-listing", 
+            "enclosing": "comp_73", 
+            "endTime": 2.1621410000007018, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_73_2", 
+            "startTime": 2.1514900000001944, 
+            "subtree": "subtree_comp_73", 
+            "type": "eval", 
+            "url": "https://www.redditmedia.com/ads/display/300x250#keywords:[s.brandlift.ebay,s.programmatic,k.space,s.frontpage,s.loggedout,k.movie,s.sfw],origin:https://www.reddit.com,properties:percentage:46,full_url:https://www.reddit.com/,age_hours:11133,adblock:off,frame_id:ad_main,pageType:frontpage-listing"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_75"
+            ], 
+            "docUrl": "https://www.redditmedia.com/ads/display/300x250#keywords:[s.brandlift.ebay,s.programmatic,k.space,s.frontpage,s.loggedout,k.movie,s.sfw],origin:https://www.reddit.com,properties:percentage:46,full_url:https://www.reddit.com/,age_hours:11133,adblock:off,frame_id:ad_main,pageType:frontpage-listing", 
+            "enclosing": "comp_73", 
+            "endTime": 2.162460999999894, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_73_3", 
+            "startTime": 2.1621410000007018, 
+            "subtree": "subtree_comp_73", 
+            "type": "eval", 
+            "url": "https://www.redditmedia.com/ads/display/300x250#keywords:[s.brandlift.ebay,s.programmatic,k.space,s.frontpage,s.loggedout,k.movie,s.sfw],origin:https://www.reddit.com,properties:percentage:46,full_url:https://www.reddit.com/,age_hours:11133,adblock:off,frame_id:ad_main,pageType:frontpage-listing"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_63", 
+                "comp_73_5"
+            ], 
+            "docUrl": "https://www.redditmedia.com/ads/display/300x250#keywords:[s.brandlift.ebay,s.programmatic,k.space,s.frontpage,s.loggedout,k.movie,s.sfw],origin:https://www.reddit.com,properties:percentage:46,full_url:https://www.reddit.com/,age_hours:11133,adblock:off,frame_id:ad_main,pageType:frontpage-listing", 
+            "enclosing": "comp_73", 
+            "endTime": 2.162637000000359, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_73_4", 
+            "startTime": 2.16259700000046, 
+            "subtree": "subtree_comp_73", 
+            "type": "eval", 
+            "url": "https://www.redditmedia.com/ads/display/300x250#keywords:[s.brandlift.ebay,s.programmatic,k.space,s.frontpage,s.loggedout,k.movie,s.sfw],origin:https://www.reddit.com,properties:percentage:46,full_url:https://www.reddit.com/,age_hours:11133,adblock:off,frame_id:ad_main,pageType:frontpage-listing"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_85", 
+                "comp_86"
+            ], 
+            "docUrl": "https://www.redditmedia.com/ads/display/300x250#keywords:[s.brandlift.ebay,s.programmatic,k.space,s.frontpage,s.loggedout,k.movie,s.sfw],origin:https://www.reddit.com,properties:percentage:46,full_url:https://www.reddit.com/,age_hours:11133,adblock:off,frame_id:ad_main,pageType:frontpage-listing", 
+            "enclosing": "comp_73", 
+            "endTime": 2.163385000000744, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_73_5", 
+            "startTime": 2.162637000000359, 
+            "subtree": "subtree_comp_73", 
+            "type": "eval", 
+            "url": "https://www.redditmedia.com/ads/display/300x250#keywords:[s.brandlift.ebay,s.programmatic,k.space,s.frontpage,s.loggedout,k.movie,s.sfw],origin:https://www.reddit.com,properties:percentage:46,full_url:https://www.reddit.com/,age_hours:11133,adblock:off,frame_id:ad_main,pageType:frontpage-listing"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.redditmedia.com/ads/display/300x250#keywords:[s.brandlift.ebay,s.programmatic,k.space,s.frontpage,s.loggedout,k.movie,s.sfw],origin:https://www.reddit.com,properties:percentage:46,full_url:https://www.reddit.com/,age_hours:11133,adblock:off,frame_id:ad_main,pageType:frontpage-listing", 
+            "enclosing": "None", 
+            "endTime": 2.1569460000000618, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_74", 
+            "name": "load", 
+            "startTime": 2.152302999999847, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_73_4"
+            ], 
+            "docUrl": "https://www.redditmedia.com/ads/display/300x250#keywords:[s.brandlift.ebay,s.programmatic,k.space,s.frontpage,s.loggedout,k.movie,s.sfw],origin:https://www.reddit.com,properties:percentage:46,full_url:https://www.reddit.com/,age_hours:11133,adblock:off,frame_id:ad_main,pageType:frontpage-listing", 
+            "enclosing": "None", 
+            "endTime": 2.16259700000046, 
+            "evalType": "execScript", 
+            "frame": 6, 
+            "id": "comp_75", 
+            "startTime": 2.162460999999894, 
+            "subtree": "subtree_comp_73", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_66", 
+                "comp_79_1"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "enclosing": "comp_79", 
+            "endTime": 2.167967000000317, 
+            "evalType": "timer", 
+            "frame": 1, 
+            "id": "comp_79_0", 
+            "mode": "load", 
+            "startTime": 2.1642480000000432, 
+            "subtree": "subtree_comp_79", 
+            "timeout": 100, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.reddit.com/", 
+            "enclosing": "comp_79", 
+            "endTime": 2.168159000000742, 
+            "evalType": "timer", 
+            "frame": 1, 
+            "id": "comp_79_1", 
+            "mode": "load", 
+            "startTime": 2.167967000000317, 
+            "subtree": "subtree_comp_79", 
+            "timeout": 100, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_7_3"
+            ], 
+            "docUrl": "https://www.redditmedia.com/ads/display/300x250-companion", 
+            "enclosing": "None", 
+            "endTime": 2.168854999999894, 
+            "evalType": "execScript", 
+            "frame": 7, 
+            "id": "comp_80", 
+            "startTime": 2.168524000000616, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://www.redditstatic.com/companion.KW1mOM2pJek.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_82"
+            ], 
+            "docUrl": "https://www.redditmedia.com/ads/display/300x250-companion", 
+            "enclosing": "None", 
+            "endTime": 2.1716400000004796, 
+            "evalType": "fireEvent", 
+            "frame": 7, 
+            "id": "comp_81", 
+            "name": "DOMContentLoaded", 
+            "startTime": 2.168912000000091, 
+            "subtree": "None", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_91_0"
+            ], 
+            "docUrl": "https://www.redditmedia.com/ads/display/300x250-companion", 
+            "enclosing": "None", 
+            "endTime": 2.172067999999854, 
+            "evalType": "fireEvent", 
+            "frame": 7, 
+            "id": "comp_82", 
+            "name": "load", 
+            "startTime": 2.1717459999999846, 
+            "subtree": "None", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [], 
+            "docUrl": "https://www.redditmedia.com/ads/display/300x250#keywords:[s.brandlift.ebay,s.programmatic,k.space,s.frontpage,s.loggedout,k.movie,s.sfw],origin:https://www.reddit.com,properties:percentage:46,full_url:https://www.reddit.com/,age_hours:11133,adblock:off,frame_id:ad_main,pageType:frontpage-listing", 
+            "enclosing": "None", 
+            "endTime": 2.1728060000004916, 
+            "evalType": "recalcStyle", 
+            "frame": 4, 
+            "id": "comp_83", 
+            "startTime": 2.1725310000001627, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://www.redditmedia.com/ads/display/300x250#keywords:[s.brandlift.ebay,s.programmatic,k.space,s.frontpage,s.loggedout,k.movie,s.sfw],origin:https://www.reddit.com,properties:percentage:46,full_url:https://www.reddit.com/,age_hours:11133,adblock:off,frame_id:ad_main,pageType:frontpage-listing"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_5_1"
+            ], 
+            "docUrl": "https://googleads.g.doubleclick.net/pagead/html/r20160915/r20160919/zrt_lookup.html", 
+            "enclosing": "None", 
+            "endTime": 2.1814640000002328, 
+            "evalType": "execScript", 
+            "frame": 5, 
+            "id": "comp_84", 
+            "startTime": 2.174062000000049, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.redditmedia.com/ads/display/300x250#keywords:[s.brandlift.ebay,s.programmatic,k.space,s.frontpage,s.loggedout,k.movie,s.sfw],origin:https://www.reddit.com,properties:percentage:46,full_url:https://www.reddit.com/,age_hours:11133,adblock:off,frame_id:ad_main,pageType:frontpage-listing", 
+            "enclosing": "None", 
+            "endTime": 2.1820920000000115, 
+            "evalType": "execScript", 
+            "frame": 6, 
+            "id": "comp_85", 
+            "startTime": 2.1820600000000923, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://www.redditmedia.com/ads/display/300x250#keywords:[s.brandlift.ebay,s.programmatic,k.space,s.frontpage,s.loggedout,k.movie,s.sfw],origin:https://www.reddit.com,properties:percentage:46,full_url:https://www.reddit.com/,age_hours:11133,adblock:off,frame_id:ad_main,pageType:frontpage-listing"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.redditmedia.com/ads/display/300x250#keywords:[s.brandlift.ebay,s.programmatic,k.space,s.frontpage,s.loggedout,k.movie,s.sfw],origin:https://www.reddit.com,properties:percentage:46,full_url:https://www.reddit.com/,age_hours:11133,adblock:off,frame_id:ad_main,pageType:frontpage-listing", 
+            "enclosing": "None", 
+            "endTime": 2.1827400000001944, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_86", 
+            "startTime": 2.182679000000462, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://www.redditmedia.com/ads/display/300x250#keywords:[s.brandlift.ebay,s.programmatic,k.space,s.frontpage,s.loggedout,k.movie,s.sfw],origin:https://www.reddit.com,properties:percentage:46,full_url:https://www.reddit.com/,age_hours:11133,adblock:off,frame_id:ad_main,pageType:frontpage-listing"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_64", 
+                "comp_91_1"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "enclosing": "comp_91", 
+            "endTime": 2.2737770000003366, 
+            "evalType": "timer", 
+            "frame": 7, 
+            "id": "comp_91_0", 
+            "mode": "load", 
+            "startTime": 2.2731149999999616, 
+            "subtree": "subtree_comp_91", 
+            "timeout": 100, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_65", 
+                "comp_91_2"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "enclosing": "comp_91", 
+            "endTime": 2.2742889999999534, 
+            "evalType": "timer", 
+            "frame": 7, 
+            "id": "comp_91_1", 
+            "mode": "load", 
+            "startTime": 2.2737770000003366, 
+            "subtree": "subtree_comp_91", 
+            "timeout": 100, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.reddit.com/", 
+            "enclosing": "comp_91", 
+            "endTime": 2.278501000000688, 
+            "evalType": "timer", 
+            "frame": 7, 
+            "id": "comp_91_2", 
+            "mode": "load", 
+            "startTime": 2.2742889999999534, 
+            "subtree": "subtree_comp_91", 
+            "timeout": 100, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.reddit.com/", 
+            "enclosing": "None", 
+            "endTime": 2.5387070000006133, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_99", 
+            "name": "load", 
+            "startTime": 2.5382589999999254, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.reddit.com/", 
+            "enclosing": "None", 
+            "endTime": 59.93479100000059, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_1820", 
+            "name": "load", 
+            "startTime": 59.93479100000059, 
+            "subtree": "None", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "children": [
+                "download_3", 
+                "pchunk_1_1"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "endColumn": 1165, 
+            "endRow": 0, 
+            "endTag": "link", 
+            "endTime": 0.582883000000038, 
+            "frame": 1, 
+            "id": "pchunk_1_0", 
+            "isFragment": false, 
+            "startColumn": 82, 
+            "startRow": 0, 
+            "startTag": "html", 
+            "startTime": 0.5815259999999398, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_1", 
+                "pchunk_1_2"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "endColumn": 1270, 
+            "endRow": 0, 
+            "endTag": "link", 
+            "endTime": 0.583454000000529, 
+            "frame": 1, 
+            "id": "pchunk_1_1", 
+            "isFragment": false, 
+            "startColumn": 1270, 
+            "startRow": 0, 
+            "startTag": "link", 
+            "startTime": 0.5831459999999424, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_2", 
+                "pchunk_1_3"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "endColumn": 1392, 
+            "endRow": 0, 
+            "endTag": "script", 
+            "endTime": 0.5834880000011253, 
+            "frame": 1, 
+            "id": "pchunk_1_2", 
+            "isFragment": false, 
+            "startColumn": 1383, 
+            "startRow": 0, 
+            "startTag": "script", 
+            "startTime": 0.583465000000615, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_4", 
+                "comp_3"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "endColumn": 4686, 
+            "endRow": 0, 
+            "endTag": "script", 
+            "endTime": 0.8606710000003659, 
+            "frame": 1, 
+            "id": "pchunk_1_3", 
+            "isFragment": false, 
+            "startColumn": 1586, 
+            "startRow": 0, 
+            "startTag": "script", 
+            "startTime": 0.860635000000002, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_5", 
+                "comp_4"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "endColumn": 4965, 
+            "endRow": 0, 
+            "endTag": "script", 
+            "endTime": 0.8658400000003894, 
+            "frame": 1, 
+            "id": "pchunk_1_4", 
+            "isFragment": false, 
+            "startColumn": 4709, 
+            "startRow": 0, 
+            "startTag": "style", 
+            "startTime": 0.8654900000001362, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_6", 
+                "comp_5_0"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "endColumn": 5829, 
+            "endRow": 0, 
+            "endTag": "script", 
+            "endTime": 0.8659859999997934, 
+            "frame": 1, 
+            "id": "pchunk_1_5", 
+            "isFragment": false, 
+            "startColumn": 4996, 
+            "startRow": 0, 
+            "startTag": "script", 
+            "startTime": 0.8659660000002987, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_7", 
+                "comp_6_0"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "endColumn": 6487, 
+            "endRow": 0, 
+            "endTag": "script", 
+            "endTime": 0.8665609999998196, 
+            "frame": 1, 
+            "id": "pchunk_1_6", 
+            "isFragment": false, 
+            "startColumn": 5860, 
+            "startRow": 0, 
+            "startTag": "script", 
+            "startTime": 0.8665410000003249, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_8", 
+                "comp_7_0"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "endColumn": 7140, 
+            "endRow": 0, 
+            "endTag": "script", 
+            "endTime": 0.8671770000009928, 
+            "frame": 1, 
+            "id": "pchunk_1_7", 
+            "isFragment": false, 
+            "startColumn": 6494, 
+            "startRow": 0, 
+            "startTag": "head", 
+            "startTime": 0.8670140000003812, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_9", 
+                "comp_8_0"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "endColumn": 7414, 
+            "endRow": 0, 
+            "endTag": "script", 
+            "endTime": 0.9401530000004641, 
+            "frame": 1, 
+            "id": "pchunk_1_8", 
+            "isFragment": false, 
+            "startColumn": 7148, 
+            "startRow": 0, 
+            "startTag": "script", 
+            "startTime": 0.9401150000003327, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_34", 
+                "pchunk_1_10"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "endColumn": 7648, 
+            "endRow": 0, 
+            "endTag": "span", 
+            "endTime": 0.9422350000004371, 
+            "frame": 1, 
+            "id": "pchunk_1_9", 
+            "isFragment": false, 
+            "startColumn": 7445, 
+            "startRow": 0, 
+            "startTag": "div", 
+            "startTime": 0.9404739999999947, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_35", 
+                "pchunk_1_11"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "endColumn": 17834, 
+            "endRow": 0, 
+            "endTag": "a", 
+            "endTime": 0.9475410000013653, 
+            "frame": 1, 
+            "id": "pchunk_1_10", 
+            "isFragment": false, 
+            "startColumn": 7668, 
+            "startRow": 0, 
+            "startTag": "span", 
+            "startTime": 0.9422640000002502, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_67", 
+                "pchunk_1_12"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "endColumn": 19079, 
+            "endRow": 0, 
+            "endTag": "input", 
+            "endTime": 0.9513609999994515, 
+            "frame": 1, 
+            "id": "pchunk_1_11", 
+            "isFragment": false, 
+            "startColumn": 17848, 
+            "startRow": 0, 
+            "startTag": "a", 
+            "startTime": 0.9494039999999586, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_36", 
+                "pchunk_1_13"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "endColumn": 20778, 
+            "endRow": 0, 
+            "endTag": "span", 
+            "endTime": 0.9552539999976943, 
+            "frame": 1, 
+            "id": "pchunk_1_12", 
+            "isFragment": false, 
+            "startColumn": 19119, 
+            "startRow": 0, 
+            "startTag": "div", 
+            "startTime": 0.9515300000002753, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_68", 
+                "pchunk_1_14"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "endColumn": 21032, 
+            "endRow": 0, 
+            "endTag": "div", 
+            "endTime": 0.9558859999979177, 
+            "frame": 1, 
+            "id": "pchunk_1_13", 
+            "isFragment": false, 
+            "startColumn": 20785, 
+            "startRow": 0, 
+            "startTag": "span", 
+            "startTime": 0.9556750000001557, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_69", 
+                "pchunk_1_15"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "endColumn": 21238, 
+            "endRow": 0, 
+            "endTag": "div", 
+            "endTime": 0.956013000000894, 
+            "frame": 1, 
+            "id": "pchunk_1_14", 
+            "isFragment": false, 
+            "startColumn": 21200, 
+            "startRow": 0, 
+            "startTag": "a", 
+            "startTime": 0.9559140000001207, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_16", 
+                "comp_11"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "endColumn": 25236, 
+            "endRow": 0, 
+            "endTag": "script", 
+            "endTime": 0.9561980000007679, 
+            "frame": 1, 
+            "id": "pchunk_1_15", 
+            "isFragment": false, 
+            "startColumn": 21244, 
+            "startRow": 0, 
+            "startTag": "div", 
+            "startTime": 0.9560240000000704, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_11", 
+                "pchunk_1_17"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "endColumn": 26872, 
+            "endRow": 0, 
+            "endTag": "img", 
+            "endTime": 1.025366999999278, 
+            "frame": 1, 
+            "id": "pchunk_1_16", 
+            "isFragment": false, 
+            "startColumn": 25242, 
+            "startRow": 0, 
+            "startTag": "div", 
+            "startTime": 1.0239550000005693, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_10", 
+                "pchunk_1_18"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "endColumn": 27009, 
+            "endRow": 0, 
+            "endTag": "img", 
+            "endTime": 1.025642000001426, 
+            "frame": 1, 
+            "id": "pchunk_1_17", 
+            "isFragment": false, 
+            "startColumn": 26876, 
+            "startRow": 0, 
+            "startTag": "a", 
+            "startTime": 1.0255960000004052, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_8", 
+                "pchunk_1_19"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "endColumn": 29833, 
+            "endRow": 0, 
+            "endTag": "img", 
+            "endTime": 1.0268050000022413, 
+            "frame": 1, 
+            "id": "pchunk_1_18", 
+            "isFragment": false, 
+            "startColumn": 27015, 
+            "startRow": 0, 
+            "startTag": "div", 
+            "startTime": 1.0256460000000516, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_12", 
+                "pchunk_1_20"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "endColumn": 32598, 
+            "endRow": 0, 
+            "endTag": "img", 
+            "endTime": 1.0277380000043195, 
+            "frame": 1, 
+            "id": "pchunk_1_19", 
+            "isFragment": false, 
+            "startColumn": 29837, 
+            "startRow": 0, 
+            "startTag": "a", 
+            "startTime": 1.0270150000005742, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_6", 
+                "pchunk_1_21"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "endColumn": 35828, 
+            "endRow": 0, 
+            "endTag": "img", 
+            "endTime": 1.028425000002244, 
+            "frame": 1, 
+            "id": "pchunk_1_20", 
+            "isFragment": false, 
+            "startColumn": 32602, 
+            "startRow": 0, 
+            "startTag": "a", 
+            "startTime": 1.0279319999999643, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_7", 
+                "pchunk_1_22"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "endColumn": 48109, 
+            "endRow": 0, 
+            "endTag": "img", 
+            "endTime": 1.032744999996794, 
+            "frame": 1, 
+            "id": "pchunk_1_21", 
+            "isFragment": false, 
+            "startColumn": 35832, 
+            "startRow": 0, 
+            "startTag": "a", 
+            "startTime": 1.0285629999998491, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_13", 
+                "pchunk_1_23"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "endColumn": 53896, 
+            "endRow": 0, 
+            "endTag": "img", 
+            "endTime": 1.03473799999756, 
+            "frame": 1, 
+            "id": "pchunk_1_22", 
+            "isFragment": false, 
+            "startColumn": 48113, 
+            "startRow": 0, 
+            "startTag": "a", 
+            "startTime": 1.0337079999999332, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_77", 
+                "pchunk_1_24"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "endColumn": 58883, 
+            "endRow": 0, 
+            "endTag": "button", 
+            "endTime": 1.0364910000007512, 
+            "frame": 1, 
+            "id": "pchunk_1_23", 
+            "isFragment": false, 
+            "startColumn": 53900, 
+            "startRow": 0, 
+            "startTag": "a", 
+            "startTime": 1.0352830000001632, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_78", 
+                "pchunk_1_25"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "endColumn": 58923, 
+            "endRow": 0, 
+            "endTag": "button", 
+            "endTime": 1.0369530000007217, 
+            "frame": 1, 
+            "id": "pchunk_1_24", 
+            "isFragment": false, 
+            "startColumn": 58896, 
+            "startRow": 0, 
+            "startTag": "button", 
+            "startTime": 1.0368660000003729, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_26", 
+                "comp_12_0"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "endColumn": 60506, 
+            "endRow": 0, 
+            "endTag": "script", 
+            "endTime": 1.0372419999994236, 
+            "frame": 1, 
+            "id": "pchunk_1_25", 
+            "isFragment": false, 
+            "startColumn": 58936, 
+            "startRow": 0, 
+            "startTag": "button", 
+            "startTime": 1.036963999999898, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_80", 
+                "pchunk_1_27"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "endColumn": 60678, 
+            "endRow": 0, 
+            "endTag": "strong", 
+            "endTime": 1.078416000001198, 
+            "frame": 1, 
+            "id": "pchunk_1_26", 
+            "isFragment": false, 
+            "startColumn": 60512, 
+            "startRow": 0, 
+            "startTag": "div", 
+            "startTime": 1.0781680000000051, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_81", 
+                "pchunk_1_28"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "endColumn": 62583, 
+            "endRow": 0, 
+            "endTag": "div", 
+            "endTime": 1.0804760000000897, 
+            "frame": 1, 
+            "id": "pchunk_1_27", 
+            "isFragment": false, 
+            "startColumn": 60706, 
+            "startRow": 0, 
+            "startTag": "strong", 
+            "startTime": 1.0784340000000157, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_82", 
+                "pchunk_1_29"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "endColumn": 62839, 
+            "endRow": 0, 
+            "endTag": "div", 
+            "endTime": 1.080654999998842, 
+            "frame": 1, 
+            "id": "pchunk_1_28", 
+            "isFragment": false, 
+            "startColumn": 62589, 
+            "startRow": 0, 
+            "startTag": "div", 
+            "startTime": 1.0805600000003324, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_9", 
+                "pchunk_1_30"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "endColumn": 63580, 
+            "endRow": 0, 
+            "endTag": "img", 
+            "endTime": 1.0808109999998123, 
+            "frame": 1, 
+            "id": "pchunk_1_29", 
+            "isFragment": false, 
+            "startColumn": 62845, 
+            "startRow": 0, 
+            "startTag": "div", 
+            "startTime": 1.0806860000002416, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_15", 
+                "pchunk_1_31"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "endColumn": 66934, 
+            "endRow": 0, 
+            "endTag": "img", 
+            "endTime": 1.081555000001572, 
+            "frame": 1, 
+            "id": "pchunk_1_30", 
+            "isFragment": false, 
+            "startColumn": 63584, 
+            "startRow": 0, 
+            "startTag": "a", 
+            "startTime": 1.080815000000257, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_30", 
+                "pchunk_1_32"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "endColumn": 70204, 
+            "endRow": 0, 
+            "endTag": "img", 
+            "endTime": 1.082510000003822, 
+            "frame": 1, 
+            "id": "pchunk_1_31", 
+            "isFragment": false, 
+            "startColumn": 66938, 
+            "startRow": 0, 
+            "startTag": "a", 
+            "startTime": 1.0816990000002988, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_17", 
+                "pchunk_1_33"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "endColumn": 73418, 
+            "endRow": 0, 
+            "endTag": "img", 
+            "endTime": 1.0832989999980782, 
+            "frame": 1, 
+            "id": "pchunk_1_32", 
+            "isFragment": false, 
+            "startColumn": 70208, 
+            "startRow": 0, 
+            "startTag": "a", 
+            "startTime": 1.0826630000001387, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_42", 
+                "pchunk_1_34"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "endColumn": 74122, 
+            "endRow": 0, 
+            "endTag": "div", 
+            "endTime": 1.0836680000011256, 
+            "frame": 1, 
+            "id": "pchunk_1_33", 
+            "isFragment": false, 
+            "startColumn": 73422, 
+            "startRow": 0, 
+            "startTag": "a", 
+            "startTime": 1.0834490000006554, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_87", 
+                "pchunk_1_35"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "endColumn": 76977, 
+            "endRow": 0, 
+            "endTag": "a", 
+            "endTime": 1.084302999999636, 
+            "frame": 1, 
+            "id": "pchunk_1_34", 
+            "isFragment": false, 
+            "startColumn": 74128, 
+            "startRow": 0, 
+            "startTag": "div", 
+            "startTime": 1.0837080000001151, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_88", 
+                "pchunk_1_36"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "endColumn": 77567, 
+            "endRow": 0, 
+            "endTag": "div", 
+            "endTime": 1.0845980000030977, 
+            "frame": 1, 
+            "id": "pchunk_1_35", 
+            "isFragment": false, 
+            "startColumn": 76981, 
+            "startRow": 0, 
+            "startTag": "a", 
+            "startTime": 1.0844230000002426, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_19", 
+                "pchunk_1_37"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "endColumn": 79886, 
+            "endRow": 0, 
+            "endTag": "img", 
+            "endTime": 1.0852989999975762, 
+            "frame": 1, 
+            "id": "pchunk_1_36", 
+            "isFragment": false, 
+            "startColumn": 77573, 
+            "startRow": 0, 
+            "startTag": "div", 
+            "startTime": 1.084671999999955, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_32", 
+                "pchunk_1_38"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "endColumn": 83522, 
+            "endRow": 0, 
+            "endTag": "img", 
+            "endTime": 1.08617200000117, 
+            "frame": 1, 
+            "id": "pchunk_1_37", 
+            "isFragment": false, 
+            "startColumn": 79890, 
+            "startRow": 0, 
+            "startTag": "a", 
+            "startTime": 1.0854040000003806, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_16", 
+                "pchunk_1_39"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "endColumn": 87029, 
+            "endRow": 0, 
+            "endTag": "img", 
+            "endTime": 1.0869280000042636, 
+            "frame": 1, 
+            "id": "pchunk_1_38", 
+            "isFragment": false, 
+            "startColumn": 83526, 
+            "startRow": 0, 
+            "startTag": "a", 
+            "startTime": 1.0863120000003619, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_20", 
+                "pchunk_1_40"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "endColumn": 90611, 
+            "endRow": 0, 
+            "endTag": "img", 
+            "endTime": 1.0876859999998487, 
+            "frame": 1, 
+            "id": "pchunk_1_39", 
+            "isFragment": false, 
+            "startColumn": 87033, 
+            "startRow": 0, 
+            "startTag": "a", 
+            "startTime": 1.0870770000001357, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_93", 
+                "pchunk_1_41"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "endColumn": 96135, 
+            "endRow": 0, 
+            "endTag": "a", 
+            "endTime": 1.0890429999990374, 
+            "frame": 1, 
+            "id": "pchunk_1_40", 
+            "isFragment": false, 
+            "startColumn": 90615, 
+            "startRow": 0, 
+            "startTag": "a", 
+            "startTime": 1.0878350000002683, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_18", 
+                "pchunk_1_42"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "endColumn": 99425, 
+            "endRow": 0, 
+            "endTag": "img", 
+            "endTime": 1.0900810000030106, 
+            "frame": 1, 
+            "id": "pchunk_1_41", 
+            "isFragment": false, 
+            "startColumn": 96139, 
+            "startRow": 0, 
+            "startTag": "a", 
+            "startTime": 1.0893400000004476, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_21", 
+                "pchunk_1_43"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "endColumn": 102735, 
+            "endRow": 0, 
+            "endTag": "img", 
+            "endTime": 1.0909979999987627, 
+            "frame": 1, 
+            "id": "pchunk_1_42", 
+            "isFragment": false, 
+            "startColumn": 99429, 
+            "startRow": 0, 
+            "startTag": "a", 
+            "startTime": 1.090248999999858, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_31", 
+                "pchunk_1_44"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "endColumn": 106753, 
+            "endRow": 0, 
+            "endTag": "img", 
+            "endTime": 1.0918449999981021, 
+            "frame": 1, 
+            "id": "pchunk_1_43", 
+            "isFragment": false, 
+            "startColumn": 102739, 
+            "startRow": 0, 
+            "startTag": "a", 
+            "startTime": 1.0911710000000312, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_33", 
+                "pchunk_1_45"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "endColumn": 112573, 
+            "endRow": 0, 
+            "endTag": "img", 
+            "endTime": 1.0961200000019744, 
+            "frame": 1, 
+            "id": "pchunk_1_44", 
+            "isFragment": false, 
+            "startColumn": 106757, 
+            "startRow": 0, 
+            "startTag": "a", 
+            "startTime": 1.0919880000001285, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_22", 
+                "pchunk_1_46"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "endColumn": 119025, 
+            "endRow": 0, 
+            "endTag": "img", 
+            "endTime": 1.0976160000045638, 
+            "frame": 1, 
+            "id": "pchunk_1_45", 
+            "isFragment": false, 
+            "startColumn": 112577, 
+            "startRow": 0, 
+            "startTag": "a", 
+            "startTime": 1.0964570000005551, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_24", 
+                "pchunk_1_47"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "endColumn": 125795, 
+            "endRow": 0, 
+            "endTag": "img", 
+            "endTime": 1.0990350000029139, 
+            "frame": 1, 
+            "id": "pchunk_1_46", 
+            "isFragment": false, 
+            "startColumn": 119029, 
+            "startRow": 0, 
+            "startTag": "a", 
+            "startTime": 1.0979160000006232, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_26", 
+                "pchunk_1_48"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "endColumn": 128767, 
+            "endRow": 0, 
+            "endTag": "img", 
+            "endTime": 1.0998750000053406, 
+            "frame": 1, 
+            "id": "pchunk_1_47", 
+            "isFragment": false, 
+            "startColumn": 125799, 
+            "startRow": 0, 
+            "startTag": "a", 
+            "startTime": 1.0993090000001757, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_27", 
+                "pchunk_1_49"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "endColumn": 131751, 
+            "endRow": 0, 
+            "endTag": "img", 
+            "endTime": 1.1006670000006125, 
+            "frame": 1, 
+            "id": "pchunk_1_48", 
+            "isFragment": false, 
+            "startColumn": 128771, 
+            "startRow": 0, 
+            "startTag": "a", 
+            "startTime": 1.1000149999999849, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_28", 
+                "pchunk_1_50"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "endColumn": 137612, 
+            "endRow": 0, 
+            "endTag": "img", 
+            "endTime": 1.1019769999957134, 
+            "frame": 1, 
+            "id": "pchunk_1_49", 
+            "isFragment": false, 
+            "startColumn": 131755, 
+            "startRow": 0, 
+            "startTag": "a", 
+            "startTime": 1.10082599999987, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_29", 
+                "pchunk_1_51"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "endColumn": 140701, 
+            "endRow": 0, 
+            "endTag": "img", 
+            "endTime": 1.1028750000014043, 
+            "frame": 1, 
+            "id": "pchunk_1_50", 
+            "isFragment": false, 
+            "startColumn": 137616, 
+            "startRow": 0, 
+            "startTag": "a", 
+            "startTime": 1.1022630000006757, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_52", 
+                "comp_13"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "endColumn": 146666, 
+            "endRow": 0, 
+            "endTag": "script", 
+            "endTime": 1.104630999996516, 
+            "frame": 1, 
+            "id": "pchunk_1_51", 
+            "isFragment": false, 
+            "startColumn": 140705, 
+            "startRow": 0, 
+            "startTag": "a", 
+            "startTime": 1.1030390000005355, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_104", 
+                "download_37", 
+                "pchunk_1_53"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "endColumn": 155552, 
+            "endRow": 0, 
+            "endTag": "img", 
+            "endTime": 1.105426000000989, 
+            "frame": 1, 
+            "id": "pchunk_1_52", 
+            "isFragment": false, 
+            "startColumn": 146712, 
+            "startRow": 0, 
+            "startTag": "script", 
+            "startTime": 1.1053310000006604, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_4", 
+                "pchunk_1_54"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "endColumn": 155847, 
+            "endRow": 0, 
+            "endTag": "script", 
+            "endTime": 1.105611000000863, 
+            "frame": 1, 
+            "id": "pchunk_1_53", 
+            "isFragment": false, 
+            "startColumn": 155573, 
+            "startRow": 0, 
+            "startTag": "p", 
+            "startTime": 1.1055280000000494, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "comp_15_0"
+            ], 
+            "docUrl": "https://www.reddit.com/", 
+            "endColumn": 155861, 
+            "endRow": 0, 
+            "endTag": "html", 
+            "endTime": 1.1311600000008184, 
+            "frame": 1, 
+            "id": "pchunk_1_54", 
+            "isFragment": false, 
+            "startColumn": 155854, 
+            "startRow": 0, 
+            "startTag": "body", 
+            "startTime": 1.1311470000000554, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_0", 
+                "dchunk_1_1"
+            ], 
+            "id": "dchunk_1_0", 
+            "offset": 82, 
+            "resource": "download_0", 
+            "size": 1083, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_1", 
+                "dchunk_1_2"
+            ], 
+            "id": "dchunk_1_1", 
+            "offset": 1165, 
+            "resource": "download_0", 
+            "size": 0, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_2", 
+                "dchunk_1_3"
+            ], 
+            "id": "dchunk_1_2", 
+            "offset": 1165, 
+            "resource": "download_0", 
+            "size": 9, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_3", 
+                "dchunk_1_4"
+            ], 
+            "id": "dchunk_1_3", 
+            "offset": 1174, 
+            "resource": "download_0", 
+            "size": 3100, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_4", 
+                "dchunk_1_5"
+            ], 
+            "id": "dchunk_1_4", 
+            "offset": 4274, 
+            "resource": "download_0", 
+            "size": 256, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_5", 
+                "dchunk_1_6"
+            ], 
+            "id": "dchunk_1_5", 
+            "offset": 4530, 
+            "resource": "download_0", 
+            "size": 833, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_6", 
+                "dchunk_1_7"
+            ], 
+            "id": "dchunk_1_6", 
+            "offset": 5363, 
+            "resource": "download_0", 
+            "size": 627, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_7", 
+                "dchunk_1_8"
+            ], 
+            "id": "dchunk_1_7", 
+            "offset": 5990, 
+            "resource": "download_0", 
+            "size": 646, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_8", 
+                "dchunk_1_9"
+            ], 
+            "id": "dchunk_1_8", 
+            "offset": 6636, 
+            "resource": "download_0", 
+            "size": 266, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_9", 
+                "dchunk_1_10"
+            ], 
+            "id": "dchunk_1_9", 
+            "offset": 6902, 
+            "resource": "download_0", 
+            "size": 203, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_10", 
+                "dchunk_1_11"
+            ], 
+            "id": "dchunk_1_10", 
+            "offset": 7105, 
+            "resource": "download_0", 
+            "size": 10166, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_11", 
+                "dchunk_1_12"
+            ], 
+            "id": "dchunk_1_11", 
+            "offset": 17271, 
+            "resource": "download_0", 
+            "size": 1231, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_12", 
+                "dchunk_1_13"
+            ], 
+            "id": "dchunk_1_12", 
+            "offset": 18502, 
+            "resource": "download_0", 
+            "size": 1659, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_13", 
+                "dchunk_1_14"
+            ], 
+            "id": "dchunk_1_13", 
+            "offset": 20161, 
+            "resource": "download_0", 
+            "size": 247, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_14", 
+                "dchunk_1_15"
+            ], 
+            "id": "dchunk_1_14", 
+            "offset": 20408, 
+            "resource": "download_0", 
+            "size": 38, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_15", 
+                "dchunk_1_16"
+            ], 
+            "id": "dchunk_1_15", 
+            "offset": 20446, 
+            "resource": "download_0", 
+            "size": 3992, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_16", 
+                "dchunk_1_17"
+            ], 
+            "id": "dchunk_1_16", 
+            "offset": 24438, 
+            "resource": "download_0", 
+            "size": 1630, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_17", 
+                "dchunk_1_18"
+            ], 
+            "id": "dchunk_1_17", 
+            "offset": 26068, 
+            "resource": "download_0", 
+            "size": 133, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_18", 
+                "dchunk_1_19"
+            ], 
+            "id": "dchunk_1_18", 
+            "offset": 26201, 
+            "resource": "download_0", 
+            "size": 2818, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_19", 
+                "dchunk_1_20"
+            ], 
+            "id": "dchunk_1_19", 
+            "offset": 29019, 
+            "resource": "download_0", 
+            "size": 2761, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_20", 
+                "dchunk_1_21"
+            ], 
+            "id": "dchunk_1_20", 
+            "offset": 31780, 
+            "resource": "download_0", 
+            "size": 3226, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_21", 
+                "dchunk_1_22"
+            ], 
+            "id": "dchunk_1_21", 
+            "offset": 35006, 
+            "resource": "download_0", 
+            "size": 12277, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_22", 
+                "dchunk_1_23"
+            ], 
+            "id": "dchunk_1_22", 
+            "offset": 47283, 
+            "resource": "download_0", 
+            "size": 5783, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_23", 
+                "dchunk_1_24"
+            ], 
+            "id": "dchunk_1_23", 
+            "offset": 53066, 
+            "resource": "download_0", 
+            "size": 4983, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_24", 
+                "dchunk_1_25"
+            ], 
+            "id": "dchunk_1_24", 
+            "offset": 58049, 
+            "resource": "download_0", 
+            "size": 27, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_25", 
+                "dchunk_1_26"
+            ], 
+            "id": "dchunk_1_25", 
+            "offset": 58076, 
+            "resource": "download_0", 
+            "size": 1570, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_26", 
+                "dchunk_1_27"
+            ], 
+            "id": "dchunk_1_26", 
+            "offset": 59646, 
+            "resource": "download_0", 
+            "size": 166, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_27", 
+                "dchunk_1_28"
+            ], 
+            "id": "dchunk_1_27", 
+            "offset": 59812, 
+            "resource": "download_0", 
+            "size": 1877, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_28", 
+                "dchunk_1_29"
+            ], 
+            "id": "dchunk_1_28", 
+            "offset": 61689, 
+            "resource": "download_0", 
+            "size": 250, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_29", 
+                "dchunk_1_30"
+            ], 
+            "id": "dchunk_1_29", 
+            "offset": 61939, 
+            "resource": "download_0", 
+            "size": 735, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_30", 
+                "dchunk_1_31"
+            ], 
+            "id": "dchunk_1_30", 
+            "offset": 62674, 
+            "resource": "download_0", 
+            "size": 3350, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_31", 
+                "dchunk_1_32"
+            ], 
+            "id": "dchunk_1_31", 
+            "offset": 66024, 
+            "resource": "download_0", 
+            "size": 3266, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_32", 
+                "dchunk_1_33"
+            ], 
+            "id": "dchunk_1_32", 
+            "offset": 69290, 
+            "resource": "download_0", 
+            "size": 3210, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_33", 
+                "dchunk_1_34"
+            ], 
+            "id": "dchunk_1_33", 
+            "offset": 72500, 
+            "resource": "download_0", 
+            "size": 700, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_34", 
+                "dchunk_1_35"
+            ], 
+            "id": "dchunk_1_34", 
+            "offset": 73200, 
+            "resource": "download_0", 
+            "size": 2849, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_35", 
+                "dchunk_1_36"
+            ], 
+            "id": "dchunk_1_35", 
+            "offset": 76049, 
+            "resource": "download_0", 
+            "size": 586, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_36", 
+                "dchunk_1_37"
+            ], 
+            "id": "dchunk_1_36", 
+            "offset": 76635, 
+            "resource": "download_0", 
+            "size": 2313, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_37", 
+                "dchunk_1_38"
+            ], 
+            "id": "dchunk_1_37", 
+            "offset": 78948, 
+            "resource": "download_0", 
+            "size": 3632, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_38", 
+                "dchunk_1_39"
+            ], 
+            "id": "dchunk_1_38", 
+            "offset": 82580, 
+            "resource": "download_0", 
+            "size": 3503, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_39", 
+                "dchunk_1_40"
+            ], 
+            "id": "dchunk_1_39", 
+            "offset": 86083, 
+            "resource": "download_0", 
+            "size": 3578, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_40", 
+                "dchunk_1_41"
+            ], 
+            "id": "dchunk_1_40", 
+            "offset": 89661, 
+            "resource": "download_0", 
+            "size": 5520, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_41", 
+                "dchunk_1_42"
+            ], 
+            "id": "dchunk_1_41", 
+            "offset": 95181, 
+            "resource": "download_0", 
+            "size": 3286, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_42", 
+                "dchunk_1_43"
+            ], 
+            "id": "dchunk_1_42", 
+            "offset": 98467, 
+            "resource": "download_0", 
+            "size": 3306, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_43", 
+                "dchunk_1_44"
+            ], 
+            "id": "dchunk_1_43", 
+            "offset": 101773, 
+            "resource": "download_0", 
+            "size": 4014, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_44", 
+                "dchunk_1_45"
+            ], 
+            "id": "dchunk_1_44", 
+            "offset": 105787, 
+            "resource": "download_0", 
+            "size": 5816, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_45", 
+                "dchunk_1_46"
+            ], 
+            "id": "dchunk_1_45", 
+            "offset": 111603, 
+            "resource": "download_0", 
+            "size": 6448, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_46", 
+                "dchunk_1_47"
+            ], 
+            "id": "dchunk_1_46", 
+            "offset": 118051, 
+            "resource": "download_0", 
+            "size": 6766, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_47", 
+                "dchunk_1_48"
+            ], 
+            "id": "dchunk_1_47", 
+            "offset": 124817, 
+            "resource": "download_0", 
+            "size": 2968, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_48", 
+                "dchunk_1_49"
+            ], 
+            "id": "dchunk_1_48", 
+            "offset": 127785, 
+            "resource": "download_0", 
+            "size": 2980, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_49", 
+                "dchunk_1_50"
+            ], 
+            "id": "dchunk_1_49", 
+            "offset": 130765, 
+            "resource": "download_0", 
+            "size": 5857, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_50", 
+                "dchunk_1_51"
+            ], 
+            "id": "dchunk_1_50", 
+            "offset": 136622, 
+            "resource": "download_0", 
+            "size": 3085, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_51", 
+                "dchunk_1_52"
+            ], 
+            "id": "dchunk_1_51", 
+            "offset": 139707, 
+            "resource": "download_0", 
+            "size": 5961, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_52", 
+                "dchunk_1_53"
+            ], 
+            "id": "dchunk_1_52", 
+            "offset": 145668, 
+            "resource": "download_0", 
+            "size": 8840, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_53", 
+                "dchunk_1_54"
+            ], 
+            "id": "dchunk_1_53", 
+            "offset": 154508, 
+            "resource": "download_0", 
+            "size": 274, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_54"
+            ], 
+            "id": "dchunk_1_54", 
+            "offset": 154782, 
+            "resource": "download_0", 
+            "size": 7, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_7_1", 
+                "comp_70_0"
+            ], 
+            "docUrl": "https://www.redditmedia.com/ads/display/300x250-companion", 
+            "endColumn": 11, 
+            "endRow": 23, 
+            "endTag": "script", 
+            "endTime": 2.08064000000104, 
+            "frame": 7, 
+            "id": "pchunk_7_0", 
+            "isFragment": false, 
+            "startColumn": 6, 
+            "startRow": 3, 
+            "startTag": "html", 
+            "startTime": 2.0803390000000945, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_108", 
+                "pchunk_7_2"
+            ], 
+            "docUrl": "https://www.redditmedia.com/ads/display/300x250-companion", 
+            "endColumn": 102, 
+            "endRow": 24, 
+            "endTag": "script", 
+            "endTime": 2.0858890000008614, 
+            "frame": 7, 
+            "id": "pchunk_7_1", 
+            "isFragment": false, 
+            "startColumn": 93, 
+            "startRow": 24, 
+            "startTag": "script", 
+            "startTime": 2.0858650000000125, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_59", 
+                "pchunk_7_3"
+            ], 
+            "docUrl": "https://www.redditmedia.com/ads/display/300x250-companion", 
+            "endColumn": 96, 
+            "endRow": 30, 
+            "endTag": "script", 
+            "endTime": 2.0949990000008256, 
+            "frame": 7, 
+            "id": "pchunk_7_2", 
+            "isFragment": false, 
+            "startColumn": 7, 
+            "startRow": 26, 
+            "startTag": "head", 
+            "startTime": 2.0949280000004364, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "comp_81"
+            ], 
+            "docUrl": "https://www.redditmedia.com/ads/display/300x250-companion", 
+            "endColumn": 7, 
+            "endRow": 34, 
+            "endTag": "html", 
+            "endTime": 2.168883000000278, 
+            "frame": 7, 
+            "id": "pchunk_7_3", 
+            "isFragment": false, 
+            "startColumn": 7, 
+            "startRow": 33, 
+            "startTag": "body", 
+            "startTime": 2.1688750000002983, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_7_0", 
+                "dchunk_7_1"
+            ], 
+            "id": "dchunk_7_0", 
+            "offset": 24, 
+            "resource": "download_57", 
+            "size": 693, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_7_1", 
+                "dchunk_7_2"
+            ], 
+            "id": "dchunk_7_1", 
+            "offset": 717, 
+            "resource": "download_57", 
+            "size": 9, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_7_2", 
+                "dchunk_7_3"
+            ], 
+            "id": "dchunk_7_2", 
+            "offset": 726, 
+            "resource": "download_57", 
+            "size": 136, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_7_3"
+            ], 
+            "id": "dchunk_7_3", 
+            "offset": 862, 
+            "resource": "download_57", 
+            "size": 8, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "download_48", 
+                "pchunk_2_1"
+            ], 
+            "docUrl": "https://www.redditmedia.com/gtm?id=GTM-NDJTNB&cb=8CqR7FcToPI", 
+            "endColumn": 90, 
+            "endRow": 13, 
+            "endTag": "script", 
+            "endTime": 1.3473890000004758, 
+            "frame": 2, 
+            "id": "pchunk_2_0", 
+            "isFragment": false, 
+            "startColumn": 6, 
+            "startRow": 6, 
+            "startTag": "html", 
+            "startTime": 1.3471589999999196, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_2", 
+                "comp_30_0"
+            ], 
+            "docUrl": "https://www.redditmedia.com/gtm?id=GTM-NDJTNB&cb=8CqR7FcToPI", 
+            "endColumn": 11, 
+            "endRow": 31, 
+            "endTag": "script", 
+            "endTime": 1.433552999999847, 
+            "frame": 2, 
+            "id": "pchunk_2_1", 
+            "isFragment": false, 
+            "startColumn": 12, 
+            "startRow": 15, 
+            "startTag": "noscript", 
+            "startTime": 1.4334960000005594, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "comp_48"
+            ], 
+            "docUrl": "https://www.redditmedia.com/gtm?id=GTM-NDJTNB&cb=8CqR7FcToPI", 
+            "endColumn": 7, 
+            "endRow": 33, 
+            "endTag": "html", 
+            "endTime": 1.4345240000002377, 
+            "frame": 2, 
+            "id": "pchunk_2_2", 
+            "isFragment": false, 
+            "startColumn": 7, 
+            "startRow": 32, 
+            "startTag": "body", 
+            "startTime": 1.434516000000258, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_0", 
+                "dchunk_2_1"
+            ], 
+            "id": "dchunk_2_0", 
+            "offset": 27, 
+            "resource": "download_43", 
+            "size": 201, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_1", 
+                "dchunk_2_2"
+            ], 
+            "id": "dchunk_2_1", 
+            "offset": 228, 
+            "resource": "download_43", 
+            "size": 694, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_2"
+            ], 
+            "id": "dchunk_2_2", 
+            "offset": 922, 
+            "resource": "download_43", 
+            "size": 8, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_4_1", 
+                "comp_17_0"
+            ], 
+            "docUrl": "https://www.redditmedia.com/ads/display/300x250#keywords:[s.brandlift.ebay,s.programmatic,k.space,s.frontpage,s.loggedout,k.movie,s.sfw],origin:https://www.reddit.com,properties:percentage:46,full_url:https://www.reddit.com/,age_hours:11133,adblock:off,frame_id:ad_main,pageType:frontpage-listing", 
+            "endColumn": 11, 
+            "endRow": 23, 
+            "endTag": "script", 
+            "endTime": 1.2682029999978113, 
+            "frame": 4, 
+            "id": "pchunk_4_0", 
+            "isFragment": false, 
+            "startColumn": 6, 
+            "startRow": 3, 
+            "startTag": "html", 
+            "startTime": 1.267971000000216, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_45", 
+                "pchunk_4_2", 
+                "comp_20"
+            ], 
+            "docUrl": "https://www.redditmedia.com/ads/display/300x250#keywords:[s.brandlift.ebay,s.programmatic,k.space,s.frontpage,s.loggedout,k.movie,s.sfw],origin:https://www.reddit.com,properties:percentage:46,full_url:https://www.reddit.com/,age_hours:11133,adblock:off,frame_id:ad_main,pageType:frontpage-listing", 
+            "endColumn": 102, 
+            "endRow": 24, 
+            "endTag": "script", 
+            "endTime": 1.2729220000010173, 
+            "frame": 4, 
+            "id": "pchunk_4_1", 
+            "isFragment": false, 
+            "startColumn": 93, 
+            "startRow": 24, 
+            "startTag": "script", 
+            "startTime": 1.272888000000421, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_4_3", 
+                "comp_21"
+            ], 
+            "docUrl": "https://www.redditmedia.com/ads/display/300x250#keywords:[s.brandlift.ebay,s.programmatic,k.space,s.frontpage,s.loggedout,k.movie,s.sfw],origin:https://www.reddit.com,properties:percentage:46,full_url:https://www.reddit.com/,age_hours:11133,adblock:off,frame_id:ad_main,pageType:frontpage-listing", 
+            "endColumn": 11, 
+            "endRow": 38, 
+            "endTag": "script", 
+            "endTime": 1.391846000001351, 
+            "frame": 4, 
+            "id": "pchunk_4_2", 
+            "isFragment": false, 
+            "startColumn": 7, 
+            "startRow": 26, 
+            "startTag": "head", 
+            "startTime": 1.391648000000714, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_106", 
+                "pchunk_4_4", 
+                "comp_22"
+            ], 
+            "docUrl": "https://www.redditmedia.com/ads/display/300x250#keywords:[s.brandlift.ebay,s.programmatic,k.space,s.frontpage,s.loggedout,k.movie,s.sfw],origin:https://www.reddit.com,properties:percentage:46,full_url:https://www.reddit.com/,age_hours:11133,adblock:off,frame_id:ad_main,pageType:frontpage-listing", 
+            "endColumn": 94, 
+            "endRow": 39, 
+            "endTag": "script", 
+            "endTime": 1.392015999999785, 
+            "frame": 4, 
+            "id": "pchunk_4_3", 
+            "isFragment": false, 
+            "startColumn": 85, 
+            "startRow": 39, 
+            "startTag": "script", 
+            "startTime": 1.3919770000002245, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "comp_23"
+            ], 
+            "docUrl": "https://www.redditmedia.com/ads/display/300x250#keywords:[s.brandlift.ebay,s.programmatic,k.space,s.frontpage,s.loggedout,k.movie,s.sfw],origin:https://www.reddit.com,properties:percentage:46,full_url:https://www.reddit.com/,age_hours:11133,adblock:off,frame_id:ad_main,pageType:frontpage-listing", 
+            "endColumn": 7, 
+            "endRow": 43, 
+            "endTag": "html", 
+            "endTime": 1.3953899999996793, 
+            "frame": 4, 
+            "id": "pchunk_4_4", 
+            "isFragment": false, 
+            "startColumn": 7, 
+            "startRow": 42, 
+            "startTag": "body", 
+            "startTime": 1.3953840000003765, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_4_0", 
+                "dchunk_4_1"
+            ], 
+            "id": "dchunk_4_0", 
+            "offset": 24, 
+            "resource": "download_39", 
+            "size": 693, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_4_1", 
+                "dchunk_4_2"
+            ], 
+            "id": "dchunk_4_1", 
+            "offset": 717, 
+            "resource": "download_39", 
+            "size": 9, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_4_2", 
+                "dchunk_4_3"
+            ], 
+            "id": "dchunk_4_2", 
+            "offset": 726, 
+            "resource": "download_39", 
+            "size": 310, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_4_3", 
+                "dchunk_4_4"
+            ], 
+            "id": "dchunk_4_3", 
+            "offset": 1036, 
+            "resource": "download_39", 
+            "size": 9, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_4_4"
+            ], 
+            "id": "dchunk_4_4", 
+            "offset": 1045, 
+            "resource": "download_39", 
+            "size": 8, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_3_1", 
+                "comp_10"
+            ], 
+            "docUrl": "https://www.redditmedia.com/gtm/jail?cb=8CqR7FcToPI", 
+            "endColumn": 11, 
+            "endRow": 12, 
+            "endTag": "script", 
+            "endTime": 1.0120730000007825, 
+            "frame": 3, 
+            "id": "pchunk_3_0", 
+            "isFragment": false, 
+            "startColumn": 6, 
+            "startRow": 4, 
+            "startTag": "html", 
+            "startTime": 1.0118660000007367, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_38", 
+                "pchunk_3_2"
+            ], 
+            "docUrl": "https://www.redditmedia.com/gtm/jail?cb=8CqR7FcToPI", 
+            "endColumn": 95, 
+            "endRow": 15, 
+            "endTag": "script", 
+            "endTime": 1.0182690000001458, 
+            "frame": 3, 
+            "id": "pchunk_3_1", 
+            "isFragment": false, 
+            "startColumn": 7, 
+            "startRow": 13, 
+            "startTag": "head", 
+            "startTime": 1.0179040000002715, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [], 
+            "docUrl": "https://www.redditmedia.com/gtm/jail?cb=8CqR7FcToPI", 
+            "endColumn": 7, 
+            "endRow": 18, 
+            "endTag": "html", 
+            "endTime": 1.2667430000001332, 
+            "frame": 3, 
+            "id": "pchunk_3_2", 
+            "isFragment": false, 
+            "startColumn": 7, 
+            "startRow": 17, 
+            "startTag": "body", 
+            "startTime": 1.2667350000001534, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_3_0", 
+                "dchunk_3_1"
+            ], 
+            "id": "dchunk_3_0", 
+            "offset": 25, 
+            "resource": "download_25", 
+            "size": 199, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_3_1", 
+                "dchunk_3_2"
+            ], 
+            "id": "dchunk_3_1", 
+            "offset": 224, 
+            "resource": "download_25", 
+            "size": 103, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_3_2"
+            ], 
+            "id": "dchunk_3_2", 
+            "offset": 327, 
+            "resource": "download_25", 
+            "size": 8, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_5_1", 
+                "comp_84"
+            ], 
+            "docUrl": "https://googleads.g.doubleclick.net/pagead/html/r20160915/r20160919/zrt_lookup.html", 
+            "endColumn": 9, 
+            "endRow": 19, 
+            "endTag": "script", 
+            "endTime": 2.173842000001059, 
+            "frame": 5, 
+            "id": "pchunk_5_0", 
+            "isFragment": false, 
+            "startColumn": 21, 
+            "startRow": 0, 
+            "startTag": "html", 
+            "startTime": 2.1737160000002405, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [], 
+            "docUrl": "https://googleads.g.doubleclick.net/pagead/html/r20160915/r20160919/zrt_lookup.html", 
+            "endColumn": 23, 
+            "endRow": 19, 
+            "endTag": "html", 
+            "endTime": 2.181496000000152, 
+            "frame": 5, 
+            "id": "pchunk_5_1", 
+            "isFragment": false, 
+            "startColumn": 16, 
+            "startRow": 19, 
+            "startTag": "body", 
+            "startTime": 2.181470000000445, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_5_0", 
+                "dchunk_5_1"
+            ], 
+            "id": "dchunk_5_0", 
+            "offset": 21, 
+            "resource": "download_62", 
+            "size": 12680, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_5_1"
+            ], 
+            "id": "dchunk_5_1", 
+            "offset": 12701, 
+            "resource": "download_62", 
+            "size": 7, 
+            "type": "download_chunk"
+        }
+    ], 
+    "frames": [
+        {
+            "id": 1, 
+            "subframes": [
+                7, 
+                4, 
+                3
+            ], 
+            "url": "https://www.reddit.com/"
+        }, 
+        {
+            "id": 7, 
+            "parent": 1, 
+            "subframes": [], 
+            "url": "https://www.redditmedia.com/ads/display/300x250-companion"
+        }, 
+        {
+            "id": 0, 
+            "parent": 4, 
+            "subframes": [
+                6
+            ], 
+            "url": "about:blank"
+        }, 
+        {
+            "id": 2, 
+            "parent": 3, 
+            "subframes": [], 
+            "url": "https://www.redditmedia.com/gtm?id=GTM-NDJTNB&cb=8CqR7FcToPI"
+        }, 
+        {
+            "id": 4, 
+            "parent": 1, 
+            "subframes": [
+                0
+            ], 
+            "url": "https://www.redditmedia.com/ads/display/300x250#keywords:[s.brandlift.ebay,s.programmatic,k.space,s.frontpage,s.loggedout,k.movie,s.sfw],origin:https://www.reddit.com,properties:percentage:46,full_url:https://www.reddit.com/,age_hours:11133,adblock:off,frame_id:ad_main,pageType:frontpage-listing"
+        }, 
+        {
+            "id": 3, 
+            "parent": 1, 
+            "subframes": [
+                2
+            ], 
+            "url": "https://www.redditmedia.com/gtm/jail?cb=8CqR7FcToPI"
+        }, 
+        {
+            "id": 6, 
+            "parent": 0, 
+            "subframes": [
+                5
+            ], 
+            "url": "about:blank"
+        }, 
+        {
+            "id": 5, 
+            "parent": 6, 
+            "subframes": [], 
+            "url": "https://googleads.g.doubleclick.net/pagead/html/r20160915/r20160919/zrt_lookup.html"
+        }
+    ], 
+    "loadEvent": "comp_1820", 
+    "name": "https://www.reddit.com/", 
+    "root_activity": "download_0"
+}

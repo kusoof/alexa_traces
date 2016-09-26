@@ -1,0 +1,3633 @@
+{
+    "DOMContentLoadedEvent": "comp_42_0", 
+    "activities": [
+        {
+            "cached": true, 
+            "children": [
+                "comp_32", 
+                "comp_33_0", 
+                "comp_58"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_58", 
+            "mimeType": "application/javascript", 
+            "sentTime": 0.5828220000003057, 
+            "size": 5297, 
+            "type": "resource", 
+            "url": "https://platform.twitter.com/oct.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_36", 
+                "comp_58"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_7", 
+            "mimeType": "application/javascript", 
+            "sentTime": 1.7523849999997765, 
+            "size": 5783, 
+            "type": "resource", 
+            "url": "https://a.slack-edge.com/b0d2/js/libs/bowser.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_58"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_41", 
+            "mimeType": "text/javascript", 
+            "sentTime": 1.9502140000004147, 
+            "size": 2430, 
+            "type": "resource", 
+            "url": "https://s.adroll.com/pixel/4UHU5P4P3FESHLUMNBLWAU/QCM34G7NBZEHHATIFDIUBJ/K2HN2U4VSJGOVKC2WJLQNH.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_53", 
+                "comp_58"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_36", 
+            "mimeType": "image/gif", 
+            "sentTime": 1.7869159999991098, 
+            "size": 35, 
+            "type": "resource", 
+            "url": "https://pixel.quantserve.com/pixel;r=897542295;a=p-PR1TcMTWEp1S5;labels=_fp.event.Homepage;fpan=0;fpa=P0-1227876556-1474424857212;ns=0;ce=1;cm=;je=1;sr=1440x900x24;enc=n;dst=1;et=1474473068990;tzo=-60;ref=;url=https%3A%2F%2Fslack.com%2F;ogl=type.website%2Csite_name.Slack%2Cimage.https%3A%2F%2Fslack%252Ecom%2Fimg%2Fslack_hash_128%252Ev1464126652%252Epng%2Ctitle.Slack%3A%20Be%20less%20busy%2Cdescription.Slack%20brings%20all%20your%20communication%20together%20in%20one%20place%252E%20It%E2%80%99s%20real-time%20messag"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_58"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_46", 
+            "mimeType": "image/gif", 
+            "sentTime": 2.1642329999995127, 
+            "size": 43, 
+            "type": "resource", 
+            "url": "https://dsum-sec.casalemedia.com/rum?cm_dsp_id=105&external_user_id=NDE2ZGZkMGVjMDAwN2M5MzFmOWE0YzcxMDJhMDFiNGE&expiration=1506009069"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_63_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_49", 
+            "mimeType": "text/javascript", 
+            "sentTime": 2.2439049999993586, 
+            "size": 315, 
+            "type": "resource", 
+            "url": "https://dc.ads.linkedin.com/collect/?time=1474473069450&pid=7324&url=https%3A%2F%2Fslack.com%2F&pageUrl=https%3A%2F%2Fslack.com%2F&ref=&bzid=919f7844-f4db-47b1-92c3-5435673a110e&cksm=FB4D9B959F7B5D90&fmt=js&np.0.id=14&np.0.time=219&s=1"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_47_0", 
+                "comp_58"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_22", 
+            "mimeType": "text/javascript", 
+            "sentTime": 0.5870990000003076, 
+            "size": 22055, 
+            "type": "resource", 
+            "url": "https://d1ivexoxmp59q7.cloudfront.net/slack/live.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_58"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_32", 
+            "mimeType": "image/gif", 
+            "sentTime": 1.626669999999649, 
+            "size": 44, 
+            "type": "resource", 
+            "url": "https://www.facebook.com/tr/?id=406609519531182&ev=PageView&dl=https%3A%2F%2Fslack.com%2F&rl=&if=false&ts=1474473068833&v=2.5.0"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_58"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_29", 
+            "mimeType": "application/x-font-woff", 
+            "sentTime": 1.6327309999996942, 
+            "size": 62928, 
+            "type": "resource", 
+            "url": "https://a.slack-edge.com/d604a/fonts/slack-icons-Regular.woff"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_58"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_12", 
+            "mimeType": "image/svg+xml", 
+            "sentTime": 0.5587250000007771, 
+            "size": 1903, 
+            "type": "resource", 
+            "url": "https://a.slack-edge.com/fa957/img/landing/exclamation_point.svg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_56", 
+                "comp_58"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_39", 
+            "mimeType": "image/gif", 
+            "sentTime": 1.9491109999999026, 
+            "size": 42, 
+            "type": "resource", 
+            "url": "https://www.google.co.uk/ads/ga-audiences?v=1&aip=1&t=sr&_r=4&tid=UA-56978219-1&cid=730968711.1474424857&jid=748713849&_v=j46&z=823129228&ipr=y"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_58"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_20", 
+            "mimeType": "binary/octet-stream", 
+            "sentTime": 0.5912410000000818, 
+            "size": 25584, 
+            "type": "resource", 
+            "url": "https://a.slack-edge.com/eb80/fonts/lato-1/lato-bold.woff"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_58"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_30", 
+            "mimeType": "binary/octet-stream", 
+            "sentTime": 1.6311330000007729, 
+            "size": 25456, 
+            "type": "resource", 
+            "url": "https://a.slack-edge.com/495d/fonts/lato-1/lato-italic-light.woff"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_46_0", 
+                "comp_58"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_21", 
+            "mimeType": "application/x-javascript", 
+            "sentTime": 0.586579000000711, 
+            "size": 8046, 
+            "type": "resource", 
+            "url": "https://secure.quantserve.com/quant.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_44_0", 
+                "comp_45", 
+                "comp_58"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_19", 
+            "mimeType": "text/javascript", 
+            "sentTime": 0.5789359999998851, 
+            "size": 23742, 
+            "type": "resource", 
+            "url": "https://s.adroll.com/j/roundtrip.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_58"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_34", 
+            "mimeType": "application/x-javascript", 
+            "sentTime": 1.7132299999993847, 
+            "size": 22455, 
+            "type": "resource", 
+            "url": "https://snap.licdn.com/li.lms-analytics/insight.min.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_58"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_27", 
+            "mimeType": "binary/octet-stream", 
+            "sentTime": 1.631084999999075, 
+            "size": 25468, 
+            "type": "resource", 
+            "url": "https://a.slack-edge.com/eb80/fonts/lato-1/lato-italic.woff"
+        }, 
+        {
+            "cached": false, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_50", 
+            "mimeType": "image/gif", 
+            "sentTime": 2.2354639999994106, 
+            "size": 29, 
+            "type": "resource", 
+            "url": "https://slack.com/beacon/timing?data=landing_load%3A1682.6770000006945"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_43", 
+                "comp_58"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_17", 
+            "mimeType": "image/gif", 
+            "sentTime": 0.5811219999995956, 
+            "size": 42, 
+            "type": "resource", 
+            "url": "https://ad.doubleclick.net/activity;src=5568076;type=invmedia;cat=dlvabelr;ord=3036559675657?"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_28_0", 
+                "comp_58"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_2", 
+            "mimeType": "application/javascript", 
+            "sentTime": 0.40008099999977276, 
+            "size": 1274, 
+            "type": "resource", 
+            "url": "https://a.slack-edge.com/dcf8/js/libs/beacon.js"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_29_0", 
+                "comp_30", 
+                "comp_58"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_57", 
+            "mimeType": "text/javascript", 
+            "sentTime": 0.5786320000006526, 
+            "size": 27809, 
+            "type": "resource", 
+            "url": "https://www.google-analytics.com/analytics.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_58"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_38", 
+            "mimeType": "application/javascript", 
+            "sentTime": 1.7689859999991313, 
+            "size": 31, 
+            "type": "resource", 
+            "url": "https://analytics.twitter.com/i/adsct?p_id=Twitter&p_user_id=0&txn_id=l5flv&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels"
+        }, 
+        {
+            "cached": false, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_55", 
+            "mimeType": "image/gif", 
+            "sentTime": 2.3065910000004806, 
+            "size": 43, 
+            "type": "resource", 
+            "url": "https://idsync.rlcdn.com/366738.gif?partner_uid=2TAC5CRJZ2SV"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_54", 
+                "comp_58"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_37", 
+            "mimeType": "image/jpeg", 
+            "sentTime": 1.7664229999991221, 
+            "size": 7242, 
+            "type": "resource", 
+            "url": "https://slack.com/img/wired/neutrino-observatory-header-image@tiny.jpg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_65"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_53", 
+            "mimeType": "image/gif", 
+            "sentTime": 2.3098989999998594, 
+            "size": 42, 
+            "type": "resource", 
+            "url": "https://imp2.ads.linkedin.com/l"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_58"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_16", 
+            "mimeType": "binary/octet-stream", 
+            "sentTime": 0.5916199999992386, 
+            "size": 27332, 
+            "type": "resource", 
+            "url": "https://a.slack-edge.com/495d/fonts/lato-1/lato-light.woff"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_11", 
+                "comp_58"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_6", 
+            "mimeType": "text/css", 
+            "sentTime": 0.40373299999919254, 
+            "size": 56410, 
+            "type": "resource", 
+            "url": "https://a.slack-edge.com/66a2e/style/landing.css"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_58"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_35", 
+            "mimeType": "text/html", 
+            "sentTime": 1.7963909999998577, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "about:blank"
+        }, 
+        {
+            "cached": false, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_48", 
+            "mimeType": "text/html", 
+            "sentTime": 2.297736000000441, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "about:blank"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_27", 
+                "comp_58"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_4", 
+            "mimeType": "application/javascript", 
+            "sentTime": 0.564368999999715, 
+            "size": 281386, 
+            "type": "resource", 
+            "url": "https://a.slack-edge.com/55ce/js/rollup-brand.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_58"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_14", 
+            "mimeType": "image/jpeg", 
+            "sentTime": 0.5532029999994847, 
+            "size": 131554, 
+            "type": "resource", 
+            "url": "https://a.slack-edge.com/4030/img/wired/neutrino-observatory-header-image.jpg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_12_0", 
+                "comp_58"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_3", 
+            "mimeType": "text/css", 
+            "sentTime": 0.403426999999283, 
+            "size": 149381, 
+            "type": "resource", 
+            "url": "https://a.slack-edge.com/29600/style/rollup-brand.css"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_39", 
+                "comp_58"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_10", 
+            "mimeType": "application/javascript", 
+            "sentTime": 1.7597119999991264, 
+            "size": 141, 
+            "type": "resource", 
+            "url": "https://a.slack-edge.com/c546/js/footer.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_58"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_24", 
+            "mimeType": "image/png", 
+            "sentTime": 0.5573540000004868, 
+            "size": 3444, 
+            "type": "resource", 
+            "url": "https://slack.com/img/landing/underlines_mars.png"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_58"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_11", 
+            "mimeType": "image/png", 
+            "sentTime": 0.5512859999998909, 
+            "size": 5036, 
+            "type": "resource", 
+            "url": "https://a.slack-edge.com/66f9/img/landing/header_logo_sprite.png"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_58"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_23", 
+            "mimeType": "image/png", 
+            "sentTime": 0.5536209999991115, 
+            "size": 3461, 
+            "type": "resource", 
+            "url": "https://slack.com/img/landing/underlines_robots.png"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_58"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_28", 
+            "mimeType": "binary/octet-stream", 
+            "sentTime": 1.630881999999474, 
+            "size": 25540, 
+            "type": "resource", 
+            "url": "https://a.slack-edge.com/eb80/fonts/lato-1/lato-italic-bold.woff"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_58", 
+                "comp_62_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_47", 
+            "mimeType": "text/javascript", 
+            "sentTime": 1.8084230000004027, 
+            "size": 1016, 
+            "type": "resource", 
+            "url": "https://slack.sp1.convertro.com/trax2/slack/0/ptrx/hit?sid=2TAC5CRJZ2SV&mid=&eid=&cid=2TAC5CRJZ2SV&jid=&typ=&val=1&isa=&pag=https%3A%2F%2Fslack.com%2F&ref=&fup=1&cbi=1&new=0&nji=0&ver=unknown&sts=1435699661&bts=1474473069014&ath=1474473068996&atb=1474473068996&dis=1440x900x24&tid=AEaq9NGENAA&tmz=-60&pfe=1&ish=1&plu=3113969796&log=0.004%20-%20sk.d%0A0.004%20-%20%40%200.002%0A0.014%20-%20iCT%20val%3A%20AEaq9NGENAA%7C1474424857%7C1474424857%7C0%0A0.014%20-%20%24iP%3A%20AEaq9NGENAA%0A0.014%20-%20i.p%3A%20T%202TAC5CRJZ2SV%0A0.014%20-%20i.p.c.m%3A%20C%202TAC5CRJZ2SV%0A0.016%20-%20%3E%3E%20te%3A%202TAC5CRJZ2SV%3B%20%3B%20%3B%201"
+        }, 
+        {
+            "cached": false, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_51", 
+            "mimeType": "image/gif", 
+            "sentTime": 2.236440999999104, 
+            "size": 29, 
+            "type": "resource", 
+            "url": "https://slack.com/beacon/timing?data=landing_control_load%3A1683.6550000007264"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_58"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_44", 
+            "mimeType": "image/gif", 
+            "sentTime": 2.021381000000474, 
+            "size": 44, 
+            "type": "resource", 
+            "url": "https://www.facebook.com/tr/?id=783626275071512&ev=PageView&dl=https%3A%2F%2Fslack.com%2F&rl=&if=false&ts=1474473069228&cd[segment_eid]=%5B%22K2HN2U4VSJGOVKC2WJLQNH%22%5D&v=2.5.0"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_51", 
+                "comp_52", 
+                "comp_58"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_26", 
+            "mimeType": "application/javascript", 
+            "sentTime": 0.5904989999999088, 
+            "size": 3197, 
+            "type": "resource", 
+            "url": "https://ga.clearbit.com/v1/ga.js?authorization=pk_7144fadb90a8fdd9c89e1395ff4171a3"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_64"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_52", 
+            "mimeType": "image/gif", 
+            "sentTime": 2.3095460000004095, 
+            "size": 43, 
+            "type": "resource", 
+            "url": "https://secure.adnxs.com/seg?add=2894312&t=2"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_58"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_15", 
+            "mimeType": "binary/octet-stream", 
+            "sentTime": 0.5911319999995612, 
+            "size": 24260, 
+            "type": "resource", 
+            "url": "https://a.slack-edge.com/eb80/fonts/lato-1/lato-black.woff"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_58"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_40", 
+            "mimeType": "image/gif", 
+            "sentTime": 1.6036330000006274, 
+            "size": 29, 
+            "type": "resource", 
+            "url": "https://slack.com/beacon/track/?d=eyJ0aW1lIjoxNDc0NDczMDY3NjA3LCJldmVudCI6InBhZ2V2aWV3IiwidG9rZW4iOiIzMzA3ZjQzNjk2M2UwMmQ0ZjllYjg1Y2U1MTU5NzQ0YyIsInVybCI6Imh0dHBzOi8vc2xhY2suY29tLyJ9"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_37", 
+                "comp_58"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_8", 
+            "mimeType": "application/javascript", 
+            "sentTime": 1.7540549999994255, 
+            "size": 10727, 
+            "type": "resource", 
+            "url": "https://a.slack-edge.com/cd43/js/page_landing.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_54", 
+            "mimeType": "image/gif", 
+            "sentTime": 2.2358430000003864, 
+            "size": 29, 
+            "type": "resource", 
+            "url": "https://slack.com/beacon/timing?data=landing_total_load%3A3330"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "dchunk_2_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_0", 
+            "mimeType": "text/html", 
+            "sentTime": 0.0, 
+            "size": 34485, 
+            "type": "resource", 
+            "url": "https://slack.com/"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_58"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_33", 
+            "mimeType": "image/gif", 
+            "sentTime": 1.6287040000006527, 
+            "size": 43, 
+            "type": "resource", 
+            "url": "https://t.co/i/adsct?p_id=Twitter&p_user_id=0&txn_id=l5flv&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_31_0", 
+                "comp_58"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_59", 
+            "mimeType": "application/x-javascript", 
+            "sentTime": 0.5886069999996835, 
+            "size": 9319, 
+            "type": "resource", 
+            "url": "https://connect.facebook.net/en_US/fbevents.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_58"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_13", 
+            "mimeType": "image/jpeg", 
+            "sentTime": 0.553250000000844, 
+            "size": 7242, 
+            "type": "resource", 
+            "url": "https://a.slack-edge.com/97d7c/img/wired/neutrino-observatory-header-image@tiny.jpg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_58"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_42", 
+            "mimeType": "text/plain", 
+            "sentTime": 2.076944000000367, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "https://ums.adtech.de/mapuser?providerid=1076;userid=NDE2ZGZkMGVjMDAwN2M5MzFmOWE0YzcxMDJhMDFiNGE"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_35", 
+                "comp_58"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_5", 
+            "mimeType": "application/javascript", 
+            "sentTime": 1.7514659999997093, 
+            "size": 3905, 
+            "type": "resource", 
+            "url": "https://a.slack-edge.com/0ab2/js/libs/jquery.typed.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_10_0", 
+                "comp_58"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_1", 
+            "mimeType": "application/javascript", 
+            "sentTime": 0.39970999999968626, 
+            "size": 75347, 
+            "type": "resource", 
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KH2LPK"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_58"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_18", 
+            "mimeType": "binary/octet-stream", 
+            "sentTime": 0.5914420000008249, 
+            "size": 24680, 
+            "type": "resource", 
+            "url": "https://a.slack-edge.com/eb80/fonts/lato-1/lato-regular.woff"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_58"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_45", 
+            "mimeType": "text/html", 
+            "sentTime": 2.165849999999409, 
+            "size": 1, 
+            "type": "resource", 
+            "url": "https://image2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZqcz0xJmNvZGU9MzMwNiZ0bD01MjU2MDA&piggybackCookie=NDE2ZGZkMGVjMDAwN2M5MzFmOWE0YzcxMDJhMDFiNGE"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_58"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_43", 
+            "mimeType": "image/gif", 
+            "sentTime": 2.098323000000164, 
+            "size": 42, 
+            "type": "resource", 
+            "url": "https://pixel.rubiconproject.com/tap.php?v=194538&nid=3644&put=NDE2ZGZkMGVjMDAwN2M5MzFmOWE0YzcxMDJhMDFiNGE&expires=365"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_58"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_31", 
+            "mimeType": "binary/octet-stream", 
+            "sentTime": 1.6302080000004935, 
+            "size": 24284, 
+            "type": "resource", 
+            "url": "https://a.slack-edge.com/eb80/fonts/lato-1/lato-italic-black.woff"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_38", 
+                "comp_58"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_9", 
+            "mimeType": "application/javascript", 
+            "sentTime": 1.7575290000004316, 
+            "size": 723, 
+            "type": "resource", 
+            "url": "https://a.slack-edge.com/81d23/js/sticky_nav.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_49", 
+                "comp_58"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_25", 
+            "mimeType": "text/javascript", 
+            "sentTime": 0.5891460000002553, 
+            "size": 782, 
+            "type": "resource", 
+            "url": "https://ad.atdmt.com/m/a.js;m=11237200470644;cache=0.2719008328858763?page_name=homepage"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_2_1"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "None", 
+            "endTime": 0.39651799999955983, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_0", 
+            "startTime": 0.3956450000005134, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_2_2"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "None", 
+            "endTime": 0.39677800000026764, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_1", 
+            "startTime": 0.3965599999992264, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_2_3"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "None", 
+            "endTime": 0.39687400000002526, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_2", 
+            "startTime": 0.3968079999995098, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_2_4"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "None", 
+            "endTime": 0.397211999999854, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_3", 
+            "startTime": 0.39694799999961106, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_2_5"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "None", 
+            "endTime": 0.3973740000001271, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_4", 
+            "startTime": 0.39726300000074843, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_2_6"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "None", 
+            "endTime": 0.398059999999532, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_5", 
+            "startTime": 0.39743599999928847, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_2_7"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "None", 
+            "endTime": 0.39849599999979546, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_6", 
+            "startTime": 0.39810299999953713, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_2_8"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "None", 
+            "endTime": 0.398616000000402, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_7", 
+            "startTime": 0.3985470000006899, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_1", 
+                "comp_8_1"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "comp_8", 
+            "endTime": 0.39946799999961513, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_8_0", 
+            "startTime": 0.39866500000061933, 
+            "subtree": "subtree_comp_8", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_2", 
+                "comp_8_2"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "comp_8", 
+            "endTime": 0.39995599999929254, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_8_1", 
+            "startTime": 0.39946799999961513, 
+            "subtree": "subtree_comp_8", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_2_9"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "comp_8", 
+            "endTime": 0.40025299999979325, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_8_2", 
+            "startTime": 0.39995599999929254, 
+            "subtree": "subtree_comp_8", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_2_10"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "None", 
+            "endTime": 0.40038300000014715, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_9", 
+            "startTime": 0.40031099999941944, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_15", 
+                "comp_10_1"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "comp_10", 
+            "endTime": 0.5068709999995917, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_10_0", 
+            "startTime": 0.4798719999998866, 
+            "subtree": "subtree_comp_10", 
+            "type": "eval", 
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KH2LPK"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_16", 
+                "comp_10_2"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "comp_10", 
+            "endTime": 0.5068709999995917, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_10_1", 
+            "startTime": 0.5068709999995917, 
+            "subtree": "subtree_comp_10", 
+            "type": "eval", 
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KH2LPK"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_18", 
+                "comp_10_3"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "comp_10", 
+            "endTime": 0.5068709999995917, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_10_2", 
+            "startTime": 0.5068709999995917, 
+            "subtree": "subtree_comp_10", 
+            "type": "eval", 
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KH2LPK"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_20", 
+                "comp_10_4"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "comp_10", 
+            "endTime": 0.5068709999995917, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_10_3", 
+            "startTime": 0.5068709999995917, 
+            "subtree": "subtree_comp_10", 
+            "type": "eval", 
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KH2LPK"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_27", 
+                "comp_10_5"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "comp_10", 
+            "endTime": 0.5068709999995917, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_10_4", 
+            "startTime": 0.5068709999995917, 
+            "subtree": "subtree_comp_10", 
+            "type": "eval", 
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KH2LPK"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_28", 
+                "comp_10_6"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "comp_10", 
+            "endTime": 0.5068709999995917, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_10_5", 
+            "startTime": 0.5068709999995917, 
+            "subtree": "subtree_comp_10", 
+            "type": "eval", 
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KH2LPK"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_29", 
+                "comp_10_7"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "comp_10", 
+            "endTime": 0.5068709999995917, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_10_6", 
+            "startTime": 0.5068709999995917, 
+            "subtree": "subtree_comp_10", 
+            "type": "eval", 
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KH2LPK"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_30", 
+                "comp_10_8"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "comp_10", 
+            "endTime": 0.5068709999995917, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_10_7", 
+            "startTime": 0.5068709999995917, 
+            "subtree": "subtree_comp_10", 
+            "type": "eval", 
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KH2LPK"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_31", 
+                "comp_10_9"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "comp_10", 
+            "endTime": 0.5068709999995917, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_10_8", 
+            "startTime": 0.5068709999995917, 
+            "subtree": "subtree_comp_10", 
+            "type": "eval", 
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KH2LPK"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "comp_19_0"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "comp_10", 
+            "endTime": 0.5209419999991951, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_10_9", 
+            "startTime": 0.5068709999995917, 
+            "subtree": "subtree_comp_10", 
+            "type": "eval", 
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-KH2LPK"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "comp_13"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "None", 
+            "endTime": 0.533357000000251, 
+            "evalType": "recalcStyle", 
+            "frame": 2, 
+            "id": "comp_11", 
+            "startTime": 0.5254139999997278, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://a.slack-edge.com/66a2e/style/landing.css"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "download_11", 
+                "comp_12_1"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "comp_12", 
+            "endTime": 0.5512859999998909, 
+            "evalType": "recalcStyle", 
+            "frame": 2, 
+            "id": "comp_12_0", 
+            "startTime": 0.5361020000000281, 
+            "subtree": "subtree_comp_12", 
+            "type": "eval", 
+            "url": "https://a.slack-edge.com/29600/style/rollup-brand.css"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "comp_13"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "comp_12", 
+            "endTime": 0.5515199999990728, 
+            "evalType": "recalcStyle", 
+            "frame": 2, 
+            "id": "comp_12_1", 
+            "startTime": 0.5512859999998909, 
+            "subtree": "subtree_comp_12", 
+            "type": "eval", 
+            "url": "https://a.slack-edge.com/29600/style/rollup-brand.css"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_2_13"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "None", 
+            "endTime": 0.5520460000007006, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_13", 
+            "startTime": 0.5515240000004269, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_2_14"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "None", 
+            "endTime": 0.5522750000000087, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_14", 
+            "startTime": 0.5521110000008775, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_2_15"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "None", 
+            "endTime": 0.5523560000001453, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_15", 
+            "startTime": 0.5523130000001402, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_2_16"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "None", 
+            "endTime": 0.5527189999993425, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_16", 
+            "startTime": 0.5524310000000696, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_2_17"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "None", 
+            "endTime": 0.552878000000419, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_17", 
+            "startTime": 0.5527779999993072, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_2_18"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "None", 
+            "endTime": 0.5530940000007831, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_18", 
+            "startTime": 0.5529279999991559, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_57", 
+                "comp_19_1"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "comp_19", 
+            "endTime": 0.5782209999997576, 
+            "evalType": "timer", 
+            "frame": 2, 
+            "id": "comp_19_0", 
+            "mode": "dom", 
+            "startTime": 0.5650999999998021, 
+            "subtree": "subtree_comp_19", 
+            "timeout": 0, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_19", 
+                "comp_19_2"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "comp_19", 
+            "endTime": 0.5788080000002083, 
+            "evalType": "timer", 
+            "frame": 2, 
+            "id": "comp_19_1", 
+            "mode": "dom", 
+            "startTime": 0.5782209999997576, 
+            "subtree": "subtree_comp_19", 
+            "timeout": 0, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_17", 
+                "comp_19_3"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "comp_19", 
+            "endTime": 0.5810110000002169, 
+            "evalType": "timer", 
+            "frame": 2, 
+            "id": "comp_19_2", 
+            "mode": "dom", 
+            "startTime": 0.5788080000002083, 
+            "subtree": "subtree_comp_19", 
+            "timeout": 0, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_58", 
+                "comp_19_4"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "comp_19", 
+            "endTime": 0.5822119999993447, 
+            "evalType": "timer", 
+            "frame": 2, 
+            "id": "comp_19_3", 
+            "mode": "dom", 
+            "startTime": 0.5810110000002169, 
+            "subtree": "subtree_comp_19", 
+            "timeout": 0, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_20"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "comp_19", 
+            "endTime": 0.58310899999924, 
+            "evalType": "timer", 
+            "frame": 2, 
+            "id": "comp_19_4", 
+            "mode": "dom", 
+            "startTime": 0.5822119999993447, 
+            "subtree": "subtree_comp_19", 
+            "timeout": 0, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_21_0"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "comp_19", 
+            "endTime": 0.5831899999993766, 
+            "evalType": "timer", 
+            "frame": 2, 
+            "id": "comp_19_5", 
+            "mode": "dom", 
+            "startTime": 0.5831539999999222, 
+            "subtree": "subtree_comp_19", 
+            "timeout": 0, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_22_0"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "comp_19", 
+            "endTime": 0.5853659999993397, 
+            "evalType": "timer", 
+            "frame": 2, 
+            "id": "comp_19_6", 
+            "mode": "dom", 
+            "startTime": 0.5835769999994227, 
+            "subtree": "subtree_comp_19", 
+            "timeout": 0, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_23_0"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "comp_19", 
+            "endTime": 0.5869230000007519, 
+            "evalType": "timer", 
+            "frame": 2, 
+            "id": "comp_19_7", 
+            "mode": "dom", 
+            "startTime": 0.5866910000004282, 
+            "subtree": "subtree_comp_19", 
+            "timeout": 0, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_24_0"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "comp_19", 
+            "endTime": 0.5875280000000203, 
+            "evalType": "timer", 
+            "frame": 2, 
+            "id": "comp_19_8", 
+            "mode": "dom", 
+            "startTime": 0.5872139999992214, 
+            "subtree": "subtree_comp_19", 
+            "timeout": 0, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_25_0"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "comp_19", 
+            "endTime": 0.5889470000001893, 
+            "evalType": "timer", 
+            "frame": 2, 
+            "id": "comp_19_9", 
+            "mode": "dom", 
+            "startTime": 0.5887000000002445, 
+            "subtree": "subtree_comp_19", 
+            "timeout": 0, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_26"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "comp_19", 
+            "endTime": 0.5900390000006155, 
+            "evalType": "timer", 
+            "frame": 2, 
+            "id": "comp_19_10", 
+            "mode": "dom", 
+            "startTime": 0.5892469999998866, 
+            "subtree": "subtree_comp_19", 
+            "timeout": 0, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_26", 
+                "comp_19_12"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "comp_19", 
+            "endTime": 0.5902900000000955, 
+            "evalType": "timer", 
+            "frame": 2, 
+            "id": "comp_19_11", 
+            "mode": "dom", 
+            "startTime": 0.5902760000008129, 
+            "subtree": "subtree_comp_19", 
+            "timeout": 0, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "comp_19", 
+            "endTime": 0.5906620000005205, 
+            "evalType": "timer", 
+            "frame": 2, 
+            "id": "comp_19_12", 
+            "mode": "dom", 
+            "startTime": 0.5902900000000955, 
+            "subtree": "subtree_comp_19", 
+            "timeout": 0, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_19_5"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "None", 
+            "endTime": 0.5831539999999222, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_20", 
+            "startTime": 0.58310899999924, 
+            "subtree": "subtree_comp_19", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_34", 
+                "comp_21_1"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "comp_21", 
+            "endTime": 0.5833050000001094, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_21_0", 
+            "startTime": 0.5831899999993766, 
+            "subtree": "subtree_comp_19", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_19_6", 
+                "comp_50"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "comp_21", 
+            "endTime": 0.5835769999994227, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_21_1", 
+            "startTime": 0.5833050000001094, 
+            "subtree": "subtree_comp_19", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_21", 
+                "comp_22_1"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "comp_22", 
+            "endTime": 0.586102999999639, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_22_0", 
+            "startTime": 0.5853659999993397, 
+            "subtree": "subtree_comp_19", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_19_7"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "comp_22", 
+            "endTime": 0.5866910000004282, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_22_1", 
+            "startTime": 0.586102999999639, 
+            "subtree": "subtree_comp_19", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_22", 
+                "comp_23_1"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "comp_23", 
+            "endTime": 0.5870080000004236, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_23_0", 
+            "startTime": 0.5869230000007519, 
+            "subtree": "subtree_comp_19", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_19_8"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "comp_23", 
+            "endTime": 0.5872139999992214, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_23_1", 
+            "startTime": 0.5870080000004236, 
+            "subtree": "subtree_comp_19", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_59", 
+                "comp_24_1"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "comp_24", 
+            "endTime": 0.5878780000002735, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_24_0", 
+            "startTime": 0.5875280000000203, 
+            "subtree": "subtree_comp_19", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_19_9"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "comp_24", 
+            "endTime": 0.5887000000002445, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_24_1", 
+            "startTime": 0.5878780000002735, 
+            "subtree": "subtree_comp_19", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_25", 
+                "comp_25_1"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "comp_25", 
+            "endTime": 0.5890199999994365, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_25_0", 
+            "startTime": 0.5889470000001893, 
+            "subtree": "subtree_comp_19", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_19_10"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "comp_25", 
+            "endTime": 0.5892469999998866, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_25_1", 
+            "startTime": 0.5890199999994365, 
+            "subtree": "subtree_comp_19", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_19_11"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "None", 
+            "endTime": 0.5902760000008129, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_26", 
+            "startTime": 0.5900390000006155, 
+            "subtree": "subtree_comp_19", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_2_23"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "None", 
+            "endTime": 0.7800530000004073, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_27", 
+            "startTime": 0.5930389999994077, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://a.slack-edge.com/55ce/js/rollup-brand.js"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_40", 
+                "comp_28_1"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "comp_28", 
+            "endTime": 1.6035680000004504, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_28_0", 
+            "startTime": 1.602469999999812, 
+            "subtree": "subtree_comp_28", 
+            "type": "eval", 
+            "url": "https://a.slack-edge.com/dcf8/js/libs/beacon.js"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "comp_28", 
+            "endTime": 1.6036519999997836, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_28_1", 
+            "startTime": 1.6035680000004504, 
+            "subtree": "subtree_comp_28", 
+            "type": "eval", 
+            "url": "https://a.slack-edge.com/dcf8/js/libs/beacon.js"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_39", 
+                "comp_29_1"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "comp_29", 
+            "endTime": 1.6230620000005729, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_29_0", 
+            "startTime": 1.6036669999994047, 
+            "subtree": "subtree_comp_29", 
+            "type": "eval", 
+            "url": "https://www.google-analytics.com/analytics.js"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "comp_29", 
+            "endTime": 1.6256670000002487, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_29_1", 
+            "startTime": 1.6230620000005729, 
+            "subtree": "subtree_comp_29", 
+            "type": "eval", 
+            "url": "https://www.google-analytics.com/analytics.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "None", 
+            "endTime": 1.6258670000006532, 
+            "evalType": "fireEvent", 
+            "frame": 2, 
+            "id": "comp_30", 
+            "name": "load", 
+            "startTime": 1.6256830000002083, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_32", 
+                "comp_31_1"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "comp_31", 
+            "endTime": 1.6265729999995528, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_31_0", 
+            "startTime": 1.625873999999385, 
+            "subtree": "subtree_comp_31", 
+            "type": "eval", 
+            "url": "https://connect.facebook.net/en_US/fbevents.js"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "comp_31", 
+            "endTime": 1.6268240000008518, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_31_1", 
+            "startTime": 1.6265729999995528, 
+            "subtree": "subtree_comp_31", 
+            "type": "eval", 
+            "url": "https://connect.facebook.net/en_US/fbevents.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "None", 
+            "endTime": 1.627635000000737, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_32", 
+            "startTime": 1.6268349999991187, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://platform.twitter.com/oct.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_34_0"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "comp_33", 
+            "endTime": 1.6283070000008593, 
+            "evalType": "fireEvent", 
+            "frame": 2, 
+            "id": "comp_33_0", 
+            "name": "load", 
+            "startTime": 1.6279319999994186, 
+            "subtree": "subtree_comp_33", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "comp_33", 
+            "endTime": 1.629467000000659, 
+            "evalType": "fireEvent", 
+            "frame": 2, 
+            "id": "comp_33_1", 
+            "name": "load", 
+            "startTime": 1.6287929999998596, 
+            "subtree": "subtree_comp_33", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_33", 
+                "comp_34_1"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "comp_34", 
+            "endTime": 1.6286259999997128, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_34_0", 
+            "startTime": 1.6283070000008593, 
+            "subtree": "subtree_comp_33", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_33_1", 
+                "comp_55"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "comp_34", 
+            "endTime": 1.6287929999998596, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_34_1", 
+            "startTime": 1.6286259999997128, 
+            "subtree": "subtree_comp_33", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_2_24"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "None", 
+            "endTime": 1.7522890000000189, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_35", 
+            "startTime": 1.75147300000026, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://a.slack-edge.com/0ab2/js/libs/jquery.typed.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_2_25"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "None", 
+            "endTime": 1.7539830000005168, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_36", 
+            "startTime": 1.7523899999996502, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://a.slack-edge.com/b0d2/js/libs/bowser.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_2_26"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "None", 
+            "endTime": 1.7574399999994057, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_37", 
+            "startTime": 1.7540599999992992, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://a.slack-edge.com/cd43/js/page_landing.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_2_27"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "None", 
+            "endTime": 1.7596290000001318, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_38", 
+            "startTime": 1.7575340000003052, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://a.slack-edge.com/81d23/js/sticky_nav.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_2_28"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "None", 
+            "endTime": 1.760338000000047, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_39", 
+            "startTime": 1.759717000000819, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://a.slack-edge.com/c546/js/footer.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_2_29"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "None", 
+            "endTime": 1.760454999999638, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_40", 
+            "startTime": 1.7603859999999258, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_42_0"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "None", 
+            "endTime": 1.7619209999993473, 
+            "evalType": "fireEvent", 
+            "frame": 2, 
+            "id": "comp_41", 
+            "name": "readystatechange", 
+            "startTime": 1.760560999999143, 
+            "subtree": "None", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_37", 
+                "comp_42_1"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "comp_42", 
+            "endTime": 1.7663030000003346, 
+            "evalType": "fireEvent", 
+            "frame": 2, 
+            "id": "comp_42_0", 
+            "name": "DOMContentLoaded", 
+            "startTime": 1.7619340000001102, 
+            "subtree": "subtree_comp_42", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_38", 
+                "comp_42_2"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "comp_42", 
+            "endTime": 1.7689859999991313, 
+            "evalType": "fireEvent", 
+            "frame": 2, 
+            "id": "comp_42_1", 
+            "name": "DOMContentLoaded", 
+            "startTime": 1.7663030000003346, 
+            "subtree": "subtree_comp_42", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_58"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "comp_42", 
+            "endTime": 1.7690679999996064, 
+            "evalType": "fireEvent", 
+            "frame": 2, 
+            "id": "comp_42_2", 
+            "name": "DOMContentLoaded", 
+            "startTime": 1.7689859999991313, 
+            "subtree": "subtree_comp_42", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "None", 
+            "endTime": 1.7709340000001248, 
+            "evalType": "fireEvent", 
+            "frame": 2, 
+            "id": "comp_43", 
+            "name": "load", 
+            "startTime": 1.770738999999594, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_41", 
+                "comp_44_1"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "comp_44", 
+            "endTime": 1.7791080000006332, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_44_0", 
+            "startTime": 1.7710079999997106, 
+            "subtree": "subtree_comp_44", 
+            "type": "eval", 
+            "url": "https://s.adroll.com/j/roundtrip.js"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "comp_57_0"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "comp_44", 
+            "endTime": 1.7819619999991119, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_44_1", 
+            "startTime": 1.7791080000006332, 
+            "subtree": "subtree_comp_44", 
+            "type": "eval", 
+            "url": "https://s.adroll.com/j/roundtrip.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "None", 
+            "endTime": 1.782015999999203, 
+            "evalType": "fireEvent", 
+            "frame": 2, 
+            "id": "comp_45", 
+            "name": "load", 
+            "startTime": 1.7819720000006782, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_36", 
+                "comp_46_1"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "comp_46", 
+            "endTime": 1.786815999999817, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_46_0", 
+            "startTime": 1.7820260000007693, 
+            "subtree": "subtree_comp_46", 
+            "type": "eval", 
+            "url": "https://secure.quantserve.com/quant.js"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "comp_46", 
+            "endTime": 1.7870370000000548, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_46_1", 
+            "startTime": 1.786815999999817, 
+            "subtree": "subtree_comp_46", 
+            "type": "eval", 
+            "url": "https://secure.quantserve.com/quant.js"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_35", 
+                "comp_47_1"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "comp_47", 
+            "endTime": 1.7958330000001297, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_47_0", 
+            "startTime": 1.787054000000353, 
+            "subtree": "subtree_comp_47", 
+            "type": "eval", 
+            "url": "https://d1ivexoxmp59q7.cloudfront.net/slack/live.js"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "comp_48"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "comp_47", 
+            "endTime": 1.804294999999911, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_47_1", 
+            "startTime": 1.7958330000001297, 
+            "subtree": "subtree_comp_47", 
+            "type": "eval", 
+            "url": "https://d1ivexoxmp59q7.cloudfront.net/slack/live.js"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_47", 
+                "comp_47_3"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "comp_47", 
+            "endTime": 1.8077780000003258, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_47_2", 
+            "startTime": 1.8044300000001385, 
+            "subtree": "subtree_comp_47", 
+            "type": "eval", 
+            "url": "https://d1ivexoxmp59q7.cloudfront.net/slack/live.js"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "comp_47", 
+            "endTime": 1.8086640000001353, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_47_3", 
+            "startTime": 1.8077780000003258, 
+            "subtree": "subtree_comp_47", 
+            "type": "eval", 
+            "url": "https://d1ivexoxmp59q7.cloudfront.net/slack/live.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_47_2"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "None", 
+            "endTime": 1.8044300000001385, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_48", 
+            "startTime": 1.804294999999911, 
+            "subtree": "subtree_comp_47", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 3, 
+            "children": [], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "None", 
+            "endTime": 1.808839999999691, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_49", 
+            "startTime": 1.80868399999963, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://ad.atdmt.com/m/a.js;m=11237200470644;cache=0.2719008328858763?page_name=homepage"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "None", 
+            "endTime": 1.8156230000004143, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_50", 
+            "startTime": 1.808853000000454, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://sjs.bizographics.com/insight.min.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "None", 
+            "endTime": 1.8166010000004462, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_51", 
+            "startTime": 1.8156479999997828, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://ga.clearbit.com/v1/ga.js?authorization=pk_7144fadb90a8fdd9c89e1395ff4171a3"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "None", 
+            "endTime": 1.8166700000001583, 
+            "evalType": "fireEvent", 
+            "frame": 2, 
+            "id": "comp_52", 
+            "name": "load", 
+            "startTime": 1.8166110000001936, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "None", 
+            "endTime": 1.9509479999996984, 
+            "evalType": "fireEvent", 
+            "frame": 2, 
+            "id": "comp_53", 
+            "name": "load", 
+            "startTime": 1.95067200000085, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "None", 
+            "endTime": 1.951058999999077, 
+            "evalType": "fireEvent", 
+            "frame": 2, 
+            "id": "comp_54", 
+            "name": "load", 
+            "startTime": 1.9509620000008, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "None", 
+            "endTime": 1.9512109999996028, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_55", 
+            "startTime": 1.9510819999995874, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://analytics.twitter.com/i/adsct?p_id=Twitter&p_user_id=0&txn_id=l5flv&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "None", 
+            "endTime": 1.9742000000005646, 
+            "evalType": "fireEvent", 
+            "frame": 2, 
+            "id": "comp_56", 
+            "name": "load", 
+            "startTime": 1.9736489999995683, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_42", 
+                "comp_57_1"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "comp_57", 
+            "endTime": 2.020712999999887, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_57_0", 
+            "startTime": 2.019615999999587, 
+            "subtree": "subtree_comp_57", 
+            "type": "eval", 
+            "url": "https://d.adroll.com/pixel/4UHU5P4P3FESHLUMNBLWAU/QCM34G7NBZEHHATIFDIUBJ?pv=75626165652.64761&cookie=4UHU5P4P3FESHLUMNBLWAU%3A1%7CQCM34G7NBZEHHATIFDIUBJ%3A1%7CK2HN2U4VSJGOVKC2WJLQNH%3A1&adroll_s_ref=&keyw="
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_46", 
+                "comp_57_2"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "comp_57", 
+            "endTime": 2.0207960000007006, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_57_1", 
+            "startTime": 2.020712999999887, 
+            "subtree": "subtree_comp_57", 
+            "type": "eval", 
+            "url": "https://d.adroll.com/pixel/4UHU5P4P3FESHLUMNBLWAU/QCM34G7NBZEHHATIFDIUBJ?pv=75626165652.64761&cookie=4UHU5P4P3FESHLUMNBLWAU%3A1%7CQCM34G7NBZEHHATIFDIUBJ%3A1%7CK2HN2U4VSJGOVKC2WJLQNH%3A1&adroll_s_ref=&keyw="
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_43", 
+                "comp_57_3"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "comp_57", 
+            "endTime": 2.0208700000002864, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_57_2", 
+            "startTime": 2.0207960000007006, 
+            "subtree": "subtree_comp_57", 
+            "type": "eval", 
+            "url": "https://d.adroll.com/pixel/4UHU5P4P3FESHLUMNBLWAU/QCM34G7NBZEHHATIFDIUBJ?pv=75626165652.64761&cookie=4UHU5P4P3FESHLUMNBLWAU%3A1%7CQCM34G7NBZEHHATIFDIUBJ%3A1%7CK2HN2U4VSJGOVKC2WJLQNH%3A1&adroll_s_ref=&keyw="
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_45", 
+                "comp_57_4"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "comp_57", 
+            "endTime": 2.020941999999195, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_57_3", 
+            "startTime": 2.0208700000002864, 
+            "subtree": "subtree_comp_57", 
+            "type": "eval", 
+            "url": "https://d.adroll.com/pixel/4UHU5P4P3FESHLUMNBLWAU/QCM34G7NBZEHHATIFDIUBJ?pv=75626165652.64761&cookie=4UHU5P4P3FESHLUMNBLWAU%3A1%7CQCM34G7NBZEHHATIFDIUBJ%3A1%7CK2HN2U4VSJGOVKC2WJLQNH%3A1&adroll_s_ref=&keyw="
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_44", 
+                "comp_57_5"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "comp_57", 
+            "endTime": 2.0213019999991957, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_57_4", 
+            "startTime": 2.020941999999195, 
+            "subtree": "subtree_comp_57", 
+            "type": "eval", 
+            "url": "https://d.adroll.com/pixel/4UHU5P4P3FESHLUMNBLWAU/QCM34G7NBZEHHATIFDIUBJ?pv=75626165652.64761&cookie=4UHU5P4P3FESHLUMNBLWAU%3A1%7CQCM34G7NBZEHHATIFDIUBJ%3A1%7CK2HN2U4VSJGOVKC2WJLQNH%3A1&adroll_s_ref=&keyw="
+        }, 
+        {
+            "blocking": 3, 
+            "children": [], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "comp_57", 
+            "endTime": 2.025397999999768, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_57_5", 
+            "startTime": 2.0213019999991957, 
+            "subtree": "subtree_comp_57", 
+            "type": "eval", 
+            "url": "https://d.adroll.com/pixel/4UHU5P4P3FESHLUMNBLWAU/QCM34G7NBZEHHATIFDIUBJ?pv=75626165652.64761&cookie=4UHU5P4P3FESHLUMNBLWAU%3A1%7CQCM34G7NBZEHHATIFDIUBJ%3A1%7CK2HN2U4VSJGOVKC2WJLQNH%3A1&adroll_s_ref=&keyw="
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_59_0"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "None", 
+            "endTime": 2.2299629999997705, 
+            "evalType": "fireEvent", 
+            "frame": 2, 
+            "id": "comp_58", 
+            "name": "readystatechange", 
+            "startTime": 2.229867000000013, 
+            "subtree": "None", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_50", 
+                "comp_59_1"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "comp_59", 
+            "endTime": 2.2353280000006635, 
+            "evalType": "fireEvent", 
+            "frame": 2, 
+            "id": "comp_59_0", 
+            "name": "load", 
+            "startTime": 2.2300469999991037, 
+            "subtree": "subtree_comp_59", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_54", 
+                "comp_59_2"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "comp_59", 
+            "endTime": 2.235758999999234, 
+            "evalType": "fireEvent", 
+            "frame": 2, 
+            "id": "comp_59_1", 
+            "name": "load", 
+            "startTime": 2.2353280000006635, 
+            "subtree": "subtree_comp_59", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_51", 
+                "comp_59_3"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "comp_59", 
+            "endTime": 2.2362499999999272, 
+            "evalType": "fireEvent", 
+            "frame": 2, 
+            "id": "comp_59_2", 
+            "name": "load", 
+            "startTime": 2.235758999999234, 
+            "subtree": "subtree_comp_59", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_49", 
+                "comp_59_4"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "comp_59", 
+            "endTime": 2.2437449999997625, 
+            "evalType": "fireEvent", 
+            "frame": 2, 
+            "id": "comp_59_3", 
+            "name": "load", 
+            "startTime": 2.2362499999999272, 
+            "subtree": "subtree_comp_59", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "comp_59", 
+            "endTime": 2.244053000000349, 
+            "evalType": "fireEvent", 
+            "frame": 2, 
+            "id": "comp_59_4", 
+            "name": "load", 
+            "startTime": 2.2437449999997625, 
+            "subtree": "subtree_comp_59", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_48", 
+                "comp_62_1"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "comp_62", 
+            "endTime": 2.296715000000404, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_62_0", 
+            "startTime": 2.2947970000004716, 
+            "subtree": "subtree_comp_62", 
+            "type": "eval", 
+            "url": "https://slack.sp1.convertro.com/trax2/slack/0/ptrx/hit?sid=2TAC5CRJZ2SV&mid=&eid=&cid=2TAC5CRJZ2SV&jid=&typ=&val=1&isa=&pag=https%3A%2F%2Fslack.com%2F&ref=&fup=1&cbi=1&new=0&nji=0&ver=unknown&sts=1435699661&bts=1474473069014&ath=1474473068996&atb=1474473068996&dis=1440x900x24&tid=AEaq9NGENAA&tmz=-60&pfe=1&ish=1&plu=3113969796&log=0.004%20-%20sk.d%0A0.004%20-%20%40%200.002%0A0.014%20-%20iCT%20val%3A%20AEaq9NGENAA%7C1474424857%7C1474424857%7C0%0A0.014%20-%20%24iP%3A%20AEaq9NGENAA%0A0.014%20-%20i.p%3A%20T%202TAC5CRJZ2SV%0A0.014%20-%20i.p.c.m%3A%20C%202TAC5CRJZ2SV%0A0.016%20-%20%3E%3E%20te%3A%202TAC5CRJZ2SV%3B%20%3B%20%3B%201"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_55", 
+                "comp_62_2"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "comp_62", 
+            "endTime": 2.3066729999991367, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_62_1", 
+            "startTime": 2.296715000000404, 
+            "subtree": "subtree_comp_62", 
+            "type": "eval", 
+            "url": "https://slack.sp1.convertro.com/trax2/slack/0/ptrx/hit?sid=2TAC5CRJZ2SV&mid=&eid=&cid=2TAC5CRJZ2SV&jid=&typ=&val=1&isa=&pag=https%3A%2F%2Fslack.com%2F&ref=&fup=1&cbi=1&new=0&nji=0&ver=unknown&sts=1435699661&bts=1474473069014&ath=1474473068996&atb=1474473068996&dis=1440x900x24&tid=AEaq9NGENAA&tmz=-60&pfe=1&ish=1&plu=3113969796&log=0.004%20-%20sk.d%0A0.004%20-%20%40%200.002%0A0.014%20-%20iCT%20val%3A%20AEaq9NGENAA%7C1474424857%7C1474424857%7C0%0A0.014%20-%20%24iP%3A%20AEaq9NGENAA%0A0.014%20-%20i.p%3A%20T%202TAC5CRJZ2SV%0A0.014%20-%20i.p.c.m%3A%20C%202TAC5CRJZ2SV%0A0.016%20-%20%3E%3E%20te%3A%202TAC5CRJZ2SV%3B%20%3B%20%3B%201"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "comp_62", 
+            "endTime": 2.3067489999993995, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_62_2", 
+            "startTime": 2.3066729999991367, 
+            "subtree": "subtree_comp_62", 
+            "type": "eval", 
+            "url": "https://slack.sp1.convertro.com/trax2/slack/0/ptrx/hit?sid=2TAC5CRJZ2SV&mid=&eid=&cid=2TAC5CRJZ2SV&jid=&typ=&val=1&isa=&pag=https%3A%2F%2Fslack.com%2F&ref=&fup=1&cbi=1&new=0&nji=0&ver=unknown&sts=1435699661&bts=1474473069014&ath=1474473068996&atb=1474473068996&dis=1440x900x24&tid=AEaq9NGENAA&tmz=-60&pfe=1&ish=1&plu=3113969796&log=0.004%20-%20sk.d%0A0.004%20-%20%40%200.002%0A0.014%20-%20iCT%20val%3A%20AEaq9NGENAA%7C1474424857%7C1474424857%7C0%0A0.014%20-%20%24iP%3A%20AEaq9NGENAA%0A0.014%20-%20i.p%3A%20T%202TAC5CRJZ2SV%0A0.014%20-%20i.p.c.m%3A%20C%202TAC5CRJZ2SV%0A0.016%20-%20%3E%3E%20te%3A%202TAC5CRJZ2SV%3B%20%3B%20%3B%201"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_52", 
+                "comp_63_1"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "comp_63", 
+            "endTime": 2.3094579999997222, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_63_0", 
+            "startTime": 2.3081750000001193, 
+            "subtree": "subtree_comp_63", 
+            "type": "eval", 
+            "url": "https://dc.ads.linkedin.com/collect/?time=1474473069450&pid=7324&url=https%3A%2F%2Fslack.com%2F&pageUrl=https%3A%2F%2Fslack.com%2F&ref=&bzid=919f7844-f4db-47b1-92c3-5435673a110e&cksm=FB4D9B959F7B5D90&fmt=js&np.0.id=14&np.0.time=219&s=1"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_53", 
+                "comp_63_2"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "comp_63", 
+            "endTime": 2.309838999999556, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_63_1", 
+            "startTime": 2.3094579999997222, 
+            "subtree": "subtree_comp_63", 
+            "type": "eval", 
+            "url": "https://dc.ads.linkedin.com/collect/?time=1474473069450&pid=7324&url=https%3A%2F%2Fslack.com%2F&pageUrl=https%3A%2F%2Fslack.com%2F&ref=&bzid=919f7844-f4db-47b1-92c3-5435673a110e&cksm=FB4D9B959F7B5D90&fmt=js&np.0.id=14&np.0.time=219&s=1"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "comp_63", 
+            "endTime": 2.310045000000173, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_63_2", 
+            "startTime": 2.309838999999556, 
+            "subtree": "subtree_comp_63", 
+            "type": "eval", 
+            "url": "https://dc.ads.linkedin.com/collect/?time=1474473069450&pid=7324&url=https%3A%2F%2Fslack.com%2F&pageUrl=https%3A%2F%2Fslack.com%2F&ref=&bzid=919f7844-f4db-47b1-92c3-5435673a110e&cksm=FB4D9B959F7B5D90&fmt=js&np.0.id=14&np.0.time=219&s=1"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "None", 
+            "endTime": 2.3577640000003157, 
+            "evalType": "fireEvent", 
+            "frame": 2, 
+            "id": "comp_64", 
+            "name": "load", 
+            "startTime": 2.35621700000047, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://slack.com/", 
+            "enclosing": "None", 
+            "endTime": 2.358578999999736, 
+            "evalType": "fireEvent", 
+            "frame": 2, 
+            "id": "comp_65", 
+            "name": "load", 
+            "startTime": 2.358060000000478, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "children": [
+                "pchunk_2_1", 
+                "comp_0"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "endColumn": 9, 
+            "endRow": 16, 
+            "endTag": "script", 
+            "endTime": 0.3956140000009327, 
+            "frame": 2, 
+            "id": "pchunk_2_0", 
+            "isFragment": false, 
+            "startColumn": 16, 
+            "startRow": 5, 
+            "startTag": "html", 
+            "startTime": 0.39535500000056345, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_2", 
+                "comp_1"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "endColumn": 9, 
+            "endRow": 49, 
+            "endTag": "script", 
+            "endTime": 0.39654499999960535, 
+            "frame": 2, 
+            "id": "pchunk_2_1", 
+            "isFragment": false, 
+            "startColumn": 8, 
+            "startRow": 17, 
+            "startTag": "script", 
+            "startTime": 0.39653200000066136, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_3", 
+                "comp_2"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "endColumn": 9, 
+            "endRow": 54, 
+            "endTag": "script", 
+            "endTime": 0.396800999998959, 
+            "frame": 2, 
+            "id": "pchunk_2_2", 
+            "isFragment": false, 
+            "startColumn": 8, 
+            "startRow": 52, 
+            "startTag": "script", 
+            "startTime": 0.3967900000006921, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_4", 
+                "comp_3"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "endColumn": 14, 
+            "endRow": 144, 
+            "endTag": "script", 
+            "endTime": 0.3969020000004093, 
+            "frame": 2, 
+            "id": "pchunk_2_3", 
+            "isFragment": false, 
+            "startColumn": 21, 
+            "startRow": 54, 
+            "startTag": "noscript", 
+            "startTime": 0.3968860000004497, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_5", 
+                "comp_4"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "endColumn": 9, 
+            "endRow": 166, 
+            "endTag": "script", 
+            "endTime": 0.39724000000023807, 
+            "frame": 2, 
+            "id": "pchunk_2_4", 
+            "isFragment": false, 
+            "startColumn": 31, 
+            "startRow": 146, 
+            "startTag": "script", 
+            "startTime": 0.3972219999996014, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_6", 
+                "comp_5"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "endColumn": 14, 
+            "endRow": 215, 
+            "endTag": "script", 
+            "endTime": 0.3974080000007234, 
+            "frame": 2, 
+            "id": "pchunk_2_5", 
+            "isFragment": false, 
+            "startColumn": 8, 
+            "startRow": 168, 
+            "startTag": "script", 
+            "startTime": 0.3973810000006779, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_7", 
+                "comp_6"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "endColumn": 11, 
+            "endRow": 222, 
+            "endTag": "script", 
+            "endTime": 0.3980940000001283, 
+            "frame": 2, 
+            "id": "pchunk_2_6", 
+            "isFragment": false, 
+            "startColumn": 10, 
+            "startRow": 218, 
+            "startTag": "script", 
+            "startTime": 0.39807400000063353, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_8", 
+                "comp_7"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "endColumn": 10, 
+            "endRow": 234, 
+            "endTag": "script", 
+            "endTime": 0.3985339999999269, 
+            "frame": 2, 
+            "id": "pchunk_2_7", 
+            "isFragment": false, 
+            "startColumn": 33, 
+            "startRow": 226, 
+            "startTag": "script", 
+            "startTime": 0.39850900000055844, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_9", 
+                "comp_8_0"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "endColumn": 10, 
+            "endRow": 255, 
+            "endTag": "script", 
+            "endTime": 0.3986480000003212, 
+            "frame": 2, 
+            "id": "pchunk_2_8", 
+            "isFragment": false, 
+            "startColumn": 32, 
+            "startRow": 236, 
+            "startTag": "script", 
+            "startTime": 0.3986299999996845, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_10", 
+                "comp_9"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "endColumn": 9, 
+            "endRow": 272, 
+            "endTag": "script", 
+            "endTime": 0.40029600000161736, 
+            "frame": 2, 
+            "id": "pchunk_2_9", 
+            "isFragment": false, 
+            "startColumn": 31, 
+            "startRow": 259, 
+            "startTag": "script", 
+            "startTime": 0.4002700000000914, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_3", 
+                "pchunk_2_11"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "endColumn": 126, 
+            "endRow": 310, 
+            "endTag": "link", 
+            "endTime": 0.4025129999972705, 
+            "frame": 2, 
+            "id": "pchunk_2_10", 
+            "isFragment": false, 
+            "startColumn": 9, 
+            "startRow": 275, 
+            "startTag": "title", 
+            "startTime": 0.40039099999921746, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_6", 
+                "pchunk_2_12"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "endColumn": 121, 
+            "endRow": 314, 
+            "endTag": "link", 
+            "endTime": 0.40391900000031455, 
+            "frame": 2, 
+            "id": "pchunk_2_11", 
+            "isFragment": false, 
+            "startColumn": 121, 
+            "startRow": 314, 
+            "startTag": "link", 
+            "startTime": 0.4036550000000716, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_13", 
+                "comp_13"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "endColumn": 9, 
+            "endRow": 372, 
+            "endTag": "script", 
+            "endTime": 0.4048389999788924, 
+            "frame": 2, 
+            "id": "pchunk_2_12", 
+            "isFragment": false, 
+            "startColumn": 8, 
+            "startRow": 317, 
+            "startTag": "head", 
+            "startTime": 0.4039279999997234, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_14", 
+                "comp_14"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "endColumn": 9, 
+            "endRow": 405, 
+            "endTag": "script", 
+            "endTime": 0.5520849999993516, 
+            "frame": 2, 
+            "id": "pchunk_2_13", 
+            "isFragment": false, 
+            "startColumn": 8, 
+            "startRow": 373, 
+            "startTag": "script", 
+            "startTime": 0.5520629999991797, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_15", 
+                "comp_15"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "endColumn": 9, 
+            "endRow": 410, 
+            "endTag": "script", 
+            "endTime": 0.5523030000003928, 
+            "frame": 2, 
+            "id": "pchunk_2_14", 
+            "isFragment": false, 
+            "startColumn": 8, 
+            "startRow": 408, 
+            "startTag": "script", 
+            "startTime": 0.5522849999997561, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_16", 
+                "comp_16"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "endColumn": 14, 
+            "endRow": 500, 
+            "endTag": "script", 
+            "endTime": 0.5523940000002767, 
+            "frame": 2, 
+            "id": "pchunk_2_15", 
+            "isFragment": false, 
+            "startColumn": 19, 
+            "startRow": 410, 
+            "startTag": "noscript", 
+            "startTime": 0.5523589999993419, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_17", 
+                "comp_17"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "endColumn": 9, 
+            "endRow": 522, 
+            "endTag": "script", 
+            "endTime": 0.5527550000006158, 
+            "frame": 2, 
+            "id": "pchunk_2_16", 
+            "isFragment": false, 
+            "startColumn": 31, 
+            "startRow": 502, 
+            "startTag": "script", 
+            "startTime": 0.5527309999997669, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_18", 
+                "comp_18"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "endColumn": 14, 
+            "endRow": 571, 
+            "endTag": "script", 
+            "endTime": 0.5529049999986455, 
+            "frame": 2, 
+            "id": "pchunk_2_17", 
+            "isFragment": false, 
+            "startColumn": 8, 
+            "startRow": 524, 
+            "startTag": "script", 
+            "startTime": 0.5528869999998278, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_14", 
+                "download_13", 
+                "pchunk_2_19"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "endColumn": 60, 
+            "endRow": 572, 
+            "endTag": "div", 
+            "endTime": 0.5532710000006773, 
+            "frame": 2, 
+            "id": "pchunk_2_18", 
+            "isFragment": false, 
+            "startColumn": 60, 
+            "startRow": 572, 
+            "startTag": "div", 
+            "startTime": 0.553105000000869, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_23", 
+                "pchunk_2_20"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "endColumn": 96, 
+            "endRow": 580, 
+            "endTag": "img", 
+            "endTime": 0.5571649999983492, 
+            "frame": 2, 
+            "id": "pchunk_2_19", 
+            "isFragment": false, 
+            "startColumn": 91, 
+            "startRow": 575, 
+            "startTag": "div", 
+            "startTime": 0.5532779999994091, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_24", 
+                "pchunk_2_21"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "endColumn": 92, 
+            "endRow": 581, 
+            "endTag": "img", 
+            "endTime": 0.5573829999993904, 
+            "frame": 2, 
+            "id": "pchunk_2_20", 
+            "isFragment": false, 
+            "startColumn": 92, 
+            "startRow": 581, 
+            "startTag": "img", 
+            "startTime": 0.5572140000003856, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_12", 
+                "pchunk_2_22"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "endColumn": 237, 
+            "endRow": 592, 
+            "endTag": "i", 
+            "endTime": 48034.180334000004, 
+            "frame": 2, 
+            "id": "pchunk_2_21", 
+            "isFragment": false, 
+            "startColumn": 196, 
+            "startRow": 582, 
+            "startTag": "svg", 
+            "startTime": -16010.649668, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_4", 
+                "pchunk_2_23"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "endColumn": 119, 
+            "endRow": 711, 
+            "endTag": "script", 
+            "endTime": 0.5632339999992837, 
+            "frame": 2, 
+            "id": "pchunk_2_22", 
+            "isFragment": false, 
+            "startColumn": 276, 
+            "startRow": 592, 
+            "startTag": "span", 
+            "startTime": 0.5587539999996807, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_5", 
+                "pchunk_2_24"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "endColumn": 124, 
+            "endRow": 714, 
+            "endTag": "script", 
+            "endTime": 0.780150999999023, 
+            "frame": 2, 
+            "id": "pchunk_2_23", 
+            "isFragment": false, 
+            "startColumn": 115, 
+            "startRow": 714, 
+            "startTag": "script", 
+            "startTime": 0.7800939999997354, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_7", 
+                "pchunk_2_25"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "endColumn": 118, 
+            "endRow": 715, 
+            "endTag": "script", 
+            "endTime": 1.7523540000020148, 
+            "frame": 2, 
+            "id": "pchunk_2_24", 
+            "isFragment": false, 
+            "startColumn": 109, 
+            "startRow": 715, 
+            "startTag": "script", 
+            "startTime": 1.7523139999993873, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_8", 
+                "pchunk_2_26"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "endColumn": 119, 
+            "endRow": 716, 
+            "endTag": "script", 
+            "endTime": 1.75402799999938, 
+            "frame": 2, 
+            "id": "pchunk_2_25", 
+            "isFragment": false, 
+            "startColumn": 110, 
+            "startRow": 716, 
+            "startTag": "script", 
+            "startTime": 1.7540009999993345, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_9", 
+                "pchunk_2_27"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "endColumn": 118, 
+            "endRow": 717, 
+            "endTag": "script", 
+            "endTime": 1.7574920000006387, 
+            "frame": 2, 
+            "id": "pchunk_2_26", 
+            "isFragment": false, 
+            "startColumn": 109, 
+            "startRow": 717, 
+            "startTag": "script", 
+            "startTime": 1.7574580000000424, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_10", 
+                "pchunk_2_28"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "endColumn": 113, 
+            "endRow": 718, 
+            "endTag": "script", 
+            "endTime": 1.7596790000006877, 
+            "frame": 2, 
+            "id": "pchunk_2_27", 
+            "isFragment": false, 
+            "startColumn": 104, 
+            "startRow": 718, 
+            "startTag": "script", 
+            "startTime": 1.7596470000007685, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_29", 
+                "comp_40"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "endColumn": 10, 
+            "endRow": 727, 
+            "endTag": "script", 
+            "endTime": 1.76037499999984, 
+            "frame": 2, 
+            "id": "pchunk_2_28", 
+            "isFragment": false, 
+            "startColumn": 10, 
+            "startRow": 720, 
+            "startTag": "script", 
+            "startTime": 1.7603540000000066, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "comp_41"
+            ], 
+            "docUrl": "https://slack.com/", 
+            "endColumn": 7, 
+            "endRow": 731, 
+            "endTag": "html", 
+            "endTime": 1.760534999999436, 
+            "frame": 2, 
+            "id": "pchunk_2_29", 
+            "isFragment": false, 
+            "startColumn": 9, 
+            "startRow": 730, 
+            "startTag": "body", 
+            "startTime": 1.7604659999997239, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_0", 
+                "dchunk_2_1"
+            ], 
+            "id": "dchunk_2_0", 
+            "offset": 37, 
+            "resource": "download_0", 
+            "size": 1258, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_1", 
+                "dchunk_2_2"
+            ], 
+            "id": "dchunk_2_1", 
+            "offset": 1295, 
+            "resource": "download_0", 
+            "size": 1050, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_2", 
+                "dchunk_2_3"
+            ], 
+            "id": "dchunk_2_2", 
+            "offset": 2345, 
+            "resource": "download_0", 
+            "size": 38, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_3", 
+                "dchunk_2_4"
+            ], 
+            "id": "dchunk_2_3", 
+            "offset": 2383, 
+            "resource": "download_0", 
+            "size": 2119, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_4", 
+                "dchunk_2_5"
+            ], 
+            "id": "dchunk_2_4", 
+            "offset": 4502, 
+            "resource": "download_0", 
+            "size": 534, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_5", 
+                "dchunk_2_6"
+            ], 
+            "id": "dchunk_2_5", 
+            "offset": 5036, 
+            "resource": "download_0", 
+            "size": 1866, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_6", 
+                "dchunk_2_7"
+            ], 
+            "id": "dchunk_2_6", 
+            "offset": 6902, 
+            "resource": "download_0", 
+            "size": 220, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_7", 
+                "dchunk_2_8"
+            ], 
+            "id": "dchunk_2_7", 
+            "offset": 7122, 
+            "resource": "download_0", 
+            "size": 161, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_8", 
+                "dchunk_2_9"
+            ], 
+            "id": "dchunk_2_8", 
+            "offset": 7283, 
+            "resource": "download_0", 
+            "size": 851, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_9", 
+                "dchunk_2_10"
+            ], 
+            "id": "dchunk_2_9", 
+            "offset": 8134, 
+            "resource": "download_0", 
+            "size": 241, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_10", 
+                "dchunk_2_11"
+            ], 
+            "id": "dchunk_2_10", 
+            "offset": 8375, 
+            "resource": "download_0", 
+            "size": 2493, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_11", 
+                "dchunk_2_12"
+            ], 
+            "id": "dchunk_2_11", 
+            "offset": 10868, 
+            "resource": "download_0", 
+            "size": 0, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_12", 
+                "dchunk_2_13"
+            ], 
+            "id": "dchunk_2_12", 
+            "offset": 10868, 
+            "resource": "download_0", 
+            "size": 4862, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_13", 
+                "dchunk_2_14"
+            ], 
+            "id": "dchunk_2_13", 
+            "offset": 15730, 
+            "resource": "download_0", 
+            "size": 1050, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_14", 
+                "dchunk_2_15"
+            ], 
+            "id": "dchunk_2_14", 
+            "offset": 16780, 
+            "resource": "download_0", 
+            "size": 38, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_15", 
+                "dchunk_2_16"
+            ], 
+            "id": "dchunk_2_15", 
+            "offset": 16818, 
+            "resource": "download_0", 
+            "size": 2119, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_16", 
+                "dchunk_2_17"
+            ], 
+            "id": "dchunk_2_16", 
+            "offset": 18937, 
+            "resource": "download_0", 
+            "size": 534, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_17", 
+                "dchunk_2_18"
+            ], 
+            "id": "dchunk_2_17", 
+            "offset": 19471, 
+            "resource": "download_0", 
+            "size": 1866, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_18", 
+                "dchunk_2_19"
+            ], 
+            "id": "dchunk_2_18", 
+            "offset": 21337, 
+            "resource": "download_0", 
+            "size": 0, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_19", 
+                "dchunk_2_20"
+            ], 
+            "id": "dchunk_2_19", 
+            "offset": 21337, 
+            "resource": "download_0", 
+            "size": 218, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_20", 
+                "dchunk_2_21"
+            ], 
+            "id": "dchunk_2_20", 
+            "offset": 21555, 
+            "resource": "download_0", 
+            "size": 0, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_21", 
+                "dchunk_2_22"
+            ], 
+            "id": "dchunk_2_21", 
+            "offset": 21555, 
+            "resource": "download_0", 
+            "size": 1274, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_22", 
+                "dchunk_2_23"
+            ], 
+            "id": "dchunk_2_22", 
+            "offset": 22829, 
+            "resource": "download_0", 
+            "size": 9698, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_23", 
+                "dchunk_2_24"
+            ], 
+            "id": "dchunk_2_23", 
+            "offset": 32527, 
+            "resource": "download_0", 
+            "size": 9, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_24", 
+                "dchunk_2_25"
+            ], 
+            "id": "dchunk_2_24", 
+            "offset": 32536, 
+            "resource": "download_0", 
+            "size": 9, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_25", 
+                "dchunk_2_26"
+            ], 
+            "id": "dchunk_2_25", 
+            "offset": 32545, 
+            "resource": "download_0", 
+            "size": 9, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_26", 
+                "dchunk_2_27"
+            ], 
+            "id": "dchunk_2_26", 
+            "offset": 32554, 
+            "resource": "download_0", 
+            "size": 9, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_27", 
+                "dchunk_2_28"
+            ], 
+            "id": "dchunk_2_27", 
+            "offset": 32563, 
+            "resource": "download_0", 
+            "size": 9, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_28", 
+                "dchunk_2_29"
+            ], 
+            "id": "dchunk_2_28", 
+            "offset": 32572, 
+            "resource": "download_0", 
+            "size": 286, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_29"
+            ], 
+            "id": "dchunk_2_29", 
+            "offset": 32858, 
+            "resource": "download_0", 
+            "size": 8, 
+            "type": "download_chunk"
+        }
+    ], 
+    "frames": [
+        {
+            "id": 0, 
+            "parent": 1, 
+            "subframes": [], 
+            "url": "about:blank"
+        }, 
+        {
+            "id": 1, 
+            "parent": 2, 
+            "subframes": [
+                0
+            ], 
+            "url": "about:blank"
+        }, 
+        {
+            "id": 2, 
+            "subframes": [
+                1
+            ], 
+            "url": "https://slack.com/"
+        }
+    ], 
+    "loadEvent": "comp_59_0", 
+    "name": "https://slack.com/", 
+    "root_activity": "download_0"
+}

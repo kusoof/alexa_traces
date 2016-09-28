@@ -1,0 +1,2379 @@
+{
+    "DOMContentLoadedEvent": "comp_10", 
+    "activities": [
+        {
+            "cached": false, 
+            "children": [
+                "comp_1", 
+                "comp_30_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_2", 
+            "mimeType": "text/css", 
+            "sentTime": 1.1654009999983828, 
+            "size": 16913, 
+            "type": "resource", 
+            "url": "http://shared.ydstatic.com/dict/v2016/entry/pc.css"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_30_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_7", 
+            "mimeType": "application/x-javascript", 
+            "sentTime": 1.7669459999997343, 
+            "size": 5160, 
+            "type": "resource", 
+            "url": "http://shared.ydstatic.com/js/rlog/v1.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_30_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_45", 
+            "mimeType": "image/jpeg", 
+            "sentTime": 3.059522999999899, 
+            "size": 156799, 
+            "type": "resource", 
+            "url": "http://oimagec8.ydstatic.com/image?id=-7213840463640056846&product=bisheng"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_30_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_34", 
+            "mimeType": "image/jpeg", 
+            "sentTime": 2.6252590000003693, 
+            "size": 88165, 
+            "type": "resource", 
+            "url": "http://oimagea3.ydstatic.com/image?id=6532294422899024826&product=bisheng"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_30_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_10", 
+            "mimeType": "image/png", 
+            "sentTime": 1.6268270000000484, 
+            "size": 9792, 
+            "type": "resource", 
+            "url": "http://shared.ydstatic.com/dict/v2016/logo.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_30_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_49", 
+            "mimeType": "image/png", 
+            "originalResource": "download_10", 
+            "sentTime": 1.6269659999998112, 
+            "size": 9792, 
+            "type": "resource", 
+            "url": "http://shared.ydstatic.com/dict/v2016/logo.png"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_30_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_22", 
+            "mimeType": "image/jpeg", 
+            "sentTime": 2.6097550000013143, 
+            "size": 115888, 
+            "type": "resource", 
+            "url": "http://oimageb4.ydstatic.com/image?id=7837997463646674032&product=bisheng"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_30_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_36", 
+            "mimeType": "image/jpeg", 
+            "sentTime": 3.036789999998291, 
+            "size": 301874, 
+            "type": "resource", 
+            "url": "http://oimageb6.ydstatic.com/image?id=-9153408013031443008&product=bisheng"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_30_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_39", 
+            "mimeType": "image/jpeg", 
+            "sentTime": 3.035639000001538, 
+            "size": 74548, 
+            "type": "resource", 
+            "url": "http://oimagec7.ydstatic.com/image?id=4742899877200187330&product=bisheng"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_30_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_9", 
+            "mimeType": "image/png", 
+            "sentTime": 1.628461000000243, 
+            "size": 36545, 
+            "type": "resource", 
+            "url": "http://shared.ydstatic.com/dict/v2016/entry/sprite.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_30_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_50", 
+            "mimeType": "image/png", 
+            "originalResource": "download_9", 
+            "sentTime": 1.6300179999998363, 
+            "size": 36545, 
+            "type": "resource", 
+            "url": "http://shared.ydstatic.com/dict/v2016/entry/sprite.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_30_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_57", 
+            "mimeType": "image/png", 
+            "originalResource": "download_9", 
+            "sentTime": 2.9671029999990424, 
+            "size": 36545, 
+            "type": "resource", 
+            "url": "http://shared.ydstatic.com/dict/v2016/entry/sprite.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_30_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_58", 
+            "mimeType": "image/png", 
+            "originalResource": "download_9", 
+            "sentTime": 2.967142999998032, 
+            "size": 36545, 
+            "type": "resource", 
+            "url": "http://shared.ydstatic.com/dict/v2016/entry/sprite.png"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_16_0", 
+                "comp_17", 
+                "comp_30_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_16", 
+            "mimeType": "text/plain", 
+            "sentTime": 1.7565729999987525, 
+            "size": 7836, 
+            "type": "resource", 
+            "url": "http://xue.youdao.com/api/course/list/23/1.jsonp?callback=courseIELTSCallback"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_12", 
+                "comp_13", 
+                "comp_30_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_13", 
+            "mimeType": "text/plain", 
+            "sentTime": 1.7588419999992766, 
+            "size": 14582, 
+            "type": "resource", 
+            "url": "http://xue.youdao.com/api/course/list/1/1.jsonp?callback=courseCETCallback"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_30_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_27", 
+            "mimeType": "image/jpeg", 
+            "sentTime": 2.630473000001075, 
+            "size": 137889, 
+            "type": "resource", 
+            "url": "http://oimageb3.ydstatic.com/image?id=-7205550661948222197&product=bisheng"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_30_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_37", 
+            "mimeType": "image/jpeg", 
+            "sentTime": 2.6313669999981357, 
+            "size": 144634, 
+            "type": "resource", 
+            "url": "http://oimagec6.ydstatic.com/image?id=7853488731268113164&product=bisheng"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_24_0", 
+                "comp_25", 
+                "comp_30_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_19", 
+            "mimeType": "text/plain", 
+            "sentTime": 1.7629979999983334, 
+            "size": 10471, 
+            "type": "resource", 
+            "url": "http://xue.youdao.com/api/course/list/3/1.jsonp?callback=coursePracticalCallback"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_11", 
+                "comp_30_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_12", 
+            "mimeType": "text/html", 
+            "sentTime": 1.773707000000286, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "http://rlogs.youdao.com/rlog.php?_npid=dictweb&_ncat=pageview&_ncoo=1100086249.9877324&_nssn=NULL&_nver=1.2.0&_ntms=1474478292227&_nref=&_nurl=http%3A%2F%2Fwww.youdao.com%2F&_nres=1440x900&_nlmf=1474474692&_njve=1&_nchr=utf-8&_nfrg=&page=index"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_30_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_30", 
+            "mimeType": "image/png", 
+            "sentTime": 2.6275729999979376, 
+            "size": 177406, 
+            "type": "resource", 
+            "url": "http://oimagea6.ydstatic.com/image?id=7578264828109954700&product=bisheng"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_30_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_41", 
+            "mimeType": "image/jpeg", 
+            "sentTime": 3.0235089999987395, 
+            "size": 134395, 
+            "type": "resource", 
+            "url": "http://oimagec4.ydstatic.com/image?id=5694528074153749923&product=bisheng"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_30_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_11", 
+            "mimeType": "image/gif", 
+            "sentTime": 1.627676000000065, 
+            "size": 4207, 
+            "type": "resource", 
+            "url": "http://shared.ydstatic.com/dict/v2016/result/pic.gif"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_30_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_28", 
+            "mimeType": "image/jpeg", 
+            "sentTime": 2.613018000000011, 
+            "size": 69900, 
+            "type": "resource", 
+            "url": "http://oimagea6.ydstatic.com/image?id=-7811328086518518108&product=bisheng"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "dchunk_1_0", 
+                "comp_30_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_46", 
+            "mimeType": "text/html", 
+            "sentTime": 1.6289399999986927, 
+            "size": 1132, 
+            "type": "resource", 
+            "url": "http://c.youdao.com/www/banner.html"
+        }, 
+        {
+            "cached": false, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_48", 
+            "mimeType": "text/html", 
+            "sentTime": 7.347400999999081, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "about:blank"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_30_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_24", 
+            "mimeType": "image/jpeg", 
+            "sentTime": 2.6231899999984307, 
+            "size": 120408, 
+            "type": "resource", 
+            "url": "http://oimagea2.ydstatic.com/image?id=-2284158412466216881&product=bisheng"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_6", 
+                "comp_30_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_1", 
+            "mimeType": "application/x-javascript", 
+            "sentTime": 1.7229889999980514, 
+            "size": 3191, 
+            "type": "resource", 
+            "url": "http://shared.ydstatic.com/dict/v2016/entry/jquery.placeholder.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_30_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_21", 
+            "mimeType": "image/jpeg", 
+            "sentTime": 2.6187800000006973, 
+            "size": 101388, 
+            "type": "resource", 
+            "url": "http://oimagea7.ydstatic.com/image?id=-6523741551859665670&product=bisheng"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_22_0", 
+                "comp_23", 
+                "comp_30_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_14", 
+            "mimeType": "application/json", 
+            "sentTime": 1.7554899999995541, 
+            "size": 87574, 
+            "type": "resource", 
+            "url": "http://dict.youdao.com/infoline?apiversion=2&mode=publish&client=deskdict&keyfrom=dict2.index&startDate=2016-09-21&callback=vistaCallback"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_8_0", 
+                "comp_30_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_6", 
+            "mimeType": "application/x-javascript", 
+            "sentTime": 1.7300819999982195, 
+            "size": 15134, 
+            "type": "resource", 
+            "url": "http://shared.ydstatic.com/dict/v2016/entry/pc.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_7", 
+                "comp_30_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_5", 
+            "mimeType": "application/x-javascript", 
+            "sentTime": 1.72483099999954, 
+            "size": 17815, 
+            "type": "resource", 
+            "url": "http://shared.ydstatic.com/dict/v2016/entry/autocomplete_json.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_30_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_44", 
+            "mimeType": "image/png", 
+            "sentTime": 3.014024000000063, 
+            "size": 198613, 
+            "type": "resource", 
+            "url": "http://oimagec8.ydstatic.com/image?id=5938274651293246941&product=bisheng"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "dchunk_2_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_0", 
+            "mimeType": "text/html", 
+            "sentTime": 0.0, 
+            "size": 7232, 
+            "type": "resource", 
+            "url": "http://www.youdao.com/"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_30_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_33", 
+            "mimeType": "image/jpeg", 
+            "sentTime": 3.016202999999223, 
+            "size": 69971, 
+            "type": "resource", 
+            "url": "http://oimageb4.ydstatic.com/image?id=8790743910016789713&product=bisheng"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_30_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_23", 
+            "mimeType": "image/jpeg", 
+            "sentTime": 2.6148810000013327, 
+            "size": 66931, 
+            "type": "resource", 
+            "url": "http://oimagec1.ydstatic.com/image?id=-8517102681992386036&product=bisheng"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_30_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_29", 
+            "mimeType": "image/jpeg", 
+            "sentTime": 2.615891000001284, 
+            "size": 79079, 
+            "type": "resource", 
+            "url": "http://oimagea6.ydstatic.com/image?id=-5812900087711555586&product=bisheng"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_20_0", 
+                "comp_21", 
+                "comp_30_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_20", 
+            "mimeType": "text/plain", 
+            "sentTime": 1.7667980000005628, 
+            "size": 1125, 
+            "type": "resource", 
+            "url": "http://xue.youdao.com/api/course/recommend.jsonp?type=youdaoweb&callback=sideCourseCallback"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_30_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_26", 
+            "mimeType": "image/jpeg", 
+            "sentTime": 2.6164800000005926, 
+            "size": 147231, 
+            "type": "resource", 
+            "url": "http://oimageb3.ydstatic.com/image?id=-1873864709866784776&product=bisheng"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_30_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_43", 
+            "mimeType": "image/jpeg", 
+            "sentTime": 2.9323289999992994, 
+            "size": 11163, 
+            "type": "resource", 
+            "url": "http://oimageb8.ydstatic.com/image?id=-1781939251005356828&product=dict-homepage&w=190&h=160&fill=0&cw=190&ch=160&sbc=0&cgra=CENTER"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_18_0", 
+                "comp_19", 
+                "comp_30_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_17", 
+            "mimeType": "text/plain", 
+            "sentTime": 1.7604299999984505, 
+            "size": 8346, 
+            "type": "resource", 
+            "url": "http://xue.youdao.com/api/course/list/7/1.jsonp?callback=courseKaoyanSCallback"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_5", 
+                "comp_30_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_4", 
+            "mimeType": "application/x-javascript", 
+            "sentTime": 1.7212209999997867, 
+            "size": 2609, 
+            "type": "resource", 
+            "url": "http://shared.ydstatic.com/dict/v2016/entry/jquery.mousewheel.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_30_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_42", 
+            "mimeType": "image/png", 
+            "sentTime": 3.0941139999995357, 
+            "size": 109937, 
+            "type": "resource", 
+            "url": "http://oimagec5.ydstatic.com/image?id=7992153636167864986&product=gouwu&quality=70&w=720"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_30_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_31", 
+            "mimeType": "image/png", 
+            "sentTime": 2.6266969999996945, 
+            "size": 96013, 
+            "type": "resource", 
+            "url": "http://oimageb6.ydstatic.com/image?id=5579101446461798257&product=bisheng"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_4", 
+                "comp_30_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_3", 
+            "mimeType": "application/x-javascript", 
+            "sentTime": 1.6303450000013981, 
+            "size": 97870, 
+            "type": "resource", 
+            "url": "http://shared.ydstatic.com/js/jquery/jquery-1.12.3.min.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_30_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_32", 
+            "mimeType": "image/png", 
+            "sentTime": 2.958991999999853, 
+            "size": 43175, 
+            "type": "resource", 
+            "url": "http://oimagea2.ydstatic.com/image?id=-8651155299884370777&product=dict-homepage&w=190&h=160&fill=0&cw=190&ch=160&sbc=0&cgra=CENTER"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_26_0", 
+                "comp_27", 
+                "comp_30_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_15", 
+            "mimeType": "application/json", 
+            "sentTime": 1.7578429999994114, 
+            "size": 21956, 
+            "type": "resource", 
+            "url": "http://www.huihui.cn/deals/channel.json?callback=discountCallback"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_30_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_40", 
+            "mimeType": "image/png", 
+            "sentTime": 2.631892000001244, 
+            "size": 97536, 
+            "type": "resource", 
+            "url": "http://oimagec7.ydstatic.com/image?id=3777218383379455407&product=bisheng"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_30_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_35", 
+            "mimeType": "image/jpeg", 
+            "sentTime": 2.626002000000881, 
+            "size": 90863, 
+            "type": "resource", 
+            "url": "http://oimagea3.ydstatic.com/image?id=-4740327473340340371&product=bisheng"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_30_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_38", 
+            "mimeType": "image/jpeg", 
+            "sentTime": 3.0959210000000894, 
+            "size": 42557, 
+            "type": "resource", 
+            "url": "http://oimageb6.ydstatic.com/image?id=-3404898978723905372&product=gouwu&quality=70&w=720"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_30_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_47", 
+            "mimeType": "image/png", 
+            "sentTime": 7.326021000000765, 
+            "size": 19861, 
+            "type": "resource", 
+            "url": "http://oimagea7.ydstatic.com/image?id=-3747099941230001282&product=xue"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_30_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_8", 
+            "mimeType": "image/png", 
+            "sentTime": 1.6248219999979483, 
+            "size": 970, 
+            "type": "resource", 
+            "url": "http://shared.ydstatic.com/dict/v2016/entry/icon2x/more@2x.png"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_30_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_25", 
+            "mimeType": "image/jpeg", 
+            "sentTime": 2.6239459999997052, 
+            "size": 123061, 
+            "type": "resource", 
+            "url": "http://oimagea4.ydstatic.com/image?id=4569463288326151421&product=bisheng"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_14", 
+                "comp_15", 
+                "comp_30_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_18", 
+            "mimeType": "text/plain", 
+            "sentTime": 1.762245999998413, 
+            "size": 2579, 
+            "type": "resource", 
+            "url": "http://xue.youdao.com/api/course/list/2/1.jsonp?callback=courseGRECallback"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "comp_2"
+            ], 
+            "docUrl": "http://www.youdao.com/", 
+            "enclosing": "None", 
+            "endTime": 1.624284000001353, 
+            "evalType": "recalcStyle", 
+            "frame": 2, 
+            "id": "comp_1", 
+            "startTime": 1.6217749999996158, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "http://shared.ydstatic.com/dict/v2016/entry/pc.css"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_2_2"
+            ], 
+            "docUrl": "http://www.youdao.com/", 
+            "enclosing": "None", 
+            "endTime": 1.6245119999985036, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_2", 
+            "startTime": 1.6242869999987306, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_2_9"
+            ], 
+            "docUrl": "http://www.youdao.com/", 
+            "enclosing": "None", 
+            "endTime": 1.6298439999991388, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_3", 
+            "startTime": 1.6296259999980975, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_2_11"
+            ], 
+            "docUrl": "http://www.youdao.com/", 
+            "enclosing": "None", 
+            "endTime": 1.7211060000008729, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_4", 
+            "startTime": 1.6575149999989662, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "http://shared.ydstatic.com/js/jquery/jquery-1.12.3.min.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_2_12"
+            ], 
+            "docUrl": "http://www.youdao.com/", 
+            "enclosing": "None", 
+            "endTime": 1.7229090000000724, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_5", 
+            "startTime": 1.721228999998857, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "http://shared.ydstatic.com/dict/v2016/entry/jquery.mousewheel.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_2_13"
+            ], 
+            "docUrl": "http://www.youdao.com/", 
+            "enclosing": "None", 
+            "endTime": 1.7247889999998733, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_6", 
+            "startTime": 1.7229950000000827, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "http://shared.ydstatic.com/dict/v2016/entry/jquery.placeholder.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_2_14"
+            ], 
+            "docUrl": "http://www.youdao.com/", 
+            "enclosing": "None", 
+            "endTime": 1.7299280000006547, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_7", 
+            "startTime": 1.7249579999988782, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "http://shared.ydstatic.com/dict/v2016/entry/autocomplete_json.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_9"
+            ], 
+            "docUrl": "http://www.youdao.com/", 
+            "enclosing": "comp_8", 
+            "endTime": 1.7432149999985995, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_8_0", 
+            "startTime": 1.7305369999994582, 
+            "subtree": "subtree_comp_8", 
+            "type": "eval", 
+            "url": "http://shared.ydstatic.com/dict/v2016/entry/pc.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_14", 
+                "comp_8_2"
+            ], 
+            "docUrl": "http://www.youdao.com/", 
+            "enclosing": "comp_8", 
+            "endTime": 1.7552939999986847, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_8_1", 
+            "startTime": 1.7440679999999702, 
+            "subtree": "subtree_comp_8", 
+            "type": "eval", 
+            "url": "http://shared.ydstatic.com/dict/v2016/entry/pc.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_16", 
+                "comp_8_3"
+            ], 
+            "docUrl": "http://www.youdao.com/", 
+            "enclosing": "comp_8", 
+            "endTime": 1.7564779999993334, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_8_2", 
+            "startTime": 1.7552939999986847, 
+            "subtree": "subtree_comp_8", 
+            "type": "eval", 
+            "url": "http://shared.ydstatic.com/dict/v2016/entry/pc.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_15", 
+                "comp_8_4"
+            ], 
+            "docUrl": "http://www.youdao.com/", 
+            "enclosing": "comp_8", 
+            "endTime": 1.7577590000000782, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_8_3", 
+            "startTime": 1.7564779999993334, 
+            "subtree": "subtree_comp_8", 
+            "type": "eval", 
+            "url": "http://shared.ydstatic.com/dict/v2016/entry/pc.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_13", 
+                "comp_8_5"
+            ], 
+            "docUrl": "http://www.youdao.com/", 
+            "enclosing": "comp_8", 
+            "endTime": 1.7587280000007013, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_8_4", 
+            "startTime": 1.7577590000000782, 
+            "subtree": "subtree_comp_8", 
+            "type": "eval", 
+            "url": "http://shared.ydstatic.com/dict/v2016/entry/pc.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_17", 
+                "comp_8_6"
+            ], 
+            "docUrl": "http://www.youdao.com/", 
+            "enclosing": "comp_8", 
+            "endTime": 1.7602699999988545, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_8_5", 
+            "startTime": 1.7587280000007013, 
+            "subtree": "subtree_comp_8", 
+            "type": "eval", 
+            "url": "http://shared.ydstatic.com/dict/v2016/entry/pc.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_18", 
+                "comp_8_7"
+            ], 
+            "docUrl": "http://www.youdao.com/", 
+            "enclosing": "comp_8", 
+            "endTime": 1.7620700000006764, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_8_6", 
+            "startTime": 1.7602699999988545, 
+            "subtree": "subtree_comp_8", 
+            "type": "eval", 
+            "url": "http://shared.ydstatic.com/dict/v2016/entry/pc.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_19", 
+                "comp_8_8"
+            ], 
+            "docUrl": "http://www.youdao.com/", 
+            "enclosing": "comp_8", 
+            "endTime": 1.762897000000521, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_8_7", 
+            "startTime": 1.7620700000006764, 
+            "subtree": "subtree_comp_8", 
+            "type": "eval", 
+            "url": "http://shared.ydstatic.com/dict/v2016/entry/pc.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_20", 
+                "comp_8_9"
+            ], 
+            "docUrl": "http://www.youdao.com/", 
+            "enclosing": "comp_8", 
+            "endTime": 1.7667069999988598, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_8_8", 
+            "startTime": 1.762897000000521, 
+            "subtree": "subtree_comp_8", 
+            "type": "eval", 
+            "url": "http://shared.ydstatic.com/dict/v2016/entry/pc.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_2_15", 
+                "comp_0"
+            ], 
+            "docUrl": "http://www.youdao.com/", 
+            "enclosing": "comp_8", 
+            "endTime": 1.7668909999993048, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_8_9", 
+            "startTime": 1.7667069999988598, 
+            "subtree": "subtree_comp_8", 
+            "type": "eval", 
+            "url": "http://shared.ydstatic.com/dict/v2016/entry/pc.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_8_1"
+            ], 
+            "docUrl": "http://www.youdao.com/", 
+            "enclosing": "None", 
+            "endTime": 1.7440679999999702, 
+            "evalType": "fireEvent", 
+            "frame": 2, 
+            "id": "comp_9", 
+            "name": "focus", 
+            "startTime": 1.7432149999985995, 
+            "subtree": "subtree_comp_8", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_12"
+            ], 
+            "docUrl": "http://www.youdao.com/", 
+            "enclosing": "None", 
+            "endTime": 1.773377999998047, 
+            "evalType": "other", 
+            "frame": 2, 
+            "id": "comp_0", 
+            "startTime": 1.773377999998047, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_30_0"
+            ], 
+            "docUrl": "http://www.youdao.com/", 
+            "enclosing": "None", 
+            "endTime": 1.777024999999412, 
+            "evalType": "fireEvent", 
+            "frame": 2, 
+            "id": "comp_10", 
+            "name": "DOMContentLoaded", 
+            "startTime": 1.7739739999997255, 
+            "subtree": "None", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://www.youdao.com/", 
+            "enclosing": "None", 
+            "endTime": 2.4519209999998566, 
+            "evalType": "fireEvent", 
+            "frame": 2, 
+            "id": "comp_11", 
+            "name": "error", 
+            "startTime": 2.4515900000005786, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [], 
+            "docUrl": "http://www.youdao.com/", 
+            "enclosing": "None", 
+            "endTime": 2.5858059999991383, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_12", 
+            "startTime": 2.584340000001248, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "http://xue.youdao.com/api/course/list/1/1.jsonp?callback=courseCETCallback"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://www.youdao.com/", 
+            "enclosing": "None", 
+            "endTime": 2.5873289999981353, 
+            "evalType": "fireEvent", 
+            "frame": 2, 
+            "id": "comp_13", 
+            "name": "load", 
+            "startTime": 2.585825999998633, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [], 
+            "docUrl": "http://www.youdao.com/", 
+            "enclosing": "None", 
+            "endTime": 2.5904389999996056, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_14", 
+            "startTime": 2.5900970000002417, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "http://xue.youdao.com/api/course/list/2/1.jsonp?callback=courseGRECallback"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://www.youdao.com/", 
+            "enclosing": "None", 
+            "endTime": 2.5906059999979334, 
+            "evalType": "fireEvent", 
+            "frame": 2, 
+            "id": "comp_15", 
+            "name": "load", 
+            "startTime": 2.59045100000003, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_22", 
+                "comp_16_1"
+            ], 
+            "docUrl": "http://www.youdao.com/", 
+            "enclosing": "comp_16", 
+            "endTime": 2.60916300000099, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_16_0", 
+            "startTime": 2.608261000001221, 
+            "subtree": "subtree_comp_16", 
+            "type": "eval", 
+            "url": "http://xue.youdao.com/api/course/list/23/1.jsonp?callback=courseIELTSCallback"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_28", 
+                "comp_16_2"
+            ], 
+            "docUrl": "http://www.youdao.com/", 
+            "enclosing": "comp_16", 
+            "endTime": 2.612615999998525, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_16_1", 
+            "startTime": 2.60916300000099, 
+            "subtree": "subtree_comp_16", 
+            "type": "eval", 
+            "url": "http://xue.youdao.com/api/course/list/23/1.jsonp?callback=courseIELTSCallback"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_23", 
+                "comp_16_3"
+            ], 
+            "docUrl": "http://www.youdao.com/", 
+            "enclosing": "comp_16", 
+            "endTime": 2.614732999998523, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_16_2", 
+            "startTime": 2.612615999998525, 
+            "subtree": "subtree_comp_16", 
+            "type": "eval", 
+            "url": "http://xue.youdao.com/api/course/list/23/1.jsonp?callback=courseIELTSCallback"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_29", 
+                "comp_16_4"
+            ], 
+            "docUrl": "http://www.youdao.com/", 
+            "enclosing": "comp_16", 
+            "endTime": 2.615626999999222, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_16_3", 
+            "startTime": 2.614732999998523, 
+            "subtree": "subtree_comp_16", 
+            "type": "eval", 
+            "url": "http://xue.youdao.com/api/course/list/23/1.jsonp?callback=courseIELTSCallback"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_26", 
+                "comp_16_5"
+            ], 
+            "docUrl": "http://www.youdao.com/", 
+            "enclosing": "comp_16", 
+            "endTime": 2.616303999999218, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_16_4", 
+            "startTime": 2.615626999999222, 
+            "subtree": "subtree_comp_16", 
+            "type": "eval", 
+            "url": "http://xue.youdao.com/api/course/list/23/1.jsonp?callback=courseIELTSCallback"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_21", 
+                "comp_16_6"
+            ], 
+            "docUrl": "http://www.youdao.com/", 
+            "enclosing": "comp_16", 
+            "endTime": 2.6184360000006563, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_16_5", 
+            "startTime": 2.616303999999218, 
+            "subtree": "subtree_comp_16", 
+            "type": "eval", 
+            "url": "http://xue.youdao.com/api/course/list/23/1.jsonp?callback=courseIELTSCallback"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [], 
+            "docUrl": "http://www.youdao.com/", 
+            "enclosing": "comp_16", 
+            "endTime": 2.6210009999995236, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_16_6", 
+            "startTime": 2.6184360000006563, 
+            "subtree": "subtree_comp_16", 
+            "type": "eval", 
+            "url": "http://xue.youdao.com/api/course/list/23/1.jsonp?callback=courseIELTSCallback"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://www.youdao.com/", 
+            "enclosing": "None", 
+            "endTime": 2.6211980000007316, 
+            "evalType": "fireEvent", 
+            "frame": 2, 
+            "id": "comp_17", 
+            "name": "load", 
+            "startTime": 2.6210419999988517, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_24", 
+                "comp_18_1"
+            ], 
+            "docUrl": "http://www.youdao.com/", 
+            "enclosing": "comp_18", 
+            "endTime": 2.622996999998577, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_18_0", 
+            "startTime": 2.6224570000013046, 
+            "subtree": "subtree_comp_18", 
+            "type": "eval", 
+            "url": "http://xue.youdao.com/api/course/list/7/1.jsonp?callback=courseKaoyanSCallback"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_25", 
+                "comp_18_2"
+            ], 
+            "docUrl": "http://www.youdao.com/", 
+            "enclosing": "comp_18", 
+            "endTime": 2.623632999999245, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_18_1", 
+            "startTime": 2.622996999998577, 
+            "subtree": "subtree_comp_18", 
+            "type": "eval", 
+            "url": "http://xue.youdao.com/api/course/list/7/1.jsonp?callback=courseKaoyanSCallback"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_34", 
+                "comp_18_3"
+            ], 
+            "docUrl": "http://www.youdao.com/", 
+            "enclosing": "comp_18", 
+            "endTime": 2.6250550000004296, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_18_2", 
+            "startTime": 2.623632999999245, 
+            "subtree": "subtree_comp_18", 
+            "type": "eval", 
+            "url": "http://xue.youdao.com/api/course/list/7/1.jsonp?callback=courseKaoyanSCallback"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_35", 
+                "comp_18_4"
+            ], 
+            "docUrl": "http://www.youdao.com/", 
+            "enclosing": "comp_18", 
+            "endTime": 2.6257990000012796, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_18_3", 
+            "startTime": 2.6250550000004296, 
+            "subtree": "subtree_comp_18", 
+            "type": "eval", 
+            "url": "http://xue.youdao.com/api/course/list/7/1.jsonp?callback=courseKaoyanSCallback"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_31", 
+                "comp_18_5"
+            ], 
+            "docUrl": "http://www.youdao.com/", 
+            "enclosing": "comp_18", 
+            "endTime": 2.6265439999988303, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_18_4", 
+            "startTime": 2.6257990000012796, 
+            "subtree": "subtree_comp_18", 
+            "type": "eval", 
+            "url": "http://xue.youdao.com/api/course/list/7/1.jsonp?callback=courseKaoyanSCallback"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_30", 
+                "comp_18_6"
+            ], 
+            "docUrl": "http://www.youdao.com/", 
+            "enclosing": "comp_18", 
+            "endTime": 2.6273499999988417, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_18_5", 
+            "startTime": 2.6265439999988303, 
+            "subtree": "subtree_comp_18", 
+            "type": "eval", 
+            "url": "http://xue.youdao.com/api/course/list/7/1.jsonp?callback=courseKaoyanSCallback"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [], 
+            "docUrl": "http://www.youdao.com/", 
+            "enclosing": "comp_18", 
+            "endTime": 2.6287039999988338, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_18_6", 
+            "startTime": 2.6273499999988417, 
+            "subtree": "subtree_comp_18", 
+            "type": "eval", 
+            "url": "http://xue.youdao.com/api/course/list/7/1.jsonp?callback=courseKaoyanSCallback"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://www.youdao.com/", 
+            "enclosing": "None", 
+            "endTime": 2.628856999999698, 
+            "evalType": "fireEvent", 
+            "frame": 2, 
+            "id": "comp_19", 
+            "name": "load", 
+            "startTime": 2.628721000000951, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_27", 
+                "comp_20_1"
+            ], 
+            "docUrl": "http://www.youdao.com/", 
+            "enclosing": "comp_20", 
+            "endTime": 2.630189999999857, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_20_0", 
+            "startTime": 2.629558000000543, 
+            "subtree": "subtree_comp_20", 
+            "type": "eval", 
+            "url": "http://xue.youdao.com/api/course/recommend.jsonp?type=youdaoweb&callback=sideCourseCallback"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_37", 
+                "comp_20_2"
+            ], 
+            "docUrl": "http://www.youdao.com/", 
+            "enclosing": "comp_20", 
+            "endTime": 2.63115900000048, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_20_1", 
+            "startTime": 2.630189999999857, 
+            "subtree": "subtree_comp_20", 
+            "type": "eval", 
+            "url": "http://xue.youdao.com/api/course/recommend.jsonp?type=youdaoweb&callback=sideCourseCallback"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_40", 
+                "comp_20_3"
+            ], 
+            "docUrl": "http://www.youdao.com/", 
+            "enclosing": "comp_20", 
+            "endTime": 2.6316860000006272, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_20_2", 
+            "startTime": 2.63115900000048, 
+            "subtree": "subtree_comp_20", 
+            "type": "eval", 
+            "url": "http://xue.youdao.com/api/course/recommend.jsonp?type=youdaoweb&callback=sideCourseCallback"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [], 
+            "docUrl": "http://www.youdao.com/", 
+            "enclosing": "comp_20", 
+            "endTime": 2.6329269999987446, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_20_3", 
+            "startTime": 2.6316860000006272, 
+            "subtree": "subtree_comp_20", 
+            "type": "eval", 
+            "url": "http://xue.youdao.com/api/course/recommend.jsonp?type=youdaoweb&callback=sideCourseCallback"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://www.youdao.com/", 
+            "enclosing": "None", 
+            "endTime": 2.6330249999991793, 
+            "evalType": "fireEvent", 
+            "frame": 2, 
+            "id": "comp_21", 
+            "name": "load", 
+            "startTime": 2.632936999998492, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_43", 
+                "comp_22_1"
+            ], 
+            "docUrl": "http://www.youdao.com/", 
+            "enclosing": "comp_22", 
+            "endTime": 2.9309360000006563, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_22_0", 
+            "startTime": 2.9062659999981406, 
+            "subtree": "subtree_comp_22", 
+            "type": "eval", 
+            "url": "http://dict.youdao.com/infoline?apiversion=2&mode=publish&client=deskdict&keyfrom=dict2.index&startDate=2016-09-21&callback=vistaCallback"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_57", 
+                "comp_22_2"
+            ], 
+            "docUrl": "http://www.youdao.com/", 
+            "enclosing": "comp_22", 
+            "endTime": 2.930991000001086, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_22_1", 
+            "startTime": 2.9309360000006563, 
+            "subtree": "subtree_comp_22", 
+            "type": "eval", 
+            "url": "http://dict.youdao.com/infoline?apiversion=2&mode=publish&client=deskdict&keyfrom=dict2.index&startDate=2016-09-21&callback=vistaCallback"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_58", 
+                "comp_22_3"
+            ], 
+            "docUrl": "http://www.youdao.com/", 
+            "enclosing": "comp_22", 
+            "endTime": 2.931002000001172, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_22_2", 
+            "startTime": 2.930991000001086, 
+            "subtree": "subtree_comp_22", 
+            "type": "eval", 
+            "url": "http://dict.youdao.com/infoline?apiversion=2&mode=publish&client=deskdict&keyfrom=dict2.index&startDate=2016-09-21&callback=vistaCallback"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_32", 
+                "comp_22_4"
+            ], 
+            "docUrl": "http://www.youdao.com/", 
+            "enclosing": "comp_22", 
+            "endTime": 2.950546000000031, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_22_3", 
+            "startTime": 2.931002000001172, 
+            "subtree": "subtree_comp_22", 
+            "type": "eval", 
+            "url": "http://dict.youdao.com/infoline?apiversion=2&mode=publish&client=deskdict&keyfrom=dict2.index&startDate=2016-09-21&callback=vistaCallback"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [], 
+            "docUrl": "http://www.youdao.com/", 
+            "enclosing": "comp_22", 
+            "endTime": 2.9777219999996305, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_22_4", 
+            "startTime": 2.950546000000031, 
+            "subtree": "subtree_comp_22", 
+            "type": "eval", 
+            "url": "http://dict.youdao.com/infoline?apiversion=2&mode=publish&client=deskdict&keyfrom=dict2.index&startDate=2016-09-21&callback=vistaCallback"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://www.youdao.com/", 
+            "enclosing": "None", 
+            "endTime": 2.977975999998307, 
+            "evalType": "fireEvent", 
+            "frame": 2, 
+            "id": "comp_23", 
+            "name": "load", 
+            "startTime": 2.977738000001409, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_44", 
+                "comp_24_1"
+            ], 
+            "docUrl": "http://www.youdao.com/", 
+            "enclosing": "comp_24", 
+            "endTime": 3.0135169999994105, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_24_0", 
+            "startTime": 3.012481999998272, 
+            "subtree": "subtree_comp_24", 
+            "type": "eval", 
+            "url": "http://xue.youdao.com/api/course/list/3/1.jsonp?callback=coursePracticalCallback"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_33", 
+                "comp_24_2"
+            ], 
+            "docUrl": "http://www.youdao.com/", 
+            "enclosing": "comp_24", 
+            "endTime": 3.0158599999995204, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_24_1", 
+            "startTime": 3.0135169999994105, 
+            "subtree": "subtree_comp_24", 
+            "type": "eval", 
+            "url": "http://xue.youdao.com/api/course/list/3/1.jsonp?callback=coursePracticalCallback"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_41", 
+                "comp_24_3"
+            ], 
+            "docUrl": "http://www.youdao.com/", 
+            "enclosing": "comp_24", 
+            "endTime": 3.0227500000000873, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_24_2", 
+            "startTime": 3.0158599999995204, 
+            "subtree": "subtree_comp_24", 
+            "type": "eval", 
+            "url": "http://xue.youdao.com/api/course/list/3/1.jsonp?callback=coursePracticalCallback"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_39", 
+                "comp_24_4"
+            ], 
+            "docUrl": "http://www.youdao.com/", 
+            "enclosing": "comp_24", 
+            "endTime": 3.0352769999990414, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_24_3", 
+            "startTime": 3.0227500000000873, 
+            "subtree": "subtree_comp_24", 
+            "type": "eval", 
+            "url": "http://xue.youdao.com/api/course/list/3/1.jsonp?callback=coursePracticalCallback"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_36", 
+                "comp_24_5"
+            ], 
+            "docUrl": "http://www.youdao.com/", 
+            "enclosing": "comp_24", 
+            "endTime": 3.036391999998159, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_24_4", 
+            "startTime": 3.0352769999990414, 
+            "subtree": "subtree_comp_24", 
+            "type": "eval", 
+            "url": "http://xue.youdao.com/api/course/list/3/1.jsonp?callback=coursePracticalCallback"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_45", 
+                "comp_24_6"
+            ], 
+            "docUrl": "http://www.youdao.com/", 
+            "enclosing": "comp_24", 
+            "endTime": 3.0591700000004494, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_24_5", 
+            "startTime": 3.036391999998159, 
+            "subtree": "subtree_comp_24", 
+            "type": "eval", 
+            "url": "http://xue.youdao.com/api/course/list/3/1.jsonp?callback=coursePracticalCallback"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [], 
+            "docUrl": "http://www.youdao.com/", 
+            "enclosing": "comp_24", 
+            "endTime": 3.0637800000004063, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_24_6", 
+            "startTime": 3.0591700000004494, 
+            "subtree": "subtree_comp_24", 
+            "type": "eval", 
+            "url": "http://xue.youdao.com/api/course/list/3/1.jsonp?callback=coursePracticalCallback"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://www.youdao.com/", 
+            "enclosing": "None", 
+            "endTime": 3.0653800000000047, 
+            "evalType": "fireEvent", 
+            "frame": 2, 
+            "id": "comp_25", 
+            "name": "load", 
+            "startTime": 3.0638120000003255, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_42", 
+                "comp_26_1"
+            ], 
+            "docUrl": "http://www.youdao.com/", 
+            "enclosing": "comp_26", 
+            "endTime": 3.0937699999994948, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_26_0", 
+            "startTime": 3.090381999998499, 
+            "subtree": "subtree_comp_26", 
+            "type": "eval", 
+            "url": "http://www.huihui.cn/deals/channel.json?callback=discountCallback"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_38", 
+                "comp_26_2"
+            ], 
+            "docUrl": "http://www.youdao.com/", 
+            "enclosing": "comp_26", 
+            "endTime": 3.0950190000003204, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_26_1", 
+            "startTime": 3.0937699999994948, 
+            "subtree": "subtree_comp_26", 
+            "type": "eval", 
+            "url": "http://www.huihui.cn/deals/channel.json?callback=discountCallback"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [], 
+            "docUrl": "http://www.youdao.com/", 
+            "enclosing": "comp_26", 
+            "endTime": 3.0967490000002726, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_26_2", 
+            "startTime": 3.0950190000003204, 
+            "subtree": "subtree_comp_26", 
+            "type": "eval", 
+            "url": "http://www.huihui.cn/deals/channel.json?callback=discountCallback"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://www.youdao.com/", 
+            "enclosing": "None", 
+            "endTime": 3.0969310000000405, 
+            "evalType": "fireEvent", 
+            "frame": 2, 
+            "id": "comp_27", 
+            "name": "load", 
+            "startTime": 3.096778999999515, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_48", 
+                "comp_30_1"
+            ], 
+            "docUrl": "http://www.youdao.com/", 
+            "enclosing": "comp_30", 
+            "endTime": 7.346946999998181, 
+            "evalType": "fireEvent", 
+            "frame": 2, 
+            "id": "comp_30_0", 
+            "name": "load", 
+            "startTime": 7.346046999999089, 
+            "subtree": "subtree_comp_30", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://www.youdao.com/", 
+            "enclosing": "comp_30", 
+            "endTime": 7.348956999998336, 
+            "evalType": "fireEvent", 
+            "frame": 2, 
+            "id": "comp_30_1", 
+            "name": "load", 
+            "startTime": 7.346946999998181, 
+            "subtree": "subtree_comp_30", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "children": [
+                "download_47", 
+                "pchunk_1_1"
+            ], 
+            "docUrl": "http://c.youdao.com/www/banner.html", 
+            "endColumn": 28, 
+            "endRow": 18, 
+            "endTag": "div", 
+            "endTime": 7.3265109999993, 
+            "frame": 1, 
+            "id": "pchunk_1_0", 
+            "isFragment": false, 
+            "startColumn": 16, 
+            "startRow": 1, 
+            "startTag": "html", 
+            "startTime": 7.324612000000343, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [], 
+            "docUrl": "http://c.youdao.com/www/banner.html", 
+            "endColumn": 7, 
+            "endRow": 22, 
+            "endTag": "html", 
+            "endTime": 7.326700999998138, 
+            "frame": 1, 
+            "id": "pchunk_1_1", 
+            "isFragment": false, 
+            "startColumn": 34, 
+            "startRow": 18, 
+            "startTag": "div", 
+            "startTime": 7.326591000000917, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_0", 
+                "dchunk_1_1"
+            ], 
+            "id": "dchunk_1_0", 
+            "offset": 32, 
+            "resource": "download_46", 
+            "size": 1061, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_1"
+            ], 
+            "id": "dchunk_1_1", 
+            "offset": 1093, 
+            "resource": "download_46", 
+            "size": 29, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "download_2", 
+                "pchunk_2_1"
+            ], 
+            "docUrl": "http://www.youdao.com/", 
+            "endColumn": 481, 
+            "endRow": 0, 
+            "endTag": "link", 
+            "endTime": 1.165435000002617, 
+            "frame": 2, 
+            "id": "pchunk_2_0", 
+            "isFragment": false, 
+            "startColumn": 21, 
+            "startRow": 0, 
+            "startTag": "html", 
+            "startTime": 1.164984999999433, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_2", 
+                "comp_2"
+            ], 
+            "docUrl": "http://www.youdao.com/", 
+            "endColumn": 57, 
+            "endRow": 3, 
+            "endTag": "script", 
+            "endTime": 1.1655080000018643, 
+            "frame": 2, 
+            "id": "pchunk_2_1", 
+            "isFragment": false, 
+            "startColumn": 489, 
+            "startRow": 0, 
+            "startTag": "script", 
+            "startTime": 1.1654909999997471, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_8", 
+                "pchunk_2_3"
+            ], 
+            "docUrl": "http://www.youdao.com/", 
+            "endColumn": 110, 
+            "endRow": 3, 
+            "endTag": "span", 
+            "endTime": 1.6248369999957504, 
+            "frame": 2, 
+            "id": "pchunk_2_2", 
+            "isFragment": false, 
+            "startColumn": 64, 
+            "startRow": 3, 
+            "startTag": "head", 
+            "startTime": 1.6245170000001963, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_10", 
+                "pchunk_2_4"
+            ], 
+            "docUrl": "http://www.youdao.com/", 
+            "endColumn": 2003, 
+            "endRow": 3, 
+            "endTag": "div", 
+            "endTime": 1.6266389999982493, 
+            "frame": 2, 
+            "id": "pchunk_2_3", 
+            "isFragment": false, 
+            "startColumn": 117, 
+            "startRow": 3, 
+            "startTag": "span", 
+            "startTime": 1.6248500000001513, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_49", 
+                "pchunk_2_5"
+            ], 
+            "docUrl": "http://www.youdao.com/", 
+            "endColumn": 2202, 
+            "endRow": 3, 
+            "endTag": "img", 
+            "endTime": 1.626973000002181, 
+            "frame": 2, 
+            "id": "pchunk_2_4", 
+            "isFragment": false, 
+            "startColumn": 2009, 
+            "startRow": 3, 
+            "startTag": "div", 
+            "startTime": 1.626842999998189, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_11", 
+                "pchunk_2_6"
+            ], 
+            "docUrl": "http://www.youdao.com/", 
+            "endColumn": 2752, 
+            "endRow": 3, 
+            "endTag": "span", 
+            "endTime": 1.6275929999937944, 
+            "frame": 2, 
+            "id": "pchunk_2_5", 
+            "isFragment": false, 
+            "startColumn": 2223, 
+            "startRow": 3, 
+            "startTag": "div", 
+            "startTime": 1.6269829999982903, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_9", 
+                "pchunk_2_7"
+            ], 
+            "docUrl": "http://www.youdao.com/", 
+            "endColumn": 3920, 
+            "endRow": 3, 
+            "endTag": "span", 
+            "endTime": 1.6283320000038657, 
+            "frame": 2, 
+            "id": "pchunk_2_6", 
+            "isFragment": false, 
+            "startColumn": 2759, 
+            "startRow": 3, 
+            "startTag": "span", 
+            "startTime": 1.6276959999995597, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_46", 
+                "pchunk_2_8"
+            ], 
+            "docUrl": "http://www.youdao.com/", 
+            "endColumn": 4073, 
+            "endRow": 3, 
+            "endTag": "iframe", 
+            "endTime": 1.6286130000007688, 
+            "frame": 2, 
+            "id": "pchunk_2_7", 
+            "isFragment": false, 
+            "startColumn": 3927, 
+            "startRow": 3, 
+            "startTag": "span", 
+            "startTime": 1.6284769999983837, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_9", 
+                "comp_3"
+            ], 
+            "docUrl": "http://www.youdao.com/", 
+            "endColumn": 4824, 
+            "endRow": 3, 
+            "endTag": "script", 
+            "endTime": 1.6295050000044284, 
+            "frame": 2, 
+            "id": "pchunk_2_8", 
+            "isFragment": false, 
+            "startColumn": 4082, 
+            "startRow": 3, 
+            "startTag": "iframe", 
+            "startTime": 1.6290220000009867, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_50", 
+                "pchunk_2_10"
+            ], 
+            "docUrl": "http://www.youdao.com/", 
+            "endColumn": 5056, 
+            "endRow": 3, 
+            "endTag": "a", 
+            "endTime": 1.6299869999893417, 
+            "frame": 2, 
+            "id": "pchunk_2_9", 
+            "isFragment": false, 
+            "startColumn": 4854, 
+            "startRow": 3, 
+            "startTag": "a", 
+            "startTime": 1.629848000000493, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_3", 
+                "pchunk_2_11"
+            ], 
+            "docUrl": "http://www.youdao.com/", 
+            "endColumn": 5511, 
+            "endRow": 3, 
+            "endTag": "script", 
+            "endTime": 1.630312999997841, 
+            "frame": 2, 
+            "id": "pchunk_2_10", 
+            "isFragment": false, 
+            "startColumn": 5065, 
+            "startRow": 3, 
+            "startTag": "a", 
+            "startTime": 1.6300300000002608, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_4", 
+                "pchunk_2_12"
+            ], 
+            "docUrl": "http://www.youdao.com/", 
+            "endColumn": 5599, 
+            "endRow": 3, 
+            "endTag": "script", 
+            "endTime": 1.7211659999993572, 
+            "frame": 2, 
+            "id": "pchunk_2_11", 
+            "isFragment": false, 
+            "startColumn": 5590, 
+            "startRow": 3, 
+            "startTag": "script", 
+            "startTime": 1.7211109999989276, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_1", 
+                "pchunk_2_13"
+            ], 
+            "docUrl": "http://www.youdao.com/", 
+            "endColumn": 5688, 
+            "endRow": 3, 
+            "endTag": "script", 
+            "endTime": 1.7229589999988093, 
+            "frame": 2, 
+            "id": "pchunk_2_12", 
+            "isFragment": false, 
+            "startColumn": 5679, 
+            "startRow": 3, 
+            "startTag": "script", 
+            "startTime": 1.722912000001088, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_5", 
+                "pchunk_2_14"
+            ], 
+            "docUrl": "http://www.youdao.com/", 
+            "endColumn": 5776, 
+            "endRow": 3, 
+            "endTag": "script", 
+            "endTime": 1.7248130000007222, 
+            "frame": 2, 
+            "id": "pchunk_2_13", 
+            "isFragment": false, 
+            "startColumn": 5767, 
+            "startRow": 3, 
+            "startTag": "script", 
+            "startTime": 1.7247910000005504, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_6", 
+                "pchunk_2_15"
+            ], 
+            "docUrl": "http://www.youdao.com/", 
+            "endColumn": 5849, 
+            "endRow": 3, 
+            "endTag": "script", 
+            "endTime": 1.7300259999974514, 
+            "frame": 2, 
+            "id": "pchunk_2_14", 
+            "isFragment": false, 
+            "startColumn": 5840, 
+            "startRow": 3, 
+            "startTag": "script", 
+            "startTime": 1.7299349999993865, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_7", 
+                "pchunk_2_16"
+            ], 
+            "docUrl": "http://www.youdao.com/", 
+            "endColumn": 5927, 
+            "endRow": 3, 
+            "endTag": "script", 
+            "endTime": 1.7669309999982943, 
+            "frame": 2, 
+            "id": "pchunk_2_15", 
+            "isFragment": false, 
+            "startColumn": 5918, 
+            "startRow": 3, 
+            "startTag": "script", 
+            "startTime": 1.766895000000659, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "comp_10"
+            ], 
+            "docUrl": "http://www.youdao.com/", 
+            "endColumn": 5941, 
+            "endRow": 3, 
+            "endTag": "html", 
+            "endTime": 1.7669590000004973, 
+            "frame": 2, 
+            "id": "pchunk_2_16", 
+            "isFragment": false, 
+            "startColumn": 5934, 
+            "startRow": 3, 
+            "startTag": "body", 
+            "startTime": 1.7669519999981276, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_0", 
+                "dchunk_2_1"
+            ], 
+            "id": "dchunk_2_0", 
+            "offset": 21, 
+            "resource": "download_0", 
+            "size": 460, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_1", 
+                "dchunk_2_2"
+            ], 
+            "id": "dchunk_2_1", 
+            "offset": 481, 
+            "resource": "download_0", 
+            "size": 151, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_2", 
+                "dchunk_2_3"
+            ], 
+            "id": "dchunk_2_2", 
+            "offset": 632, 
+            "resource": "download_0", 
+            "size": 46, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_3", 
+                "dchunk_2_4"
+            ], 
+            "id": "dchunk_2_3", 
+            "offset": 678, 
+            "resource": "download_0", 
+            "size": 1886, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_4", 
+                "dchunk_2_5"
+            ], 
+            "id": "dchunk_2_4", 
+            "offset": 2564, 
+            "resource": "download_0", 
+            "size": 193, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_5", 
+                "dchunk_2_6"
+            ], 
+            "id": "dchunk_2_5", 
+            "offset": 2757, 
+            "resource": "download_0", 
+            "size": 529, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_6", 
+                "dchunk_2_7"
+            ], 
+            "id": "dchunk_2_6", 
+            "offset": 3286, 
+            "resource": "download_0", 
+            "size": 1161, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_7", 
+                "dchunk_2_8"
+            ], 
+            "id": "dchunk_2_7", 
+            "offset": 4447, 
+            "resource": "download_0", 
+            "size": 146, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_8", 
+                "dchunk_2_9"
+            ], 
+            "id": "dchunk_2_8", 
+            "offset": 4593, 
+            "resource": "download_0", 
+            "size": 742, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_9", 
+                "dchunk_2_10"
+            ], 
+            "id": "dchunk_2_9", 
+            "offset": 5335, 
+            "resource": "download_0", 
+            "size": 202, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_10", 
+                "dchunk_2_11"
+            ], 
+            "id": "dchunk_2_10", 
+            "offset": 5537, 
+            "resource": "download_0", 
+            "size": 446, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_11", 
+                "dchunk_2_12"
+            ], 
+            "id": "dchunk_2_11", 
+            "offset": 5983, 
+            "resource": "download_0", 
+            "size": 9, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_12", 
+                "dchunk_2_13"
+            ], 
+            "id": "dchunk_2_12", 
+            "offset": 5992, 
+            "resource": "download_0", 
+            "size": 9, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_13", 
+                "dchunk_2_14"
+            ], 
+            "id": "dchunk_2_13", 
+            "offset": 6001, 
+            "resource": "download_0", 
+            "size": 9, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_14", 
+                "dchunk_2_15"
+            ], 
+            "id": "dchunk_2_14", 
+            "offset": 6010, 
+            "resource": "download_0", 
+            "size": 9, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_15", 
+                "dchunk_2_16"
+            ], 
+            "id": "dchunk_2_15", 
+            "offset": 6019, 
+            "resource": "download_0", 
+            "size": 9, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_16"
+            ], 
+            "id": "dchunk_2_16", 
+            "offset": 6028, 
+            "resource": "download_0", 
+            "size": 7, 
+            "type": "download_chunk"
+        }
+    ], 
+    "frames": [
+        {
+            "id": 0, 
+            "parent": 2, 
+            "subframes": [], 
+            "url": "about:blank"
+        }, 
+        {
+            "id": 1, 
+            "parent": 2, 
+            "subframes": [], 
+            "url": "http://c.youdao.com/www/banner.html"
+        }, 
+        {
+            "id": 2, 
+            "subframes": [
+                0, 
+                1
+            ], 
+            "url": "http://www.youdao.com/"
+        }
+    ], 
+    "loadEvent": "comp_30_0", 
+    "name": "http://www.youdao.com/", 
+    "root_activity": "download_0"
+}

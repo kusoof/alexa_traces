@@ -1,0 +1,5416 @@
+{
+    "DOMContentLoadedEvent": "comp_36_0", 
+    "activities": [
+        {
+            "cached": false, 
+            "children": [
+                "comp_34", 
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_4", 
+            "mimeType": "application/javascript", 
+            "sentTime": 0.6445390000008047, 
+            "size": 1558, 
+            "type": "resource", 
+            "url": "https://d2c87l0yth4zbw.global.ssl.fastly.net/js/bon.min.d8e733eb.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_12", 
+            "mimeType": "image/svg+xml", 
+            "sentTime": 0.5315380000010919, 
+            "size": 4960, 
+            "type": "resource", 
+            "url": "data:image/svg+xml;charset=utf-8,%3Csvg%20id%3D%22Layer_1%22%20style%3D%22enable-background%3Anew%200%200%20566.93%20170.04%22%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20xml%3Aspace%3D%22preserve%22%20viewBox%3D%220%200%20566.93%20170.04%22%20version%3D%221.1%22%20y%3D%220px%22%20x%3D%220px%22%20xmlns%3Axlink%3D%22http%3A//www.w3.org/1999/xlink%22%20width%3D%22567%22%20height%3D%22171%22%20fill%3D%22%23FFF%22%3E%3Cpath%20d%3D%22m87.996%201.277c-46.249%200-83.743%2037.493-83.743%2083.742%200%2046.254%2037.494%2083.745%2083.743%2083.745%2046.251%200%2083.743-37.491%2083.743-83.745%200-46.246-37.49-83.738-83.744-83.738zm38.404%20120.78c-1.504%202.467-4.718%203.24-7.177%201.737-19.665-12.019-44.417-14.734-73.567-8.075-2.809%200.644-5.609-1.117-6.249-3.925-0.643-2.809%201.11-5.609%203.926-6.249%2031.9-7.293%2059.263-4.154%2081.336%209.334%202.46%201.51%203.24%204.72%201.73%207.18zm10.25-22.799c-1.894%203.073-5.912%204.037-8.981%202.15-22.505-13.834-56.822-17.841-83.447-9.759-3.453%201.043-7.1-0.903-8.148-4.35-1.04-3.453%200.907-7.093%204.354-8.143%2030.413-9.228%2068.221-4.758%2094.071%2011.127%203.07%201.89%204.04%205.91%202.15%208.976zm0.88-23.744c-26.994-16.031-71.52-17.505-97.289-9.684-4.138%201.255-8.514-1.081-9.768-5.219-1.254-4.14%201.08-8.513%205.221-9.771%2029.581-8.98%2078.756-7.245%20109.83%2011.202%203.722%202.209%204.943%207.016%202.737%2010.733-2.2%203.722-7.02%204.949-10.73%202.739z%22/%3E%3Cpath%20d%3D%22m232.09%2078.586c-14.459-3.448-17.033-5.868-17.033-10.953%200-4.804%204.523-8.037%2011.249-8.037%206.52%200%2012.985%202.455%2019.763%207.509%200.205%200.153%200.462%200.214%200.715%200.174%200.253-0.038%200.477-0.177%200.625-0.386l7.06-9.952c0.29-0.41%200.211-0.975-0.18-1.288-8.067-6.473-17.151-9.62-27.769-9.62-15.612%200-26.517%209.369-26.517%2022.774%200%2014.375%209.407%2019.465%2025.663%2023.394%2013.836%203.187%2016.171%205.857%2016.171%2010.63%200%205.289-4.722%208.577-12.321%208.577-8.44%200-15.324-2.843-23.025-9.512-0.191-0.165-0.453-0.24-0.695-0.226-0.255%200.021-0.488%200.139-0.65%200.334l-7.916%209.421c-0.332%200.391-0.29%200.975%200.094%201.313%208.96%207.999%2019.98%2012.224%2031.872%2012.224%2016.823%200%2027.694-9.192%2027.694-23.419%200.03-12.01-7.16-18.66-24.77-22.944z%22/%3E%3Cpath%20d%3D%22m294.95%2064.326c-7.292%200-13.273%202.872-18.205%208.757v-6.624c0-0.523-0.424-0.949-0.946-0.949h-12.947c-0.523%200-0.946%200.426-0.946%200.949v73.602c0%200.523%200.423%200.949%200.946%200.949h12.947c0.522%200%200.946-0.426%200.946-0.949v-23.233c4.933%205.536%2010.915%208.241%2018.205%208.241%2013.549%200%2027.265-10.43%2027.265-30.368%200.02-19.943-13.7-30.376-27.25-30.376zm12.21%2030.375c0%2010.153-6.254%2017.238-15.209%2017.238-8.853%200-15.531-7.407-15.531-17.238%200-9.83%206.678-17.238%2015.531-17.238%208.81-0.001%2015.21%207.247%2015.21%2017.237z%22/%3E%3Cpath%20d%3D%22m357.37%2064.326c-17.449%200-31.119%2013.436-31.119%2030.592%200%2016.969%2013.576%2030.264%2030.905%2030.264%2017.511%200%2031.223-13.391%2031.223-30.481%200-17.031-13.62-30.373-31.01-30.373zm0%2047.714c-9.281%200-16.278-7.457-16.278-17.344%200-9.929%206.755-17.134%2016.064-17.134%209.341%200%2016.385%207.457%2016.385%2017.351%200%209.927-6.8%2017.127-16.17%2017.127z%22/%3E%3Cpath%20d%3D%22m425.64%2065.51h-14.247v-14.566c0-0.522-0.422-0.948-0.945-0.948h-12.945c-0.524%200-0.949%200.426-0.949%200.948v14.566h-6.225c-0.521%200-0.943%200.426-0.943%200.949v11.127c0%200.522%200.422%200.949%200.943%200.949h6.225v28.791c0%2011.635%205.791%2017.534%2017.212%2017.534%204.644%200%208.497-0.959%2012.128-3.018%200.295-0.165%200.478-0.483%200.478-0.821v-10.596c0-0.327-0.17-0.636-0.45-0.807-0.282-0.177-0.633-0.186-0.922-0.043-2.494%201.255-4.905%201.834-7.6%201.834-4.154%200-6.007-1.886-6.007-6.113v-26.756h14.247c0.523%200%200.944-0.426%200.944-0.949v-11.126c0.02-0.523-0.4-0.949-0.93-0.949z%22/%3E%3Cpath%20d%3D%22m475.28%2065.567v-1.789c0-5.263%202.018-7.61%206.544-7.61%202.699%200%204.867%200.536%207.295%201.346%200.299%200.094%200.611%200.047%200.854-0.132%200.25-0.179%200.391-0.466%200.391-0.77v-10.91c0-0.417-0.268-0.786-0.67-0.909-2.565-0.763-5.847-1.546-10.761-1.546-11.958%200-18.279%206.734-18.279%2019.467v2.74h-6.22c-0.522%200-0.95%200.426-0.95%200.948v11.184c0%200.522%200.428%200.949%200.95%200.949h6.22v44.409c0%200.523%200.422%200.949%200.944%200.949h12.947c0.523%200%200.949-0.426%200.949-0.949v-44.406h12.088l18.517%2044.398c-2.102%204.665-4.169%205.593-6.991%205.593-2.281%200-4.683-0.681-7.139-2.025-0.231-0.127-0.505-0.148-0.754-0.071-0.247%200.087-0.455%200.271-0.56%200.511l-4.388%209.627c-0.209%200.455-0.03%200.989%200.408%201.225%204.581%202.481%208.716%203.54%2013.827%203.54%209.56%200%2014.844-4.453%2019.502-16.433l22.461-58.04c0.113-0.292%200.079-0.622-0.1-0.881-0.178-0.257-0.465-0.412-0.779-0.412h-13.478c-0.404%200-0.765%200.257-0.897%200.636l-13.807%2039.438-15.123-39.464c-0.138-0.367-0.492-0.61-0.884-0.61h-22.12z%22/%3E%3Cpath%20d%3D%22m446.5%2065.51h-12.947c-0.523%200-0.949%200.426-0.949%200.949v56.485c0%200.523%200.426%200.949%200.949%200.949h12.947c0.522%200%200.949-0.426%200.949-0.949v-56.481c0-0.523-0.42-0.949-0.95-0.949z%22/%3E%3Cpath%20d%3D%22m440.1%2039.791c-5.129%200-9.291%204.152-9.291%209.281%200%205.132%204.163%209.289%209.291%209.289%205.127%200%209.285-4.157%209.285-9.289%200-5.128-4.16-9.281-9.28-9.281z%22/%3E%3Cpath%20d%3D%22m553.52%2083.671c-5.124%200-9.111-4.115-9.111-9.112s4.039-9.159%209.159-9.159c5.124%200%209.111%204.114%209.111%209.107%200%204.997-4.04%209.164-9.16%209.164zm0.05-17.365c-4.667%200-8.198%203.71-8.198%208.253%200%204.541%203.506%208.201%208.151%208.201%204.666%200%208.201-3.707%208.201-8.253%200-4.541-3.51-8.201-8.15-8.201zm2.02%209.138l2.577%203.608h-2.173l-2.32-3.31h-1.995v3.31h-1.819v-9.564h4.265c2.222%200%203.683%201.137%203.683%203.051%200.01%201.568-0.9%202.526-2.21%202.905zm-1.54-4.315h-2.372v3.025h2.372c1.184%200%201.891-0.579%201.891-1.514%200-0.984-0.71-1.511-1.89-1.511z%22/%3E%3C/svg%3E"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_77", 
+            "mimeType": "image/svg+xml", 
+            "originalResource": "download_12", 
+            "sentTime": 0.5596880000011879, 
+            "size": 4960, 
+            "type": "resource", 
+            "url": "data:image/svg+xml;charset=utf-8,%3Csvg%20id%3D%22Layer_1%22%20style%3D%22enable-background%3Anew%200%200%20566.93%20170.04%22%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20xml%3Aspace%3D%22preserve%22%20viewBox%3D%220%200%20566.93%20170.04%22%20version%3D%221.1%22%20y%3D%220px%22%20x%3D%220px%22%20xmlns%3Axlink%3D%22http%3A//www.w3.org/1999/xlink%22%20width%3D%22567%22%20height%3D%22171%22%20fill%3D%22%23FFF%22%3E%3Cpath%20d%3D%22m87.996%201.277c-46.249%200-83.743%2037.493-83.743%2083.742%200%2046.254%2037.494%2083.745%2083.743%2083.745%2046.251%200%2083.743-37.491%2083.743-83.745%200-46.246-37.49-83.738-83.744-83.738zm38.404%20120.78c-1.504%202.467-4.718%203.24-7.177%201.737-19.665-12.019-44.417-14.734-73.567-8.075-2.809%200.644-5.609-1.117-6.249-3.925-0.643-2.809%201.11-5.609%203.926-6.249%2031.9-7.293%2059.263-4.154%2081.336%209.334%202.46%201.51%203.24%204.72%201.73%207.18zm10.25-22.799c-1.894%203.073-5.912%204.037-8.981%202.15-22.505-13.834-56.822-17.841-83.447-9.759-3.453%201.043-7.1-0.903-8.148-4.35-1.04-3.453%200.907-7.093%204.354-8.143%2030.413-9.228%2068.221-4.758%2094.071%2011.127%203.07%201.89%204.04%205.91%202.15%208.976zm0.88-23.744c-26.994-16.031-71.52-17.505-97.289-9.684-4.138%201.255-8.514-1.081-9.768-5.219-1.254-4.14%201.08-8.513%205.221-9.771%2029.581-8.98%2078.756-7.245%20109.83%2011.202%203.722%202.209%204.943%207.016%202.737%2010.733-2.2%203.722-7.02%204.949-10.73%202.739z%22/%3E%3Cpath%20d%3D%22m232.09%2078.586c-14.459-3.448-17.033-5.868-17.033-10.953%200-4.804%204.523-8.037%2011.249-8.037%206.52%200%2012.985%202.455%2019.763%207.509%200.205%200.153%200.462%200.214%200.715%200.174%200.253-0.038%200.477-0.177%200.625-0.386l7.06-9.952c0.29-0.41%200.211-0.975-0.18-1.288-8.067-6.473-17.151-9.62-27.769-9.62-15.612%200-26.517%209.369-26.517%2022.774%200%2014.375%209.407%2019.465%2025.663%2023.394%2013.836%203.187%2016.171%205.857%2016.171%2010.63%200%205.289-4.722%208.577-12.321%208.577-8.44%200-15.324-2.843-23.025-9.512-0.191-0.165-0.453-0.24-0.695-0.226-0.255%200.021-0.488%200.139-0.65%200.334l-7.916%209.421c-0.332%200.391-0.29%200.975%200.094%201.313%208.96%207.999%2019.98%2012.224%2031.872%2012.224%2016.823%200%2027.694-9.192%2027.694-23.419%200.03-12.01-7.16-18.66-24.77-22.944z%22/%3E%3Cpath%20d%3D%22m294.95%2064.326c-7.292%200-13.273%202.872-18.205%208.757v-6.624c0-0.523-0.424-0.949-0.946-0.949h-12.947c-0.523%200-0.946%200.426-0.946%200.949v73.602c0%200.523%200.423%200.949%200.946%200.949h12.947c0.522%200%200.946-0.426%200.946-0.949v-23.233c4.933%205.536%2010.915%208.241%2018.205%208.241%2013.549%200%2027.265-10.43%2027.265-30.368%200.02-19.943-13.7-30.376-27.25-30.376zm12.21%2030.375c0%2010.153-6.254%2017.238-15.209%2017.238-8.853%200-15.531-7.407-15.531-17.238%200-9.83%206.678-17.238%2015.531-17.238%208.81-0.001%2015.21%207.247%2015.21%2017.237z%22/%3E%3Cpath%20d%3D%22m357.37%2064.326c-17.449%200-31.119%2013.436-31.119%2030.592%200%2016.969%2013.576%2030.264%2030.905%2030.264%2017.511%200%2031.223-13.391%2031.223-30.481%200-17.031-13.62-30.373-31.01-30.373zm0%2047.714c-9.281%200-16.278-7.457-16.278-17.344%200-9.929%206.755-17.134%2016.064-17.134%209.341%200%2016.385%207.457%2016.385%2017.351%200%209.927-6.8%2017.127-16.17%2017.127z%22/%3E%3Cpath%20d%3D%22m425.64%2065.51h-14.247v-14.566c0-0.522-0.422-0.948-0.945-0.948h-12.945c-0.524%200-0.949%200.426-0.949%200.948v14.566h-6.225c-0.521%200-0.943%200.426-0.943%200.949v11.127c0%200.522%200.422%200.949%200.943%200.949h6.225v28.791c0%2011.635%205.791%2017.534%2017.212%2017.534%204.644%200%208.497-0.959%2012.128-3.018%200.295-0.165%200.478-0.483%200.478-0.821v-10.596c0-0.327-0.17-0.636-0.45-0.807-0.282-0.177-0.633-0.186-0.922-0.043-2.494%201.255-4.905%201.834-7.6%201.834-4.154%200-6.007-1.886-6.007-6.113v-26.756h14.247c0.523%200%200.944-0.426%200.944-0.949v-11.126c0.02-0.523-0.4-0.949-0.93-0.949z%22/%3E%3Cpath%20d%3D%22m475.28%2065.567v-1.789c0-5.263%202.018-7.61%206.544-7.61%202.699%200%204.867%200.536%207.295%201.346%200.299%200.094%200.611%200.047%200.854-0.132%200.25-0.179%200.391-0.466%200.391-0.77v-10.91c0-0.417-0.268-0.786-0.67-0.909-2.565-0.763-5.847-1.546-10.761-1.546-11.958%200-18.279%206.734-18.279%2019.467v2.74h-6.22c-0.522%200-0.95%200.426-0.95%200.948v11.184c0%200.522%200.428%200.949%200.95%200.949h6.22v44.409c0%200.523%200.422%200.949%200.944%200.949h12.947c0.523%200%200.949-0.426%200.949-0.949v-44.406h12.088l18.517%2044.398c-2.102%204.665-4.169%205.593-6.991%205.593-2.281%200-4.683-0.681-7.139-2.025-0.231-0.127-0.505-0.148-0.754-0.071-0.247%200.087-0.455%200.271-0.56%200.511l-4.388%209.627c-0.209%200.455-0.03%200.989%200.408%201.225%204.581%202.481%208.716%203.54%2013.827%203.54%209.56%200%2014.844-4.453%2019.502-16.433l22.461-58.04c0.113-0.292%200.079-0.622-0.1-0.881-0.178-0.257-0.465-0.412-0.779-0.412h-13.478c-0.404%200-0.765%200.257-0.897%200.636l-13.807%2039.438-15.123-39.464c-0.138-0.367-0.492-0.61-0.884-0.61h-22.12z%22/%3E%3Cpath%20d%3D%22m446.5%2065.51h-12.947c-0.523%200-0.949%200.426-0.949%200.949v56.485c0%200.523%200.426%200.949%200.949%200.949h12.947c0.522%200%200.949-0.426%200.949-0.949v-56.481c0-0.523-0.42-0.949-0.95-0.949z%22/%3E%3Cpath%20d%3D%22m440.1%2039.791c-5.129%200-9.291%204.152-9.291%209.281%200%205.132%204.163%209.289%209.291%209.289%205.127%200%209.285-4.157%209.285-9.289%200-5.128-4.16-9.281-9.28-9.281z%22/%3E%3Cpath%20d%3D%22m553.52%2083.671c-5.124%200-9.111-4.115-9.111-9.112s4.039-9.159%209.159-9.159c5.124%200%209.111%204.114%209.111%209.107%200%204.997-4.04%209.164-9.16%209.164zm0.05-17.365c-4.667%200-8.198%203.71-8.198%208.253%200%204.541%203.506%208.201%208.151%208.201%204.666%200%208.201-3.707%208.201-8.253%200-4.541-3.51-8.201-8.15-8.201zm2.02%209.138l2.577%203.608h-2.173l-2.32-3.31h-1.995v3.31h-1.819v-9.564h4.265c2.222%200%203.683%201.137%203.683%203.051%200.01%201.568-0.9%202.526-2.21%202.905zm-1.54-4.315h-2.372v3.025h2.372c1.184%200%201.891-0.579%201.891-1.514%200-0.984-0.71-1.511-1.89-1.511z%22/%3E%3C/svg%3E"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_81_0", 
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_38", 
+            "mimeType": "text/javascript", 
+            "sentTime": 1.403132999999798, 
+            "size": 1569, 
+            "type": "resource", 
+            "url": "https://www.google-analytics.com/plugins/ua/linkid.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_131", 
+                "comp_132", 
+                "comp_135", 
+                "comp_146", 
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_19", 
+            "mimeType": "image/png", 
+            "sentTime": 0.7784860000010667, 
+            "size": 120, 
+            "type": "resource", 
+            "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_122_0", 
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_50", 
+            "mimeType": "application/x-javascript", 
+            "sentTime": 1.295216000000437, 
+            "size": 9319, 
+            "type": "resource", 
+            "url": "https://connect.facebook.net/en_US/fbevents.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_16", 
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_1", 
+            "mimeType": "text/css", 
+            "sentTime": 0.4672360000004119, 
+            "size": 232398, 
+            "type": "resource", 
+            "url": "https://d2c87l0yth4zbw.global.ssl.fastly.net/css/spotify.da6c070e.css"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_23", 
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_7", 
+            "mimeType": "application/javascript", 
+            "sentTime": 0.5151870000008785, 
+            "size": 563, 
+            "type": "resource", 
+            "url": "https://d2c87l0yth4zbw-2.global.ssl.fastly.net/js/tracking.download.52a2815f.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_14_0", 
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_8", 
+            "mimeType": "text/javascript", 
+            "sentTime": 0.3076519999995071, 
+            "size": 166512, 
+            "type": "resource", 
+            "url": "https://cdn.optimizely.com/js/146312396.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_60", 
+            "mimeType": "image/gif", 
+            "sentTime": 2.690397000000303, 
+            "size": 42, 
+            "type": "resource", 
+            "url": "https://t.tellapart.com/ttp?source=4&aaid=17230018&txn_id=l61bk&tw_sale_amount=0&tw_order_quantity=0&p_id=Twitter&tw_iframe_status=0&p_user_id=0"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_54", 
+            "mimeType": "image/gif", 
+            "sentTime": 2.370495999999548, 
+            "size": 44, 
+            "type": "resource", 
+            "url": "https://www.facebook.com/tr/?id=1483047915331997&ev=PageView&dl=https%3A%2F%2Fwww.spotify.com%2Fuk%2F&rl=&if=false&ts=1474468498274&v=2.5.0"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "dchunk_0_0", 
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_58", 
+            "mimeType": "text/html", 
+            "sentTime": 2.2936740000004647, 
+            "size": 783, 
+            "type": "resource", 
+            "url": "https://insight.adsrvr.org/track/up?adv=6edr100&ref=https%3A%2F%2Fwww.spotify.com%2Fuk%2F&upid=arf8d2q&osi=0fcf4d4cb0e2e17d0b532e0033527bce&osv=1.1&upv=1.1.1"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_45", 
+                "comp_46", 
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_13", 
+            "mimeType": "application/javascript", 
+            "sentTime": 0.5149380000002566, 
+            "size": 11226, 
+            "type": "resource", 
+            "url": "https://d2c87l0yth4zbw.global.ssl.fastly.net/js/vendor/sp-analytics.min.41b3785b.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_28", 
+            "mimeType": "text/plain", 
+            "sentTime": 0.5746440000002622, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "https://l.betrad.com/pub/p.gif?pid=1120&ocid=1816&ii=1&r=0.39933390193618834"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_13", 
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_6", 
+            "mimeType": "application/javascript", 
+            "sentTime": 0.1246160000009695, 
+            "size": 91347, 
+            "type": "resource", 
+            "url": "https://d2c87l0yth4zbw-2.global.ssl.fastly.net/js/vendor/jquery-2.1.3.min.cca93acb.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_30", 
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_10", 
+            "mimeType": "application/javascript", 
+            "sentTime": 0.6430529999997816, 
+            "size": 558, 
+            "type": "resource", 
+            "url": "https://d2c87l0yth4zbw-2.global.ssl.fastly.net/js/sessioncam.min.261988c1.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_34", 
+            "mimeType": "application/font-woff", 
+            "sentTime": 1.06272700000045, 
+            "size": 93662, 
+            "type": "resource", 
+            "url": "https://sp-bootstrap.global.ssl.fastly.net/7.3.0/fonts/circular-light.woff"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_15", 
+            "mimeType": "image/jpeg", 
+            "sentTime": 0.5496729999995296, 
+            "size": 72214, 
+            "type": "resource", 
+            "url": "https://d2c87l0yth4zbw.global.ssl.fastly.net/i/home/devices.jpg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_61", 
+            "mimeType": "image/gif", 
+            "sentTime": 2.9028250000010303, 
+            "size": 43, 
+            "type": "resource", 
+            "url": "https://dsum-sec.casalemedia.com/rum?cm_dsp_id=39&external_user_id=7b684817-e7df-40c0-b0bd-554ebc78afb3&expiration=1477060499"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_44", 
+            "mimeType": "audio/mpeg", 
+            "sentTime": 1.0624250000000757, 
+            "size": 360803, 
+            "type": "resource", 
+            "url": "https://p.scdn.co/mp3-preview/eba0da9da9e57db3e34b4ef18e71e32fbf1294cf"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_53", 
+            "mimeType": "image/gif", 
+            "sentTime": 2.3621390000007523, 
+            "size": 44, 
+            "type": "resource", 
+            "url": "https://www.facebook.com/tr/?id=252834944896917&ev=PixelInitialized&dl=https%3A%2F%2Fwww.spotify.com%2Fuk%2F&rl=&if=false&ts=1474468498266"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_23", 
+            "mimeType": "image/png", 
+            "sentTime": 0.5455180000008113, 
+            "size": 4482, 
+            "type": "resource", 
+            "url": "https://d2c87l0yth4zbw.global.ssl.fastly.net/i/home/nexus-klein-purple.png"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "dchunk_4_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_0", 
+            "mimeType": "text/html", 
+            "sentTime": 0.0, 
+            "size": 67973, 
+            "type": "resource", 
+            "url": "https://www.spotify.com/uk/"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_47_0", 
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_18", 
+            "mimeType": "text/javascript", 
+            "sentTime": 0.6441910000012285, 
+            "size": 256698, 
+            "type": "resource", 
+            "url": "https://d2oh4tlt9mrke9.cloudfront.net/Record/js/sessioncam.recorder.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_61_0", 
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_30", 
+            "mimeType": "text/javascript", 
+            "sentTime": 1.2865830000009737, 
+            "size": 27809, 
+            "type": "resource", 
+            "url": "https://www.google-analytics.com/analytics.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_28", 
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_9", 
+            "mimeType": "application/javascript", 
+            "sentTime": 0.6382150000008551, 
+            "size": 16684, 
+            "type": "resource", 
+            "url": "https://d2c87l0yth4zbw-2.global.ssl.fastly.net/js/tour.min.d2b5b30e.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_112", 
+                "comp_113_0", 
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_40", 
+            "mimeType": "application/javascript", 
+            "sentTime": 1.2934110000005603, 
+            "size": 5297, 
+            "type": "resource", 
+            "url": "https://platform.twitter.com/oct.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_41", 
+            "mimeType": "application/font-woff", 
+            "sentTime": 1.0634640000007494, 
+            "size": 94339, 
+            "type": "resource", 
+            "url": "https://sp-bootstrap.global.ssl.fastly.net/7.3.0/fonts/circular-black.woff"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_16", 
+            "mimeType": "image/png", 
+            "sentTime": 0.5702890000011394, 
+            "size": 600, 
+            "type": "resource", 
+            "url": "https://cdn.betrad.com/pub/icon1.png"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_144", 
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_59", 
+            "mimeType": "application/x-javascript", 
+            "sentTime": 2.8698700000004465, 
+            "size": 986, 
+            "type": "resource", 
+            "url": "https://js.adsrvr.org/universal_pixel.1.1.1.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_68", 
+            "mimeType": "application/javascript", 
+            "sentTime": 8.116624000000229, 
+            "size": 379, 
+            "type": "resource", 
+            "url": "https://analytics.twitter.com/i/adsct?p_id=Twitter&p_user_id=0&txn_id=l61bk&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_12", 
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_62", 
+            "mimeType": "image/gif", 
+            "sentTime": 3.4140090000000782, 
+            "size": 70, 
+            "type": "resource", 
+            "url": "https://match.adsrvr.org/track/cmf/generic?ttd_pid=bluekai"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_27", 
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_2", 
+            "mimeType": "application/javascript", 
+            "sentTime": 0.5758930000010878, 
+            "size": 177594, 
+            "type": "resource", 
+            "url": "https://d2c87l0yth4zbw.global.ssl.fastly.net/js/spweb-site.min.3405bd89.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_64_0", 
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_32", 
+            "mimeType": "application/x-javascript", 
+            "sentTime": 1.2907310000009602, 
+            "size": 1495, 
+            "type": "resource", 
+            "url": "https://sb.scorecardresearch.com/beacon.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_149", 
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_56", 
+            "mimeType": "application/javascript", 
+            "sentTime": 1.38759200000095, 
+            "size": 92095, 
+            "type": "resource", 
+            "url": "https://s3.amazonaws.com/ki.js/51746/b0R.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_45", 
+            "mimeType": "audio/mpeg", 
+            "sentTime": 1.0589030000010098, 
+            "size": 360803, 
+            "type": "resource", 
+            "url": "https://p.scdn.co/mp3-preview/8d97c1d8173ffd51227d2c990ea9d63ff48500f6"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_35", 
+            "mimeType": "application/font-woff", 
+            "sentTime": 1.0628059999999095, 
+            "size": 87718, 
+            "type": "resource", 
+            "url": "https://sp-bootstrap.global.ssl.fastly.net/7.3.0/fonts/circular-book.woff"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_18", 
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_3", 
+            "mimeType": "application/javascript", 
+            "sentTime": 0.4932970000008936, 
+            "size": 9310, 
+            "type": "resource", 
+            "url": "https://d2c87l0yth4zbw.global.ssl.fastly.net/js/vendor/modernizr.min.eeeeb906.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_48_0", 
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_17", 
+            "mimeType": "application/javascript", 
+            "sentTime": 0.5193419999995967, 
+            "size": 152877, 
+            "type": "resource", 
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-7BJJ"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_68_0", 
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_26", 
+            "mimeType": "image/jpeg", 
+            "sentTime": 0.7904300000009243, 
+            "size": 123862, 
+            "type": "resource", 
+            "url": "https://i.scdn.co/image/1d96f6fbc5a4eaa9640d4ae41db0e4dc4fa91baa"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_69_0", 
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_94", 
+            "mimeType": "image/jpeg", 
+            "originalResource": "download_26", 
+            "sentTime": 0.7928420000007463, 
+            "size": 123862, 
+            "type": "resource", 
+            "url": "https://i.scdn.co/image/1d96f6fbc5a4eaa9640d4ae41db0e4dc4fa91baa"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_107", 
+            "mimeType": "image/jpeg", 
+            "originalResource": "download_26", 
+            "sentTime": 1.4399699999994482, 
+            "size": 123862, 
+            "type": "resource", 
+            "url": "https://i.scdn.co/image/1d96f6fbc5a4eaa9640d4ae41db0e4dc4fa91baa"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_108", 
+            "mimeType": "image/jpeg", 
+            "originalResource": "download_26", 
+            "sentTime": 1.441769999999451, 
+            "size": 123862, 
+            "type": "resource", 
+            "url": "https://i.scdn.co/image/1d96f6fbc5a4eaa9640d4ae41db0e4dc4fa91baa"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_161", 
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_63", 
+            "mimeType": "application/json", 
+            "sentTime": 1.1493929999996908, 
+            "size": 2, 
+            "type": "resource", 
+            "url": "https://146312396.log.optimizely.com/event?a=146312396&d=146312396&y=true&src=js&s172210784=none&s172815652=direct&s172898846=false&s173064250=gc&s2875100138=true&tsent=1474468497.042&n=https%3A%2F%2Fwww.spotify.com%2Fuk%2F&u=oeu1474424233367r0.5601761480793357&wxhr=true&time=1474468497.042&f=7026271103,7010233857,7033370010,6998830663,7004174376,7014000297,7016483754,6919200171,7012090316,7025341148,7015574930,7006933715,7009830069,6336271351,6994454264,7010722906,7145141611,6998072316&g=&cx2=14def6c4"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_27", 
+            "mimeType": "image/png", 
+            "sentTime": 0.5341370000005554, 
+            "size": 374, 
+            "type": "resource", 
+            "url": "https://sp-bootstrap.global.ssl.fastly.net/7.3.0/images/icon-chevron-right.png"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_84", 
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_39", 
+            "mimeType": "image/gif", 
+            "sentTime": 1.6629620000003342, 
+            "size": 35, 
+            "type": "resource", 
+            "url": "https://www.google-analytics.com/collect?v=1&_v=j46&aip=1&a=1507170931&t=pageview&_s=1&dl=https%3A%2F%2Fwww.spotify.com%2Fuk%2F&ul=en-gb&de=UTF-8&dt=Music%20for%20everyone%20-%20Spotify&sd=24-bit&sr=1440x900&vp=934x811&je=1&fl=11.2%20r202&_u=SCCAiEYgB~&jid=1229630679&cid=1628243545.1474424235&uid=ec3cedc345126d4478865594b34986e2&tid=UA-5784146-31&cd3=&cd1=uk&z=1646476157"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_83", 
+            "mimeType": "image/gif", 
+            "sentTime": 0.7300930000001244, 
+            "size": 42, 
+            "type": "resource", 
+            "url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_84", 
+            "mimeType": "image/gif", 
+            "sentTime": 0.7368710000009742, 
+            "size": 42, 
+            "type": "resource", 
+            "url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_85", 
+            "mimeType": "image/gif", 
+            "sentTime": 0.7394830000012007, 
+            "size": 42, 
+            "type": "resource", 
+            "url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_86", 
+            "mimeType": "image/gif", 
+            "sentTime": 0.7420400000009977, 
+            "size": 42, 
+            "type": "resource", 
+            "url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_136_0", 
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_52", 
+            "mimeType": "text/javascript", 
+            "sentTime": 1.219676000000618, 
+            "size": 169, 
+            "type": "resource", 
+            "url": "https://ws.sessioncam.com/Record/config.aspx?url=https%3A%2F%2Fwww.spotify.com%2Fuk%2F&sse=1474468497118"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_43_0", 
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_11", 
+            "mimeType": "application/x-javascript", 
+            "sentTime": 0.33934600000065984, 
+            "size": 290, 
+            "type": "resource", 
+            "url": "https://cdn3.optimizely.com/js/geo2.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_67", 
+            "mimeType": "image/gif", 
+            "sentTime": 8.117276000000857, 
+            "size": 44, 
+            "type": "resource", 
+            "url": "https://www.facebook.com/tr/?id=252834944896917&ev=PixelInitialized&dl=https%3A%2F%2Fwww.spotify.com%2Fuk%2F&rl=https%3A%2F%2Fwww.spotify.com%2Fuk%2F&if=false&ts=1474468504022"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_109_0", 
+                "comp_111", 
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_46", 
+            "mimeType": "application/javascript", 
+            "sentTime": 1.289375000000291, 
+            "size": 19762, 
+            "type": "resource", 
+            "url": "https://d3ewslr5655zon.cloudfront.net/tags/spotify-7436afc376.min.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_41_0", 
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_21", 
+            "mimeType": "image/jpeg", 
+            "sentTime": 0.7891560000007303, 
+            "size": 104327, 
+            "type": "resource", 
+            "url": "https://i.scdn.co/image/506b3aee8a743d125460453499a56cb64e5a43ec"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_42_0", 
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_93", 
+            "mimeType": "image/jpeg", 
+            "originalResource": "download_21", 
+            "sentTime": 0.7895360000002256, 
+            "size": 104327, 
+            "type": "resource", 
+            "url": "https://i.scdn.co/image/506b3aee8a743d125460453499a56cb64e5a43ec"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_101", 
+            "mimeType": "image/jpeg", 
+            "originalResource": "download_21", 
+            "sentTime": 1.1198000000003958, 
+            "size": 104327, 
+            "type": "resource", 
+            "url": "https://i.scdn.co/image/506b3aee8a743d125460453499a56cb64e5a43ec"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_102", 
+            "mimeType": "image/jpeg", 
+            "originalResource": "download_21", 
+            "sentTime": 1.1226110000006884, 
+            "size": 104327, 
+            "type": "resource", 
+            "url": "https://i.scdn.co/image/506b3aee8a743d125460453499a56cb64e5a43ec"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_14", 
+            "mimeType": "image/png", 
+            "sentTime": 0.5337090000011813, 
+            "size": 305, 
+            "type": "resource", 
+            "url": "https://sp-bootstrap.global.ssl.fastly.net/7.3.0/images/icon-chevron-left.png"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_17", 
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_5", 
+            "mimeType": "text/css", 
+            "sentTime": 0.49143499999991036, 
+            "size": 14228, 
+            "type": "resource", 
+            "url": "https://d2c87l0yth4zbw.global.ssl.fastly.net/css/index.5199ad98.css"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_22", 
+            "mimeType": "image/png", 
+            "sentTime": 0.5437490000003891, 
+            "size": 9257, 
+            "type": "resource", 
+            "url": "https://d2c87l0yth4zbw.global.ssl.fastly.net/i/home/iphone-klein-purple.png"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_51", 
+            "mimeType": "text/plain", 
+            "sentTime": 1.425371000001178, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "https://sb.scorecardresearch.com/b?c1=2&c2=15654041&ns__t=1474468497330&ns_c=UTF-8&cv=3.1&c8=Music%20for%20everyone%20-%20Spotify&c7=https%3A%2F%2Fwww.spotify.com%2Fuk%2F&c9="
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_37", 
+            "mimeType": "application/font-woff", 
+            "sentTime": 1.062960999999632, 
+            "size": 89107, 
+            "type": "resource", 
+            "url": "https://sp-bootstrap.global.ssl.fastly.net/7.3.0/fonts/circular-medium.woff"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_166", 
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_64", 
+            "mimeType": "application/json", 
+            "sentTime": 0.44626700000117125, 
+            "size": 2, 
+            "type": "resource", 
+            "url": "https://146312396.log.optimizely.com/event?a=146312396&d=146312396&y=true&src=js&s172210784=none&s172815652=direct&s172898846=false&s173064250=gc&s2875100138=true&tsent=1474468496.34&n=https%3A%2F%2Fwww.spotify.com%2Fuk%2F&u=oeu1474424233367r0.5601761480793357&wxhr=true&time=1474468496.339&f=7026271103,7010233857,7033370010,6998830663,7004174376,7014000297,7016483754,6919200171,7012090316,7025341148,7015574930,7006933715,7009830069,6336271351,6994454264,7010722906,7145141611,6998072316&g=&cx2=39c747b5"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_121_0", 
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_49", 
+            "mimeType": "application/x-javascript", 
+            "sentTime": 1.2898970000005647, 
+            "size": 3076, 
+            "type": "resource", 
+            "url": "https://connect.facebook.net/en_US/fbds.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_67_0", 
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_25", 
+            "mimeType": "image/jpeg", 
+            "sentTime": 0.7932959999998275, 
+            "size": 177357, 
+            "type": "resource", 
+            "url": "https://i.scdn.co/image/3fcf3f0840cb0d839866e16528723002c4e96f76"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_66_0", 
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_95", 
+            "mimeType": "image/jpeg", 
+            "originalResource": "download_25", 
+            "sentTime": 0.7934800000002724, 
+            "size": 177357, 
+            "type": "resource", 
+            "url": "https://i.scdn.co/image/3fcf3f0840cb0d839866e16528723002c4e96f76"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_105", 
+            "mimeType": "image/jpeg", 
+            "originalResource": "download_25", 
+            "sentTime": 1.4349089999996067, 
+            "size": 177357, 
+            "type": "resource", 
+            "url": "https://i.scdn.co/image/3fcf3f0840cb0d839866e16528723002c4e96f76"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_106", 
+            "mimeType": "image/jpeg", 
+            "originalResource": "download_25", 
+            "sentTime": 1.438932000000932, 
+            "size": 177357, 
+            "type": "resource", 
+            "url": "https://i.scdn.co/image/3fcf3f0840cb0d839866e16528723002c4e96f76"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_36", 
+            "mimeType": "application/font-woff", 
+            "sentTime": 1.063239999999496, 
+            "size": 93314, 
+            "type": "resource", 
+            "url": "https://sp-bootstrap.global.ssl.fastly.net/7.3.0/fonts/circular-bold.woff"
+        }, 
+        {
+            "cached": false, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_69", 
+            "mimeType": "image/gif", 
+            "sentTime": 8.271794000000227, 
+            "size": 42, 
+            "type": "resource", 
+            "url": "https://t.tellapart.com/ttp?source=4&aaid=17230018&txn_id=l61bk&tw_sale_amount=0&tw_order_quantity=0&p_id=Twitter&tw_iframe_status=0&p_user_id=0&twitter_partner_user_id=ACay1hNA82CXlAUXmgKVRsLv15A9n4xSoXG4n2SCCcCWRh3rqpvUqDums21MIVAkttaROwUwgEW1&twitter_ads_id=ACay1hOdnbpvdy_gKZUnLs_maXZLrQQ7Ek-doiFuSQH06CklMmUqVpAosk_UTb9nT4_QMFKs0NGP"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_29", 
+            "mimeType": "image/svg+xml", 
+            "sentTime": 0.5753260000001319, 
+            "size": 602, 
+            "type": "resource", 
+            "url": "https://sp-bootstrap.global.ssl.fastly.net/7.3.0/images/flags/gb.svg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_180_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_66", 
+            "mimeType": "application/javascript", 
+            "sentTime": 8.089332999999897, 
+            "size": 22676, 
+            "type": "resource", 
+            "url": "https://js-agent.newrelic.com/nr-952.min.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_56_0", 
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_24", 
+            "mimeType": "image/jpeg", 
+            "sentTime": 0.7957100000003265, 
+            "size": 100989, 
+            "type": "resource", 
+            "url": "https://i.scdn.co/image/a1a2e08be66df92c75e46ad8330c9d4937bff209"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_55_0", 
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_96", 
+            "mimeType": "image/jpeg", 
+            "originalResource": "download_24", 
+            "sentTime": 0.7959420000006503, 
+            "size": 100989, 
+            "type": "resource", 
+            "url": "https://i.scdn.co/image/a1a2e08be66df92c75e46ad8330c9d4937bff209"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_103", 
+            "mimeType": "image/jpeg", 
+            "originalResource": "download_24", 
+            "sentTime": 1.376021000000037, 
+            "size": 100989, 
+            "type": "resource", 
+            "url": "https://i.scdn.co/image/a1a2e08be66df92c75e46ad8330c9d4937bff209"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_104", 
+            "mimeType": "image/jpeg", 
+            "originalResource": "download_24", 
+            "sentTime": 1.384782000000996, 
+            "size": 100989, 
+            "type": "resource", 
+            "url": "https://i.scdn.co/image/a1a2e08be66df92c75e46ad8330c9d4937bff209"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_38_0", 
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_20", 
+            "mimeType": "image/png", 
+            "sentTime": 0.7849980000009964, 
+            "size": 110481, 
+            "type": "resource", 
+            "url": "https://d2c87l0yth4zbw-2.global.ssl.fastly.net/i/home/bg-albums.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_39_0", 
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_92", 
+            "mimeType": "image/png", 
+            "originalResource": "download_20", 
+            "sentTime": 0.7872040000002016, 
+            "size": 110481, 
+            "type": "resource", 
+            "url": "https://d2c87l0yth4zbw-2.global.ssl.fastly.net/i/home/bg-albums.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_40_0", 
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_97", 
+            "mimeType": "image/png", 
+            "originalResource": "download_20", 
+            "sentTime": 0.7988199999999779, 
+            "size": 110481, 
+            "type": "resource", 
+            "url": "https://d2c87l0yth4zbw-2.global.ssl.fastly.net/i/home/bg-albums.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_98", 
+            "mimeType": "image/png", 
+            "originalResource": "download_20", 
+            "sentTime": 1.0698540000012144, 
+            "size": 110481, 
+            "type": "resource", 
+            "url": "https://d2c87l0yth4zbw-2.global.ssl.fastly.net/i/home/bg-albums.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_99", 
+            "mimeType": "image/png", 
+            "originalResource": "download_20", 
+            "sentTime": 1.081793999999718, 
+            "size": 110481, 
+            "type": "resource", 
+            "url": "https://d2c87l0yth4zbw-2.global.ssl.fastly.net/i/home/bg-albums.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_100", 
+            "mimeType": "image/png", 
+            "originalResource": "download_20", 
+            "sentTime": 1.1184090000006108, 
+            "size": 110481, 
+            "type": "resource", 
+            "url": "https://d2c87l0yth4zbw-2.global.ssl.fastly.net/i/home/bg-albums.png"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_47", 
+            "mimeType": "image/gif", 
+            "sentTime": 2.021779000000606, 
+            "size": 42, 
+            "type": "resource", 
+            "url": "https://www.google.co.uk/ads/ga-audiences?v=1&aip=1&t=sr&_r=4&tid=UA-5784146-31&cid=1628243545.1474424235&jid=1229630679&_v=j46&z=1502575912&ipr=y"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_42", 
+            "mimeType": "audio/mpeg", 
+            "sentTime": 1.0514409999996133, 
+            "size": 360803, 
+            "type": "resource", 
+            "url": "https://p.scdn.co/mp3-preview/5ab8018bc8a4aa8c8bd1714f57dcba14ff319705"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_184"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_70", 
+            "mimeType": "text/javascript", 
+            "sentTime": 8.254000000000815, 
+            "size": 57, 
+            "type": "resource", 
+            "url": "https://bam.nr-data.net/1/056bbe16c3?a=2971901&v=952.3a19e93&to=blwBY0pSDEQFU0BfWlcWIlRMWg1ZS1hbW1A%3D&rst=9100&ref=https://www.spotify.com/uk/&ap=37&be=1317&fe=7628&dc=338&af=err,xhr,ins&perf=%7B%22timing%22:%7B%22of%22:1474468495049,%22n%22:0,%22r%22:0,%22re%22:855,%22f%22:855,%22dn%22:855,%22dne%22:855,%22c%22:855,%22ce%22:855,%22rq%22:858,%22rp%22:968,%22rpe%22:971,%22dl%22:977,%22di%22:1536,%22ds%22:1536,%22de%22:1655,%22dc%22:8943,%22l%22:8944,%22le%22:8972%7D,%22navigation%22:%7B%22rc%22:2%7D%7D&at=QhsCFQJIH0o%3D&jsonp=NREUM.setToken"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_139", 
+                "comp_176"
+            ], 
+            "httpMethod": "OPTIONS", 
+            "id": "download_55", 
+            "mimeType": "text/plain", 
+            "sentTime": 2.527194000000236, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "https://api.tumra.com/v1"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_176"
+            ], 
+            "httpMethod": "POST", 
+            "id": "download_57", 
+            "mimeType": "application/json", 
+            "sentTime": 2.704772999999477, 
+            "size": 15, 
+            "type": "resource", 
+            "url": "https://api.tumra.com/v1"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_43", 
+            "mimeType": "audio/mpeg", 
+            "sentTime": 1.057025000000067, 
+            "size": 360803, 
+            "type": "resource", 
+            "url": "https://p.scdn.co/mp3-preview/fb97a6a994076d992ffa158e4998173100345c67"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_115", 
+                "comp_116_0", 
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_33", 
+            "mimeType": "application/x-javascript", 
+            "sentTime": 1.2941460000001825, 
+            "size": 7401, 
+            "type": "resource", 
+            "url": "https://js.adsrvr.org/up_loader.1.1.0.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_62", 
+                "comp_63_0", 
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_31", 
+            "mimeType": "text/javascript", 
+            "sentTime": 1.2878190000010363, 
+            "size": 11428, 
+            "type": "resource", 
+            "url": "https://www.googleadservices.com/pagead/conversion_async.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_12", 
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_65", 
+            "mimeType": "image/gif", 
+            "sentTime": 2.903501000000688, 
+            "size": 43, 
+            "type": "resource", 
+            "url": "https://odr.mookie1.com/t/v2/sync?tagid=V2_2087&src.visitorId=7b684817-e7df-40c0-b0bd-554ebc78afb3"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_119", 
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_48", 
+            "mimeType": "image/gif", 
+            "sentTime": 2.0286809999997786, 
+            "size": 42, 
+            "type": "resource", 
+            "url": "https://www.google.co.uk/ads/user-lists/988536217/?fmt=3&num=1&cv=8&frm=0&url=https%3A%2F%2Fwww.spotify.com%2Fuk%2F&random=3652724593&ipr=y"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_4_1"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "None", 
+            "endTime": 0.3075200000002951, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_13", 
+            "startTime": 0.2661200000002282, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://d2c87l0yth4zbw-2.global.ssl.fastly.net/js/vendor/jquery-2.1.3.min.cca93acb.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_11", 
+                "comp_14_1"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_14", 
+            "endTime": 0.3383819999999105, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_14_0", 
+            "startTime": 0.3076600000003964, 
+            "subtree": "subtree_comp_14", 
+            "type": "eval", 
+            "url": "https://cdn.optimizely.com/js/146312396.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_64", 
+                "comp_14_2"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_14", 
+            "endTime": 0.44626700000117125, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_14_1", 
+            "startTime": 0.3383819999999105, 
+            "subtree": "subtree_comp_14", 
+            "type": "eval", 
+            "url": "https://cdn.optimizely.com/js/146312396.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_4_2"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_14", 
+            "endTime": 0.45913300000029267, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_14_2", 
+            "startTime": 0.44626700000117125, 
+            "subtree": "subtree_comp_14", 
+            "type": "eval", 
+            "url": "https://cdn.optimizely.com/js/146312396.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_4_3"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "None", 
+            "endTime": 0.4664809999994759, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_15", 
+            "startTime": 0.4593440000007831, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "download_34", 
+                "download_41", 
+                "download_35", 
+                "download_37", 
+                "download_36", 
+                "comp_18"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "None", 
+            "endTime": 0.4913589999996475, 
+            "evalType": "recalcStyle", 
+            "frame": 4, 
+            "id": "comp_16", 
+            "startTime": 0.4672420000006241, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://d2c87l0yth4zbw.global.ssl.fastly.net/css/spotify.da6c070e.css"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "comp_18"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "None", 
+            "endTime": 0.4932260000005044, 
+            "evalType": "recalcStyle", 
+            "frame": 4, 
+            "id": "comp_17", 
+            "startTime": 0.4914420000004611, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://d2c87l0yth4zbw.global.ssl.fastly.net/css/index.5199ad98.css"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_4_6"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "None", 
+            "endTime": 0.5118940000011207, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_18", 
+            "startTime": 0.49330300000110583, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://d2c87l0yth4zbw.global.ssl.fastly.net/js/vendor/modernizr.min.eeeeb906.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_4_7"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "None", 
+            "endTime": 0.5142370000012306, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_19", 
+            "startTime": 0.514022000001205, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_4_8"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "None", 
+            "endTime": 0.5145570000004227, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_20", 
+            "startTime": 0.5142840000007709, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_13", 
+                "comp_21_1"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_21", 
+            "endTime": 0.5148060000010446, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_21_0", 
+            "startTime": 0.5145970000012312, 
+            "subtree": "subtree_comp_21", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_4_9"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_21", 
+            "endTime": 0.5150250000006054, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_21_1", 
+            "startTime": 0.5148060000010446, 
+            "subtree": "subtree_comp_21", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_4_10"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "None", 
+            "endTime": 0.5151409999998577, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_22", 
+            "startTime": 0.515056000000186, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_4_11"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "None", 
+            "endTime": 0.5162330000002839, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_23", 
+            "startTime": 0.5151910000004136, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://d2c87l0yth4zbw-2.global.ssl.fastly.net/js/tracking.download.52a2815f.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_4_12"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "None", 
+            "endTime": 0.5163910000010219, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_24", 
+            "startTime": 0.5162770000006276, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_17", 
+                "comp_25_1"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_25", 
+            "endTime": 0.5192250000000058, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_25_0", 
+            "startTime": 0.5188090000010561, 
+            "subtree": "subtree_comp_25", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_4_13", 
+                "comp_0"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_25", 
+            "endTime": 0.5194489999994403, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_25_1", 
+            "startTime": 0.5192250000000058, 
+            "subtree": "subtree_comp_25", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_1"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "None", 
+            "endTime": 0.5310750000007829, 
+            "evalType": "other", 
+            "frame": 4, 
+            "id": "comp_0", 
+            "startTime": 0.5306540000001405, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_2"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "None", 
+            "endTime": 0.5358059999998659, 
+            "evalType": "other", 
+            "frame": 4, 
+            "id": "comp_1", 
+            "startTime": 0.534972999999809, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_3"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "None", 
+            "endTime": 0.5372590000006312, 
+            "evalType": "other", 
+            "frame": 4, 
+            "id": "comp_2", 
+            "startTime": 0.5365000000001601, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_4"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "None", 
+            "endTime": 0.5401050000000396, 
+            "evalType": "other", 
+            "frame": 4, 
+            "id": "comp_3", 
+            "startTime": 0.539267000000109, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_5"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "None", 
+            "endTime": 0.5421399999995629, 
+            "evalType": "other", 
+            "frame": 4, 
+            "id": "comp_4", 
+            "startTime": 0.5412219999998342, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_6"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "None", 
+            "endTime": 0.5475330000008398, 
+            "evalType": "other", 
+            "frame": 4, 
+            "id": "comp_5", 
+            "startTime": 0.5466290000003937, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_7"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "None", 
+            "endTime": 0.5491000000001804, 
+            "evalType": "other", 
+            "frame": 4, 
+            "id": "comp_6", 
+            "startTime": 0.5483130000011442, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_8"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "None", 
+            "endTime": 0.553023000000394, 
+            "evalType": "other", 
+            "frame": 4, 
+            "id": "comp_7", 
+            "startTime": 0.5521019999996497, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_9"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "None", 
+            "endTime": 0.5554990000000544, 
+            "evalType": "other", 
+            "frame": 4, 
+            "id": "comp_8", 
+            "startTime": 0.553834000000279, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_10"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "None", 
+            "endTime": 0.5647750000007363, 
+            "evalType": "other", 
+            "frame": 4, 
+            "id": "comp_9", 
+            "startTime": 0.5638920000001235, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_11"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "None", 
+            "endTime": 0.5675940000000992, 
+            "evalType": "other", 
+            "frame": 4, 
+            "id": "comp_10", 
+            "startTime": 0.5671629999997094, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "None", 
+            "endTime": 0.5692159999998694, 
+            "evalType": "other", 
+            "frame": 4, 
+            "id": "comp_11", 
+            "startTime": 0.5687529999995604, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_28", 
+                "comp_26_1"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_26", 
+            "endTime": 0.5745260000003327, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_26_0", 
+            "startTime": 0.573937000001024, 
+            "subtree": "subtree_comp_26", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_4_22"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_26", 
+            "endTime": 0.5747650000012072, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_26_1", 
+            "startTime": 0.5745260000003327, 
+            "subtree": "subtree_comp_26", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_4_24"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "None", 
+            "endTime": 0.6381049999999959, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_27", 
+            "startTime": 0.5759330000000773, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://d2c87l0yth4zbw.global.ssl.fastly.net/js/spweb-site.min.3405bd89.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_4_25"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "None", 
+            "endTime": 0.642321000001175, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_28", 
+            "startTime": 0.6382360000006884, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://d2c87l0yth4zbw-2.global.ssl.fastly.net/js/tour.min.d2b5b30e.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_4_26"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "None", 
+            "endTime": 0.6429509999998118, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_29", 
+            "startTime": 0.6426279999996041, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_4_27"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "None", 
+            "endTime": 0.643699000000197, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_30", 
+            "startTime": 0.6430610000006709, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://d2c87l0yth4zbw-2.global.ssl.fastly.net/js/sessioncam.min.261988c1.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_4_28"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "None", 
+            "endTime": 0.6438990000006015, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_31", 
+            "startTime": 0.6437500000010914, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_18", 
+                "comp_32_1"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_32", 
+            "endTime": 0.6440510000011272, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_32_0", 
+            "startTime": 0.6439730000001873, 
+            "subtree": "subtree_comp_32", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_4_29"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_32", 
+            "endTime": 0.6443080000008194, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_32_1", 
+            "startTime": 0.6440510000011272, 
+            "subtree": "subtree_comp_32", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_4_30"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "None", 
+            "endTime": 0.6444780000001629, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_33", 
+            "startTime": 0.6444090000004508, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_4_31"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "None", 
+            "endTime": 0.6797239999996236, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_34", 
+            "startTime": 0.6445430000003398, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://d2c87l0yth4zbw.global.ssl.fastly.net/js/bon.min.d8e733eb.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_4_32"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "None", 
+            "endTime": 0.6799759999994421, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_35", 
+            "startTime": 0.6798410000010335, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_83", 
+                "comp_36_1"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_36", 
+            "endTime": 0.7297859999998764, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_36_0", 
+            "name": "DOMContentLoaded", 
+            "startTime": 0.6800440000006347, 
+            "subtree": "subtree_comp_36", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_42", 
+                "comp_36_2"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_36", 
+            "endTime": 0.7343070000006264, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_36_1", 
+            "name": "DOMContentLoaded", 
+            "startTime": 0.7297859999998764, 
+            "subtree": "subtree_comp_36", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_84", 
+                "comp_36_3"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_36", 
+            "endTime": 0.7368029999997816, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_36_2", 
+            "name": "DOMContentLoaded", 
+            "startTime": 0.7343070000006264, 
+            "subtree": "subtree_comp_36", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_43", 
+                "comp_36_4"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_36", 
+            "endTime": 0.7375630000005913, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_36_3", 
+            "name": "DOMContentLoaded", 
+            "startTime": 0.7368029999997816, 
+            "subtree": "subtree_comp_36", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_85", 
+                "comp_36_5"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_36", 
+            "endTime": 0.7394420000000537, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_36_4", 
+            "name": "DOMContentLoaded", 
+            "startTime": 0.7375630000005913, 
+            "subtree": "subtree_comp_36", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_45", 
+                "comp_36_6"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_36", 
+            "endTime": 0.7405319999998028, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_36_5", 
+            "name": "DOMContentLoaded", 
+            "startTime": 0.7394420000000537, 
+            "subtree": "subtree_comp_36", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_86", 
+                "comp_36_7"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_36", 
+            "endTime": 0.7419970000009926, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_36_6", 
+            "name": "DOMContentLoaded", 
+            "startTime": 0.7405319999998028, 
+            "subtree": "subtree_comp_36", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_44", 
+                "comp_36_8"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_36", 
+            "endTime": 0.7425920000005135, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_36_7", 
+            "name": "DOMContentLoaded", 
+            "startTime": 0.7419970000009926, 
+            "subtree": "subtree_comp_36", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_19", 
+                "comp_36_9"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_36", 
+            "endTime": 0.7784860000010667, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_36_8", 
+            "name": "DOMContentLoaded", 
+            "startTime": 0.7425920000005135, 
+            "subtree": "subtree_comp_36", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_20", 
+                "comp_36_10"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_36", 
+            "endTime": 0.7845340000003489, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_36_9", 
+            "name": "DOMContentLoaded", 
+            "startTime": 0.7784860000010667, 
+            "subtree": "subtree_comp_36", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_92", 
+                "comp_36_11"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_36", 
+            "endTime": 0.7866599999997561, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_36_10", 
+            "name": "DOMContentLoaded", 
+            "startTime": 0.7845340000003489, 
+            "subtree": "subtree_comp_36", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_21", 
+                "comp_36_12"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_36", 
+            "endTime": 0.7889720000002853, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_36_11", 
+            "name": "DOMContentLoaded", 
+            "startTime": 0.7866599999997561, 
+            "subtree": "subtree_comp_36", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_93", 
+                "comp_36_13"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_36", 
+            "endTime": 0.7893240000012156, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_36_12", 
+            "name": "DOMContentLoaded", 
+            "startTime": 0.7889720000002853, 
+            "subtree": "subtree_comp_36", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_26", 
+                "comp_36_14"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_36", 
+            "endTime": 0.7902180000000953, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_36_13", 
+            "name": "DOMContentLoaded", 
+            "startTime": 0.7893240000012156, 
+            "subtree": "subtree_comp_36", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_94", 
+                "comp_36_15"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_36", 
+            "endTime": 0.7927099999997154, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_36_14", 
+            "name": "DOMContentLoaded", 
+            "startTime": 0.7902180000000953, 
+            "subtree": "subtree_comp_36", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_25", 
+                "comp_36_16"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_36", 
+            "endTime": 0.7931380000009085, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_36_15", 
+            "name": "DOMContentLoaded", 
+            "startTime": 0.7927099999997154, 
+            "subtree": "subtree_comp_36", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_95", 
+                "comp_36_17"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_36", 
+            "endTime": 0.7933690000008937, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_36_16", 
+            "name": "DOMContentLoaded", 
+            "startTime": 0.7931380000009085, 
+            "subtree": "subtree_comp_36", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_24", 
+                "comp_36_18"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_36", 
+            "endTime": 0.795523000000685, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_36_17", 
+            "name": "DOMContentLoaded", 
+            "startTime": 0.7933690000008937, 
+            "subtree": "subtree_comp_36", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_96", 
+                "comp_36_19"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_36", 
+            "endTime": 0.7957860000005894, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_36_18", 
+            "name": "DOMContentLoaded", 
+            "startTime": 0.795523000000685, 
+            "subtree": "subtree_comp_36", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_97", 
+                "comp_36_20"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_36", 
+            "endTime": 0.7986700000001292, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_36_19", 
+            "name": "DOMContentLoaded", 
+            "startTime": 0.7957860000005894, 
+            "subtree": "subtree_comp_36", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_176"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_36", 
+            "endTime": 0.7994240000007267, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_36_20", 
+            "name": "DOMContentLoaded", 
+            "startTime": 0.7986700000001292, 
+            "subtree": "subtree_comp_36", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_98", 
+                "comp_38_1"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_38", 
+            "endTime": 1.0698540000012144, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_38_0", 
+            "name": "load", 
+            "startTime": 1.0640960000000632, 
+            "subtree": "subtree_comp_38", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_38", 
+            "endTime": 1.0784309999999095, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_38_1", 
+            "name": "load", 
+            "startTime": 1.0698540000012144, 
+            "subtree": "subtree_comp_38", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_99", 
+                "comp_39_1"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_39", 
+            "endTime": 1.081793999999718, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_39_0", 
+            "name": "load", 
+            "startTime": 1.0784530000000814, 
+            "subtree": "subtree_comp_39", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_39", 
+            "endTime": 1.1160799999997835, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_39_1", 
+            "name": "load", 
+            "startTime": 1.081793999999718, 
+            "subtree": "subtree_comp_39", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_100", 
+                "comp_40_1"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_40", 
+            "endTime": 1.1184090000006108, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_40_0", 
+            "name": "load", 
+            "startTime": 1.1165560000008554, 
+            "subtree": "subtree_comp_40", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_40", 
+            "endTime": 1.119369000000006, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_40_1", 
+            "name": "load", 
+            "startTime": 1.1184090000006108, 
+            "subtree": "subtree_comp_40", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_101", 
+                "comp_41_1"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_41", 
+            "endTime": 1.1198000000003958, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_41_0", 
+            "name": "load", 
+            "startTime": 1.1193830000011076, 
+            "subtree": "subtree_comp_41", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_41", 
+            "endTime": 1.1199589999996533, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_41_1", 
+            "name": "load", 
+            "startTime": 1.1198000000003958, 
+            "subtree": "subtree_comp_41", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_102", 
+                "comp_42_1"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_42", 
+            "endTime": 1.1226110000006884, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_42_0", 
+            "name": "load", 
+            "startTime": 1.1199699999997392, 
+            "subtree": "subtree_comp_42", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_42", 
+            "endTime": 1.1264790000004723, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_42_1", 
+            "name": "load", 
+            "startTime": 1.1226110000006884, 
+            "subtree": "subtree_comp_42", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "comp_44"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_43", 
+            "endTime": 1.148685000000114, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_43_0", 
+            "startTime": 1.1287800000009156, 
+            "subtree": "subtree_comp_43", 
+            "type": "eval", 
+            "url": "https://cdn3.optimizely.com/js/geo2.js"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_63", 
+                "comp_43_2"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_43", 
+            "endTime": 1.1493929999996908, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_43_1", 
+            "startTime": 1.1489849999998114, 
+            "subtree": "subtree_comp_43", 
+            "type": "eval", 
+            "url": "https://cdn3.optimizely.com/js/geo2.js"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_43", 
+            "endTime": 1.1552869999995892, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_43_2", 
+            "startTime": 1.1493929999996908, 
+            "subtree": "subtree_comp_43", 
+            "type": "eval", 
+            "url": "https://cdn3.optimizely.com/js/geo2.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_43_1"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "None", 
+            "endTime": 1.1489849999998114, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_44", 
+            "name": "readystatechange", 
+            "startTime": 1.148685000000114, 
+            "subtree": "subtree_comp_43", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "None", 
+            "endTime": 1.158582000000024, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_45", 
+            "startTime": 1.1559539999998378, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://d2c87l0yth4zbw.global.ssl.fastly.net/js/vendor/sp-analytics.min.41b3785b.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "None", 
+            "endTime": 1.159921000000395, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_46", 
+            "name": "load", 
+            "startTime": 1.1585919999997714, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_52", 
+                "comp_47_1"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_47", 
+            "endTime": 1.2195389999997133, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_47_0", 
+            "startTime": 1.1601449999998295, 
+            "subtree": "subtree_comp_47", 
+            "type": "eval", 
+            "url": "https://d2oh4tlt9mrke9.cloudfront.net/Record/js/sessioncam.recorder.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_47", 
+            "endTime": 1.219833999999537, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_47_1", 
+            "startTime": 1.2195389999997133, 
+            "subtree": "subtree_comp_47", 
+            "type": "eval", 
+            "url": "https://d2oh4tlt9mrke9.cloudfront.net/Record/js/sessioncam.recorder.js"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "comp_49_0"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_48", 
+            "endTime": 1.2860510000009526, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_48_0", 
+            "startTime": 1.220448000000033, 
+            "subtree": "subtree_comp_48", 
+            "type": "eval", 
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-7BJJ"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_31", 
+                "comp_48_2"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_48", 
+            "endTime": 1.2875540000004548, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_48_1", 
+            "startTime": 1.287013000001025, 
+            "subtree": "subtree_comp_48", 
+            "type": "eval", 
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-7BJJ"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "comp_50"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_48", 
+            "endTime": 1.2889319999994768, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_48_2", 
+            "startTime": 1.2875540000004548, 
+            "subtree": "subtree_comp_48", 
+            "type": "eval", 
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-7BJJ"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_46", 
+                "comp_48_4"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_48", 
+            "endTime": 1.2892370000008668, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_48_3", 
+            "startTime": 1.2891039999994973, 
+            "subtree": "subtree_comp_48", 
+            "type": "eval", 
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-7BJJ"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "comp_51_0"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_48", 
+            "endTime": 1.2896550000004936, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_48_4", 
+            "startTime": 1.2892370000008668, 
+            "subtree": "subtree_comp_48", 
+            "type": "eval", 
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-7BJJ"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "comp_52_0"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_48", 
+            "endTime": 1.290353000000323, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_48_5", 
+            "startTime": 1.289998000000196, 
+            "subtree": "subtree_comp_48", 
+            "type": "eval", 
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-7BJJ"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "comp_53"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_48", 
+            "endTime": 1.291204999999536, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_48_6", 
+            "startTime": 1.2908530000004248, 
+            "subtree": "subtree_comp_48", 
+            "type": "eval", 
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-7BJJ"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_40", 
+                "comp_48_8"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_48", 
+            "endTime": 1.2931740000003629, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_48_7", 
+            "startTime": 1.2927369999997609, 
+            "subtree": "subtree_comp_48", 
+            "type": "eval", 
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-7BJJ"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_33", 
+                "comp_48_9"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_48", 
+            "endTime": 1.2940220000000409, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_48_8", 
+            "startTime": 1.2931740000003629, 
+            "subtree": "subtree_comp_48", 
+            "type": "eval", 
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-7BJJ"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "comp_54_0"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_48", 
+            "endTime": 1.294605999999476, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_48_9", 
+            "startTime": 1.2940220000000409, 
+            "subtree": "subtree_comp_48", 
+            "type": "eval", 
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-7BJJ"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "comp_147"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_48", 
+            "endTime": 1.2970710000008694, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_48_10", 
+            "startTime": 1.295470999999452, 
+            "subtree": "subtree_comp_48", 
+            "type": "eval", 
+            "url": "https://www.googletagmanager.com/gtm.js?id=GTM-7BJJ"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_30", 
+                "comp_49_1"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_49", 
+            "endTime": 1.286431000000448, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_49_0", 
+            "startTime": 1.2860510000009526, 
+            "subtree": "subtree_comp_48", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_48_1"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_49", 
+            "endTime": 1.287013000001025, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_49_1", 
+            "startTime": 1.286431000000448, 
+            "subtree": "subtree_comp_48", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_48_3", 
+                "comp_60_0"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "None", 
+            "endTime": 1.2891039999994973, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_50", 
+            "startTime": 1.2889319999994768, 
+            "subtree": "subtree_comp_48", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_49", 
+                "comp_51_1"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_51", 
+            "endTime": 1.289796999999453, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_51_0", 
+            "startTime": 1.2896550000004936, 
+            "subtree": "subtree_comp_48", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_48_5"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_51", 
+            "endTime": 1.289998000000196, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_51_1", 
+            "startTime": 1.289796999999453, 
+            "subtree": "subtree_comp_48", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_32", 
+                "comp_52_1"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_52", 
+            "endTime": 1.2905380000011064, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_52_0", 
+            "startTime": 1.290353000000323, 
+            "subtree": "subtree_comp_48", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_48_6"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_52", 
+            "endTime": 1.2908530000004248, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_52_1", 
+            "startTime": 1.2905380000011064, 
+            "subtree": "subtree_comp_48", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_48_7"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "None", 
+            "endTime": 1.2927369999997609, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_53", 
+            "startTime": 1.291204999999536, 
+            "subtree": "subtree_comp_48", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_50", 
+                "comp_54_1"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_54", 
+            "endTime": 1.2950789999995322, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_54_0", 
+            "startTime": 1.294605999999476, 
+            "subtree": "subtree_comp_48", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_48_10"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_54", 
+            "endTime": 1.295470999999452, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_54_1", 
+            "startTime": 1.2950789999995322, 
+            "subtree": "subtree_comp_48", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_103", 
+                "comp_55_1"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_55", 
+            "endTime": 1.376021000000037, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_55_0", 
+            "name": "load", 
+            "startTime": 1.3753280000000814, 
+            "subtree": "subtree_comp_55", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_55", 
+            "endTime": 1.3834900000001653, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_55_1", 
+            "name": "load", 
+            "startTime": 1.376021000000037, 
+            "subtree": "subtree_comp_55", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_104", 
+                "comp_56_1"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_56", 
+            "endTime": 1.384782000000996, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_56_0", 
+            "name": "load", 
+            "startTime": 1.3835070000004634, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_56", 
+            "endTime": 1.3848630000011326, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_56_1", 
+            "name": "load", 
+            "startTime": 1.384782000000996, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_56", 
+                "comp_60_1"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_60", 
+            "endTime": 1.387473000000682, 
+            "evalType": "timer", 
+            "frame": 4, 
+            "id": "comp_60_0", 
+            "mode": "load", 
+            "startTime": 1.3874030000006314, 
+            "subtree": "subtree_comp_60", 
+            "timeout": 1, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_60", 
+            "endTime": 1.3876860000000306, 
+            "evalType": "timer", 
+            "frame": 4, 
+            "id": "comp_60_1", 
+            "mode": "load", 
+            "startTime": 1.387473000000682, 
+            "subtree": "subtree_comp_60", 
+            "timeout": 1, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_38", 
+                "comp_61_1"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_61", 
+            "endTime": 1.4030060000004596, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_61_0", 
+            "startTime": 1.3885819999995874, 
+            "subtree": "subtree_comp_61", 
+            "type": "eval", 
+            "url": "https://www.google-analytics.com/analytics.js"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_61", 
+            "endTime": 1.4158680000000459, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_61_1", 
+            "startTime": 1.4030060000004596, 
+            "subtree": "subtree_comp_61", 
+            "type": "eval", 
+            "url": "https://www.google-analytics.com/analytics.js"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "None", 
+            "endTime": 1.4196110000011686, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_62", 
+            "startTime": 1.4167400000005728, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://www.googleadservices.com/pagead/conversion_async.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_48", 
+                "comp_63_1"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_63", 
+            "endTime": 1.4227310000005673, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_63_0", 
+            "name": "load", 
+            "startTime": 1.4196240000001126, 
+            "subtree": "subtree_comp_63", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_63", 
+            "endTime": 1.4229680000007647, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_63_1", 
+            "name": "load", 
+            "startTime": 1.4227310000005673, 
+            "subtree": "subtree_comp_63", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_51", 
+                "comp_64_1"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_64", 
+            "endTime": 1.4252890000007028, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_64_0", 
+            "startTime": 1.4235700000008364, 
+            "subtree": "subtree_comp_64", 
+            "type": "eval", 
+            "url": "https://sb.scorecardresearch.com/beacon.js"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_64", 
+            "endTime": 1.426285999999891, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_64_1", 
+            "startTime": 1.4252890000007028, 
+            "subtree": "subtree_comp_64", 
+            "type": "eval", 
+            "url": "https://sb.scorecardresearch.com/beacon.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_105", 
+                "comp_66_1"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_66", 
+            "endTime": 1.4349089999996067, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_66_0", 
+            "name": "load", 
+            "startTime": 1.4337720000003173, 
+            "subtree": "subtree_comp_66", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_66", 
+            "endTime": 1.4378680000008899, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_66_1", 
+            "name": "load", 
+            "startTime": 1.4349089999996067, 
+            "subtree": "subtree_comp_66", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_106", 
+                "comp_67_1"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_67", 
+            "endTime": 1.438932000000932, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_67_0", 
+            "name": "load", 
+            "startTime": 1.4378799999994953, 
+            "subtree": "subtree_comp_67", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_67", 
+            "endTime": 1.438986000001023, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_67_1", 
+            "name": "load", 
+            "startTime": 1.438932000000932, 
+            "subtree": "subtree_comp_67", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_107", 
+                "comp_68_1"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_68", 
+            "endTime": 1.4399699999994482, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_68_0", 
+            "name": "load", 
+            "startTime": 1.4389960000007704, 
+            "subtree": "subtree_comp_68", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_68", 
+            "endTime": 1.4400270000005548, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_68_1", 
+            "name": "load", 
+            "startTime": 1.4399699999994482, 
+            "subtree": "subtree_comp_68", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_108", 
+                "comp_69_1"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_69", 
+            "endTime": 1.441769999999451, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_69_0", 
+            "name": "load", 
+            "startTime": 1.4400370000003022, 
+            "subtree": "subtree_comp_69", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_69", 
+            "endTime": 1.447879000001194, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_69_1", 
+            "name": "load", 
+            "startTime": 1.441769999999451, 
+            "subtree": "subtree_comp_69", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_39", 
+                "comp_81_1"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_81", 
+            "endTime": 1.66230700000051, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_81_0", 
+            "startTime": 1.621476000000257, 
+            "subtree": "subtree_comp_81", 
+            "type": "eval", 
+            "url": "https://www.google-analytics.com/plugins/ua/linkid.js"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_47", 
+                "comp_81_2"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_81", 
+            "endTime": 1.6650490000010905, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_81_1", 
+            "startTime": 1.66230700000051, 
+            "subtree": "subtree_comp_81", 
+            "type": "eval", 
+            "url": "https://www.google-analytics.com/plugins/ua/linkid.js"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_81", 
+            "endTime": 1.6676820000011503, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_81_2", 
+            "startTime": 1.6650490000010905, 
+            "subtree": "subtree_comp_81", 
+            "type": "eval", 
+            "url": "https://www.google-analytics.com/plugins/ua/linkid.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "None", 
+            "endTime": 1.76541300000099, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_84", 
+            "name": "load", 
+            "startTime": 1.7652319999997417, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_110"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_109", 
+            "endTime": 2.2673890000005485, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_109_0", 
+            "startTime": 2.2234760000010283, 
+            "subtree": "subtree_comp_109", 
+            "type": "eval", 
+            "url": "https://d3ewslr5655zon.cloudfront.net/tags/spotify-7436afc376.min.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_133_0"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_109", 
+            "endTime": 2.2801070000004984, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_109_1", 
+            "startTime": 2.26752900000065, 
+            "subtree": "subtree_comp_109", 
+            "type": "eval", 
+            "url": "https://d3ewslr5655zon.cloudfront.net/tags/spotify-7436afc376.min.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_109_1"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "None", 
+            "endTime": 2.26752900000065, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_110", 
+            "name": "readystatechange", 
+            "startTime": 2.2673890000005485, 
+            "subtree": "subtree_comp_109", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "None", 
+            "endTime": 2.280163999999786, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_111", 
+            "name": "load", 
+            "startTime": 2.2801220000001194, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "None", 
+            "endTime": 2.2843140000004496, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_112", 
+            "startTime": 2.282440000000861, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://platform.twitter.com/oct.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_114_0"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_113", 
+            "endTime": 2.284505999999965, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_113_0", 
+            "name": "load", 
+            "startTime": 2.2843310000007477, 
+            "subtree": "subtree_comp_113", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_113", 
+            "endTime": 2.2863020000004326, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_113_1", 
+            "name": "load", 
+            "startTime": 2.2861730000004172, 
+            "subtree": "subtree_comp_113", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_60", 
+                "comp_114_1"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_114", 
+            "endTime": 2.285862000000634, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_114_0", 
+            "startTime": 2.284505999999965, 
+            "subtree": "subtree_comp_113", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_113_1", 
+                "comp_181_0"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_114", 
+            "endTime": 2.2861730000004172, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_114_1", 
+            "startTime": 2.285862000000634, 
+            "subtree": "subtree_comp_113", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "None", 
+            "endTime": 2.2875349999994796, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_115", 
+            "startTime": 2.286982999999964, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://js.adsrvr.org/up_loader.1.1.0.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_117_0"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_116", 
+            "endTime": 2.2876909999995405, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_116_0", 
+            "name": "load", 
+            "startTime": 2.2875530000001163, 
+            "subtree": "subtree_comp_116", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_116", 
+            "endTime": 2.293976000000839, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_116_1", 
+            "name": "load", 
+            "startTime": 2.293918000001213, 
+            "subtree": "subtree_comp_116", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_58", 
+                "comp_117_1"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_117", 
+            "endTime": 2.290168999999878, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_117_0", 
+            "startTime": 2.2876909999995405, 
+            "subtree": "subtree_comp_116", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_116_1"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_117", 
+            "endTime": 2.293918000001213, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_117_1", 
+            "startTime": 2.290168999999878, 
+            "subtree": "subtree_comp_116", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "None", 
+            "endTime": 2.3056020000003628, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_119", 
+            "name": "load", 
+            "startTime": 2.305446000000302, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_53", 
+                "comp_121_1"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_121", 
+            "endTime": 2.3620549999996, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_121_0", 
+            "startTime": 2.359840000000986, 
+            "subtree": "subtree_comp_121", 
+            "type": "eval", 
+            "url": "https://connect.facebook.net/en_US/fbds.js"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_121", 
+            "endTime": 2.3627510000005714, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_121_1", 
+            "startTime": 2.3620549999996, 
+            "subtree": "subtree_comp_121", 
+            "type": "eval", 
+            "url": "https://connect.facebook.net/en_US/fbds.js"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_54", 
+                "comp_122_1"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_122", 
+            "endTime": 2.370278000000326, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_122_0", 
+            "startTime": 2.363978000001225, 
+            "subtree": "subtree_comp_122", 
+            "type": "eval", 
+            "url": "https://connect.facebook.net/en_US/fbevents.js"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_122", 
+            "endTime": 2.3721129999994446, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_122_1", 
+            "startTime": 2.370278000000326, 
+            "subtree": "subtree_comp_122", 
+            "type": "eval", 
+            "url": "https://connect.facebook.net/en_US/fbevents.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "None", 
+            "endTime": 2.4625770000002376, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_131", 
+            "name": "error", 
+            "startTime": 2.4625749999995605, 
+            "subtree": "None", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "None", 
+            "endTime": 2.506150000001071, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_132", 
+            "name": "error", 
+            "startTime": 2.5061490000007325, 
+            "subtree": "None", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_55", 
+                "comp_133_1"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_133", 
+            "endTime": 2.5267750000002707, 
+            "evalType": "timer", 
+            "frame": 4, 
+            "id": "comp_133_0", 
+            "mode": "load", 
+            "startTime": 2.525553999999829, 
+            "subtree": "subtree_comp_133", 
+            "timeout": 250, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_134"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_133", 
+            "endTime": 2.5268830000004527, 
+            "evalType": "timer", 
+            "frame": 4, 
+            "id": "comp_133_1", 
+            "mode": "load", 
+            "startTime": 2.5267750000002707, 
+            "subtree": "subtree_comp_133", 
+            "timeout": 250, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_57"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_133", 
+            "endTime": 2.527428000001237, 
+            "evalType": "timer", 
+            "frame": 4, 
+            "id": "comp_133_2", 
+            "mode": "load", 
+            "startTime": 2.526912999999695, 
+            "subtree": "subtree_comp_133", 
+            "timeout": 250, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_133_2"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "None", 
+            "endTime": 2.526912999999695, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_134", 
+            "name": "readystatechange", 
+            "startTime": 2.5268830000004527, 
+            "subtree": "subtree_comp_133", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "None", 
+            "endTime": 2.661119000000326, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_135", 
+            "name": "error", 
+            "startTime": 2.661116999999649, 
+            "subtree": "None", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_137"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_136", 
+            "endTime": 2.6877650000005815, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_136_0", 
+            "startTime": 2.6758279999994556, 
+            "subtree": "subtree_comp_136", 
+            "type": "eval", 
+            "url": "https://ws.sessioncam.com/Record/config.aspx?url=https%3A%2F%2Fwww.spotify.com%2Fuk%2F&sse=1474468497118"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_136", 
+            "endTime": 2.6901030000008177, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_136_1", 
+            "startTime": 2.687815999999657, 
+            "subtree": "subtree_comp_136", 
+            "type": "eval", 
+            "url": "https://ws.sessioncam.com/Record/config.aspx?url=https%3A%2F%2Fwww.spotify.com%2Fuk%2F&sse=1474468497118"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_136_1"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "None", 
+            "endTime": 2.687815999999657, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_137", 
+            "name": "readystatechange", 
+            "startTime": 2.6877650000005815, 
+            "subtree": "subtree_comp_136", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_140", 
+                "comp_141", 
+                "comp_143"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "None", 
+            "endTime": 2.863777000000482, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_139", 
+            "name": "readystatechange", 
+            "startTime": 2.86290100000042, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "None", 
+            "endTime": 2.864112000001114, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_140", 
+            "name": "progress", 
+            "startTime": 2.8639940000011848, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_142"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "None", 
+            "endTime": 2.8641650000008667, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_141", 
+            "name": "readystatechange", 
+            "startTime": 2.8641230000012, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "None", 
+            "endTime": 2.8668180000004213, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_142", 
+            "name": "readystatechange", 
+            "startTime": 2.8667220000006637, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_148"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "None", 
+            "endTime": 2.8683660000006057, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_143", 
+            "name": "load", 
+            "startTime": 2.8668240000006335, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_1"
+            ], 
+            "docUrl": "https://insight.adsrvr.org/track/up?adv=6edr100&ref=https%3A%2F%2Fwww.spotify.com%2Fuk%2F&upid=arf8d2q&osi=0fcf4d4cb0e2e17d0b532e0033527bce&osv=1.1&upv=1.1.1", 
+            "enclosing": "None", 
+            "endTime": 2.8995370000011462, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_144", 
+            "startTime": 2.8822280000003957, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://js.adsrvr.org/universal_pixel.1.1.1.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_62", 
+                "comp_145_1"
+            ], 
+            "docUrl": "https://insight.adsrvr.org/track/up?adv=6edr100&ref=https%3A%2F%2Fwww.spotify.com%2Fuk%2F&upid=arf8d2q&osi=0fcf4d4cb0e2e17d0b532e0033527bce&osv=1.1&upv=1.1.1", 
+            "enclosing": "comp_145", 
+            "endTime": 2.9002220000002126, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_145_0", 
+            "startTime": 2.8997360000012122, 
+            "subtree": "subtree_comp_145", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_61", 
+                "comp_145_2"
+            ], 
+            "docUrl": "https://insight.adsrvr.org/track/up?adv=6edr100&ref=https%3A%2F%2Fwww.spotify.com%2Fuk%2F&upid=arf8d2q&osi=0fcf4d4cb0e2e17d0b532e0033527bce&osv=1.1&upv=1.1.1", 
+            "enclosing": "comp_145", 
+            "endTime": 2.902368999999453, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_145_1", 
+            "startTime": 2.9002220000002126, 
+            "subtree": "subtree_comp_145", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_65", 
+                "comp_145_3"
+            ], 
+            "docUrl": "https://insight.adsrvr.org/track/up?adv=6edr100&ref=https%3A%2F%2Fwww.spotify.com%2Fuk%2F&upid=arf8d2q&osi=0fcf4d4cb0e2e17d0b532e0033527bce&osv=1.1&upv=1.1.1", 
+            "enclosing": "comp_145", 
+            "endTime": 2.902906000001167, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_145_2", 
+            "startTime": 2.902368999999453, 
+            "subtree": "subtree_comp_145", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_2"
+            ], 
+            "docUrl": "https://insight.adsrvr.org/track/up?adv=6edr100&ref=https%3A%2F%2Fwww.spotify.com%2Fuk%2F&upid=arf8d2q&osi=0fcf4d4cb0e2e17d0b532e0033527bce&osv=1.1&upv=1.1.1", 
+            "enclosing": "comp_145", 
+            "endTime": 2.9035670000012033, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_145_3", 
+            "startTime": 2.902906000001167, 
+            "subtree": "subtree_comp_145", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "None", 
+            "endTime": 2.980483000001186, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_146", 
+            "name": "error", 
+            "startTime": 2.980481000000509, 
+            "subtree": "None", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "None", 
+            "endTime": 2.9961139999995794, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_147", 
+            "name": "error", 
+            "startTime": 2.99580799999967, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_12"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "None", 
+            "endTime": 3.1176009999999224, 
+            "evalType": "timer", 
+            "frame": 4, 
+            "id": "comp_148", 
+            "mode": "load", 
+            "startTime": 3.1173280000002705, 
+            "subtree": "None", 
+            "timeout": 250, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://dsum-sec.casalemedia.com/rum?cm_dsp_id=39&external_user_id=7b684817-e7df-40c0-b0bd-554ebc78afb3&expiration=1477060499", 
+            "enclosing": "None", 
+            "endTime": 8.08655700000054, 
+            "evalType": "other", 
+            "frame": 2, 
+            "id": "comp_12", 
+            "startTime": 3.194738000000143, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 3, 
+            "children": [], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "None", 
+            "endTime": 3.246686000000409, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_149", 
+            "startTime": 3.2000019999995857, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://s3.amazonaws.com/ki.js/51746/b0R.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_162", 
+                "comp_163", 
+                "comp_165"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "None", 
+            "endTime": 5.838354999999865, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_161", 
+            "name": "readystatechange", 
+            "startTime": 5.8379359999999, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "None", 
+            "endTime": 5.838622999999643, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_162", 
+            "name": "progress", 
+            "startTime": 5.838378000000375, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_164"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "None", 
+            "endTime": 5.838825000000725, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_163", 
+            "name": "readystatechange", 
+            "startTime": 5.838637000000745, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "None", 
+            "endTime": 5.839941000000181, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_164", 
+            "name": "readystatechange", 
+            "startTime": 5.83967500000108, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "None", 
+            "endTime": 5.842083999999886, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_165", 
+            "name": "load", 
+            "startTime": 5.839968000000226, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "None", 
+            "endTime": 5.843624000001, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_166", 
+            "name": "load", 
+            "startTime": 5.842608000000837, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_177_0"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "None", 
+            "endTime": 8.088576000000103, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_176", 
+            "name": "readystatechange", 
+            "startTime": 8.087542999999641, 
+            "subtree": "None", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_66", 
+                "comp_177_1"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_177", 
+            "endTime": 8.089222000000518, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_177_0", 
+            "name": "load", 
+            "startTime": 8.088692000001174, 
+            "subtree": "subtree_comp_177", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_68", 
+                "comp_177_2"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_177", 
+            "endTime": 8.116624000000229, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_177_1", 
+            "name": "load", 
+            "startTime": 8.089222000000518, 
+            "subtree": "subtree_comp_177", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_177", 
+            "endTime": 8.116799999999785, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_177_2", 
+            "name": "load", 
+            "startTime": 8.116624000000229, 
+            "subtree": "subtree_comp_177", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_70", 
+                "comp_180_1"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_180", 
+            "endTime": 8.2536199999995, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_180_0", 
+            "startTime": 8.229654000000664, 
+            "subtree": "subtree_comp_180", 
+            "type": "eval", 
+            "url": "https://js-agent.newrelic.com/nr-952.min.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_180", 
+            "endTime": 8.254108000000997, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_180_1", 
+            "startTime": 8.2536199999995, 
+            "subtree": "subtree_comp_180", 
+            "type": "eval", 
+            "url": "https://js-agent.newrelic.com/nr-952.min.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_69", 
+                "comp_181_1"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_181", 
+            "endTime": 8.271614000001136, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_181_0", 
+            "startTime": 8.27056100000118, 
+            "subtree": "subtree_comp_181", 
+            "type": "eval", 
+            "url": "https://analytics.twitter.com/i/adsct?p_id=Twitter&p_user_id=0&txn_id=l61bk&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "comp_181", 
+            "endTime": 8.271968000000925, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_181_1", 
+            "startTime": 8.271614000001136, 
+            "subtree": "subtree_comp_181", 
+            "type": "eval", 
+            "url": "https://analytics.twitter.com/i/adsct?p_id=Twitter&p_user_id=0&txn_id=l61bk&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "enclosing": "None", 
+            "endTime": 8.686950000001161, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_184", 
+            "startTime": 8.685727000000043, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://bam.nr-data.net/1/056bbe16c3?a=2971901&v=952.3a19e93&to=blwBY0pSDEQFU0BfWlcWIlRMWg1ZS1hbW1A%3D&rst=9100&ref=https://www.spotify.com/uk/&ap=37&be=1317&fe=7628&dc=338&af=err,xhr,ins&perf=%7B%22timing%22:%7B%22of%22:1474468495049,%22n%22:0,%22r%22:0,%22re%22:855,%22f%22:855,%22dn%22:855,%22dne%22:855,%22c%22:855,%22ce%22:855,%22rq%22:858,%22rp%22:968,%22rpe%22:971,%22dl%22:977,%22di%22:1536,%22ds%22:1536,%22de%22:1655,%22dc%22:8943,%22l%22:8944,%22le%22:8972%7D,%22navigation%22:%7B%22rc%22:2%7D%7D&at=QhsCFQJIH0o%3D&jsonp=NREUM.setToken"
+        }, 
+        {
+            "children": [
+                "download_59", 
+                "pchunk_0_1"
+            ], 
+            "docUrl": "https://insight.adsrvr.org/track/up?adv=6edr100&ref=https%3A%2F%2Fwww.spotify.com%2Fuk%2F&upid=arf8d2q&osi=0fcf4d4cb0e2e17d0b532e0033527bce&osv=1.1&upv=1.1.1", 
+            "endColumn": 97, 
+            "endRow": 3, 
+            "endTag": "script", 
+            "endTime": 2.8697549999997136, 
+            "frame": 0, 
+            "id": "pchunk_0_0", 
+            "isFragment": false, 
+            "startColumn": 6, 
+            "startRow": 1, 
+            "startTag": "html", 
+            "startTime": 2.869243999999526, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_2", 
+                "comp_145_0"
+            ], 
+            "docUrl": "https://insight.adsrvr.org/track/up?adv=6edr100&ref=https%3A%2F%2Fwww.spotify.com%2Fuk%2F&upid=arf8d2q&osi=0fcf4d4cb0e2e17d0b532e0033527bce&osv=1.1&upv=1.1.1", 
+            "endColumn": 17, 
+            "endRow": 12, 
+            "endTag": "script", 
+            "endTime": 2.8996920000008686, 
+            "frame": 0, 
+            "id": "pchunk_0_1", 
+            "isFragment": false, 
+            "startColumn": 7, 
+            "startRow": 4, 
+            "startTag": "head", 
+            "startTime": 2.899586999999883, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [], 
+            "docUrl": "https://insight.adsrvr.org/track/up?adv=6edr100&ref=https%3A%2F%2Fwww.spotify.com%2Fuk%2F&upid=arf8d2q&osi=0fcf4d4cb0e2e17d0b532e0033527bce&osv=1.1&upv=1.1.1", 
+            "endColumn": 7, 
+            "endRow": 15, 
+            "endTag": "html", 
+            "endTime": 2.9035929999990913, 
+            "frame": 0, 
+            "id": "pchunk_0_2", 
+            "isFragment": false, 
+            "startColumn": 10, 
+            "startRow": 13, 
+            "startTag": "div", 
+            "startTime": 2.903581000000486, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_0", 
+                "dchunk_0_1"
+            ], 
+            "id": "dchunk_0_0", 
+            "offset": 8, 
+            "resource": "download_58", 
+            "size": 107, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_1", 
+                "dchunk_0_2"
+            ], 
+            "id": "dchunk_0_1", 
+            "offset": 115, 
+            "resource": "download_58", 
+            "size": 629, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_2"
+            ], 
+            "id": "dchunk_0_2", 
+            "offset": 744, 
+            "resource": "download_58", 
+            "size": 18, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "download_6", 
+                "pchunk_4_1"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "endColumn": 109, 
+            "endRow": 5, 
+            "endTag": "script", 
+            "endTime": 0.12448000000040338, 
+            "frame": 4, 
+            "id": "pchunk_4_0", 
+            "isFragment": false, 
+            "startColumn": 101, 
+            "startRow": 1, 
+            "startTag": "html", 
+            "startTime": 0.12408499999946798, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_8", 
+                "pchunk_4_2"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "endColumn": 70, 
+            "endRow": 16, 
+            "endTag": "script", 
+            "endTime": 0.3076149999997142, 
+            "frame": 4, 
+            "id": "pchunk_4_1", 
+            "isFragment": false, 
+            "startColumn": 61, 
+            "startRow": 16, 
+            "startTag": "script", 
+            "startTime": 0.3075890000000072, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_4_3", 
+                "comp_15"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "endColumn": 14001, 
+            "endRow": 18, 
+            "endTag": "script", 
+            "endTime": 0.45919400000093447, 
+            "frame": 4, 
+            "id": "pchunk_4_2", 
+            "isFragment": false, 
+            "startColumn": 32, 
+            "startRow": 18, 
+            "startTag": "meta", 
+            "startTime": 0.45915600000080303, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_1", 
+                "pchunk_4_4"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "endColumn": 104, 
+            "endRow": 43, 
+            "endTag": "link", 
+            "endTime": 0.49106600000050094, 
+            "frame": 4, 
+            "id": "pchunk_4_3", 
+            "isFragment": false, 
+            "startColumn": 91, 
+            "startRow": 19, 
+            "startTag": "meta", 
+            "startTime": 0.46649600000091596, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_5", 
+                "pchunk_4_5"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "endColumn": 98, 
+            "endRow": 45, 
+            "endTag": "link", 
+            "endTime": 0.4932310000003781, 
+            "frame": 4, 
+            "id": "pchunk_4_4", 
+            "isFragment": false, 
+            "startColumn": 98, 
+            "startRow": 45, 
+            "startTag": "link", 
+            "startTime": 0.4913880000003701, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_3", 
+                "pchunk_4_6"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "endColumn": 114, 
+            "endRow": 47, 
+            "endTag": "script", 
+            "endTime": 0.49326800000199, 
+            "frame": 4, 
+            "id": "pchunk_4_5", 
+            "isFragment": false, 
+            "startColumn": 105, 
+            "startRow": 47, 
+            "startTag": "script", 
+            "startTime": 0.49323999999978696, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_4_7", 
+                "comp_19"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "endColumn": 15, 
+            "endRow": 50, 
+            "endTag": "script", 
+            "endTime": 0.5119190000004892, 
+            "frame": 4, 
+            "id": "pchunk_4_6", 
+            "isFragment": false, 
+            "startColumn": 20, 
+            "startRow": 48, 
+            "startTag": "script", 
+            "startTime": 0.5119080000004033, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_4_8", 
+                "comp_20"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "endColumn": 9, 
+            "endRow": 67, 
+            "endTag": "script", 
+            "endTime": 0.5142710000018269, 
+            "frame": 4, 
+            "id": "pchunk_4_7", 
+            "isFragment": false, 
+            "startColumn": 14, 
+            "startRow": 52, 
+            "startTag": "script", 
+            "startTime": 0.5142560000003868, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_4_9", 
+                "comp_21_0"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "endColumn": 9, 
+            "endRow": 85, 
+            "endTag": "script", 
+            "endTime": 0.5145830000001297, 
+            "frame": 4, 
+            "id": "pchunk_4_8", 
+            "isFragment": false, 
+            "startColumn": 22, 
+            "startRow": 68, 
+            "startTag": "script", 
+            "startTime": 0.5145720000000438, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_4_10", 
+                "comp_22"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "endColumn": 17, 
+            "endRow": 88, 
+            "endTag": "script", 
+            "endTime": 0.5150470000007772, 
+            "frame": 4, 
+            "id": "pchunk_4_9", 
+            "isFragment": false, 
+            "startColumn": 16, 
+            "startRow": 86, 
+            "startTag": "script", 
+            "startTime": 0.5150350000003527, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_7", 
+                "pchunk_4_11"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "endColumn": 115, 
+            "endRow": 90, 
+            "endTag": "script", 
+            "endTime": 0.5151650000025256, 
+            "frame": 4, 
+            "id": "pchunk_4_10", 
+            "isFragment": false, 
+            "startColumn": 106, 
+            "startRow": 90, 
+            "startTag": "script", 
+            "startTime": 0.5151500000010856, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_4_12", 
+                "comp_24"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "endColumn": 15, 
+            "endRow": 124, 
+            "endTag": "script", 
+            "endTime": 0.516261000002487, 
+            "frame": 4, 
+            "id": "pchunk_4_11", 
+            "isFragment": false, 
+            "startColumn": 18, 
+            "startRow": 92, 
+            "startTag": "script", 
+            "startTime": 0.516247999999905, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_4_13", 
+                "comp_25_0"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "endColumn": 9, 
+            "endRow": 141, 
+            "endTag": "script", 
+            "endTime": 0.51660499999889, 
+            "frame": 4, 
+            "id": "pchunk_4_12", 
+            "isFragment": false, 
+            "startColumn": 9, 
+            "startRow": 126, 
+            "startTag": "head", 
+            "startTime": 0.516446999999971, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_12", 
+                "pchunk_4_14"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "endColumn": 34, 
+            "endRow": 239, 
+            "endTag": "span", 
+            "endTime": 0.5210169999918435, 
+            "frame": 4, 
+            "id": "pchunk_4_13", 
+            "isFragment": false, 
+            "startColumn": 61, 
+            "startRow": 145, 
+            "startTag": "svg", 
+            "startTime": 0.519534000000931, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_14", 
+                "pchunk_4_15"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "endColumn": 36, 
+            "endRow": 373, 
+            "endTag": "span", 
+            "endTime": 0.5333800000062183, 
+            "frame": 4, 
+            "id": "pchunk_4_14", 
+            "isFragment": false, 
+            "startColumn": 48, 
+            "startRow": 239, 
+            "startTag": "span", 
+            "startTime": 0.5316010000005917, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_27", 
+                "pchunk_4_16"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "endColumn": 36, 
+            "endRow": 379, 
+            "endTag": "span", 
+            "endTime": 0.5341450000032637, 
+            "frame": 4, 
+            "id": "pchunk_4_15", 
+            "isFragment": false, 
+            "startColumn": 43, 
+            "startRow": 373, 
+            "startTag": "span", 
+            "startTime": 0.5338879999999335, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_22", 
+                "pchunk_4_17"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "endColumn": 43, 
+            "endRow": 491, 
+            "endTag": "div", 
+            "endTime": 0.5365950000032171, 
+            "frame": 4, 
+            "id": "pchunk_4_16", 
+            "isFragment": false, 
+            "startColumn": 43, 
+            "startRow": 379, 
+            "startTag": "span", 
+            "startTime": 0.5341860000007728, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_23", 
+                "pchunk_4_18"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "endColumn": 33, 
+            "endRow": 507, 
+            "endTag": "div", 
+            "endTime": 0.5451909999974305, 
+            "frame": 4, 
+            "id": "pchunk_4_17", 
+            "isFragment": false, 
+            "startColumn": 112, 
+            "startRow": 492, 
+            "startTag": "img", 
+            "startTime": 0.5438130000002275, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_15", 
+                "pchunk_4_19"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "endColumn": 106, 
+            "endRow": 530, 
+            "endTag": "img", 
+            "endTime": 0.546225999998569, 
+            "frame": 4, 
+            "id": "pchunk_4_18", 
+            "isFragment": false, 
+            "startColumn": 110, 
+            "startRow": 508, 
+            "startTag": "img", 
+            "startTime": 0.5455820000006497, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_77", 
+                "pchunk_4_20"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "endColumn": 25, 
+            "endRow": 664, 
+            "endTag": "a", 
+            "endTime": 0.5540819999987434, 
+            "frame": 4, 
+            "id": "pchunk_4_19", 
+            "isFragment": false, 
+            "startColumn": 43, 
+            "startRow": 531, 
+            "startTag": "div", 
+            "startTime": 0.5497169999998732, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_16", 
+                "pchunk_4_21"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "endColumn": 278, 
+            "endRow": 788, 
+            "endTag": "img", 
+            "endTime": 0.5664679999972577, 
+            "frame": 4, 
+            "id": "pchunk_4_20", 
+            "isFragment": false, 
+            "startColumn": 36, 
+            "startRow": 664, 
+            "startTag": "a", 
+            "startTime": 0.5597230000003037, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_4_22", 
+                "comp_26_0"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "endColumn": 649, 
+            "endRow": 788, 
+            "endTag": "script", 
+            "endTime": 0.5739039999989473, 
+            "frame": 4, 
+            "id": "pchunk_4_21", 
+            "isFragment": false, 
+            "startColumn": 285, 
+            "startRow": 788, 
+            "startTag": "span", 
+            "startTime": 0.5738540000002104, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_29", 
+                "pchunk_4_23"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "endColumn": 64, 
+            "endRow": 800, 
+            "endTag": "span", 
+            "endTime": 0.5756020000007993, 
+            "frame": 4, 
+            "id": "pchunk_4_22", 
+            "isFragment": false, 
+            "startColumn": 15, 
+            "startRow": 789, 
+            "startTag": "li", 
+            "startTime": 0.5748980000007577, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_2", 
+                "pchunk_4_24"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "endColumn": 105, 
+            "endRow": 811, 
+            "endTag": "script", 
+            "endTime": 0.5757859999994253, 
+            "frame": 4, 
+            "id": "pchunk_4_23", 
+            "isFragment": false, 
+            "startColumn": 71, 
+            "startRow": 800, 
+            "startTag": "span", 
+            "startTime": 0.5756629999996221, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_9", 
+                "pchunk_4_25"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "endColumn": 94, 
+            "endRow": 813, 
+            "endTag": "script", 
+            "endTime": 0.6381750000000466, 
+            "frame": 4, 
+            "id": "pchunk_4_24", 
+            "isFragment": false, 
+            "startColumn": 85, 
+            "startRow": 813, 
+            "startTag": "script", 
+            "startTime": 0.6381300000011834, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_4_26", 
+                "comp_29"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "endColumn": 11, 
+            "endRow": 919, 
+            "endTag": "script", 
+            "endTime": 0.6423850000010134, 
+            "frame": 4, 
+            "id": "pchunk_4_25", 
+            "isFragment": false, 
+            "startColumn": 10, 
+            "startRow": 815, 
+            "startTag": "script", 
+            "startTime": 0.6423439999998664, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_10", 
+                "pchunk_4_27"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "endColumn": 145, 
+            "endRow": 922, 
+            "endTag": "script", 
+            "endTime": 0.6430079999990994, 
+            "frame": 4, 
+            "id": "pchunk_4_26", 
+            "isFragment": false, 
+            "startColumn": 136, 
+            "startRow": 922, 
+            "startTag": "script", 
+            "startTime": 0.642971999999645, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_4_28", 
+                "comp_31"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "endColumn": 19, 
+            "endRow": 926, 
+            "endTag": "script", 
+            "endTime": 0.6437380000006669, 
+            "frame": 4, 
+            "id": "pchunk_4_27", 
+            "isFragment": false, 
+            "startColumn": 26, 
+            "startRow": 924, 
+            "startTag": "script", 
+            "startTime": 0.6437180000011722, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_4_29", 
+                "comp_32_0"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "endColumn": 19, 
+            "endRow": 936, 
+            "endTag": "script", 
+            "endTime": 0.6439580000005662, 
+            "frame": 4, 
+            "id": "pchunk_4_28", 
+            "isFragment": false, 
+            "startColumn": 41, 
+            "startRow": 929, 
+            "startTag": "script", 
+            "startTime": 0.6439270000009856, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_4_30", 
+                "comp_33"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "endColumn": 416, 
+            "endRow": 938, 
+            "endTag": "script", 
+            "endTime": 0.6443930000004912, 
+            "frame": 4, 
+            "id": "pchunk_4_29", 
+            "isFragment": false, 
+            "startColumn": 22, 
+            "startRow": 938, 
+            "startTag": "script", 
+            "startTime": 0.6443309999995108, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_4", 
+                "pchunk_4_31"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "endColumn": 118, 
+            "endRow": 939, 
+            "endTag": "script", 
+            "endTime": 0.6445170000006328, 
+            "frame": 4, 
+            "id": "pchunk_4_30", 
+            "isFragment": false, 
+            "startColumn": 109, 
+            "startRow": 939, 
+            "startTag": "script", 
+            "startTime": 0.6444890000002488, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_4_32", 
+                "comp_35"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "endColumn": 331, 
+            "endRow": 941, 
+            "endTag": "script", 
+            "endTime": 0.6798170000001846, 
+            "frame": 4, 
+            "id": "pchunk_4_31", 
+            "isFragment": false, 
+            "startColumn": 49, 
+            "startRow": 941, 
+            "startTag": "script", 
+            "startTime": 0.6797550000010233, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "comp_36_0"
+            ], 
+            "docUrl": "https://www.spotify.com/uk/", 
+            "endColumn": 7, 
+            "endRow": 943, 
+            "endTag": "html", 
+            "endTime": 0.6799910000008822, 
+            "frame": 4, 
+            "id": "pchunk_4_32", 
+            "isFragment": false, 
+            "startColumn": 338, 
+            "startRow": 941, 
+            "startTag": "body", 
+            "startTime": 0.6799800000007963, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_4_0", 
+                "dchunk_4_1"
+            ], 
+            "id": "dchunk_4_0", 
+            "offset": 117, 
+            "resource": "download_0", 
+            "size": 156, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_4_1", 
+                "dchunk_4_2"
+            ], 
+            "id": "dchunk_4_1", 
+            "offset": 273, 
+            "resource": "download_0", 
+            "size": 9, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_4_2", 
+                "dchunk_4_3"
+            ], 
+            "id": "dchunk_4_2", 
+            "offset": 282, 
+            "resource": "download_0", 
+            "size": 13969, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_4_3", 
+                "dchunk_4_4"
+            ], 
+            "id": "dchunk_4_3", 
+            "offset": 14251, 
+            "resource": "download_0", 
+            "size": 1741, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_4_4", 
+                "dchunk_4_5"
+            ], 
+            "id": "dchunk_4_4", 
+            "offset": 15992, 
+            "resource": "download_0", 
+            "size": 0, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_4_5", 
+                "dchunk_4_6"
+            ], 
+            "id": "dchunk_4_5", 
+            "offset": 15992, 
+            "resource": "download_0", 
+            "size": 9, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_4_6", 
+                "dchunk_4_7"
+            ], 
+            "id": "dchunk_4_6", 
+            "offset": 16001, 
+            "resource": "download_0", 
+            "size": 111, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_4_7", 
+                "dchunk_4_8"
+            ], 
+            "id": "dchunk_4_7", 
+            "offset": 16112, 
+            "resource": "download_0", 
+            "size": 572, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_4_8", 
+                "dchunk_4_9"
+            ], 
+            "id": "dchunk_4_8", 
+            "offset": 16684, 
+            "resource": "download_0", 
+            "size": 686, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_4_9", 
+                "dchunk_4_10"
+            ], 
+            "id": "dchunk_4_9", 
+            "offset": 17370, 
+            "resource": "download_0", 
+            "size": 110, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_4_10", 
+                "dchunk_4_11"
+            ], 
+            "id": "dchunk_4_10", 
+            "offset": 17480, 
+            "resource": "download_0", 
+            "size": 9, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_4_11", 
+                "dchunk_4_12"
+            ], 
+            "id": "dchunk_4_11", 
+            "offset": 17489, 
+            "resource": "download_0", 
+            "size": 772, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_4_12", 
+                "dchunk_4_13"
+            ], 
+            "id": "dchunk_4_12", 
+            "offset": 18261, 
+            "resource": "download_0", 
+            "size": 763, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_4_13", 
+                "dchunk_4_14"
+            ], 
+            "id": "dchunk_4_13", 
+            "offset": 19024, 
+            "resource": "download_0", 
+            "size": 11156, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_4_14", 
+                "dchunk_4_15"
+            ], 
+            "id": "dchunk_4_14", 
+            "offset": 30180, 
+            "resource": "download_0", 
+            "size": 4320, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_4_15", 
+                "dchunk_4_16"
+            ], 
+            "id": "dchunk_4_15", 
+            "offset": 34500, 
+            "resource": "download_0", 
+            "size": 265, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_4_16", 
+                "dchunk_4_17"
+            ], 
+            "id": "dchunk_4_16", 
+            "offset": 34765, 
+            "resource": "download_0", 
+            "size": 4069, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_4_17", 
+                "dchunk_4_18"
+            ], 
+            "id": "dchunk_4_17", 
+            "offset": 38834, 
+            "resource": "download_0", 
+            "size": 708, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_4_18", 
+                "dchunk_4_19"
+            ], 
+            "id": "dchunk_4_18", 
+            "offset": 39542, 
+            "resource": "download_0", 
+            "size": 613, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_4_19", 
+                "dchunk_4_20"
+            ], 
+            "id": "dchunk_4_19", 
+            "offset": 40155, 
+            "resource": "download_0", 
+            "size": 5638, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_4_20", 
+                "dchunk_4_21"
+            ], 
+            "id": "dchunk_4_20", 
+            "offset": 45793, 
+            "resource": "download_0", 
+            "size": 3481, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_4_21", 
+                "dchunk_4_22"
+            ], 
+            "id": "dchunk_4_21", 
+            "offset": 49274, 
+            "resource": "download_0", 
+            "size": 364, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_4_22", 
+                "dchunk_4_23"
+            ], 
+            "id": "dchunk_4_22", 
+            "offset": 49638, 
+            "resource": "download_0", 
+            "size": 418, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_4_23", 
+                "dchunk_4_24"
+            ], 
+            "id": "dchunk_4_23", 
+            "offset": 50056, 
+            "resource": "download_0", 
+            "size": 274, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_4_24", 
+                "dchunk_4_25"
+            ], 
+            "id": "dchunk_4_24", 
+            "offset": 50330, 
+            "resource": "download_0", 
+            "size": 9, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_4_25", 
+                "dchunk_4_26"
+            ], 
+            "id": "dchunk_4_25", 
+            "offset": 50339, 
+            "resource": "download_0", 
+            "size": 14344, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_4_26", 
+                "dchunk_4_27"
+            ], 
+            "id": "dchunk_4_26", 
+            "offset": 64683, 
+            "resource": "download_0", 
+            "size": 9, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_4_27", 
+                "dchunk_4_28"
+            ], 
+            "id": "dchunk_4_27", 
+            "offset": 64692, 
+            "resource": "download_0", 
+            "size": 94, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_4_28", 
+                "dchunk_4_29"
+            ], 
+            "id": "dchunk_4_28", 
+            "offset": 64786, 
+            "resource": "download_0", 
+            "size": 335, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_4_29", 
+                "dchunk_4_30"
+            ], 
+            "id": "dchunk_4_29", 
+            "offset": 65121, 
+            "resource": "download_0", 
+            "size": 394, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_4_30", 
+                "dchunk_4_31"
+            ], 
+            "id": "dchunk_4_30", 
+            "offset": 65515, 
+            "resource": "download_0", 
+            "size": 9, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_4_31", 
+                "dchunk_4_32"
+            ], 
+            "id": "dchunk_4_31", 
+            "offset": 65524, 
+            "resource": "download_0", 
+            "size": 282, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_4_32"
+            ], 
+            "id": "dchunk_4_32", 
+            "offset": 65806, 
+            "resource": "download_0", 
+            "size": 53, 
+            "type": "download_chunk"
+        }
+    ], 
+    "frames": [
+        {
+            "id": 0, 
+            "parent": 4, 
+            "subframes": [
+                3, 
+                2, 
+                1
+            ], 
+            "url": "https://insight.adsrvr.org/track/up?adv=6edr100&ref=https%3A%2F%2Fwww.spotify.com%2Fuk%2F&upid=arf8d2q&osi=0fcf4d4cb0e2e17d0b532e0033527bce&osv=1.1&upv=1.1.1"
+        }, 
+        {
+            "id": 3, 
+            "parent": 0, 
+            "subframes": [], 
+            "url": "https://match.adsrvr.org/track/cmf/generic?ttd_pid=bluekai"
+        }, 
+        {
+            "id": 2, 
+            "parent": 0, 
+            "subframes": [], 
+            "url": "https://dsum-sec.casalemedia.com/rum?cm_dsp_id=39&external_user_id=7b684817-e7df-40c0-b0bd-554ebc78afb3&expiration=1477060499"
+        }, 
+        {
+            "id": 1, 
+            "parent": 0, 
+            "subframes": [], 
+            "url": "https://odr.mookie1.com/t/v2/sync?tagid=V2_2087&src.visitorId=7b684817-e7df-40c0-b0bd-554ebc78afb3"
+        }, 
+        {
+            "id": 4, 
+            "subframes": [
+                0
+            ], 
+            "url": "https://www.spotify.com/uk/"
+        }
+    ], 
+    "loadEvent": "comp_177_0", 
+    "name": "https://www.spotify.com/uk/", 
+    "root_activity": "download_0"
+}

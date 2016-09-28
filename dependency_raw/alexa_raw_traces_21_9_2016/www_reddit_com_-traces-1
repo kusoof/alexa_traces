@@ -348,7 +348,7 @@
 {"ReceivedChunk": {"resourceId": 2411, "receivedTime": 4296.980519, "len": 1258}}
 {"Resource": {"id": 2415, "url": "https://www.redditmedia.com/gtm?id=GTM-NDJTNB&cb=8CqR7FcToPI", "frame": "227", "sentTime": 4296.896465,  "recieveTime": 4296.980856, "len": 953, "from": "0x7fd7a9a25780", "mimeType": "text/html", "contentLength": -1, "httpStatus": 200, "httpMethod": "GET", "connId": 17082, "connReused": 1, "cached": 0,                             "requestTime": 4296.897041, "proxyStart": -1, "proxyEnd": -1, "dnsStart": -1, "dnsEnd": -1, "connectStart": 1,                            "connectEnd": 1, "sendStart": 1, "sendEnd": 4, "receiveHeadersEnd": 16, "sslStart": -1, "sslEnd": -1}}
 {"ReceivedChunk": {"resourceId": 2415, "receivedTime": 4296.980856, "len": 953}}
-{"Resource": {"id": 2418, "url": "https://www.redditstatic.com/display.8VJNvjYplkM.js", "frame": "226", "sentTime": 4296.907203, "recieveTime": 4296.982065, "len": 10749, "from": "(nil)", "mimeType": "application/javascript", "contentLength": -1, "httpStatus": 200, "httpMethod": "GET", "connId": 0, "connReused": 0, "cached": 0}}
+{"Resource": {"id": 2418, "url": "https://www.redditstatic.com/display.8VJNvjYplkM.js", "frame": "226", "sentTime": 4297.026188, "recieveTime": 4297.10105, "len": 10749, "from": "0x7fd7abc1a4d0", "mimeType": "application/javascript", "contentLength": -1, "httpStatus": 200, "httpMethod": "GET", "connId": 0, "connReused": 0, "cached": 0}}
 {"ReceivedChunk": {"resourceId": 2418, "receivedTime": 4296.981907, "len": 7873}}
 {"ReceivedChunk": {"resourceId": 2418, "receivedTime": 4296.981966, "len": 371}}
 {"ReceivedChunk": {"resourceId": 2418, "receivedTime": 4296.982065, "len": 2505}}
@@ -4221,7 +4221,6 @@
 {"Cached": {"id": 2402, "url": "https://b.thumbs.redditmedia.com/jvCqiFMYOuWcyy10QfR97mltSUpfwgcyeVChCg2tAtw.jpg", "from": "0x7fd7aab019a0", "mimeType": "image/jpeg", "len": 3519, "httpMethod": "GET", "accessTime": 4296.737098, "frame": "222"}}
 {"Cached": {"id": 2403, "url": "https://reddit.com/static/pixel.png", "from": "0x7fd7aa6d6700", "mimeType": "", "len": 0, "httpMethod": "GET", "accessTime": 4296.739567, "frame": "222"}}
 {"Cached": {"id": 2375, "url": "https://www.redditstatic.com/reddit.en.QVY1sJ_rM7c.js", "from": "0x7fd7aa6d6cb0", "mimeType": "application/javascript", "len": 155315, "httpMethod": "GET", "accessTime": 4296.739728, "frame": "222"}}
-{"Cached": {"id": 2418, "url": "https://www.redditstatic.com/display.8VJNvjYplkM.js", "from": "0x7fd7abc1a4d0", "mimeType": "application/javascript", "len": 10749, "httpMethod": "GET", "accessTime": 4297.026188, "frame": "226"}}
 {"Cached": {"id": 2428, "url": "https://pagead2.googlesyndication.com/pagead/show_ads.js", "from": "(nil)", "mimeType": "", "len": 0, "httpMethod": "GET", "accessTime": 4297.688979, "frame": "228"}}
 {"Cached": {"id": 2416, "url": "https://s.zkcdn.net/ados.js?cb=466c150", "from": "0x7fd7ad03bde0", "mimeType": "application/javascript", "len": 25288, "httpMethod": "GET", "accessTime": 4297.719902, "frame": "229"}}
 {"Cached": {"id": 2417, "url": "https://www.redditstatic.com/ad-dependencies.5O7sMdAReBw.js", "from": "0x7fd7ac63d000", "mimeType": "application/javascript", "len": 93525, "httpMethod": "GET", "accessTime": 4297.720076, "frame": "229"}}

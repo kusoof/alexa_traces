@@ -275,13 +275,12 @@
         {
             "cached": false, 
             "children": [
-                "comp_100_0", 
                 "comp_319"
             ], 
             "httpMethod": "GET", 
             "id": "download_164", 
             "mimeType": "image/gif", 
-            "sentTime": 2.345709999999599, 
+            "sentTime": 2.916396000000532, 
             "size": 341427, 
             "type": "resource", 
             "url": "https://media.giphy.com/media/NENKWiQoPJqo/giphy.gif"
@@ -324,20 +323,6 @@
             "mimeType": "image/gif", 
             "originalResource": "download_164", 
             "sentTime": 2.9157630000008794, 
-            "size": 341427, 
-            "type": "resource", 
-            "url": "https://media.giphy.com/media/NENKWiQoPJqo/giphy.gif"
-        }, 
-        {
-            "cached": true, 
-            "children": [
-                "comp_319"
-            ], 
-            "httpMethod": "GET", 
-            "id": "download_314", 
-            "mimeType": "image/gif", 
-            "originalResource": "download_164", 
-            "sentTime": 2.916396000000532, 
             "size": 341427, 
             "type": "resource", 
             "url": "https://media.giphy.com/media/NENKWiQoPJqo/giphy.gif"
@@ -1126,7 +1111,7 @@
             "cached": false, 
             "children": [
                 "comp_83", 
-                "comp_84_0", 
+                "comp_84", 
                 "comp_319"
             ], 
             "httpMethod": "GET", 
@@ -3944,9 +3929,7 @@
         }, 
         {
             "blocking": 4, 
-            "children": [
-                "comp_40"
-            ], 
+            "children": [], 
             "docUrl": "http://giphy.com/", 
             "enclosing": "None", 
             "endTime": 1.639461000000665, 
@@ -3991,9 +3974,7 @@
         }, 
         {
             "blocking": 4, 
-            "children": [
-                "comp_40"
-            ], 
+            "children": [], 
             "docUrl": "http://giphy.com/", 
             "enclosing": "None", 
             "endTime": 1.8421240000006947, 
@@ -4341,12 +4322,12 @@
         {
             "blocking": 1, 
             "children": [
-                "download_133", 
+                "download_154", 
                 "comp_47_3"
             ], 
             "docUrl": "http://giphy.com/", 
             "enclosing": "comp_47", 
-            "endTime": 2.087933000000703, 
+            "endTime": 2.046367000000828, 
             "evalType": "timer", 
             "frame": 1, 
             "id": "comp_47_2", 
@@ -4359,15 +4340,48 @@
         {
             "blocking": 1, 
             "children": [
-                "download_155", 
-                "download_154"
+                "download_133", 
+                "comp_47_4"
             ], 
+            "docUrl": "http://giphy.com/", 
+            "enclosing": "comp_47", 
+            "endTime": 2.087933000000703, 
+            "evalType": "timer", 
+            "frame": 1, 
+            "id": "comp_47_3", 
+            "mode": "load", 
+            "startTime": 2.046367000000828, 
+            "subtree": "subtree_comp_47", 
+            "timeout": 0, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_155", 
+                "comp_47_5"
+            ], 
+            "docUrl": "http://giphy.com/", 
+            "enclosing": "comp_47", 
+            "endTime": 2.087933000000703, 
+            "evalType": "timer", 
+            "frame": 1, 
+            "id": "comp_47_4", 
+            "mode": "load", 
+            "startTime": 2.087933000000703, 
+            "subtree": "subtree_comp_47", 
+            "timeout": 0, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
             "docUrl": "http://giphy.com/", 
             "enclosing": "comp_47", 
             "endTime": 2.08984799999962, 
             "evalType": "timer", 
             "frame": 1, 
-            "id": "comp_47_3", 
+            "id": "comp_47_5", 
             "mode": "load", 
             "startTime": 2.087933000000703, 
             "subtree": "subtree_comp_47", 
@@ -5343,35 +5357,17 @@
         {
             "blocking": 1, 
             "children": [
-                "download_164", 
-                "comp_84_1"
-            ], 
-            "docUrl": "http://giphy.com/", 
-            "enclosing": "comp_84", 
-            "endTime": 2.344477000000552, 
-            "evalType": "fireEvent", 
-            "frame": 1, 
-            "id": "comp_84_0", 
-            "name": "load", 
-            "startTime": 2.3437860000012734, 
-            "subtree": "subtree_comp_84", 
-            "targetType": "Element", 
-            "type": "eval"
-        }, 
-        {
-            "blocking": 1, 
-            "children": [
                 "comp_328_0"
             ], 
             "docUrl": "http://giphy.com/", 
-            "enclosing": "comp_84", 
+            "enclosing": "None", 
             "endTime": 2.346292000000176, 
             "evalType": "fireEvent", 
             "frame": 1, 
-            "id": "comp_84_1", 
+            "id": "comp_84", 
             "name": "load", 
-            "startTime": 2.344477000000552, 
-            "subtree": "subtree_comp_84", 
+            "startTime": 2.3437860000012734, 
+            "subtree": "None", 
             "targetType": "Element", 
             "type": "eval"
         }, 
@@ -5387,39 +5383,6 @@
             "name": "load", 
             "startTime": 2.50143399999979, 
             "subtree": "None", 
-            "targetType": "Element", 
-            "type": "eval"
-        }, 
-        {
-            "blocking": 1, 
-            "children": [
-                "download_311", 
-                "comp_100_1"
-            ], 
-            "docUrl": "http://giphy.com/", 
-            "enclosing": "comp_100", 
-            "endTime": 2.505377999999837, 
-            "evalType": "fireEvent", 
-            "frame": 1, 
-            "id": "comp_100_0", 
-            "name": "load", 
-            "startTime": 2.5039170000000013, 
-            "subtree": "subtree_comp_100", 
-            "targetType": "Element", 
-            "type": "eval"
-        }, 
-        {
-            "blocking": 1, 
-            "children": [], 
-            "docUrl": "http://giphy.com/", 
-            "enclosing": "comp_100", 
-            "endTime": 2.505952999999863, 
-            "evalType": "fireEvent", 
-            "frame": 1, 
-            "id": "comp_100_1", 
-            "name": "load", 
-            "startTime": 2.505377999999837, 
-            "subtree": "subtree_comp_100", 
             "targetType": "Element", 
             "type": "eval"
         }, 
@@ -5444,7 +5407,7 @@
         {
             "blocking": 1, 
             "children": [
-                "download_314", 
+                "download_164", 
                 "comp_135_2"
             ], 
             "docUrl": "http://giphy.com/", 
@@ -7445,7 +7408,7 @@
             "endColumn": 76, 
             "endRow": 199, 
             "endTag": "img", 
-            "endTime": 157705.60878299997, 
+            "endTime": 0.5018650000056368, 
             "frame": 1, 
             "id": "pchunk_1_11", 
             "isFragment": false, 

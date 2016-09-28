@@ -7040,14 +7040,29 @@
         {
             "blocking": 3, 
             "children": [
-                "download_108"
+                "download_108", 
+                "comp_218_2"
             ], 
+            "docUrl": "http://allegro.pl/", 
+            "enclosing": "comp_218", 
+            "endTime": 5.286758000000191, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_218_1", 
+            "startTime": 5.286758000000191, 
+            "subtree": "subtree_comp_218", 
+            "type": "eval", 
+            "url": "http://allegro.hit.gemius.pl/xgemius.js"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [], 
             "docUrl": "http://allegro.pl/", 
             "enclosing": "comp_218", 
             "endTime": 5.2938930000000255, 
             "evalType": "execScript", 
             "frame": 0, 
-            "id": "comp_218_1", 
+            "id": "comp_218_2", 
             "startTime": 5.286758000000191, 
             "subtree": "subtree_comp_218", 
             "type": "eval", 

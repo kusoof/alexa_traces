@@ -3374,96 +3374,6 @@
             "httpMethod": "GET", 
             "id": "download_265", 
             "mimeType": "image/png", 
-            "sentTime": 12.357460999999603, 
-            "size": 24199, 
-            "type": "resource", 
-            "url": "https://s0.2mdn.net/ads/richmedia/studio/pv2/45043181/20160830085430968/images/generated/sprite.png"
-        }, 
-        {
-            "cached": true, 
-            "children": [
-                "comp_5544", 
-                "comp_10636"
-            ], 
-            "httpMethod": "GET", 
-            "id": "download_434", 
-            "mimeType": "image/png", 
-            "originalResource": "download_265", 
-            "sentTime": 12.357649000001402, 
-            "size": 24199, 
-            "type": "resource", 
-            "url": "https://s0.2mdn.net/ads/richmedia/studio/pv2/45043181/20160830085430968/images/generated/sprite.png"
-        }, 
-        {
-            "cached": true, 
-            "children": [
-                "comp_5544", 
-                "comp_10636"
-            ], 
-            "httpMethod": "GET", 
-            "id": "download_435", 
-            "mimeType": "image/png", 
-            "originalResource": "download_265", 
-            "sentTime": 12.357699000000139, 
-            "size": 24199, 
-            "type": "resource", 
-            "url": "https://s0.2mdn.net/ads/richmedia/studio/pv2/45043181/20160830085430968/images/generated/sprite.png"
-        }, 
-        {
-            "cached": true, 
-            "children": [
-                "comp_5544", 
-                "comp_10636"
-            ], 
-            "httpMethod": "GET", 
-            "id": "download_436", 
-            "mimeType": "image/png", 
-            "originalResource": "download_265", 
-            "sentTime": 12.357757999998285, 
-            "size": 24199, 
-            "type": "resource", 
-            "url": "https://s0.2mdn.net/ads/richmedia/studio/pv2/45043181/20160830085430968/images/generated/sprite.png"
-        }, 
-        {
-            "cached": true, 
-            "children": [
-                "comp_5544", 
-                "comp_10636"
-            ], 
-            "httpMethod": "GET", 
-            "id": "download_437", 
-            "mimeType": "image/png", 
-            "originalResource": "download_265", 
-            "sentTime": 12.357814999999391, 
-            "size": 24199, 
-            "type": "resource", 
-            "url": "https://s0.2mdn.net/ads/richmedia/studio/pv2/45043181/20160830085430968/images/generated/sprite.png"
-        }, 
-        {
-            "cached": true, 
-            "children": [
-                "comp_5544", 
-                "comp_10636"
-            ], 
-            "httpMethod": "GET", 
-            "id": "download_438", 
-            "mimeType": "image/png", 
-            "originalResource": "download_265", 
-            "sentTime": 12.357851000000664, 
-            "size": 24199, 
-            "type": "resource", 
-            "url": "https://s0.2mdn.net/ads/richmedia/studio/pv2/45043181/20160830085430968/images/generated/sprite.png"
-        }, 
-        {
-            "cached": true, 
-            "children": [
-                "comp_5544", 
-                "comp_10636"
-            ], 
-            "httpMethod": "GET", 
-            "id": "download_439", 
-            "mimeType": "image/png", 
-            "originalResource": "download_265", 
             "sentTime": 12.3578860000016, 
             "size": 24199, 
             "type": "resource", 
@@ -7043,7 +6953,7 @@
         {
             "blocking": 1, 
             "children": [
-                "download_163", 
+                "download_117", 
                 "comp_60_1"
             ], 
             "docUrl": "http://elpais.com/", 
@@ -7060,7 +6970,7 @@
         {
             "blocking": 1, 
             "children": [
-                "download_164", 
+                "download_163", 
                 "comp_60_2"
             ], 
             "docUrl": "http://elpais.com/", 
@@ -7077,7 +6987,7 @@
         {
             "blocking": 1, 
             "children": [
-                "download_38", 
+                "download_164", 
                 "comp_60_3"
             ], 
             "docUrl": "http://elpais.com/", 
@@ -7094,7 +7004,7 @@
         {
             "blocking": 1, 
             "children": [
-                "download_410", 
+                "download_38", 
                 "comp_60_4"
             ], 
             "docUrl": "http://elpais.com/", 
@@ -7111,7 +7021,7 @@
         {
             "blocking": 1, 
             "children": [
-                "download_411", 
+                "download_410", 
                 "comp_60_5"
             ], 
             "docUrl": "http://elpais.com/", 
@@ -7128,7 +7038,7 @@
         {
             "blocking": 1, 
             "children": [
-                "download_412", 
+                "download_411", 
                 "comp_60_6"
             ], 
             "docUrl": "http://elpais.com/", 
@@ -7145,7 +7055,7 @@
         {
             "blocking": 1, 
             "children": [
-                "download_413", 
+                "download_412", 
                 "comp_60_7"
             ], 
             "docUrl": "http://elpais.com/", 
@@ -7162,15 +7072,31 @@
         {
             "blocking": 1, 
             "children": [
-                "pchunk_25_79", 
-                "download_117"
+                "download_413", 
+                "comp_60_8"
+            ], 
+            "docUrl": "http://elpais.com/", 
+            "enclosing": "comp_60", 
+            "endTime": 1.9716829999997572, 
+            "evalType": "execScript", 
+            "frame": 25, 
+            "id": "comp_60_7", 
+            "startTime": 1.9716829999997572, 
+            "subtree": "subtree_comp_60", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_25_79"
             ], 
             "docUrl": "http://elpais.com/", 
             "enclosing": "comp_60", 
             "endTime": 2.0497140000006766, 
             "evalType": "execScript", 
             "frame": 25, 
-            "id": "comp_60_7", 
+            "id": "comp_60_8", 
             "startTime": 1.9716829999997572, 
             "subtree": "subtree_comp_60", 
             "type": "eval", 
@@ -13593,9 +13519,7 @@
         }, 
         {
             "blocking": 4, 
-            "children": [
-                "comp_464_0"
-            ], 
+            "children": [], 
             "docUrl": "http://tpc.googlesyndication.com/safeframe/1-0-4/html/container.html#xpc=sf-gdn-exp-5&p=http%3A//elpais.com", 
             "enclosing": "None", 
             "endTime": 8.927275000001828, 
@@ -13732,9 +13656,7 @@
         }, 
         {
             "blocking": 4, 
-            "children": [
-                "comp_463_0"
-            ], 
+            "children": [], 
             "docUrl": "http://tpc.googlesyndication.com/safeframe/1-0-4/html/container.html#xpc=sf-gdn-exp-4&p=http%3A//elpais.com", 
             "enclosing": "None", 
             "endTime": 9.119314999999915, 
@@ -13748,9 +13670,7 @@
         }, 
         {
             "blocking": 4, 
-            "children": [
-                "comp_425_0"
-            ], 
+            "children": [], 
             "docUrl": "http://tpc.googlesyndication.com/safeframe/1-0-4/html/container.html#xpc=sf-gdn-exp-3&p=http%3A//elpais.com", 
             "enclosing": "None", 
             "endTime": 9.119709999999031, 
@@ -16755,7 +16675,7 @@
             ], 
             "docUrl": "https://s0.2mdn.net/ads/richmedia/studio/pv2/45043181/20160830085430968/index.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=sHy3v0Z80x&t=1", 
             "enclosing": "comp_1688", 
-            "endTime": 12.357460999999603, 
+            "endTime": 12.3578860000016, 
             "evalType": "execScript", 
             "frame": 6, 
             "id": "comp_1688_0", 
@@ -16767,117 +16687,15 @@
         {
             "blocking": 1, 
             "children": [
-                "download_434", 
-                "comp_1688_2"
-            ], 
-            "docUrl": "https://s0.2mdn.net/ads/richmedia/studio/pv2/45043181/20160830085430968/index.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=sHy3v0Z80x&t=1", 
-            "enclosing": "comp_1688", 
-            "endTime": 12.357649000001402, 
-            "evalType": "execScript", 
-            "frame": 6, 
-            "id": "comp_1688_1", 
-            "startTime": 12.357460999999603, 
-            "subtree": "subtree_comp_1688", 
-            "type": "eval", 
-            "url": "https://s0.2mdn.net/ads/richmedia/studio/pv2/45043181/20160830085430968/728x90.main.js"
-        }, 
-        {
-            "blocking": 1, 
-            "children": [
-                "download_435", 
-                "comp_1688_3"
-            ], 
-            "docUrl": "https://s0.2mdn.net/ads/richmedia/studio/pv2/45043181/20160830085430968/index.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=sHy3v0Z80x&t=1", 
-            "enclosing": "comp_1688", 
-            "endTime": 12.357699000000139, 
-            "evalType": "execScript", 
-            "frame": 6, 
-            "id": "comp_1688_2", 
-            "startTime": 12.357649000001402, 
-            "subtree": "subtree_comp_1688", 
-            "type": "eval", 
-            "url": "https://s0.2mdn.net/ads/richmedia/studio/pv2/45043181/20160830085430968/728x90.main.js"
-        }, 
-        {
-            "blocking": 1, 
-            "children": [
-                "download_436", 
-                "comp_1688_4"
-            ], 
-            "docUrl": "https://s0.2mdn.net/ads/richmedia/studio/pv2/45043181/20160830085430968/index.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=sHy3v0Z80x&t=1", 
-            "enclosing": "comp_1688", 
-            "endTime": 12.357757999998285, 
-            "evalType": "execScript", 
-            "frame": 6, 
-            "id": "comp_1688_3", 
-            "startTime": 12.357699000000139, 
-            "subtree": "subtree_comp_1688", 
-            "type": "eval", 
-            "url": "https://s0.2mdn.net/ads/richmedia/studio/pv2/45043181/20160830085430968/728x90.main.js"
-        }, 
-        {
-            "blocking": 1, 
-            "children": [
-                "download_437", 
-                "comp_1688_5"
-            ], 
-            "docUrl": "https://s0.2mdn.net/ads/richmedia/studio/pv2/45043181/20160830085430968/index.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=sHy3v0Z80x&t=1", 
-            "enclosing": "comp_1688", 
-            "endTime": 12.357814999999391, 
-            "evalType": "execScript", 
-            "frame": 6, 
-            "id": "comp_1688_4", 
-            "startTime": 12.357757999998285, 
-            "subtree": "subtree_comp_1688", 
-            "type": "eval", 
-            "url": "https://s0.2mdn.net/ads/richmedia/studio/pv2/45043181/20160830085430968/728x90.main.js"
-        }, 
-        {
-            "blocking": 1, 
-            "children": [
-                "download_438", 
-                "comp_1688_6"
-            ], 
-            "docUrl": "https://s0.2mdn.net/ads/richmedia/studio/pv2/45043181/20160830085430968/index.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=sHy3v0Z80x&t=1", 
-            "enclosing": "comp_1688", 
-            "endTime": 12.357851000000664, 
-            "evalType": "execScript", 
-            "frame": 6, 
-            "id": "comp_1688_5", 
-            "startTime": 12.357814999999391, 
-            "subtree": "subtree_comp_1688", 
-            "type": "eval", 
-            "url": "https://s0.2mdn.net/ads/richmedia/studio/pv2/45043181/20160830085430968/728x90.main.js"
-        }, 
-        {
-            "blocking": 1, 
-            "children": [
-                "download_439", 
-                "comp_1688_7"
-            ], 
-            "docUrl": "https://s0.2mdn.net/ads/richmedia/studio/pv2/45043181/20160830085430968/index.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=sHy3v0Z80x&t=1", 
-            "enclosing": "comp_1688", 
-            "endTime": 12.3578860000016, 
-            "evalType": "execScript", 
-            "frame": 6, 
-            "id": "comp_1688_6", 
-            "startTime": 12.357851000000664, 
-            "subtree": "subtree_comp_1688", 
-            "type": "eval", 
-            "url": "https://s0.2mdn.net/ads/richmedia/studio/pv2/45043181/20160830085430968/728x90.main.js"
-        }, 
-        {
-            "blocking": 1, 
-            "children": [
                 "download_267", 
-                "comp_1688_8"
+                "comp_1688_2"
             ], 
             "docUrl": "https://s0.2mdn.net/ads/richmedia/studio/pv2/45043181/20160830085430968/index.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=sHy3v0Z80x&t=1", 
             "enclosing": "comp_1688", 
             "endTime": 12.357970000000932, 
             "evalType": "execScript", 
             "frame": 6, 
-            "id": "comp_1688_7", 
+            "id": "comp_1688_1", 
             "startTime": 12.3578860000016, 
             "subtree": "subtree_comp_1688", 
             "type": "eval", 
@@ -16887,14 +16705,14 @@
             "blocking": 1, 
             "children": [
                 "download_266", 
-                "comp_1688_9"
+                "comp_1688_3"
             ], 
             "docUrl": "https://s0.2mdn.net/ads/richmedia/studio/pv2/45043181/20160830085430968/index.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=sHy3v0Z80x&t=1", 
             "enclosing": "comp_1688", 
             "endTime": 12.358090000001539, 
             "evalType": "execScript", 
             "frame": 6, 
-            "id": "comp_1688_8", 
+            "id": "comp_1688_2", 
             "startTime": 12.357970000000932, 
             "subtree": "subtree_comp_1688", 
             "type": "eval", 
@@ -16904,14 +16722,14 @@
             "blocking": 1, 
             "children": [
                 "download_440", 
-                "comp_1688_10"
+                "comp_1688_4"
             ], 
             "docUrl": "https://s0.2mdn.net/ads/richmedia/studio/pv2/45043181/20160830085430968/index.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=sHy3v0Z80x&t=1", 
             "enclosing": "comp_1688", 
             "endTime": 12.54863800000021, 
             "evalType": "execScript", 
             "frame": 6, 
-            "id": "comp_1688_9", 
+            "id": "comp_1688_3", 
             "startTime": 12.358090000001539, 
             "subtree": "subtree_comp_1688", 
             "type": "eval", 
@@ -16925,7 +16743,7 @@
             "endTime": 12.551633999999467, 
             "evalType": "execScript", 
             "frame": 6, 
-            "id": "comp_1688_10", 
+            "id": "comp_1688_4", 
             "startTime": 12.54863800000021, 
             "subtree": "subtree_comp_1688", 
             "type": "eval", 

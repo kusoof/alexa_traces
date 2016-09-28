@@ -835,19 +835,6 @@
                 "comp_137_0"
             ], 
             "httpMethod": "GET", 
-            "id": "download_177", 
-            "mimeType": "", 
-            "sentTime": 0.8217249999997875, 
-            "size": 0, 
-            "type": "resource", 
-            "url": "http://img1.kakaku.k-img.com/images/fonts/iconfont.woff?1473418026527"
-        }, 
-        {
-            "cached": true, 
-            "children": [
-                "comp_137_0"
-            ], 
-            "httpMethod": "GET", 
             "id": "download_211", 
             "mimeType": "application/x-font-woff", 
             "originalResource": "download_33", 
@@ -2776,12 +2763,12 @@
         {
             "blocking": 4, 
             "children": [
-                "download_177", 
+                "download_178", 
                 "comp_1_1"
             ], 
             "docUrl": "http://kakaku.com/", 
             "enclosing": "comp_1", 
-            "endTime": 0.8217249999997875, 
+            "endTime": 0.8217399999994086, 
             "evalType": "recalcStyle", 
             "frame": 1, 
             "id": "comp_1_0", 
@@ -2793,32 +2780,15 @@
         {
             "blocking": 4, 
             "children": [
-                "download_178", 
-                "comp_1_2"
-            ], 
-            "docUrl": "http://kakaku.com/", 
-            "enclosing": "comp_1", 
-            "endTime": 0.8217399999994086, 
-            "evalType": "recalcStyle", 
-            "frame": 1, 
-            "id": "comp_1_1", 
-            "startTime": 0.8217249999997875, 
-            "subtree": "subtree_comp_1", 
-            "type": "eval", 
-            "url": "http://css1.kakaku.k-img.com/css/common.css"
-        }, 
-        {
-            "blocking": 4, 
-            "children": [
                 "download_179", 
-                "comp_1_3"
+                "comp_1_2"
             ], 
             "docUrl": "http://kakaku.com/", 
             "enclosing": "comp_1", 
             "endTime": 0.8217550000008487, 
             "evalType": "recalcStyle", 
             "frame": 1, 
-            "id": "comp_1_2", 
+            "id": "comp_1_1", 
             "startTime": 0.8217399999994086, 
             "subtree": "subtree_comp_1", 
             "type": "eval", 
@@ -2835,7 +2805,7 @@
             "endTime": 0.8234850000008009, 
             "evalType": "recalcStyle", 
             "frame": 1, 
-            "id": "comp_1_3", 
+            "id": "comp_1_2", 
             "startTime": 0.8217550000008487, 
             "subtree": "subtree_comp_1", 
             "type": "eval", 
@@ -3746,7 +3716,7 @@
         {
             "blocking": 1, 
             "children": [
-                "download_93", 
+                "download_117", 
                 "comp_44_1"
             ], 
             "docUrl": "http://kakaku.com/auth/inc_idcore_top_v2.asp", 
@@ -3763,15 +3733,31 @@
         {
             "blocking": 1, 
             "children": [
-                "pchunk_6_12", 
-                "download_117"
+                "download_93", 
+                "comp_44_2"
+            ], 
+            "docUrl": "http://kakaku.com/auth/inc_idcore_top_v2.asp", 
+            "enclosing": "comp_44", 
+            "endTime": 3.377808000001096, 
+            "evalType": "execScript", 
+            "frame": 6, 
+            "id": "comp_44_1", 
+            "startTime": 3.377808000001096, 
+            "subtree": "subtree_comp_44", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_6_12"
             ], 
             "docUrl": "http://kakaku.com/auth/inc_idcore_top_v2.asp", 
             "enclosing": "comp_44", 
             "endTime": 3.3825639999995474, 
             "evalType": "execScript", 
             "frame": 6, 
-            "id": "comp_44_1", 
+            "id": "comp_44_2", 
             "startTime": 3.377808000001096, 
             "subtree": "subtree_comp_44", 
             "type": "eval", 
@@ -4786,15 +4772,31 @@
         {
             "blocking": 1, 
             "children": [
-                "pchunk_5_6", 
-                "download_147"
+                "download_147", 
+                "comp_91_2"
+            ], 
+            "docUrl": "http://history.kakaku.com/history/cookie2ls/", 
+            "enclosing": "comp_91", 
+            "endTime": 12.218243000001166, 
+            "evalType": "execScript", 
+            "frame": 5, 
+            "id": "comp_91_1", 
+            "startTime": 12.218243000001166, 
+            "subtree": "subtree_comp_91", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_5_6"
             ], 
             "docUrl": "http://history.kakaku.com/history/cookie2ls/", 
             "enclosing": "comp_91", 
             "endTime": 12.224954000001162, 
             "evalType": "execScript", 
             "frame": 5, 
-            "id": "comp_91_1", 
+            "id": "comp_91_2", 
             "startTime": 12.218243000001166, 
             "subtree": "subtree_comp_91", 
             "type": "eval", 
@@ -5016,12 +5018,12 @@
         {
             "blocking": 1, 
             "children": [
-                "download_140", 
+                "download_152", 
                 "comp_104_3"
             ], 
             "docUrl": "http://kakaku.com/", 
             "enclosing": "comp_104", 
-            "endTime": 12.328026999999565, 
+            "endTime": 12.32572699999946, 
             "evalType": "timer", 
             "frame": 1, 
             "id": "comp_104_2", 
@@ -5034,15 +5036,48 @@
         {
             "blocking": 1, 
             "children": [
-                "download_153", 
-                "download_152"
+                "download_140", 
+                "comp_104_4"
             ], 
+            "docUrl": "http://kakaku.com/", 
+            "enclosing": "comp_104", 
+            "endTime": 12.328026999999565, 
+            "evalType": "timer", 
+            "frame": 1, 
+            "id": "comp_104_3", 
+            "mode": "load", 
+            "startTime": 12.32572699999946, 
+            "subtree": "subtree_comp_104", 
+            "timeout": 0, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_153", 
+                "comp_104_5"
+            ], 
+            "docUrl": "http://kakaku.com/", 
+            "enclosing": "comp_104", 
+            "endTime": 12.328026999999565, 
+            "evalType": "timer", 
+            "frame": 1, 
+            "id": "comp_104_4", 
+            "mode": "load", 
+            "startTime": 12.328026999999565, 
+            "subtree": "subtree_comp_104", 
+            "timeout": 0, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
             "docUrl": "http://kakaku.com/", 
             "enclosing": "comp_104", 
             "endTime": 12.329866000000038, 
             "evalType": "timer", 
             "frame": 1, 
-            "id": "comp_104_3", 
+            "id": "comp_104_5", 
             "mode": "load", 
             "startTime": 12.328026999999565, 
             "subtree": "subtree_comp_104", 
@@ -5501,14 +5536,30 @@
         {
             "blocking": 1, 
             "children": [
-                "download_161"
+                "download_161", 
+                "comp_137_2"
             ], 
+            "docUrl": "http://kakaku.com/", 
+            "enclosing": "comp_137", 
+            "endTime": 13.02142400000048, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_137_1", 
+            "name": "load", 
+            "startTime": 13.02142400000048, 
+            "subtree": "subtree_comp_137", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
             "docUrl": "http://kakaku.com/", 
             "enclosing": "comp_137", 
             "endTime": 13.030791999999565, 
             "evalType": "fireEvent", 
             "frame": 1, 
-            "id": "comp_137_1", 
+            "id": "comp_137_2", 
             "name": "load", 
             "startTime": 13.02142400000048, 
             "subtree": "subtree_comp_137", 

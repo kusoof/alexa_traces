@@ -400,7 +400,7 @@
         {
             "blocking": 3, 
             "children": [
-                "download_6", 
+                "download_10", 
                 "comp_6_1"
             ], 
             "docUrl": "http://mailchimp.com/", 
@@ -417,14 +417,29 @@
         {
             "blocking": 3, 
             "children": [
-                "download_10"
+                "download_6", 
+                "comp_6_2"
             ], 
+            "docUrl": "http://mailchimp.com/", 
+            "enclosing": "comp_6", 
+            "endTime": 0.7931580000004033, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_6_1", 
+            "startTime": 0.7931580000004033, 
+            "subtree": "subtree_comp_6", 
+            "type": "eval", 
+            "url": "http://www.googletagmanager.com/gtm.js?id=GTM-MCZTKL"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [], 
             "docUrl": "http://mailchimp.com/", 
             "enclosing": "comp_6", 
             "endTime": 0.7949269999990065, 
             "evalType": "execScript", 
             "frame": 1, 
-            "id": "comp_6_1", 
+            "id": "comp_6_2", 
             "startTime": 0.7931580000004033, 
             "subtree": "subtree_comp_6", 
             "type": "eval", 

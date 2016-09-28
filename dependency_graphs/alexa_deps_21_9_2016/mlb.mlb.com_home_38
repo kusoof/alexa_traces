@@ -438,19 +438,6 @@
             "url": "http://ui.bamstatic.com/clubs/mlb/fonts/benton_sans_cond_medium/6ec61f10-00ea-4ffd-a36b-26e2577a83f1-4.svg"
         }, 
         {
-            "cached": true, 
-            "children": [
-                "comp_830"
-            ], 
-            "httpMethod": "GET", 
-            "id": "download_300", 
-            "mimeType": "", 
-            "sentTime": 0.36266299999988405, 
-            "size": 0, 
-            "type": "resource", 
-            "url": "http://ui.bamstatic.com/clubs/mlb/fonts/benton_sans_cond_medium/6ec61f10-00ea-4ffd-a36b-26e2577a83f1-4.svg"
-        }, 
-        {
             "cached": false, 
             "children": [
                 "comp_3709"
@@ -555,19 +542,6 @@
             "id": "download_296", 
             "mimeType": "", 
             "sentTime": 0.3561340000014752, 
-            "size": 0, 
-            "type": "resource", 
-            "url": "http://ui.bamstatic.com/clubs/mlb/fonts/benton_sans_cond_medium/6ec61f10-00ea-4ffd-a36b-26e2577a83f1-1.ttf"
-        }, 
-        {
-            "cached": true, 
-            "children": [
-                "comp_830"
-            ], 
-            "httpMethod": "GET", 
-            "id": "download_299", 
-            "mimeType": "", 
-            "sentTime": 0.36264999999912106, 
             "size": 0, 
             "type": "resource", 
             "url": "http://ui.bamstatic.com/clubs/mlb/fonts/benton_sans_cond_medium/6ec61f10-00ea-4ffd-a36b-26e2577a83f1-1.ttf"
@@ -1002,32 +976,6 @@
             "url": "http://ui.bamstatic.com/clubs/mlb/fonts/benton_sans_cond_medium/6ec61f10-00ea-4ffd-a36b-26e2577a83f1-3.woff"
         }, 
         {
-            "cached": true, 
-            "children": [
-                "comp_830"
-            ], 
-            "httpMethod": "GET", 
-            "id": "download_295", 
-            "mimeType": "", 
-            "sentTime": 0.35612200000105076, 
-            "size": 0, 
-            "type": "resource", 
-            "url": "http://ui.bamstatic.com/clubs/mlb/fonts/benton_sans_cond_medium/6ec61f10-00ea-4ffd-a36b-26e2577a83f1-3.woff"
-        }, 
-        {
-            "cached": true, 
-            "children": [
-                "comp_830"
-            ], 
-            "httpMethod": "GET", 
-            "id": "download_298", 
-            "mimeType": "", 
-            "sentTime": 0.3626369999983581, 
-            "size": 0, 
-            "type": "resource", 
-            "url": "http://ui.bamstatic.com/clubs/mlb/fonts/benton_sans_cond_medium/6ec61f10-00ea-4ffd-a36b-26e2577a83f1-3.woff"
-        }, 
-        {
             "cached": false, 
             "children": [
                 "comp_830"
@@ -1035,20 +983,6 @@
             "httpMethod": "GET", 
             "id": "download_93", 
             "mimeType": "image/jpeg", 
-            "sentTime": 1.942971000000398, 
-            "size": 6185, 
-            "type": "resource", 
-            "url": "http://mlb.mlb.com/mlb/images/fantasy/wsfb/82x100/596115@2x.jpg"
-        }, 
-        {
-            "cached": true, 
-            "children": [
-                "comp_830"
-            ], 
-            "httpMethod": "GET", 
-            "id": "download_335", 
-            "mimeType": "image/jpeg", 
-            "originalResource": "download_93", 
             "sentTime": 1.9430959999990591, 
             "size": 6185, 
             "type": "resource", 
@@ -2169,13 +2103,11 @@
         }, 
         {
             "cached": false, 
-            "children": [
-                "comp_830"
-            ], 
+            "children": [], 
             "httpMethod": "GET", 
             "id": "download_111", 
             "mimeType": "image/gif", 
-            "sentTime": 2.580830999999307, 
+            "sentTime": 31.143785000000207, 
             "size": 459, 
             "type": "resource", 
             "url": "http://ui.bamstatic.com/baseball/widgets/mediawall/images/icons/video.gif"
@@ -2202,18 +2134,6 @@
             "mimeType": "image/gif", 
             "originalResource": "download_111", 
             "sentTime": 31.143596999998408, 
-            "size": 459, 
-            "type": "resource", 
-            "url": "http://ui.bamstatic.com/baseball/widgets/mediawall/images/icons/video.gif"
-        }, 
-        {
-            "cached": true, 
-            "children": [], 
-            "httpMethod": "GET", 
-            "id": "download_363", 
-            "mimeType": "image/gif", 
-            "originalResource": "download_111", 
-            "sentTime": 31.143785000000207, 
             "size": 459, 
             "type": "resource", 
             "url": "http://ui.bamstatic.com/baseball/widgets/mediawall/images/icons/video.gif"
@@ -4571,12 +4491,12 @@
         {
             "blocking": 4, 
             "children": [
-                "download_295", 
+                "download_296", 
                 "comp_8_1"
             ], 
             "docUrl": "http://mlb.mlb.com/home", 
             "enclosing": "comp_8", 
-            "endTime": 0.35612200000105076, 
+            "endTime": 0.3561340000014752, 
             "evalType": "recalcStyle", 
             "frame": 4, 
             "id": "comp_8_0", 
@@ -4588,84 +4508,16 @@
         {
             "blocking": 4, 
             "children": [
-                "download_296", 
-                "comp_8_2"
-            ], 
-            "docUrl": "http://mlb.mlb.com/home", 
-            "enclosing": "comp_8", 
-            "endTime": 0.3561340000014752, 
-            "evalType": "recalcStyle", 
-            "frame": 4, 
-            "id": "comp_8_1", 
-            "startTime": 0.35612200000105076, 
-            "subtree": "subtree_comp_8", 
-            "type": "eval", 
-            "url": "http://ui.bamstatic.com//fedapp/headers/club-builds/1.0.1/mlb/style/mlb.css"
-        }, 
-        {
-            "blocking": 4, 
-            "children": [
                 "download_297", 
-                "comp_8_3"
+                "comp_8_2"
             ], 
             "docUrl": "http://mlb.mlb.com/home", 
             "enclosing": "comp_8", 
             "endTime": 0.3561589999990247, 
             "evalType": "recalcStyle", 
             "frame": 4, 
-            "id": "comp_8_2", 
+            "id": "comp_8_1", 
             "startTime": 0.3561340000014752, 
-            "subtree": "subtree_comp_8", 
-            "type": "eval", 
-            "url": "http://ui.bamstatic.com//fedapp/headers/club-builds/1.0.1/mlb/style/mlb.css"
-        }, 
-        {
-            "blocking": 4, 
-            "children": [
-                "download_298", 
-                "comp_8_4"
-            ], 
-            "docUrl": "http://mlb.mlb.com/home", 
-            "enclosing": "comp_8", 
-            "endTime": 0.3626369999983581, 
-            "evalType": "recalcStyle", 
-            "frame": 4, 
-            "id": "comp_8_3", 
-            "startTime": 0.3561589999990247, 
-            "subtree": "subtree_comp_8", 
-            "type": "eval", 
-            "url": "http://ui.bamstatic.com//fedapp/headers/club-builds/1.0.1/mlb/style/mlb.css"
-        }, 
-        {
-            "blocking": 4, 
-            "children": [
-                "download_299", 
-                "comp_8_5"
-            ], 
-            "docUrl": "http://mlb.mlb.com/home", 
-            "enclosing": "comp_8", 
-            "endTime": 0.36264999999912106, 
-            "evalType": "recalcStyle", 
-            "frame": 4, 
-            "id": "comp_8_4", 
-            "startTime": 0.3626369999983581, 
-            "subtree": "subtree_comp_8", 
-            "type": "eval", 
-            "url": "http://ui.bamstatic.com//fedapp/headers/club-builds/1.0.1/mlb/style/mlb.css"
-        }, 
-        {
-            "blocking": 4, 
-            "children": [
-                "download_300", 
-                "comp_8_6"
-            ], 
-            "docUrl": "http://mlb.mlb.com/home", 
-            "enclosing": "comp_8", 
-            "endTime": 0.36266299999988405, 
-            "evalType": "recalcStyle", 
-            "frame": 4, 
-            "id": "comp_8_5", 
-            "startTime": 0.36264999999912106, 
             "subtree": "subtree_comp_8", 
             "type": "eval", 
             "url": "http://ui.bamstatic.com//fedapp/headers/club-builds/1.0.1/mlb/style/mlb.css"
@@ -4681,8 +4533,8 @@
             "endTime": 0.3653950000007171, 
             "evalType": "recalcStyle", 
             "frame": 4, 
-            "id": "comp_8_6", 
-            "startTime": 0.36266299999988405, 
+            "id": "comp_8_2", 
+            "startTime": 0.3561589999990247, 
             "subtree": "subtree_comp_8", 
             "type": "eval", 
             "url": "http://ui.bamstatic.com//fedapp/headers/club-builds/1.0.1/mlb/style/mlb.css"
@@ -5178,11 +5030,12 @@
         {
             "blocking": 3, 
             "children": [
-                "comp_37_0"
+                "download_57", 
+                "comp_36_2"
             ], 
             "docUrl": "http://mlb.mlb.com/home", 
             "enclosing": "comp_36", 
-            "endTime": 1.0987769999992452, 
+            "endTime": 1.0897470000018075, 
             "evalType": "execScript", 
             "frame": 4, 
             "id": "comp_36_1", 
@@ -5194,14 +5047,28 @@
         {
             "blocking": 3, 
             "children": [
-                "download_57"
+                "comp_37_0"
             ], 
+            "docUrl": "http://mlb.mlb.com/home", 
+            "enclosing": "comp_36", 
+            "endTime": 1.0987769999992452, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_36_2", 
+            "startTime": 1.0897470000018075, 
+            "subtree": "subtree_comp_36", 
+            "type": "eval", 
+            "url": "http://www.googletagmanager.com/gtm.js?id=GTM-TGJ9RZ"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [], 
             "docUrl": "http://mlb.mlb.com/home", 
             "enclosing": "comp_36", 
             "endTime": 1.1025069999996049, 
             "evalType": "execScript", 
             "frame": 4, 
-            "id": "comp_36_2", 
+            "id": "comp_36_3", 
             "startTime": 1.1017400000018824, 
             "subtree": "subtree_comp_36", 
             "type": "eval", 
@@ -5261,7 +5128,7 @@
         {
             "blocking": 1, 
             "children": [
-                "comp_36_2"
+                "comp_36_3"
             ], 
             "docUrl": "http://mlb.mlb.com/home", 
             "enclosing": "comp_37", 
@@ -6192,7 +6059,7 @@
             ], 
             "docUrl": "http://mlb.mlb.com/home", 
             "enclosing": "comp_81", 
-            "endTime": 1.942971000000398, 
+            "endTime": 1.9430959999990591, 
             "evalType": "fireEvent", 
             "frame": 4, 
             "id": "comp_81_14", 
@@ -6205,33 +6072,15 @@
         {
             "blocking": 1, 
             "children": [
-                "download_335", 
-                "comp_81_16"
-            ], 
-            "docUrl": "http://mlb.mlb.com/home", 
-            "enclosing": "comp_81", 
-            "endTime": 1.9430959999990591, 
-            "evalType": "fireEvent", 
-            "frame": 4, 
-            "id": "comp_81_15", 
-            "name": "load", 
-            "startTime": 1.942971000000398, 
-            "subtree": "subtree_comp_81", 
-            "targetType": "Element", 
-            "type": "eval"
-        }, 
-        {
-            "blocking": 1, 
-            "children": [
                 "download_90", 
-                "comp_81_17"
+                "comp_81_16"
             ], 
             "docUrl": "http://mlb.mlb.com/home", 
             "enclosing": "comp_81", 
             "endTime": 1.9433129999997618, 
             "evalType": "fireEvent", 
             "frame": 4, 
-            "id": "comp_81_16", 
+            "id": "comp_81_15", 
             "name": "load", 
             "startTime": 1.9430959999990591, 
             "subtree": "subtree_comp_81", 
@@ -6242,14 +6091,14 @@
             "blocking": 1, 
             "children": [
                 "download_91", 
-                "comp_81_18"
+                "comp_81_17"
             ], 
             "docUrl": "http://mlb.mlb.com/home", 
             "enclosing": "comp_81", 
             "endTime": 1.943623999999545, 
             "evalType": "fireEvent", 
             "frame": 4, 
-            "id": "comp_81_17", 
+            "id": "comp_81_16", 
             "name": "load", 
             "startTime": 1.9433129999997618, 
             "subtree": "subtree_comp_81", 
@@ -6260,14 +6109,14 @@
             "blocking": 1, 
             "children": [
                 "download_92", 
-                "comp_81_19"
+                "comp_81_18"
             ], 
             "docUrl": "http://mlb.mlb.com/home", 
             "enclosing": "comp_81", 
             "endTime": 1.9514820000003965, 
             "evalType": "fireEvent", 
             "frame": 4, 
-            "id": "comp_81_18", 
+            "id": "comp_81_17", 
             "name": "load", 
             "startTime": 1.943623999999545, 
             "subtree": "subtree_comp_81", 
@@ -6278,14 +6127,14 @@
             "blocking": 1, 
             "children": [
                 "download_95", 
-                "comp_81_20"
+                "comp_81_19"
             ], 
             "docUrl": "http://mlb.mlb.com/home", 
             "enclosing": "comp_81", 
             "endTime": 1.9516509999994014, 
             "evalType": "fireEvent", 
             "frame": 4, 
-            "id": "comp_81_19", 
+            "id": "comp_81_18", 
             "name": "load", 
             "startTime": 1.9514820000003965, 
             "subtree": "subtree_comp_81", 
@@ -6296,14 +6145,14 @@
             "blocking": 1, 
             "children": [
                 "download_336", 
-                "comp_81_21"
+                "comp_81_20"
             ], 
             "docUrl": "http://mlb.mlb.com/home", 
             "enclosing": "comp_81", 
             "endTime": 1.9620880000002217, 
             "evalType": "fireEvent", 
             "frame": 4, 
-            "id": "comp_81_20", 
+            "id": "comp_81_19", 
             "name": "load", 
             "startTime": 1.9516509999994014, 
             "subtree": "subtree_comp_81", 
@@ -6314,14 +6163,14 @@
             "blocking": 1, 
             "children": [
                 "download_78", 
-                "comp_81_22"
+                "comp_81_21"
             ], 
             "docUrl": "http://mlb.mlb.com/home", 
             "enclosing": "comp_81", 
             "endTime": 1.972159000000829, 
             "evalType": "fireEvent", 
             "frame": 4, 
-            "id": "comp_81_21", 
+            "id": "comp_81_20", 
             "name": "load", 
             "startTime": 1.9620880000002217, 
             "subtree": "subtree_comp_81", 
@@ -6332,14 +6181,14 @@
             "blocking": 1, 
             "children": [
                 "download_79", 
-                "comp_81_23"
+                "comp_81_22"
             ], 
             "docUrl": "http://mlb.mlb.com/home", 
             "enclosing": "comp_81", 
             "endTime": 1.9747559999996156, 
             "evalType": "fireEvent", 
             "frame": 4, 
-            "id": "comp_81_22", 
+            "id": "comp_81_21", 
             "name": "load", 
             "startTime": 1.972159000000829, 
             "subtree": "subtree_comp_81", 
@@ -6354,7 +6203,7 @@
             "endTime": 1.9766600000002654, 
             "evalType": "fireEvent", 
             "frame": 4, 
-            "id": "comp_81_23", 
+            "id": "comp_81_22", 
             "name": "load", 
             "startTime": 1.9747559999996156, 
             "subtree": "subtree_comp_81", 
@@ -7253,12 +7102,12 @@
         {
             "blocking": 1, 
             "children": [
-                "download_111", 
+                "download_339", 
                 "comp_134_8"
             ], 
             "docUrl": "http://mlb.mlb.com/home", 
             "enclosing": "comp_134", 
-            "endTime": 2.5808519999991404, 
+            "endTime": 2.5871809999989637, 
             "evalType": "fireEvent", 
             "frame": 4, 
             "id": "comp_134_7", 
@@ -7271,33 +7120,15 @@
         {
             "blocking": 1, 
             "children": [
-                "download_339", 
-                "comp_134_9"
-            ], 
-            "docUrl": "http://mlb.mlb.com/home", 
-            "enclosing": "comp_134", 
-            "endTime": 2.5871809999989637, 
-            "evalType": "fireEvent", 
-            "frame": 4, 
-            "id": "comp_134_8", 
-            "name": "readystatechange", 
-            "startTime": 2.5808519999991404, 
-            "subtree": "subtree_comp_134", 
-            "targetType": "XMLHTTPRequest", 
-            "type": "eval"
-        }, 
-        {
-            "blocking": 1, 
-            "children": [
                 "download_340", 
-                "comp_134_10"
+                "comp_134_9"
             ], 
             "docUrl": "http://mlb.mlb.com/home", 
             "enclosing": "comp_134", 
             "endTime": 2.587192999999388, 
             "evalType": "fireEvent", 
             "frame": 4, 
-            "id": "comp_134_9", 
+            "id": "comp_134_8", 
             "name": "readystatechange", 
             "startTime": 2.5871809999989637, 
             "subtree": "subtree_comp_134", 
@@ -7314,7 +7145,7 @@
             "endTime": 2.696533999998792, 
             "evalType": "fireEvent", 
             "frame": 4, 
-            "id": "comp_134_10", 
+            "id": "comp_134_9", 
             "name": "readystatechange", 
             "startTime": 2.587192999999388, 
             "subtree": "subtree_comp_134", 
@@ -7909,9 +7740,7 @@
         }, 
         {
             "blocking": 4, 
-            "children": [
-                "comp_176"
-            ], 
+            "children": [], 
             "docUrl": "http://www.120sports.com/video/embed/?width=290&height=192&mute=true&enableLive=false&showHeader=true&autoAdvance=true&autoPlay=false&bypassWhitelist=true&intervalID=0&tags=%5B%7B%22type%22%3A%22league%22%2C%22value%22%3A6386%7D%5D", 
             "enclosing": "None", 
             "endTime": 3.430993000001763, 
@@ -7925,9 +7754,7 @@
         }, 
         {
             "blocking": 4, 
-            "children": [
-                "comp_176"
-            ], 
+            "children": [], 
             "docUrl": "http://www.120sports.com/video/embed/?width=290&height=192&mute=true&enableLive=false&showHeader=true&autoAdvance=true&autoPlay=false&bypassWhitelist=true&intervalID=0&tags=%5B%7B%22type%22%3A%22league%22%2C%22value%22%3A6386%7D%5D", 
             "enclosing": "None", 
             "endTime": 3.434740000000602, 
@@ -7941,9 +7768,7 @@
         }, 
         {
             "blocking": 4, 
-            "children": [
-                "comp_176"
-            ], 
+            "children": [], 
             "docUrl": "http://www.120sports.com/video/embed/?width=290&height=192&mute=true&enableLive=false&showHeader=true&autoAdvance=true&autoPlay=false&bypassWhitelist=true&intervalID=0&tags=%5B%7B%22type%22%3A%22league%22%2C%22value%22%3A6386%7D%5D", 
             "enclosing": "None", 
             "endTime": 3.4989329999989423, 
@@ -14406,7 +14231,7 @@
         {
             "blocking": 1, 
             "children": [
-                "download_363", 
+                "download_111", 
                 "comp_3249_4"
             ], 
             "docUrl": "http://mlb.mlb.com/home", 
@@ -16306,7 +16131,7 @@
             "endColumn": 40, 
             "endRow": 2107, 
             "endTag": "div", 
-            "endTime": 370387.5215169998, 
+            "endTime": 0.6129929999915475, 
             "frame": 4, 
             "id": "pchunk_4_23", 
             "isFragment": false, 

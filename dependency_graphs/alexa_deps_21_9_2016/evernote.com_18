@@ -583,20 +583,6 @@
             "httpMethod": "GET", 
             "id": "download_31", 
             "mimeType": "image/jpeg", 
-            "sentTime": 3.161564999998518, 
-            "size": 323945, 
-            "type": "resource", 
-            "url": "https://cdn1.evernote.com/evernote.com/img/homepage/homepage-hero-video-desktop-still.jpg"
-        }, 
-        {
-            "cached": true, 
-            "children": [
-                "comp_31_0"
-            ], 
-            "httpMethod": "GET", 
-            "id": "download_57", 
-            "mimeType": "image/jpeg", 
-            "originalResource": "download_31", 
             "sentTime": 3.1620210000000952, 
             "size": 323945, 
             "type": "resource", 
@@ -1060,7 +1046,7 @@
             ], 
             "docUrl": "https://evernote.com/", 
             "enclosing": "comp_8", 
-            "endTime": 3.161564999998518, 
+            "endTime": 3.1620210000000952, 
             "evalType": "execScript", 
             "frame": 0, 
             "id": "comp_8_0", 
@@ -1072,32 +1058,15 @@
         {
             "blocking": 1, 
             "children": [
-                "download_57", 
-                "comp_8_2"
-            ], 
-            "docUrl": "https://evernote.com/", 
-            "enclosing": "comp_8", 
-            "endTime": 3.1620210000000952, 
-            "evalType": "execScript", 
-            "frame": 0, 
-            "id": "comp_8_1", 
-            "startTime": 3.161564999998518, 
-            "subtree": "subtree_comp_8", 
-            "type": "eval", 
-            "url": "https://evernote.com/media/js/build/home-min.js"
-        }, 
-        {
-            "blocking": 1, 
-            "children": [
                 "download_30", 
-                "comp_8_3"
+                "comp_8_2"
             ], 
             "docUrl": "https://evernote.com/", 
             "enclosing": "comp_8", 
             "endTime": 3.170382000000245, 
             "evalType": "execScript", 
             "frame": 0, 
-            "id": "comp_8_2", 
+            "id": "comp_8_1", 
             "startTime": 3.1620210000000952, 
             "subtree": "subtree_comp_8", 
             "type": "eval", 
@@ -1107,14 +1076,14 @@
             "blocking": 1, 
             "children": [
                 "download_27", 
-                "comp_8_4"
+                "comp_8_3"
             ], 
             "docUrl": "https://evernote.com/", 
             "enclosing": "comp_8", 
             "endTime": 3.1729659999982687, 
             "evalType": "execScript", 
             "frame": 0, 
-            "id": "comp_8_3", 
+            "id": "comp_8_2", 
             "startTime": 3.170382000000245, 
             "subtree": "subtree_comp_8", 
             "type": "eval", 
@@ -1130,7 +1099,7 @@
             "endTime": 3.1738679999980377, 
             "evalType": "execScript", 
             "frame": 0, 
-            "id": "comp_8_4", 
+            "id": "comp_8_3", 
             "startTime": 3.1729659999982687, 
             "subtree": "subtree_comp_8", 
             "type": "eval", 
@@ -2000,7 +1969,7 @@
             "endColumn": 43, 
             "endRow": 164, 
             "endTag": "video", 
-            "endTime": 174391.77212099984, 
+            "endTime": 1.1485789999787812, 
             "frame": 0, 
             "id": "pchunk_0_3", 
             "isFragment": false, 

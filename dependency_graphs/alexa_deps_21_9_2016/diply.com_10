@@ -3609,12 +3609,12 @@
         {
             "blocking": 1, 
             "children": [
-                "download_40", 
+                "download_47", 
                 "comp_76_3"
             ], 
             "docUrl": "http://diply.com/", 
             "enclosing": "comp_76", 
-            "endTime": 1.4940440000000308, 
+            "endTime": 1.492761999999857, 
             "evalType": "fireEvent", 
             "frame": 1, 
             "id": "comp_76_2", 
@@ -3627,15 +3627,48 @@
         {
             "blocking": 1, 
             "children": [
-                "download_47", 
-                "download_48"
+                "download_40", 
+                "comp_76_4"
             ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_76", 
+            "endTime": 1.4940440000000308, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_76_3", 
+            "name": "load", 
+            "startTime": 1.492761999999857, 
+            "subtree": "subtree_comp_76", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_48", 
+                "comp_76_5"
+            ], 
+            "docUrl": "http://diply.com/", 
+            "enclosing": "comp_76", 
+            "endTime": 1.4940440000000308, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_76_4", 
+            "name": "load", 
+            "startTime": 1.4940440000000308, 
+            "subtree": "subtree_comp_76", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
             "docUrl": "http://diply.com/", 
             "enclosing": "comp_76", 
             "endTime": 1.495350999999573, 
             "evalType": "fireEvent", 
             "frame": 1, 
-            "id": "comp_76_3", 
+            "id": "comp_76_5", 
             "name": "load", 
             "startTime": 1.4940440000000308, 
             "subtree": "subtree_comp_76", 

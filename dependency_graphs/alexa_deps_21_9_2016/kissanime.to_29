@@ -8776,6 +8776,22 @@
             "blocking": 3, 
             "children": [
                 "download_156", 
+                "comp_413_2"
+            ], 
+            "docUrl": "http://kissanime.to/", 
+            "enclosing": "comp_413", 
+            "endTime": 4.431900000003225, 
+            "evalType": "execScript", 
+            "frame": 10, 
+            "id": "comp_413_1", 
+            "startTime": 4.431900000003225, 
+            "subtree": "subtree_comp_413", 
+            "type": "eval", 
+            "url": "http://ib.adnxs.com/jpt?callback=pbjs.handleAnCB&callback_uid=2755ff673&psa=0&id=9392300&referrer=http%3A%2F%2Fkissanime.to%2F"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
                 "comp_415_0"
             ], 
             "docUrl": "http://kissanime.to/", 
@@ -8783,7 +8799,7 @@
             "endTime": 4.439096000001882, 
             "evalType": "execScript", 
             "frame": 10, 
-            "id": "comp_413_1", 
+            "id": "comp_413_2", 
             "startTime": 4.431900000003225, 
             "subtree": "subtree_comp_413", 
             "type": "eval", 
@@ -13114,7 +13130,7 @@
             "endColumn": 2277, 
             "endRow": 14, 
             "endTag": "script", 
-            "endTime": 160326.19887700005, 
+            "endTime": 2.9371399999981804, 
             "frame": 19, 
             "id": "pchunk_19_4", 
             "isFragment": false, 

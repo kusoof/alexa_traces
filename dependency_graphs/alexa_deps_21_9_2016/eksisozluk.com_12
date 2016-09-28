@@ -4074,12 +4074,12 @@
         {
             "blocking": 1, 
             "children": [
-                "download_87", 
+                "download_92", 
                 "comp_202_2"
             ], 
             "docUrl": "https://tpc.googlesyndication.com/safeframe/1-0-4/html/container.html#xpc=sf-gdn-exp-3&p=https%3A//eksisozluk.com", 
             "enclosing": "comp_202", 
-            "endTime": 2.8629129999990255, 
+            "endTime": 2.854890999999043, 
             "evalType": "execScript", 
             "frame": 10, 
             "id": "comp_202_1", 
@@ -4091,15 +4091,32 @@
         {
             "blocking": 1, 
             "children": [
-                "download_103", 
+                "download_87", 
                 "comp_202_3"
+            ], 
+            "docUrl": "https://tpc.googlesyndication.com/safeframe/1-0-4/html/container.html#xpc=sf-gdn-exp-3&p=https%3A//eksisozluk.com", 
+            "enclosing": "comp_202", 
+            "endTime": 2.8629129999990255, 
+            "evalType": "execScript", 
+            "frame": 10, 
+            "id": "comp_202_2", 
+            "startTime": 2.854890999999043, 
+            "subtree": "subtree_comp_202", 
+            "type": "eval", 
+            "url": "https://royale-ssl.cdn.spongecell.com/api/ad_tags/51378524/itag.js?mode=show&anticache=6084248279221"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_103", 
+                "comp_202_4"
             ], 
             "docUrl": "https://tpc.googlesyndication.com/safeframe/1-0-4/html/container.html#xpc=sf-gdn-exp-3&p=https%3A//eksisozluk.com", 
             "enclosing": "comp_202", 
             "endTime": 2.863460999999006, 
             "evalType": "execScript", 
             "frame": 10, 
-            "id": "comp_202_2", 
+            "id": "comp_202_3", 
             "startTime": 2.8629129999990255, 
             "subtree": "subtree_comp_202", 
             "type": "eval", 
@@ -4109,14 +4126,14 @@
             "blocking": 1, 
             "children": [
                 "download_100", 
-                "comp_202_4"
+                "comp_202_5"
             ], 
             "docUrl": "https://tpc.googlesyndication.com/safeframe/1-0-4/html/container.html#xpc=sf-gdn-exp-3&p=https%3A//eksisozluk.com", 
             "enclosing": "comp_202", 
             "endTime": 2.863681999999244, 
             "evalType": "execScript", 
             "frame": 10, 
-            "id": "comp_202_3", 
+            "id": "comp_202_4", 
             "startTime": 2.863460999999006, 
             "subtree": "subtree_comp_202", 
             "type": "eval", 
@@ -4126,14 +4143,14 @@
             "blocking": 1, 
             "children": [
                 "download_97", 
-                "comp_202_5"
+                "comp_202_6"
             ], 
             "docUrl": "https://tpc.googlesyndication.com/safeframe/1-0-4/html/container.html#xpc=sf-gdn-exp-3&p=https%3A//eksisozluk.com", 
             "enclosing": "comp_202", 
             "endTime": 2.8638299999984156, 
             "evalType": "execScript", 
             "frame": 10, 
-            "id": "comp_202_4", 
+            "id": "comp_202_5", 
             "startTime": 2.863681999999244, 
             "subtree": "subtree_comp_202", 
             "type": "eval", 
@@ -4143,14 +4160,14 @@
             "blocking": 1, 
             "children": [
                 "download_96", 
-                "comp_202_6"
+                "comp_202_7"
             ], 
             "docUrl": "https://tpc.googlesyndication.com/safeframe/1-0-4/html/container.html#xpc=sf-gdn-exp-3&p=https%3A//eksisozluk.com", 
             "enclosing": "comp_202", 
             "endTime": 2.863967999999659, 
             "evalType": "execScript", 
             "frame": 10, 
-            "id": "comp_202_5", 
+            "id": "comp_202_6", 
             "startTime": 2.8638299999984156, 
             "subtree": "subtree_comp_202", 
             "type": "eval", 
@@ -4164,7 +4181,7 @@
             "endTime": 2.864622999999483, 
             "evalType": "execScript", 
             "frame": 10, 
-            "id": "comp_202_6", 
+            "id": "comp_202_7", 
             "startTime": 2.863967999999659, 
             "subtree": "subtree_comp_202", 
             "type": "eval", 
@@ -4471,7 +4488,6 @@
         {
             "blocking": 1, 
             "children": [
-                "download_92", 
                 "comp_289", 
                 "comp_667"
             ], 
@@ -5627,7 +5643,7 @@
             "endColumn": 32, 
             "endRow": 225, 
             "endTag": "a", 
-            "endTime": 792384.4720390002, 
+            "endTime": 1.0299839999952383, 
             "frame": 21, 
             "id": "pchunk_21_9", 
             "isFragment": false, 
@@ -5646,7 +5662,7 @@
             "endColumn": 68, 
             "endRow": 354, 
             "endTag": "a", 
-            "endTime": 125114.33874199998, 
+            "endTime": 1.0496229999771458, 
             "frame": 21, 
             "id": "pchunk_21_10", 
             "isFragment": false, 
@@ -5665,7 +5681,7 @@
             "endColumn": 172, 
             "endRow": 976, 
             "endTag": "img", 
-            "endTime": 83410.04085000008, 
+            "endTime": 1.0673730000016803, 
             "frame": 21, 
             "id": "pchunk_21_11", 
             "isFragment": false, 
@@ -5760,7 +5776,7 @@
             "endColumn": 9, 
             "endRow": 1099, 
             "endTag": "script", 
-            "endTime": 291933.885104, 
+            "endTime": 1.1283869999988383, 
             "frame": 21, 
             "id": "pchunk_21_16", 
             "isFragment": false, 

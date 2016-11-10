@@ -1,0 +1,4829 @@
+{
+    "DOMContentLoadedEvent": "comp_24_0", 
+    "activities": [
+        {
+            "cached": false, 
+            "children": [
+                "comp_29", 
+                "comp_28", 
+                "comp_120_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_22", 
+            "mimeType": "application/x-javascript", 
+            "priority": 31, 
+            "receiveTime": 3.8988529999987804, 
+            "sentTime": 3.587595999997575, 
+            "size": 592, 
+            "type": "resource", 
+            "url": "https://nexus.ensighten.com/intuit/us_sbg_prod/code/8d168cff0367f7e70043ecac6423808b.js?conditionId0=244919"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_127_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_39", 
+            "mimeType": "application/javascript", 
+            "priority": 50, 
+            "receiveTime": 9.268417999999656, 
+            "sentTime": 9.219201999996585, 
+            "size": 30639, 
+            "type": "resource", 
+            "url": "https://js-agent.newrelic.com/nr-spa-984.min.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_120_0", 
+                "comp_3"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_4", 
+            "mimeType": "text/css", 
+            "priority": 3, 
+            "receiveTime": 1.4926919999998063, 
+            "sentTime": 1.4603079999978945, 
+            "size": 14799, 
+            "type": "resource", 
+            "url": "https://s3.intuitstatic.com/assets/harmony/assets/non_responsive/css/merged/nonresponsive-3993e2f592fc6b2824eb3f4b95b85432.css"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_120_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_23", 
+            "mimeType": "application/x-font-woff", 
+            "priority": 27, 
+            "receiveTime": 3.9009969999970053, 
+            "sentTime": 3.5863199999985227, 
+            "size": 22672, 
+            "type": "resource", 
+            "url": "https://s3.intuitstatic.com/assets/harmony/fonts/us/fsaw-bold-b67f4c7ff394d943bee6929695025afb.woff"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_210"
+            ], 
+            "httpMethod": "POST", 
+            "id": "download_67", 
+            "mimeType": "text/plain", 
+            "priority": 71, 
+            "receiveTime": 9.959603999999672, 
+            "sentTime": 9.959603999999672, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "https://trinity.platform.intuit.com/trinity/v1/intuit-clickstream"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_120_0", 
+                "comp_4"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_1", 
+            "mimeType": "text/css", 
+            "priority": 2, 
+            "receiveTime": 1.5101049999975658, 
+            "sentTime": 1.4601679999977932, 
+            "size": 316489, 
+            "type": "resource", 
+            "url": "https://s3.intuitstatic.com/assets/harmony/assets/resp/standard/css/merged/standard-0f7da29ef41cb58d8045f97b0e805d42.css"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_22_0", 
+                "comp_120_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_9", 
+            "mimeType": "application/javascript", 
+            "priority": 23, 
+            "receiveTime": 3.853447999998025, 
+            "sentTime": 3.778195999999298, 
+            "size": 30825, 
+            "type": "resource", 
+            "url": "https://s3.intuitstatic.com/assets/harmony/assets/oo_combo/oo_combo_invite_conf/js/merged/invite_conf-3bce69d084624e17f84ba2fe0c652129.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_53_0", 
+                "comp_120_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_33", 
+            "mimeType": "application/javascript", 
+            "priority": 12, 
+            "receiveTime": 4.4658199999976205, 
+            "sentTime": 4.462579999999434, 
+            "size": 82, 
+            "type": "resource", 
+            "url": "https://a.rfihub.com/idr.js?_callback=window.RocketfuelBCP.jsonpCallbacks.request_cmZpSWRJbkNhY2hl"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_120_0", 
+                "comp_7_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_5", 
+            "mimeType": "application/javascript", 
+            "priority": 14, 
+            "receiveTime": 1.6673049999990326, 
+            "sentTime": 1.591917999998259, 
+            "size": 209321, 
+            "type": "resource", 
+            "url": "https://s3.intuitstatic.com/assets/harmony/assets/resp/standard_top_js/js/merged/js-51ab8a40493c2b6ffb992b1f1439f87d.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_189"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_66", 
+            "mimeType": "application/javascript", 
+            "priority": 63, 
+            "receiveTime": 10.256466999999247, 
+            "sentTime": 10.248862999997073, 
+            "size": 11154, 
+            "type": "resource", 
+            "url": "https://accounts.intuit.com/scripts/oii-ivid-perisistence.js?v=1.17"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_120_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_35", 
+            "mimeType": "image/gif", 
+            "priority": 36, 
+            "receiveTime": 4.6418309999971825, 
+            "sentTime": 4.535288999999466, 
+            "size": 44, 
+            "type": "resource", 
+            "url": "https://www.facebook.com/tr?id=512533918923984&ev=PixelInitialized&ts=1474476918083&cd[aid]=20723172"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_120_0", 
+                "comp_20"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_8", 
+            "mimeType": "application/javascript", 
+            "priority": 22, 
+            "receiveTime": 3.8523849999983213, 
+            "sentTime": 3.7773719999968307, 
+            "size": 2528, 
+            "type": "resource", 
+            "url": "https://s3.intuitstatic.com/assets/harmony/assets/geo_targeting/js/merged/geo_targeting-0bd870273f97c509fa42e2e9dbba615a.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_120_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_13", 
+            "mimeType": "image/jpeg", 
+            "priority": 16, 
+            "receiveTime": 3.5842200000006414, 
+            "sentTime": 1.6677489999965474, 
+            "size": 104134, 
+            "type": "resource", 
+            "url": "https://s3.intuitstatic.com/showroom_cms/image/content/dam/intuit/quickbooks/common/heroes/hro-qbconnect-2016v2_cc0675e2-ccd2-452e-8dd3-54c9dc139ce3.jpg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_176"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_61", 
+            "mimeType": "text/html", 
+            "priority": 47, 
+            "receiveTime": 9.853669000000082, 
+            "sentTime": 9.26770199999737, 
+            "size": 1397, 
+            "type": "resource", 
+            "url": "https://www.intuit.com/oo_inv_prompt.html"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_120_0", 
+                "comp_16_0", 
+                "comp_17"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_14", 
+            "mimeType": "text/javascript", 
+            "priority": 6, 
+            "receiveTime": 3.583227999999508, 
+            "sentTime": 1.6745019999980286, 
+            "size": 491, 
+            "type": "resource", 
+            "url": "https://nexus.ensighten.com/intuit/us_sbg_prod/serverComponent.php?r=839.8728820029646&ClientID=203&PageID=https%3A%2F%2Fwww.intuit.com%2F"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_150"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_44", 
+            "mimeType": "image/jpeg", 
+            "priority": 55, 
+            "receiveTime": 9.416014999998879, 
+            "sentTime": 9.293834999996761, 
+            "size": 164469, 
+            "type": "resource", 
+            "url": "https://s3.intuitstatic.com/showroom_cms/image/content/dam/intuit/intuitcom/index/img/hero-quickbooks-hotcakes_1600x492_0d1252e3-b97b-45ba-af7f-8bb41e8a50a3.jpg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_132_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_47", 
+            "mimeType": "application/javascript", 
+            "priority": 62, 
+            "receiveTime": 9.33394600000247, 
+            "sentTime": 9.291138999997202, 
+            "size": 745, 
+            "type": "resource", 
+            "url": "https://www.youtube.com/player_api"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_120_0", 
+                "comp_50_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_32", 
+            "mimeType": "application/x-javascript", 
+            "priority": 11, 
+            "receiveTime": 4.454513999997289, 
+            "sentTime": 4.384573999999702, 
+            "size": 20028, 
+            "type": "resource", 
+            "url": "https://c1.rfihub.net/js/tc.min.js"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_120_0", 
+                "comp_51"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_78", 
+            "mimeType": "application/x-javascript", 
+            "originalResource": "download_32", 
+            "priority": 42, 
+            "sentTime": 4.385624999998981, 
+            "size": 20028, 
+            "type": "resource", 
+            "url": "https://c1.rfihub.net/js/tc.min.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_120_0", 
+                "dchunk_4_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_30", 
+            "mimeType": "text/html", 
+            "priority": 10, 
+            "receiveTime": 4.37742199999775, 
+            "sentTime": 4.084754999999859, 
+            "size": 2213, 
+            "type": "resource", 
+            "url": "https://d.xp1.ru4.com/meta?_o=15602&_t=intuit.comcont&_random=54810791299.67838"
+        }, 
+        {
+            "cached": false, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_55", 
+            "mimeType": "image/gif", 
+            "priority": 66, 
+            "receiveTime": 9.247877999998309, 
+            "sentTime": 9.39981699999771, 
+            "size": 42, 
+            "type": "resource", 
+            "url": "https://www.google.co.uk/ads/user-lists/920584751/?script=0&url=http%3A%2F%2Fwww.xplusone-rmktg.net%2Faudiences%2F62543779&random=1189267428&ipr=y"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_134"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_48", 
+            "mimeType": "text/javascript", 
+            "priority": 68, 
+            "receiveTime": 9.344668999998248, 
+            "sentTime": 9.336673999998311, 
+            "size": 24586, 
+            "type": "resource", 
+            "url": "https://s.ytimg.com/yts/jsbin/www-widgetapi-vflwK39-Z/www-widgetapi.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_167", 
+                "comp_168"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_59", 
+            "mimeType": "application/javascript", 
+            "priority": 49, 
+            "receiveTime": 9.588097999996535, 
+            "sentTime": 9.266310999999405, 
+            "size": 6440, 
+            "type": "resource", 
+            "url": "https://www.intuit.com/assets/harmony/assets/form/js/shims/merged/minified/shims/form-validators.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "dchunk_8_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_65", 
+            "mimeType": "text/html", 
+            "priority": 46, 
+            "receiveTime": 10.24862299999586, 
+            "sentTime": 9.927417999999307, 
+            "size": 2792, 
+            "type": "resource", 
+            "url": "https://accounts.intuit.com/ividFrame.html"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_120_0", 
+                "comp_31"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_24", 
+            "mimeType": "image/gif", 
+            "priority": 35, 
+            "receiveTime": 3.961108999999851, 
+            "sentTime": 3.829688999998325, 
+            "size": 43, 
+            "type": "resource", 
+            "url": "https://sci.intuit.com/b/ss/intuiticomprod,intuitsbgprod/1/H.26/s56837897340301?AQB=1&ndh=1&t=21%2F8%2F2016%2017%3A55%3A17%203%20-60&fid=2A6E6C7EF80E702A-064245A80CBEE699&ce=UTF-8&ns=intuitinc&pageName=icom%7Cmktg%7Cwww%7Cindex&g=https%3A%2F%2Fwww.intuit.com%2F&cc=USD&ch=icom%7Cmktg&server=www.intuit.com&c1=D%3Dv1&v1=icom%7Cmktg%7Cwww&c2=D%3DpageName&c26=D%3Dv26&v26=%28no%20cookie%29&c27=D%3Dg&v27=D%3Dg&c36=H.26%7C2016%7C02%7C25%7Cus_sbg_prod&c60=D%3Dv60&v60=us-en&c64=D%3Dv64&v64=icom&c67=D%3Dv67&v67=2016-09-21%2008%3A55%3A17&c73=D%3Dv73&v73=2157&h2=icom%7Cmktg%7Cwww%7Cindex&s=1440x900&c=24&j=1.6&v=Y&k=Y&bw=934&bh=811&AQE=1"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_120_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_21", 
+            "mimeType": "application/x-font-woff", 
+            "priority": 24, 
+            "receiveTime": 3.9019179999995686, 
+            "sentTime": 3.5859270000000834, 
+            "size": 83688, 
+            "type": "resource", 
+            "url": "https://s3.intuitstatic.com/assets/harmony/fonts/us/DINNextLTPro-Light-4881065cee6131d6cffc16934a5987a0.woff"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_139"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_51", 
+            "mimeType": "image/jpeg", 
+            "priority": 57, 
+            "receiveTime": 9.385024999999587, 
+            "sentTime": 9.295404999997118, 
+            "size": 13535, 
+            "type": "resource", 
+            "url": "https://s3.intuitstatic.com/showroom_cms/image/content/dam/intuit/intuitcom/index/img/intcom-tile-checks_220x150_0a5c09c8-776b-440d-b0b9-290a8db73e27.jpg"
+        }, 
+        {
+            "cached": false, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_63", 
+            "mimeType": "image/png", 
+            "priority": 69, 
+            "receiveTime": 9.88252199999988, 
+            "sentTime": 9.857571999997162, 
+            "size": 41159, 
+            "type": "resource", 
+            "url": "https://s3.intuitstatic.com/assets/harmony/images/global-sprite-fallback-17db58114c3e8552e4ea05b54d46fc4a.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_79", 
+            "mimeType": "image/png", 
+            "originalResource": "download_63", 
+            "priority": 72, 
+            "sentTime": 9.858026999998401, 
+            "size": 41159, 
+            "type": "resource", 
+            "url": "https://s3.intuitstatic.com/assets/harmony/images/global-sprite-fallback-17db58114c3e8552e4ea05b54d46fc4a.png"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_120_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_17", 
+            "mimeType": "application/x-font-woff", 
+            "priority": 26, 
+            "receiveTime": 3.901254999997036, 
+            "sentTime": 3.5857879999966826, 
+            "size": 82068, 
+            "type": "resource", 
+            "url": "https://s3.intuitstatic.com/assets/harmony/fonts/us/DINNextLTPro-Medium-b829a37828f5914972484ad180935326.woff"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_133"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_46", 
+            "mimeType": "image/jpeg", 
+            "priority": 64, 
+            "receiveTime": 9.337294999997539, 
+            "sentTime": 9.295180999997683, 
+            "size": 9402, 
+            "type": "resource", 
+            "url": "https://s3.intuitstatic.com/showroom_cms/image/content/dam/intuit/intuitcom/products/images/tile-mint-prod_2e8958a7-e8bb-4228-9c24-0ef233c1f8a3.jpg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_164_0", 
+                "comp_165"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_58", 
+            "mimeType": "application/javascript", 
+            "priority": 48, 
+            "receiveTime": 9.569974000001821, 
+            "sentTime": 9.265863999997237, 
+            "size": 20351, 
+            "type": "resource", 
+            "url": "https://www.intuit.com/assets/harmony/assets/form/js/shims/merged/minified/shims/combos/4.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_120_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_15", 
+            "mimeType": "text/html", 
+            "priority": 43, 
+            "receiveTime": 3.7818779999979597, 
+            "sentTime": 3.782670999997208, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "about:blank"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_120_0", 
+                "comp_2"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_3", 
+            "mimeType": "text/css", 
+            "priority": 4, 
+            "receiveTime": 1.490271999999095, 
+            "sentTime": 1.4604179999987537, 
+            "size": 35834, 
+            "type": "resource", 
+            "url": "https://s3.intuitstatic.com/assets/harmony/assets/custom/css/merged/custom-5100134d6d9681afd0e34dfe31b383cd.css"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_156", 
+                "comp_157"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_54", 
+            "mimeType": "application/javascript", 
+            "priority": 52, 
+            "receiveTime": 9.42859199999657, 
+            "sentTime": 9.265295999997761, 
+            "size": 15969, 
+            "type": "resource", 
+            "url": "https://www.intuit.com/assets/harmony/assets/form/js/shims/merged/minified/shims/form-validation.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_120_0", 
+                "dchunk_0_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_37", 
+            "mimeType": "text/html", 
+            "priority": 38, 
+            "receiveTime": 4.9901890000001, 
+            "sentTime": 4.934348999999202, 
+            "size": 26, 
+            "type": "resource", 
+            "url": "https://a.rfihub.com/pstats.html?rb=24591&ca=20723172&ri=eadad931feedd709e10e69bc9962b47c&rfiidc=638174143627976320&rfiaid=eb62e56cc4904fc3a90ecf6e2580761a&stats=%7B%2257331%22%3A%22395%2C1%22%7D&ra=9745973800309002"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_120_0", 
+                "dchunk_3_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_28", 
+            "mimeType": "text/html", 
+            "priority": 8, 
+            "receiveTime": 4.039021999997203, 
+            "sentTime": 4.00540799999726, 
+            "size": 1366, 
+            "type": "resource", 
+            "url": "https://1996823.fls.doubleclick.net/activityi;src=1996823;type=fmsco864;cat=intui399;ord=1"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_129_0", 
+                "comp_128"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_40", 
+            "mimeType": "application/javascript", 
+            "priority": 44, 
+            "receiveTime": 9.269180999999662, 
+            "sentTime": 9.22030999999697, 
+            "size": 80768, 
+            "type": "resource", 
+            "url": "https://dwum8argi892z.cloudfront.net/js/cdc_lib_min_latest.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_159"
+            ], 
+            "httpMethod": "POST", 
+            "id": "download_57", 
+            "mimeType": "image/gif", 
+            "priority": 56, 
+            "receiveTime": 9.518307999998797, 
+            "sentTime": 9.419772999997804, 
+            "size": 24, 
+            "type": "resource", 
+            "url": "https://bam.nr-data.net/events/1/14c3803a97?a=1518504&v=984.313495d&to=dg4PTUIOXlkBFB5ZDFgEPklRBlcaDQhVVBs%3D&rst=13421&ref=https://www.intuit.com/"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_120_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_12", 
+            "mimeType": "image/svg+xml", 
+            "priority": 18, 
+            "receiveTime": 3.51166799999919, 
+            "sentTime": 1.6589919999969425, 
+            "size": 227615, 
+            "type": "resource", 
+            "url": "https://s3.intuitstatic.com/assets/harmony/images/global-sprite-bc8c3cbeaf1418d396c5de0dd5d78c97.svg"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_120_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_72", 
+            "mimeType": "image/svg+xml", 
+            "originalResource": "download_12", 
+            "priority": 40, 
+            "sentTime": 3.7478329999976268, 
+            "size": 227615, 
+            "type": "resource", 
+            "url": "https://s3.intuitstatic.com/assets/harmony/images/global-sprite-bc8c3cbeaf1418d396c5de0dd5d78c97.svg"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_120_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_77", 
+            "mimeType": "image/svg+xml", 
+            "originalResource": "download_12", 
+            "priority": 41, 
+            "sentTime": 3.8699719999967783, 
+            "size": 227615, 
+            "type": "resource", 
+            "url": "https://s3.intuitstatic.com/assets/harmony/images/global-sprite-bc8c3cbeaf1418d396c5de0dd5d78c97.svg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_120_0", 
+                "comp_19"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_6", 
+            "mimeType": "application/javascript", 
+            "priority": 20, 
+            "receiveTime": 3.797270999999455, 
+            "sentTime": 3.749659999997675, 
+            "size": 87199, 
+            "type": "resource", 
+            "url": "https://s3.intuitstatic.com/assets/harmony/assets/resp/standard_bottom_js/js/merged/js-1ae54a3531961fa8fec95f211ad88a54.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_137"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_43", 
+            "mimeType": "image/jpeg", 
+            "priority": 59, 
+            "receiveTime": 9.373255999998946, 
+            "sentTime": 9.293922999997449, 
+            "size": 79536, 
+            "type": "resource", 
+            "url": "https://s3.intuitstatic.com/showroom_cms/image/content/dam/intuit/intuitcom/index/img/hero-payments_6b317984-33f9-4e63-98ec-8a694aa907fd.jpg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_120_0", 
+                "comp_32_0", 
+                "comp_33"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_25", 
+            "mimeType": "application/x-javascript", 
+            "priority": 7, 
+            "receiveTime": 3.9825369999962277, 
+            "sentTime": 3.958655999998882, 
+            "size": 893, 
+            "type": "resource", 
+            "url": "https://nexus.ensighten.com/intuit/us_sbg_prod/code/27e1dd694ebcec79ae22aa4d599ff34c.js?conditionId0=365238"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_120_0", 
+                "dchunk_7_0", 
+                "comp_55_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_34", 
+            "mimeType": "text/html", 
+            "priority": 19, 
+            "receiveTime": 4.52815599999667, 
+            "sentTime": 4.4693049999987124, 
+            "size": 3376, 
+            "type": "resource", 
+            "url": "https://20723172p.rfihub.com/ca.html?rfiidc=638174143627976320&rfiaid=eb62e56cc4904fc3a90ecf6e2580761a&ver=9&rb=24591&ca=20723172&_o=24591&_t=20723172&pe=https%3A%2F%2Fd.xp1.ru4.com%2Fmeta%3F_o%3D15602%26_t%3Dintuit.comcont%26_random%3D54810791299.67838&pf=https%3A%2F%2F1996823.fls.doubleclick.net%2Factivityi%3Bsrc%3D1996823%3Btype%3Dfmsco864%3Bcat%3Dintui399%3Bord%3D1&ra=8691966703627259"
+        }, 
+        {
+            "cached": false, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_41", 
+            "mimeType": "image/gif", 
+            "priority": 67, 
+            "receiveTime": 9.28775300000052, 
+            "sentTime": 9.262567999998282, 
+            "size": 3294, 
+            "type": "resource", 
+            "url": "https://s3.intuitstatic.com/assets/harmony/images/oo_float_icon-cee183e839c50cc49f258ae3473873a5.gif"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_120_0", 
+                "comp_62"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_36", 
+            "mimeType": "image/gif", 
+            "priority": 21, 
+            "receiveTime": 4.930152000000817, 
+            "sentTime": 4.535818999996991, 
+            "size": 42, 
+            "type": "resource", 
+            "url": "https://pippio.com/api/sync?pid=1941&it=1&iv=638174143627976320"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_120_0", 
+                "comp_140"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_52", 
+            "mimeType": "image/gif", 
+            "priority": 32, 
+            "receiveTime": 9.396201999996265, 
+            "sentTime": 9.218265999999858, 
+            "size": 42, 
+            "type": "resource", 
+            "url": "https://pippio.com/api/sync?pid=1941&it=1&iv=638174143627976320"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_120_0", 
+                "comp_8"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_2", 
+            "mimeType": "application/javascript", 
+            "priority": 15, 
+            "receiveTime": 1.6804819999997562, 
+            "sentTime": 1.6559329999981856, 
+            "size": 9341, 
+            "type": "resource", 
+            "url": "https://s3.intuitstatic.com/assets/harmony/assets/non_responsive/js/merged/nonresponsive-6cf134ab4e884123165b493bcdb07ed4.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_183_0", 
+                "comp_182"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_64", 
+            "mimeType": "application/json", 
+            "priority": 45, 
+            "receiveTime": 9.909074999999575, 
+            "sentTime": 9.28813899999659, 
+            "size": 1326, 
+            "type": "resource", 
+            "url": "https://tmsasset-s3.intuitstatic.com/sbm-config-new.json"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_136"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_42", 
+            "mimeType": "image/jpeg", 
+            "priority": 60, 
+            "receiveTime": 9.367929999996704, 
+            "sentTime": 9.293502999997145, 
+            "size": 76172, 
+            "type": "resource", 
+            "url": "https://s3.intuitstatic.com/showroom_cms/image/content/dam/intuit/intuitcom/index/hero-turbotax_cb98fb49-7b9a-4ca8-9e53-a41d08ea544c.jpg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_138"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_50", 
+            "mimeType": "image/jpeg", 
+            "priority": 58, 
+            "receiveTime": 9.383153999999195, 
+            "sentTime": 9.295313999999053, 
+            "size": 5896, 
+            "type": "resource", 
+            "url": "https://s3.intuitstatic.com/showroom_cms/image/content/dam/intuit/intuitcom/index/img/tile-qboa-hp_220x150_e74c20f7-b9e4-4c49-b3c4-c228106cfa92.jpg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_145"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_53", 
+            "mimeType": "text/javascript", 
+            "priority": 53, 
+            "receiveTime": 9.39982400000008, 
+            "sentTime": 9.28184599999804, 
+            "size": 57, 
+            "type": "resource", 
+            "url": "https://bam.nr-data.net/1/14c3803a97?a=1518504&v=984.313495d&to=dg4PTUIOXlkBFB5ZDFgEPklRBlcaDQhVVBs%3D&rst=13282&ref=https://www.intuit.com/&qt=7&ap=248&be=5455&fe=7766&dc=2339&af=err,xhr,ins,spa&perf=%7B%22timing%22:%7B%22of%22:1474476909789,%22n%22:0,%22f%22:4002,%22dn%22:4002,%22dne%22:4002,%22c%22:4008,%22s%22:4153,%22ce%22:4611,%22rq%22:4611,%22rp%22:5307,%22rpe%22:5452,%22dl%22:5311,%22di%22:7794,%22ds%22:7794,%22de%22:7898,%22dc%22:13221,%22l%22:13221,%22le%22:13264%7D,%22navigation%22:%7B%7D%7D&jsonp=NREUM.setToken"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "dchunk_1_0", 
+                "comp_120_0", 
+                "comp_119_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_38", 
+            "mimeType": "text/html", 
+            "priority": 13, 
+            "receiveTime": 9.212876000001415, 
+            "sentTime": 4.47068699999727, 
+            "size": 3183, 
+            "type": "resource", 
+            "url": "https://20644041p.rfihub.com/ca.html?rfiidc=638174143627976320&rfiaid=eb62e56cc4904fc3a90ecf6e2580761a&ver=9&rb=1213&ca=20644041&pe=https%3A%2F%2Fd.xp1.ru4.com%2Fmeta%3F_o%3D15602%26_t%3Dintuit.comcont%26_random%3D54810791299.67838&pf=https%3A%2F%2F1996823.fls.doubleclick.net%2Factivityi%3Bsrc%3D1996823%3Btype%3Dfmsco864%3Bcat%3Dintui399%3Bord%3D1&ra=03686468116939068"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "dchunk_6_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_0", 
+            "mimeType": "text/html", 
+            "priority": 1, 
+            "receiveTime": 1.4611819999990985, 
+            "sentTime": 0.0, 
+            "size": 53868, 
+            "type": "resource", 
+            "url": "https://www.intuit.com/"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_120_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_31", 
+            "mimeType": "image/gif", 
+            "priority": 39, 
+            "receiveTime": 4.103466999997181, 
+            "sentTime": 4.420411999999487, 
+            "size": 42, 
+            "type": "resource", 
+            "url": "https://www.google.co.uk/ads/user-lists/1060272494/?label=mwfVCMb13AEQ7vLJ-QM&fmt=3&bg=666666&num=1&ct_cookie_present=false&cv=8&frm=2&url=https%3A%2F%2F1996823.fls.doubleclick.net%2Factivityi%3Bsrc%3D1996823%3Btype%3Dfmsco864%3Bcat%3Dintui399%3Bord%3D1&ref=https%3A%2F%2Fwww.intuit.com%2F&random=1620665033&ipr=y"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_120_0", 
+                "comp_38", 
+                "comp_39"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_27", 
+            "mimeType": "application/javascript", 
+            "priority": 33, 
+            "receiveTime": 4.056504000000132, 
+            "sentTime": 3.884731999998621, 
+            "size": 4526, 
+            "type": "resource", 
+            "url": "https://www.intuit.com/assets/harmony/assets/form/js/shims/merged/minified/shims/form-core.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_120_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_18", 
+            "mimeType": "application/x-font-woff", 
+            "priority": 25, 
+            "receiveTime": 3.901765999999043, 
+            "sentTime": 3.585877999998047, 
+            "size": 82320, 
+            "type": "resource", 
+            "url": "https://s3.intuitstatic.com/assets/harmony/fonts/us/DINNextLTPro-Regular-50c99538db0baa2c71d263345c2ae5da.woff"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_131"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_45", 
+            "mimeType": "image/jpeg", 
+            "priority": 65, 
+            "receiveTime": 9.33200399999987, 
+            "sentTime": 9.294079999999667, 
+            "size": 10900, 
+            "type": "resource", 
+            "url": "https://s3.intuitstatic.com/showroom_cms/image/content/dam/intuit/intuitcom/index/img/icom-tile-small-business-center_542534b4-7758-4c50-97d0-b235b0850784.jpg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_174", 
+                "comp_173"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_60", 
+            "mimeType": "application/javascript", 
+            "priority": 51, 
+            "receiveTime": 9.746188999997685, 
+            "sentTime": 9.58690999999817, 
+            "size": 6400, 
+            "type": "resource", 
+            "url": "https://www.intuit.com/assets/harmony/assets/form/js/shims/merged/minified/shims/plugins/jquery.ui.position.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_36", 
+                "comp_120_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_26", 
+            "mimeType": "text/css", 
+            "priority": 34, 
+            "receiveTime": 4.039626999998291, 
+            "sentTime": 3.8814559999991616, 
+            "size": 11018, 
+            "type": "resource", 
+            "url": "https://www.intuit.com/assets/harmony/assets/form/js/shims/merged/minified/shims/styles/shim.css"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "dchunk_5_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_56", 
+            "mimeType": "text/html", 
+            "priority": 61, 
+            "receiveTime": 9.441337999996904, 
+            "sentTime": 9.402976999997918, 
+            "size": 26, 
+            "type": "resource", 
+            "url": "https://a.rfihub.com/pstats.html?rb=1213&ca=20644041&ri=d1d98382cdc68b828fed5def56399799&rfiidc=638174143627976320&rfiaid=eb62e56cc4904fc3a90ecf6e2580761a&stats=%7B%2257331%22%3A%22180%2C1%22%7D&ra=8791442238725722"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_120_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_19", 
+            "mimeType": "application/x-font-woff", 
+            "priority": 29, 
+            "receiveTime": 3.8994089999978314, 
+            "sentTime": 3.5859739999978046, 
+            "size": 21912, 
+            "type": "resource", 
+            "url": "https://s3.intuitstatic.com/assets/harmony/fonts/us/fsaw-thin-c185b5ed22c006d95a48c615e01e0618.woff"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_120_0", 
+                "comp_23"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_7", 
+            "mimeType": "text/css", 
+            "priority": 37, 
+            "receiveTime": 3.867079999999987, 
+            "sentTime": 3.7851039999986824, 
+            "size": 15668, 
+            "type": "resource", 
+            "url": "https://s3.intuitstatic.com/assets/harmony/assets/opinionlabs/css/merged/opinionlabs-66ebe08f7c9551bb11fa74b19f45c185.css"
+        }, 
+        {
+            "cached": false, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_62", 
+            "mimeType": "image/png", 
+            "priority": 70, 
+            "receiveTime": 9.881627999999182, 
+            "sentTime": 9.857984999998735, 
+            "size": 3244, 
+            "type": "resource", 
+            "url": "https://s3.intuitstatic.com/assets/harmony/images/oo_inv_opinionlab_white-42da10eab636ae0418c73ce790ad40d2.png"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_6", 
+                "comp_120_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_10", 
+            "mimeType": "application/x-javascript", 
+            "priority": 5, 
+            "receiveTime": 1.62624599999981, 
+            "sentTime": 1.5354539999971166, 
+            "size": 154486, 
+            "type": "resource", 
+            "url": "https://nexus.ensighten.com/intuit/us_sbg_prod/Bootstrap.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_120_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_11", 
+            "mimeType": "image/png", 
+            "priority": 17, 
+            "receiveTime": 3.4862839999987045, 
+            "sentTime": 1.6255099999980303, 
+            "size": 1029, 
+            "type": "resource", 
+            "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEIAAABCCAIAAABsNpe/AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyRpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoTWFjaW50b3NoKSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDowRTUyRTJGREI0RjAxMUUyODlERUQ4OUY0NThCQjM5QyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDowRTUyRTJGRUI0RjAxMUUyODlERUQ4OUY0NThCQjM5QyI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOjBFNTJFMkZCQjRGMDExRTI4OURFRDg5RjQ1OEJCMzlDIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjBFNTJFMkZDQjRGMDExRTI4OURFRDg5RjQ1OEJCMzlDIi8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+RLSyZQAAAHdJREFUeNrs0sEJwDAMBEHJpP9qDXpZTtJFHObgYAuYnHNmZkTsvc+NXGuNMZ7q7nPj/Q92VRVUUEEFFVRQQQUVVFBBBRVUUEEFFVRQQQUVVFBBBRVUUEEFFVRQQQUVVFBBBRVUUEEFFVRQQQUVVFBBBdUndwswANYvVuK+48g5AAAAAElFTkSuQmCC"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_120_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_20", 
+            "mimeType": "application/x-font-woff", 
+            "priority": 28, 
+            "receiveTime": 3.8995499999982712, 
+            "sentTime": 3.5861109999968903, 
+            "size": 21940, 
+            "type": "resource", 
+            "url": "https://s3.intuitstatic.com/assets/harmony/fonts/us/fsaw-regular-4469c0d2f2a27fb5c8b7accf2bfec007.woff"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_151"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_49", 
+            "mimeType": "image/jpeg", 
+            "priority": 54, 
+            "receiveTime": 9.416287999996712, 
+            "sentTime": 9.294006000000081, 
+            "size": 94921, 
+            "type": "resource", 
+            "url": "https://s3.intuitstatic.com/showroom_cms/image/content/dam/intuit/intuitcom/index/img/hro-icom-payroll_opt_1600_492_f247fc7c-c889-4a81-81d7-bce9dcc450fc.jpg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_120_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_16", 
+            "mimeType": "application/x-font-woff", 
+            "priority": 30, 
+            "receiveTime": 3.897875999999087, 
+            "sentTime": 3.586046999997052, 
+            "size": 22008, 
+            "type": "resource", 
+            "url": "https://s3.intuitstatic.com/assets/harmony/fonts/us/fsaw-light-fa981d480223b84e67df9a92238f4d44.woff"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_120_0", 
+                "comp_41_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_29", 
+            "mimeType": "text/javascript", 
+            "priority": 9, 
+            "receiveTime": 4.07604899999933, 
+            "sentTime": 4.060646999998426, 
+            "size": 12842, 
+            "type": "resource", 
+            "url": "https://www.googleadservices.com/pagead/conversion.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_6_1"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "None", 
+            "endTime": 1.313609999997425, 
+            "evalType": "execScript", 
+            "frame": 6, 
+            "id": "comp_0", 
+            "startTime": 1.3134049999971467, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_6_2"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "None", 
+            "endTime": 1.4597969999995257, 
+            "evalType": "execScript", 
+            "frame": 6, 
+            "id": "comp_1", 
+            "startTime": 1.4503869999971357, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "comp_5"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "None", 
+            "endTime": 1.4925029999976687, 
+            "evalType": "recalcStyle", 
+            "frame": 6, 
+            "id": "comp_2", 
+            "startTime": 1.4908319999995001, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://s3.intuitstatic.com/assets/harmony/assets/custom/css/merged/custom-5100134d6d9681afd0e34dfe31b383cd.css"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "comp_5"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "None", 
+            "endTime": 1.4937479999971401, 
+            "evalType": "recalcStyle", 
+            "frame": 6, 
+            "id": "comp_3", 
+            "startTime": 1.4927579999966838, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://s3.intuitstatic.com/assets/harmony/assets/non_responsive/css/merged/nonresponsive-3993e2f592fc6b2824eb3f4b95b85432.css"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "download_23", 
+                "download_20", 
+                "download_18", 
+                "download_17", 
+                "download_16", 
+                "download_19", 
+                "download_21", 
+                "comp_5"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "None", 
+            "endTime": 1.5351889999983541, 
+            "evalType": "recalcStyle", 
+            "frame": 6, 
+            "id": "comp_4", 
+            "startTime": 1.5125149999985297, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://s3.intuitstatic.com/assets/harmony/assets/resp/standard/css/merged/standard-0f7da29ef41cb58d8045f97b0e805d42.css"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_6_6"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "None", 
+            "endTime": 1.535368999997445, 
+            "evalType": "execScript", 
+            "frame": 6, 
+            "id": "comp_5", 
+            "startTime": 1.5351919999993697, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_6_7", 
+                "comp_11_0"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "None", 
+            "endTime": 1.5918199999978242, 
+            "evalType": "execScript", 
+            "frame": 6, 
+            "id": "comp_6", 
+            "startTime": 1.5516369999968447, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://nexus.ensighten.com/intuit/us_sbg_prod/Bootstrap.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_11", 
+                "comp_7_1"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "comp_7", 
+            "endTime": 1.6247849999999744, 
+            "evalType": "execScript", 
+            "frame": 6, 
+            "id": "comp_7_0", 
+            "startTime": 1.5919249999969907, 
+            "subtree": "subtree_comp_7", 
+            "type": "eval", 
+            "url": "https://s3.intuitstatic.com/assets/harmony/assets/resp/standard_top_js/js/merged/js-51ab8a40493c2b6ffb992b1f1439f87d.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_6_8"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "comp_7", 
+            "endTime": 1.6557939999984228, 
+            "evalType": "execScript", 
+            "frame": 6, 
+            "id": "comp_7_1", 
+            "startTime": 1.6247849999999744, 
+            "subtree": "subtree_comp_7", 
+            "type": "eval", 
+            "url": "https://s3.intuitstatic.com/assets/harmony/assets/resp/standard_top_js/js/merged/js-51ab8a40493c2b6ffb992b1f1439f87d.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_6_9"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "None", 
+            "endTime": 1.6578309999968042, 
+            "evalType": "execScript", 
+            "frame": 6, 
+            "id": "comp_8", 
+            "startTime": 1.6559409999972559, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://s3.intuitstatic.com/assets/harmony/assets/non_responsive/js/merged/nonresponsive-6cf134ab4e884123165b493bcdb07ed4.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_6_10"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "None", 
+            "endTime": 1.657986999998684, 
+            "evalType": "execScript", 
+            "frame": 6, 
+            "id": "comp_9", 
+            "startTime": 1.6578869999975723, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_6_11"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "None", 
+            "endTime": 1.6583819999978004, 
+            "evalType": "execScript", 
+            "frame": 6, 
+            "id": "comp_10", 
+            "startTime": 1.6580549999998766, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_14", 
+                "comp_11_1"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "comp_11", 
+            "endTime": 1.6742799999992712, 
+            "evalType": "timer", 
+            "frame": 6, 
+            "id": "comp_11_0", 
+            "mode": "dom", 
+            "startTime": 1.6733529999983148, 
+            "subtree": "subtree_comp_11", 
+            "timeout": 0, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "comp_11", 
+            "endTime": 1.6747769999965385, 
+            "evalType": "timer", 
+            "frame": 6, 
+            "id": "comp_11_1", 
+            "mode": "dom", 
+            "startTime": 1.6742799999992712, 
+            "subtree": "subtree_comp_11", 
+            "timeout": 0, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_16_1", 
+                "download_22"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "comp_16", 
+            "endTime": 3.5874209999965387, 
+            "evalType": "execScript", 
+            "frame": 6, 
+            "id": "comp_16_0", 
+            "startTime": 3.58660499999678, 
+            "subtree": "subtree_comp_16", 
+            "type": "eval", 
+            "url": "https://nexus.ensighten.com/intuit/us_sbg_prod/serverComponent.php?r=839.8728820029646&ClientID=203&PageID=https%3A%2F%2Fwww.intuit.com%2F"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_25_0"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "comp_16", 
+            "endTime": 3.587893999996595, 
+            "evalType": "execScript", 
+            "frame": 6, 
+            "id": "comp_16_1", 
+            "startTime": 3.5874209999965387, 
+            "subtree": "subtree_comp_16", 
+            "type": "eval", 
+            "url": "https://nexus.ensighten.com/intuit/us_sbg_prod/serverComponent.php?r=839.8728820029646&ClientID=203&PageID=https%3A%2F%2Fwww.intuit.com%2F"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "None", 
+            "endTime": 3.588153999997303, 
+            "evalType": "fireEvent", 
+            "frame": 6, 
+            "id": "comp_17", 
+            "name": "load", 
+            "startTime": 3.587904999996681, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_6_14"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "None", 
+            "endTime": 3.7401859999990847, 
+            "evalType": "execScript", 
+            "frame": 6, 
+            "id": "comp_18", 
+            "startTime": 3.7398679999969318, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_6_16"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "None", 
+            "endTime": 3.776479999996809, 
+            "evalType": "execScript", 
+            "frame": 6, 
+            "id": "comp_19", 
+            "startTime": 3.749672999998438, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://s3.intuitstatic.com/assets/harmony/assets/resp/standard_bottom_js/js/merged/js-1ae54a3531961fa8fec95f211ad88a54.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_6_17"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "None", 
+            "endTime": 3.7779349999982514, 
+            "evalType": "execScript", 
+            "frame": 6, 
+            "id": "comp_20", 
+            "startTime": 3.7773859999979322, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://s3.intuitstatic.com/assets/harmony/assets/geo_targeting/js/merged/geo_targeting-0bd870273f97c509fa42e2e9dbba615a.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_6_18"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "None", 
+            "endTime": 3.778110999999626, 
+            "evalType": "execScript", 
+            "frame": 6, 
+            "id": "comp_21", 
+            "startTime": 3.7779889999983425, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_22_1", 
+                "download_15"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "comp_22", 
+            "endTime": 3.7818779999979597, 
+            "evalType": "execScript", 
+            "frame": 6, 
+            "id": "comp_22_0", 
+            "startTime": 3.778205999999045, 
+            "subtree": "subtree_comp_22", 
+            "type": "eval", 
+            "url": "https://s3.intuitstatic.com/assets/harmony/assets/oo_combo/oo_combo_invite_conf/js/merged/invite_conf-3bce69d084624e17f84ba2fe0c652129.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_6_19"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "comp_22", 
+            "endTime": 3.784965999999258, 
+            "evalType": "execScript", 
+            "frame": 6, 
+            "id": "comp_22_1", 
+            "startTime": 3.7818779999979597, 
+            "subtree": "subtree_comp_22", 
+            "type": "eval", 
+            "url": "https://s3.intuitstatic.com/assets/harmony/assets/oo_combo/oo_combo_invite_conf/js/merged/invite_conf-3bce69d084624e17f84ba2fe0c652129.js"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "None", 
+            "endTime": 3.7923089999967488, 
+            "evalType": "recalcStyle", 
+            "frame": 6, 
+            "id": "comp_23", 
+            "startTime": 3.785108999996737, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://s3.intuitstatic.com/assets/harmony/assets/opinionlabs/css/merged/opinionlabs-66ebe08f7c9551bb11fa74b19f45c185.css"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_24", 
+                "comp_24_1"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "comp_24", 
+            "endTime": 3.829485999998724, 
+            "evalType": "fireEvent", 
+            "frame": 6, 
+            "id": "comp_24_0", 
+            "name": "DOMContentLoaded", 
+            "startTime": 3.7923679999985325, 
+            "subtree": "subtree_comp_24", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_24_2", 
+                "download_77"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "comp_24", 
+            "endTime": 3.866632999997819, 
+            "evalType": "fireEvent", 
+            "frame": 6, 
+            "id": "comp_24_1", 
+            "name": "DOMContentLoaded", 
+            "startTime": 3.829485999998724, 
+            "subtree": "subtree_comp_24", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_26", 
+                "comp_24_3"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "comp_24", 
+            "endTime": 3.8811549999991257, 
+            "evalType": "fireEvent", 
+            "frame": 6, 
+            "id": "comp_24_2", 
+            "name": "DOMContentLoaded", 
+            "startTime": 3.866632999997819, 
+            "subtree": "subtree_comp_24", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_27", 
+                "comp_24_4"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "comp_24", 
+            "endTime": 3.8845499999988533, 
+            "evalType": "fireEvent", 
+            "frame": 6, 
+            "id": "comp_24_3", 
+            "name": "DOMContentLoaded", 
+            "startTime": 3.8811549999991257, 
+            "subtree": "subtree_comp_24", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_120_0"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "comp_24", 
+            "endTime": 3.896359999998822, 
+            "evalType": "fireEvent", 
+            "frame": 6, 
+            "id": "comp_24_4", 
+            "name": "DOMContentLoaded", 
+            "startTime": 3.8845499999988533, 
+            "subtree": "subtree_comp_24", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_25_1", 
+                "download_25"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "comp_25", 
+            "endTime": 3.958502999998018, 
+            "evalType": "timer", 
+            "frame": 6, 
+            "id": "comp_25_0", 
+            "mode": "load", 
+            "startTime": 3.9583669999992708, 
+            "subtree": "subtree_comp_25", 
+            "timeout": 0, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "comp_25", 
+            "endTime": 3.9588129999974626, 
+            "evalType": "timer", 
+            "frame": 6, 
+            "id": "comp_25_1", 
+            "mode": "load", 
+            "startTime": 3.958502999998018, 
+            "subtree": "subtree_comp_25", 
+            "timeout": 0, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "None", 
+            "endTime": 3.9599289999969187, 
+            "evalType": "execScript", 
+            "frame": 6, 
+            "id": "comp_28", 
+            "startTime": 3.959588999998232, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://nexus.ensighten.com/intuit/us_sbg_prod/code/8d168cff0367f7e70043ecac6423808b.js?conditionId0=244919"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "None", 
+            "endTime": 3.960457999997743, 
+            "evalType": "fireEvent", 
+            "frame": 6, 
+            "id": "comp_29", 
+            "name": "load", 
+            "startTime": 3.9599379999999655, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "None", 
+            "endTime": 3.96339799999987, 
+            "evalType": "fireEvent", 
+            "frame": 6, 
+            "id": "comp_31", 
+            "name": "load", 
+            "startTime": 3.9632480000000214, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_32_1", 
+                "download_28"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "comp_32", 
+            "endTime": 3.9835389999971085, 
+            "evalType": "execScript", 
+            "frame": 6, 
+            "id": "comp_32_0", 
+            "startTime": 3.9830569999976433, 
+            "subtree": "subtree_comp_32", 
+            "type": "eval", 
+            "url": "https://nexus.ensighten.com/intuit/us_sbg_prod/code/27e1dd694ebcec79ae22aa4d599ff34c.js?conditionId0=365238"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "comp_32", 
+            "endTime": 3.984419999997044, 
+            "evalType": "execScript", 
+            "frame": 6, 
+            "id": "comp_32_1", 
+            "startTime": 3.9835389999971085, 
+            "subtree": "subtree_comp_32", 
+            "type": "eval", 
+            "url": "https://nexus.ensighten.com/intuit/us_sbg_prod/code/27e1dd694ebcec79ae22aa4d599ff34c.js?conditionId0=365238"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "None", 
+            "endTime": 3.984495999997307, 
+            "evalType": "fireEvent", 
+            "frame": 6, 
+            "id": "comp_33", 
+            "name": "load", 
+            "startTime": 3.98443099999713, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "None", 
+            "endTime": 4.056359999998676, 
+            "evalType": "recalcStyle", 
+            "frame": 6, 
+            "id": "comp_36", 
+            "startTime": 4.040040999996563, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://www.intuit.com/assets/harmony/assets/form/js/shims/merged/minified/shims/styles/shim.css"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_3_1"
+            ], 
+            "docUrl": "https://1996823.fls.doubleclick.net/activityi;src=1996823;type=fmsco864;cat=intui399;ord=1", 
+            "enclosing": "None", 
+            "endTime": 4.060543999999936, 
+            "evalType": "execScript", 
+            "frame": 3, 
+            "id": "comp_37", 
+            "startTime": 4.057683999999426, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 3, 
+            "children": [], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "None", 
+            "endTime": 4.069648999997298, 
+            "evalType": "execScript", 
+            "frame": 6, 
+            "id": "comp_38", 
+            "startTime": 4.0645929999991495, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://www.intuit.com/assets/harmony/assets/form/js/shims/merged/minified/shims/form-core.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "None", 
+            "endTime": 4.070549000000028, 
+            "evalType": "fireEvent", 
+            "frame": 6, 
+            "id": "comp_39", 
+            "name": "load", 
+            "startTime": 4.0696570000000065, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_31", 
+                "comp_41_1"
+            ], 
+            "docUrl": "https://1996823.fls.doubleclick.net/activityi;src=1996823;type=fmsco864;cat=intui399;ord=1", 
+            "enclosing": "comp_41", 
+            "endTime": 4.083976999998413, 
+            "evalType": "execScript", 
+            "frame": 3, 
+            "id": "comp_41_0", 
+            "startTime": 4.07632399999784, 
+            "subtree": "subtree_comp_41", 
+            "type": "eval", 
+            "url": "https://www.googleadservices.com/pagead/conversion.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_3_2"
+            ], 
+            "docUrl": "https://1996823.fls.doubleclick.net/activityi;src=1996823;type=fmsco864;cat=intui399;ord=1", 
+            "enclosing": "comp_41", 
+            "endTime": 4.0840489999973215, 
+            "evalType": "execScript", 
+            "frame": 3, 
+            "id": "comp_41_1", 
+            "startTime": 4.083976999998413, 
+            "subtree": "subtree_comp_41", 
+            "type": "eval", 
+            "url": "https://www.googleadservices.com/pagead/conversion.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_30", 
+                "comp_42_1"
+            ], 
+            "docUrl": "https://1996823.fls.doubleclick.net/activityi;src=1996823;type=fmsco864;cat=intui399;ord=1", 
+            "enclosing": "comp_42", 
+            "endTime": 4.084544999997888, 
+            "evalType": "execScript", 
+            "frame": 3, 
+            "id": "comp_42_0", 
+            "startTime": 4.084134999997332, 
+            "subtree": "subtree_comp_42", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_3_3"
+            ], 
+            "docUrl": "https://1996823.fls.doubleclick.net/activityi;src=1996823;type=fmsco864;cat=intui399;ord=1", 
+            "enclosing": "comp_42", 
+            "endTime": 4.084914999999455, 
+            "evalType": "execScript", 
+            "frame": 3, 
+            "id": "comp_42_1", 
+            "startTime": 4.084544999997888, 
+            "subtree": "subtree_comp_42", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_48_1", 
+                "download_32"
+            ], 
+            "docUrl": "https://d.xp1.ru4.com/meta?_o=15602&_t=intuit.comcont&_random=54810791299.67838", 
+            "enclosing": "comp_48", 
+            "endTime": 4.383809999999357, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_48_0", 
+            "startTime": 4.378068999998504, 
+            "subtree": "subtree_comp_48", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_4_1"
+            ], 
+            "docUrl": "https://d.xp1.ru4.com/meta?_o=15602&_t=intuit.comcont&_random=54810791299.67838", 
+            "enclosing": "comp_48", 
+            "endTime": 4.384923999998136, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_48_1", 
+            "startTime": 4.383809999999357, 
+            "subtree": "subtree_comp_48", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_49_1", 
+                "download_78"
+            ], 
+            "docUrl": "https://d.xp1.ru4.com/meta?_o=15602&_t=intuit.comcont&_random=54810791299.67838", 
+            "enclosing": "comp_49", 
+            "endTime": 4.385471999998117, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_49_0", 
+            "startTime": 4.385166999996727, 
+            "subtree": "subtree_comp_49", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://d.xp1.ru4.com/meta?_o=15602&_t=intuit.comcont&_random=54810791299.67838", 
+            "enclosing": "comp_49", 
+            "endTime": 4.385683999997127, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_49_1", 
+            "startTime": 4.385471999998117, 
+            "subtree": "subtree_comp_49", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_33", 
+                "comp_50_1"
+            ], 
+            "docUrl": "https://d.xp1.ru4.com/meta?_o=15602&_t=intuit.comcont&_random=54810791299.67838", 
+            "enclosing": "comp_50", 
+            "endTime": 4.462272999997367, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_50_0", 
+            "startTime": 4.456135999997059, 
+            "subtree": "subtree_comp_50", 
+            "type": "eval", 
+            "url": "https://c1.rfihub.net/js/tc.min.js"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [], 
+            "docUrl": "https://d.xp1.ru4.com/meta?_o=15602&_t=intuit.comcont&_random=54810791299.67838", 
+            "enclosing": "comp_50", 
+            "endTime": 4.465182999996614, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_50_1", 
+            "startTime": 4.462272999997367, 
+            "subtree": "subtree_comp_50", 
+            "type": "eval", 
+            "url": "https://c1.rfihub.net/js/tc.min.js"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [], 
+            "docUrl": "https://d.xp1.ru4.com/meta?_o=15602&_t=intuit.comcont&_random=54810791299.67838", 
+            "enclosing": "None", 
+            "endTime": 4.46544399999766, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_51", 
+            "startTime": 4.465204000000085, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://c1.rfihub.net/js/tc.min.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_53_1", 
+                "download_34"
+            ], 
+            "docUrl": "https://d.xp1.ru4.com/meta?_o=15602&_t=intuit.comcont&_random=54810791299.67838", 
+            "enclosing": "comp_53", 
+            "endTime": 4.4682989999964775, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_53_0", 
+            "startTime": 4.4666679999972985, 
+            "subtree": "subtree_comp_53", 
+            "type": "eval", 
+            "url": "https://a.rfihub.com/idr.js?_callback=window.RocketfuelBCP.jsonpCallbacks.request_cmZpSWRJbkNhY2hl"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_38", 
+                "comp_53_2"
+            ], 
+            "docUrl": "https://d.xp1.ru4.com/meta?_o=15602&_t=intuit.comcont&_random=54810791299.67838", 
+            "enclosing": "comp_53", 
+            "endTime": 4.469898999999714, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_53_1", 
+            "startTime": 4.4682989999964775, 
+            "subtree": "subtree_comp_53", 
+            "type": "eval", 
+            "url": "https://a.rfihub.com/idr.js?_callback=window.RocketfuelBCP.jsonpCallbacks.request_cmZpSWRJbkNhY2hl"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://d.xp1.ru4.com/meta?_o=15602&_t=intuit.comcont&_random=54810791299.67838", 
+            "enclosing": "comp_53", 
+            "endTime": 4.470946999997977, 
+            "evalType": "execScript", 
+            "frame": 4, 
+            "id": "comp_53_2", 
+            "startTime": 4.469898999999714, 
+            "subtree": "subtree_comp_53", 
+            "type": "eval", 
+            "url": "https://a.rfihub.com/idr.js?_callback=window.RocketfuelBCP.jsonpCallbacks.request_cmZpSWRJbkNhY2hl"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_7_1"
+            ], 
+            "docUrl": "https://20723172p.rfihub.com/ca.html?rfiidc=638174143627976320&rfiaid=eb62e56cc4904fc3a90ecf6e2580761a&ver=9&rb=24591&ca=20723172&_o=24591&_t=20723172&pe=https%3A%2F%2Fd.xp1.ru4.com%2Fmeta%3F_o%3D15602%26_t%3Dintuit.comcont%26_random%3D54810791299.67838&pf=https%3A%2F%2F1996823.fls.doubleclick.net%2Factivityi%3Bsrc%3D1996823%3Btype%3Dfmsco864%3Bcat%3Dintui399%3Bord%3D1&ra=8691966703627259", 
+            "enclosing": "None", 
+            "endTime": 4.533715999998094, 
+            "evalType": "execScript", 
+            "frame": 7, 
+            "id": "comp_54", 
+            "startTime": 4.529227999999421, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_55_1", 
+                "download_35"
+            ], 
+            "docUrl": "https://20723172p.rfihub.com/ca.html?rfiidc=638174143627976320&rfiaid=eb62e56cc4904fc3a90ecf6e2580761a&ver=9&rb=24591&ca=20723172&_o=24591&_t=20723172&pe=https%3A%2F%2Fd.xp1.ru4.com%2Fmeta%3F_o%3D15602%26_t%3Dintuit.comcont%26_random%3D54810791299.67838&pf=https%3A%2F%2F1996823.fls.doubleclick.net%2Factivityi%3Bsrc%3D1996823%3Btype%3Dfmsco864%3Bcat%3Dintui399%3Bord%3D1&ra=8691966703627259", 
+            "enclosing": "comp_55", 
+            "endTime": 4.535443999997369, 
+            "evalType": "fireEvent", 
+            "frame": 7, 
+            "id": "comp_55_0", 
+            "name": "load", 
+            "startTime": 4.534035999997286, 
+            "subtree": "subtree_comp_55", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_55_2", 
+                "download_36"
+            ], 
+            "docUrl": "https://20723172p.rfihub.com/ca.html?rfiidc=638174143627976320&rfiaid=eb62e56cc4904fc3a90ecf6e2580761a&ver=9&rb=24591&ca=20723172&_o=24591&_t=20723172&pe=https%3A%2F%2Fd.xp1.ru4.com%2Fmeta%3F_o%3D15602%26_t%3Dintuit.comcont%26_random%3D54810791299.67838&pf=https%3A%2F%2F1996823.fls.doubleclick.net%2Factivityi%3Bsrc%3D1996823%3Btype%3Dfmsco864%3Bcat%3Dintui399%3Bord%3D1&ra=8691966703627259", 
+            "enclosing": "comp_55", 
+            "endTime": 4.5356389999979, 
+            "evalType": "fireEvent", 
+            "frame": 7, 
+            "id": "comp_55_1", 
+            "name": "load", 
+            "startTime": 4.535443999997369, 
+            "subtree": "subtree_comp_55", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://20723172p.rfihub.com/ca.html?rfiidc=638174143627976320&rfiaid=eb62e56cc4904fc3a90ecf6e2580761a&ver=9&rb=24591&ca=20723172&_o=24591&_t=20723172&pe=https%3A%2F%2Fd.xp1.ru4.com%2Fmeta%3F_o%3D15602%26_t%3Dintuit.comcont%26_random%3D54810791299.67838&pf=https%3A%2F%2F1996823.fls.doubleclick.net%2Factivityi%3Bsrc%3D1996823%3Btype%3Dfmsco864%3Bcat%3Dintui399%3Bord%3D1&ra=8691966703627259", 
+            "enclosing": "comp_55", 
+            "endTime": 4.53621099999873, 
+            "evalType": "fireEvent", 
+            "frame": 7, 
+            "id": "comp_55_2", 
+            "name": "load", 
+            "startTime": 4.5356389999979, 
+            "subtree": "subtree_comp_55", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_64_0"
+            ], 
+            "docUrl": "https://20723172p.rfihub.com/ca.html?rfiidc=638174143627976320&rfiaid=eb62e56cc4904fc3a90ecf6e2580761a&ver=9&rb=24591&ca=20723172&_o=24591&_t=20723172&pe=https%3A%2F%2Fd.xp1.ru4.com%2Fmeta%3F_o%3D15602%26_t%3Dintuit.comcont%26_random%3D54810791299.67838&pf=https%3A%2F%2F1996823.fls.doubleclick.net%2Factivityi%3Bsrc%3D1996823%3Btype%3Dfmsco864%3Bcat%3Dintui399%3Bord%3D1&ra=8691966703627259", 
+            "enclosing": "None", 
+            "endTime": 4.9315629999982775, 
+            "evalType": "fireEvent", 
+            "frame": 7, 
+            "id": "comp_62", 
+            "name": "load", 
+            "startTime": 4.930983999998716, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_65"
+            ], 
+            "docUrl": "https://d.xp1.ru4.com/meta?_o=15602&_t=intuit.comcont&_random=54810791299.67838", 
+            "enclosing": "comp_64", 
+            "endTime": 4.932531999998901, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_64_0", 
+            "name": "message", 
+            "startTime": 4.932363999996596, 
+            "subtree": "subtree_comp_64", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://d.xp1.ru4.com/meta?_o=15602&_t=intuit.comcont&_random=54810791299.67838", 
+            "enclosing": "comp_64", 
+            "endTime": 4.933142999998381, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_64_1", 
+            "name": "message", 
+            "startTime": 4.932759999999689, 
+            "subtree": "subtree_comp_64", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_66_0", 
+                "comp_64_1"
+            ], 
+            "docUrl": "https://20723172p.rfihub.com/ca.html?rfiidc=638174143627976320&rfiaid=eb62e56cc4904fc3a90ecf6e2580761a&ver=9&rb=24591&ca=20723172&_o=24591&_t=20723172&pe=https%3A%2F%2Fd.xp1.ru4.com%2Fmeta%3F_o%3D15602%26_t%3Dintuit.comcont%26_random%3D54810791299.67838&pf=https%3A%2F%2F1996823.fls.doubleclick.net%2Factivityi%3Bsrc%3D1996823%3Btype%3Dfmsco864%3Bcat%3Dintui399%3Bord%3D1&ra=8691966703627259", 
+            "enclosing": "None", 
+            "endTime": 4.932759999999689, 
+            "evalType": "fireEvent", 
+            "frame": 7, 
+            "id": "comp_65", 
+            "name": "unload", 
+            "startTime": 4.932531999998901, 
+            "subtree": "subtree_comp_64", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_66_1", 
+                "download_37"
+            ], 
+            "docUrl": "https://d.xp1.ru4.com/meta?_o=15602&_t=intuit.comcont&_random=54810791299.67838", 
+            "enclosing": "comp_66", 
+            "endTime": 4.933371999999508, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_66_0", 
+            "name": "message", 
+            "startTime": 4.9332179999983055, 
+            "subtree": "subtree_comp_66", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://d.xp1.ru4.com/meta?_o=15602&_t=intuit.comcont&_random=54810791299.67838", 
+            "enclosing": "comp_66", 
+            "endTime": 4.934572999998636, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_66_1", 
+            "name": "message", 
+            "startTime": 4.933371999999508, 
+            "subtree": "subtree_comp_66", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_1_1"
+            ], 
+            "docUrl": "https://20644041p.rfihub.com/ca.html?rfiidc=638174143627976320&rfiaid=eb62e56cc4904fc3a90ecf6e2580761a&ver=9&rb=1213&ca=20644041&pe=https%3A%2F%2Fd.xp1.ru4.com%2Fmeta%3F_o%3D15602%26_t%3Dintuit.comcont%26_random%3D54810791299.67838&pf=https%3A%2F%2F1996823.fls.doubleclick.net%2Factivityi%3Bsrc%3D1996823%3Btype%3Dfmsco864%3Bcat%3Dintui399%3Bord%3D1&ra=03686468116939068", 
+            "enclosing": "None", 
+            "endTime": 9.216699999997218, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_118", 
+            "startTime": 9.213724999997794, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_52", 
+                "comp_119_1"
+            ], 
+            "docUrl": "https://20644041p.rfihub.com/ca.html?rfiidc=638174143627976320&rfiaid=eb62e56cc4904fc3a90ecf6e2580761a&ver=9&rb=1213&ca=20644041&pe=https%3A%2F%2Fd.xp1.ru4.com%2Fmeta%3F_o%3D15602%26_t%3Dintuit.comcont%26_random%3D54810791299.67838&pf=https%3A%2F%2F1996823.fls.doubleclick.net%2Factivityi%3Bsrc%3D1996823%3Btype%3Dfmsco864%3Bcat%3Dintui399%3Bord%3D1&ra=03686468116939068", 
+            "enclosing": "comp_119", 
+            "endTime": 9.217735999998695, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_119_0", 
+            "name": "load", 
+            "startTime": 9.216895999998087, 
+            "subtree": "subtree_comp_119", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://20644041p.rfihub.com/ca.html?rfiidc=638174143627976320&rfiaid=eb62e56cc4904fc3a90ecf6e2580761a&ver=9&rb=1213&ca=20644041&pe=https%3A%2F%2Fd.xp1.ru4.com%2Fmeta%3F_o%3D15602%26_t%3Dintuit.comcont%26_random%3D54810791299.67838&pf=https%3A%2F%2F1996823.fls.doubleclick.net%2Factivityi%3Bsrc%3D1996823%3Btype%3Dfmsco864%3Bcat%3Dintui399%3Bord%3D1&ra=03686468116939068", 
+            "enclosing": "comp_119", 
+            "endTime": 9.218748999999661, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_119_1", 
+            "name": "load", 
+            "startTime": 9.217735999998695, 
+            "subtree": "subtree_comp_119", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_39", 
+                "comp_120_1"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "comp_120", 
+            "endTime": 9.219097999997757, 
+            "evalType": "fireEvent", 
+            "frame": 6, 
+            "id": "comp_120_0", 
+            "name": "load", 
+            "startTime": 9.21886899999663, 
+            "subtree": "subtree_comp_120", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_40", 
+                "comp_120_2"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "comp_120", 
+            "endTime": 9.220174999998562, 
+            "evalType": "fireEvent", 
+            "frame": 6, 
+            "id": "comp_120_1", 
+            "name": "load", 
+            "startTime": 9.219097999997757, 
+            "subtree": "subtree_comp_120", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_120_3", 
+                "download_55"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "comp_120", 
+            "endTime": 9.220671999999468, 
+            "evalType": "fireEvent", 
+            "frame": 6, 
+            "id": "comp_120_2", 
+            "name": "load", 
+            "startTime": 9.220174999998562, 
+            "subtree": "subtree_comp_120", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_121"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "comp_120", 
+            "endTime": 9.247711999996682, 
+            "evalType": "fireEvent", 
+            "frame": 6, 
+            "id": "comp_120_3", 
+            "name": "load", 
+            "startTime": 9.220671999999468, 
+            "subtree": "subtree_comp_120", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_41", 
+                "comp_120_5"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "comp_120", 
+            "endTime": 9.261271999999735, 
+            "evalType": "fireEvent", 
+            "frame": 6, 
+            "id": "comp_120_4", 
+            "name": "load", 
+            "startTime": 9.248003999997309, 
+            "subtree": "subtree_comp_120", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_146", 
+                "comp_124_0", 
+                "comp_125_0", 
+                "comp_130_0"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "comp_120", 
+            "endTime": 9.26192699999956, 
+            "evalType": "fireEvent", 
+            "frame": 6, 
+            "id": "comp_120_5", 
+            "name": "load", 
+            "startTime": 9.261271999999735, 
+            "subtree": "subtree_comp_120", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_120_4"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "None", 
+            "endTime": 9.248003999997309, 
+            "evalType": "fireEvent", 
+            "frame": 6, 
+            "id": "comp_121", 
+            "name": "readystatechange", 
+            "startTime": 9.247711999996682, 
+            "subtree": "subtree_comp_120", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_124_1", 
+                "download_54"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "comp_124", 
+            "endTime": 9.265130999996472, 
+            "evalType": "timer", 
+            "frame": 6, 
+            "id": "comp_124_0", 
+            "mode": "end", 
+            "startTime": 9.264095999998972, 
+            "subtree": "subtree_comp_124", 
+            "timeout": 9, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_58", 
+                "comp_124_2"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "comp_124", 
+            "endTime": 9.265765000000101, 
+            "evalType": "timer", 
+            "frame": 6, 
+            "id": "comp_124_1", 
+            "mode": "end", 
+            "startTime": 9.265130999996472, 
+            "subtree": "subtree_comp_124", 
+            "timeout": 9, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_59", 
+                "comp_124_3"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "comp_124", 
+            "endTime": 9.266186999997444, 
+            "evalType": "timer", 
+            "frame": 6, 
+            "id": "comp_124_2", 
+            "mode": "end", 
+            "startTime": 9.265765000000101, 
+            "subtree": "subtree_comp_124", 
+            "timeout": 9, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "comp_124", 
+            "endTime": 9.266789999997854, 
+            "evalType": "timer", 
+            "frame": 6, 
+            "id": "comp_124_3", 
+            "mode": "end", 
+            "startTime": 9.266186999997444, 
+            "subtree": "subtree_comp_124", 
+            "timeout": 9, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_126"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "comp_125", 
+            "endTime": 9.267428999999538, 
+            "evalType": "timer", 
+            "frame": 6, 
+            "id": "comp_125_0", 
+            "mode": "loadplus", 
+            "startTime": 9.266841999997268, 
+            "subtree": "subtree_comp_125", 
+            "timeout": 0, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_61", 
+                "comp_125_2"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "comp_125", 
+            "endTime": 9.26770199999737, 
+            "evalType": "timer", 
+            "frame": 6, 
+            "id": "comp_125_1", 
+            "mode": "loadplus", 
+            "startTime": 9.267574999998033, 
+            "subtree": "subtree_comp_125", 
+            "timeout": 0, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "comp_125", 
+            "endTime": 9.267790999998397, 
+            "evalType": "timer", 
+            "frame": 6, 
+            "id": "comp_125_2", 
+            "mode": "loadplus", 
+            "startTime": 9.26770199999737, 
+            "subtree": "subtree_comp_125", 
+            "timeout": 0, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_125_1"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "None", 
+            "endTime": 9.267574999998033, 
+            "evalType": "fireEvent", 
+            "frame": 6, 
+            "id": "comp_126", 
+            "name": "readystatechange", 
+            "startTime": 9.267428999999538, 
+            "subtree": "subtree_comp_125", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_53", 
+                "comp_127_1"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "comp_127", 
+            "endTime": 9.281686999998783, 
+            "evalType": "execScript", 
+            "frame": 6, 
+            "id": "comp_127_0", 
+            "startTime": 9.270465999998123, 
+            "subtree": "subtree_comp_127", 
+            "type": "eval", 
+            "url": "https://js-agent.newrelic.com/nr-spa-984.min.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "comp_127", 
+            "endTime": 9.28194699999949, 
+            "evalType": "execScript", 
+            "frame": 6, 
+            "id": "comp_127_1", 
+            "startTime": 9.281686999998783, 
+            "subtree": "subtree_comp_127", 
+            "type": "eval", 
+            "url": "https://js-agent.newrelic.com/nr-spa-984.min.js"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "None", 
+            "endTime": 9.287563999998383, 
+            "evalType": "execScript", 
+            "frame": 6, 
+            "id": "comp_128", 
+            "startTime": 9.282969999996567, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://dwum8argi892z.cloudfront.net/js/cdc_lib_min_latest.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_129_1", 
+                "download_64"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "comp_129", 
+            "endTime": 9.288018999999622, 
+            "evalType": "fireEvent", 
+            "frame": 6, 
+            "id": "comp_129_0", 
+            "name": "load", 
+            "startTime": 9.287576999999146, 
+            "subtree": "subtree_comp_129", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "comp_129", 
+            "endTime": 9.288233999999647, 
+            "evalType": "fireEvent", 
+            "frame": 6, 
+            "id": "comp_129_1", 
+            "name": "load", 
+            "startTime": 9.288018999999622, 
+            "subtree": "subtree_comp_129", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_130_1", 
+                "download_47"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "comp_130", 
+            "endTime": 9.290823999999702, 
+            "evalType": "timer", 
+            "frame": 6, 
+            "id": "comp_130_0", 
+            "mode": "end", 
+            "startTime": 9.28926599999977, 
+            "subtree": "subtree_comp_130", 
+            "timeout": 50, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_42", 
+                "comp_130_2"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "comp_130", 
+            "endTime": 9.293502999997145, 
+            "evalType": "timer", 
+            "frame": 6, 
+            "id": "comp_130_1", 
+            "mode": "end", 
+            "startTime": 9.290823999999702, 
+            "subtree": "subtree_comp_130", 
+            "timeout": 50, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_130_3", 
+                "download_44"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "comp_130", 
+            "endTime": 9.293834999996761, 
+            "evalType": "timer", 
+            "frame": 6, 
+            "id": "comp_130_2", 
+            "mode": "end", 
+            "startTime": 9.293502999997145, 
+            "subtree": "subtree_comp_130", 
+            "timeout": 50, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_43", 
+                "comp_130_4"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "comp_130", 
+            "endTime": 9.293922999997449, 
+            "evalType": "timer", 
+            "frame": 6, 
+            "id": "comp_130_3", 
+            "mode": "end", 
+            "startTime": 9.293834999996761, 
+            "subtree": "subtree_comp_130", 
+            "timeout": 50, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_49", 
+                "comp_130_5"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "comp_130", 
+            "endTime": 9.294006000000081, 
+            "evalType": "timer", 
+            "frame": 6, 
+            "id": "comp_130_4", 
+            "mode": "end", 
+            "startTime": 9.293922999997449, 
+            "subtree": "subtree_comp_130", 
+            "timeout": 50, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_130_6", 
+                "download_45"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "comp_130", 
+            "endTime": 9.294079999999667, 
+            "evalType": "timer", 
+            "frame": 6, 
+            "id": "comp_130_5", 
+            "mode": "end", 
+            "startTime": 9.294006000000081, 
+            "subtree": "subtree_comp_130", 
+            "timeout": 50, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_130_7", 
+                "download_46"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "comp_130", 
+            "endTime": 9.295180999997683, 
+            "evalType": "timer", 
+            "frame": 6, 
+            "id": "comp_130_6", 
+            "mode": "end", 
+            "startTime": 9.294079999999667, 
+            "subtree": "subtree_comp_130", 
+            "timeout": 50, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_50", 
+                "comp_130_8"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "comp_130", 
+            "endTime": 9.295313999999053, 
+            "evalType": "timer", 
+            "frame": 6, 
+            "id": "comp_130_7", 
+            "mode": "end", 
+            "startTime": 9.295180999997683, 
+            "subtree": "subtree_comp_130", 
+            "timeout": 50, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_51", 
+                "comp_130_9"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "comp_130", 
+            "endTime": 9.295404999997118, 
+            "evalType": "timer", 
+            "frame": 6, 
+            "id": "comp_130_8", 
+            "mode": "end", 
+            "startTime": 9.295313999999053, 
+            "subtree": "subtree_comp_130", 
+            "timeout": 50, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "comp_130", 
+            "endTime": 9.295429999998305, 
+            "evalType": "timer", 
+            "frame": 6, 
+            "id": "comp_130_9", 
+            "mode": "end", 
+            "startTime": 9.295404999997118, 
+            "subtree": "subtree_comp_130", 
+            "timeout": 50, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "None", 
+            "endTime": 9.335531999997329, 
+            "evalType": "fireEvent", 
+            "frame": 6, 
+            "id": "comp_131", 
+            "name": "load", 
+            "startTime": 9.334590999998909, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_48", 
+                "comp_132_1"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "comp_132", 
+            "endTime": 9.335886999997456, 
+            "evalType": "execScript", 
+            "frame": 6, 
+            "id": "comp_132_0", 
+            "startTime": 9.335571999999956, 
+            "subtree": "subtree_comp_132", 
+            "type": "eval", 
+            "url": "https://www.youtube.com/player_api"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "comp_132", 
+            "endTime": 9.336741999999504, 
+            "evalType": "execScript", 
+            "frame": 6, 
+            "id": "comp_132_1", 
+            "startTime": 9.335886999997456, 
+            "subtree": "subtree_comp_132", 
+            "type": "eval", 
+            "url": "https://www.youtube.com/player_api"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "None", 
+            "endTime": 9.339178999998694, 
+            "evalType": "fireEvent", 
+            "frame": 6, 
+            "id": "comp_133", 
+            "name": "load", 
+            "startTime": 9.338236999999936, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "None", 
+            "endTime": 9.363369999999122, 
+            "evalType": "execScript", 
+            "frame": 6, 
+            "id": "comp_134", 
+            "startTime": 9.345846999996866, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://s.ytimg.com/yts/jsbin/www-widgetapi-vflwK39-Z/www-widgetapi.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "None", 
+            "endTime": 9.372792999998637, 
+            "evalType": "fireEvent", 
+            "frame": 6, 
+            "id": "comp_136", 
+            "name": "load", 
+            "startTime": 9.372285999997985, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "None", 
+            "endTime": 9.373802999998588, 
+            "evalType": "fireEvent", 
+            "frame": 6, 
+            "id": "comp_137", 
+            "name": "load", 
+            "startTime": 9.373609999998735, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "None", 
+            "endTime": 9.384905999999319, 
+            "evalType": "fireEvent", 
+            "frame": 6, 
+            "id": "comp_138", 
+            "name": "load", 
+            "startTime": 9.384510999996564, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "None", 
+            "endTime": 9.38564999999653, 
+            "evalType": "fireEvent", 
+            "frame": 6, 
+            "id": "comp_139", 
+            "name": "load", 
+            "startTime": 9.385490999997273, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_142_0"
+            ], 
+            "docUrl": "https://20644041p.rfihub.com/ca.html?rfiidc=638174143627976320&rfiaid=eb62e56cc4904fc3a90ecf6e2580761a&ver=9&rb=1213&ca=20644041&pe=https%3A%2F%2Fd.xp1.ru4.com%2Fmeta%3F_o%3D15602%26_t%3Dintuit.comcont%26_random%3D54810791299.67838&pf=https%3A%2F%2F1996823.fls.doubleclick.net%2Factivityi%3Bsrc%3D1996823%3Btype%3Dfmsco864%3Bcat%3Dintui399%3Bord%3D1&ra=03686468116939068", 
+            "enclosing": "None", 
+            "endTime": 9.399615999998787, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_140", 
+            "name": "load", 
+            "startTime": 9.397929999999178, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_143"
+            ], 
+            "docUrl": "https://d.xp1.ru4.com/meta?_o=15602&_t=intuit.comcont&_random=54810791299.67838", 
+            "enclosing": "comp_142", 
+            "endTime": 9.400359999999637, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_142_0", 
+            "name": "message", 
+            "startTime": 9.400273999999627, 
+            "subtree": "subtree_comp_142", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://d.xp1.ru4.com/meta?_o=15602&_t=intuit.comcont&_random=54810791299.67838", 
+            "enclosing": "comp_142", 
+            "endTime": 9.400933999997505, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_142_1", 
+            "name": "message", 
+            "startTime": 9.400559999998222, 
+            "subtree": "subtree_comp_142", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_142_1", 
+                "comp_144_0"
+            ], 
+            "docUrl": "https://20644041p.rfihub.com/ca.html?rfiidc=638174143627976320&rfiaid=eb62e56cc4904fc3a90ecf6e2580761a&ver=9&rb=1213&ca=20644041&pe=https%3A%2F%2Fd.xp1.ru4.com%2Fmeta%3F_o%3D15602%26_t%3Dintuit.comcont%26_random%3D54810791299.67838&pf=https%3A%2F%2F1996823.fls.doubleclick.net%2Factivityi%3Bsrc%3D1996823%3Btype%3Dfmsco864%3Bcat%3Dintui399%3Bord%3D1&ra=03686468116939068", 
+            "enclosing": "None", 
+            "endTime": 9.400559999998222, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_143", 
+            "name": "unload", 
+            "startTime": 9.400359999999637, 
+            "subtree": "subtree_comp_142", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_56", 
+                "comp_144_1"
+            ], 
+            "docUrl": "https://d.xp1.ru4.com/meta?_o=15602&_t=intuit.comcont&_random=54810791299.67838", 
+            "enclosing": "comp_144", 
+            "endTime": 9.401908999996522, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_144_0", 
+            "name": "message", 
+            "startTime": 9.401554000000033, 
+            "subtree": "subtree_comp_144", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://d.xp1.ru4.com/meta?_o=15602&_t=intuit.comcont&_random=54810791299.67838", 
+            "enclosing": "comp_144", 
+            "endTime": 9.40313999999853, 
+            "evalType": "fireEvent", 
+            "frame": 4, 
+            "id": "comp_144_1", 
+            "name": "message", 
+            "startTime": 9.401908999996522, 
+            "subtree": "subtree_comp_144", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "None", 
+            "endTime": 9.410101999998005, 
+            "evalType": "execScript", 
+            "frame": 6, 
+            "id": "comp_145", 
+            "startTime": 9.403146999997261, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://bam.nr-data.net/1/14c3803a97?a=1518504&v=984.313495d&to=dg4PTUIOXlkBFB5ZDFgEPklRBlcaDQhVVBs%3D&rst=13282&ref=https://www.intuit.com/&qt=7&ap=248&be=5455&fe=7766&dc=2339&af=err,xhr,ins,spa&perf=%7B%22timing%22:%7B%22of%22:1474476909789,%22n%22:0,%22f%22:4002,%22dn%22:4002,%22dne%22:4002,%22c%22:4008,%22s%22:4153,%22ce%22:4611,%22rq%22:4611,%22rp%22:5307,%22rpe%22:5452,%22dl%22:5311,%22di%22:7794,%22ds%22:7794,%22de%22:7898,%22dc%22:13221,%22l%22:13221,%22le%22:13264%7D,%22navigation%22:%7B%7D%7D&jsonp=NREUM.setToken"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_147", 
+                "comp_149"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "None", 
+            "endTime": 9.413103999999294, 
+            "evalType": "fireEvent", 
+            "frame": 6, 
+            "id": "comp_146", 
+            "name": "readystatechange", 
+            "startTime": 9.411284999998315, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "None", 
+            "endTime": 9.414428999996744, 
+            "evalType": "fireEvent", 
+            "frame": 6, 
+            "id": "comp_147", 
+            "name": "error", 
+            "startTime": 9.413112999998702, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_152_0"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "None", 
+            "endTime": 9.415862999998353, 
+            "evalType": "timer", 
+            "frame": 6, 
+            "id": "comp_149", 
+            "mode": "loadplus", 
+            "startTime": 9.415666999997484, 
+            "subtree": "None", 
+            "timeout": 0, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "None", 
+            "endTime": 9.416794999997364, 
+            "evalType": "fireEvent", 
+            "frame": 6, 
+            "id": "comp_150", 
+            "name": "load", 
+            "startTime": 9.416449999996985, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "None", 
+            "endTime": 9.417071999996551, 
+            "evalType": "fireEvent", 
+            "frame": 6, 
+            "id": "comp_151", 
+            "name": "load", 
+            "startTime": 9.41682099999889, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_153"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "comp_152", 
+            "endTime": 9.419468999996752, 
+            "evalType": "timer", 
+            "frame": 6, 
+            "id": "comp_152_0", 
+            "mode": "end", 
+            "startTime": 9.417117999997572, 
+            "subtree": "subtree_comp_152", 
+            "timeout": 1, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_57", 
+                "comp_152_2"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "comp_152", 
+            "endTime": 9.419772999997804, 
+            "evalType": "timer", 
+            "frame": 6, 
+            "id": "comp_152_1", 
+            "mode": "end", 
+            "startTime": 9.419560999998794, 
+            "subtree": "subtree_comp_152", 
+            "timeout": 1, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "comp_152", 
+            "endTime": 9.420022999998764, 
+            "evalType": "timer", 
+            "frame": 6, 
+            "id": "comp_152_2", 
+            "mode": "end", 
+            "startTime": 9.419772999997804, 
+            "subtree": "subtree_comp_152", 
+            "timeout": 1, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_152_1"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "None", 
+            "endTime": 9.419560999998794, 
+            "evalType": "fireEvent", 
+            "frame": 6, 
+            "id": "comp_153", 
+            "name": "readystatechange", 
+            "startTime": 9.419468999996752, 
+            "subtree": "subtree_comp_152", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "None", 
+            "endTime": 9.430005999998684, 
+            "evalType": "execScript", 
+            "frame": 6, 
+            "id": "comp_156", 
+            "startTime": 9.42901399999755, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://www.intuit.com/assets/harmony/assets/form/js/shims/merged/minified/shims/form-validation.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "None", 
+            "endTime": 9.43027599999914, 
+            "evalType": "fireEvent", 
+            "frame": 6, 
+            "id": "comp_157", 
+            "name": "load", 
+            "startTime": 9.430021999996825, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_163", 
+                "comp_161", 
+                "comp_160"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "None", 
+            "endTime": 9.518729999999778, 
+            "evalType": "fireEvent", 
+            "frame": 6, 
+            "id": "comp_159", 
+            "name": "readystatechange", 
+            "startTime": 9.518367999997281, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "None", 
+            "endTime": 9.51892499999667, 
+            "evalType": "fireEvent", 
+            "frame": 6, 
+            "id": "comp_160", 
+            "name": "progress", 
+            "startTime": 9.518757999998343, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_162"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "None", 
+            "endTime": 9.51901099999668, 
+            "evalType": "fireEvent", 
+            "frame": 6, 
+            "id": "comp_161", 
+            "name": "readystatechange", 
+            "startTime": 9.518953999999212, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "None", 
+            "endTime": 9.519764999997278, 
+            "evalType": "fireEvent", 
+            "frame": 6, 
+            "id": "comp_162", 
+            "name": "readystatechange", 
+            "startTime": 9.519617999998445, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "None", 
+            "endTime": 9.520062999999936, 
+            "evalType": "fireEvent", 
+            "frame": 6, 
+            "id": "comp_163", 
+            "name": "load", 
+            "startTime": 9.519771999999648, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "comp_164_1", 
+                "download_60"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "comp_164", 
+            "endTime": 9.586767999997392, 
+            "evalType": "execScript", 
+            "frame": 6, 
+            "id": "comp_164_0", 
+            "startTime": 9.570382999998401, 
+            "subtree": "subtree_comp_164", 
+            "type": "eval", 
+            "url": "https://www.intuit.com/assets/harmony/assets/form/js/shims/merged/minified/shims/combos/4.js"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "comp_164", 
+            "endTime": 9.587063999999373, 
+            "evalType": "execScript", 
+            "frame": 6, 
+            "id": "comp_164_1", 
+            "startTime": 9.586767999997392, 
+            "subtree": "subtree_comp_164", 
+            "type": "eval", 
+            "url": "https://www.intuit.com/assets/harmony/assets/form/js/shims/merged/minified/shims/combos/4.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "None", 
+            "endTime": 9.587215999999898, 
+            "evalType": "fireEvent", 
+            "frame": 6, 
+            "id": "comp_165", 
+            "name": "load", 
+            "startTime": 9.587078999997175, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "None", 
+            "endTime": 9.591050999999425, 
+            "evalType": "execScript", 
+            "frame": 6, 
+            "id": "comp_167", 
+            "startTime": 9.588702999997622, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://www.intuit.com/assets/harmony/assets/form/js/shims/merged/minified/shims/form-validators.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "None", 
+            "endTime": 9.591221999999107, 
+            "evalType": "fireEvent", 
+            "frame": 6, 
+            "id": "comp_168", 
+            "name": "load", 
+            "startTime": 9.591064999996888, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "None", 
+            "endTime": 9.752032999997027, 
+            "evalType": "execScript", 
+            "frame": 6, 
+            "id": "comp_173", 
+            "startTime": 9.746760999998514, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://www.intuit.com/assets/harmony/assets/form/js/shims/merged/minified/shims/plugins/jquery.ui.position.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "None", 
+            "endTime": 9.752224999996542, 
+            "evalType": "fireEvent", 
+            "frame": 6, 
+            "id": "comp_174", 
+            "name": "load", 
+            "startTime": 9.752042999996775, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_180", 
+                "comp_177", 
+                "comp_178"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "None", 
+            "endTime": 9.853997999998683, 
+            "evalType": "fireEvent", 
+            "frame": 6, 
+            "id": "comp_176", 
+            "name": "readystatechange", 
+            "startTime": 9.853701000000001, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "None", 
+            "endTime": 9.854256999999052, 
+            "evalType": "fireEvent", 
+            "frame": 6, 
+            "id": "comp_177", 
+            "name": "progress", 
+            "startTime": 9.854060999998183, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_179_0"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "None", 
+            "endTime": 9.854847999999038, 
+            "evalType": "fireEvent", 
+            "frame": 6, 
+            "id": "comp_178", 
+            "name": "readystatechange", 
+            "startTime": 9.854271999996854, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_63", 
+                "comp_179_1"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "comp_179", 
+            "endTime": 9.85626499999853, 
+            "evalType": "fireEvent", 
+            "frame": 6, 
+            "id": "comp_179_0", 
+            "name": "readystatechange", 
+            "startTime": 9.855494999999792, 
+            "subtree": "subtree_comp_179", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_62", 
+                "comp_179_2"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "comp_179", 
+            "endTime": 9.856523999998899, 
+            "evalType": "fireEvent", 
+            "frame": 6, 
+            "id": "comp_179_1", 
+            "name": "readystatechange", 
+            "startTime": 9.85626499999853, 
+            "subtree": "subtree_comp_179", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_179_3", 
+                "download_79"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "comp_179", 
+            "endTime": 9.856534999998985, 
+            "evalType": "fireEvent", 
+            "frame": 6, 
+            "id": "comp_179_2", 
+            "name": "readystatechange", 
+            "startTime": 9.856523999998899, 
+            "subtree": "subtree_comp_179", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "comp_179", 
+            "endTime": 9.857002999997349, 
+            "evalType": "fireEvent", 
+            "frame": 6, 
+            "id": "comp_179_3", 
+            "name": "readystatechange", 
+            "startTime": 9.856534999998985, 
+            "subtree": "subtree_comp_179", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "None", 
+            "endTime": 9.857252999998309, 
+            "evalType": "fireEvent", 
+            "frame": 6, 
+            "id": "comp_180", 
+            "name": "load", 
+            "startTime": 9.85700899999938, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "None", 
+            "endTime": 9.909866999998485, 
+            "evalType": "execScript", 
+            "frame": 6, 
+            "id": "comp_182", 
+            "startTime": 9.909562999997434, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://tmsasset-s3.intuitstatic.com/sbm-config-new.json"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_183_1", 
+                "download_65"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "comp_183", 
+            "endTime": 9.926756999997451, 
+            "evalType": "fireEvent", 
+            "frame": 6, 
+            "id": "comp_183_0", 
+            "name": "load", 
+            "startTime": 9.909880999999586, 
+            "subtree": "subtree_comp_183", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_184"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "comp_183", 
+            "endTime": 9.959234999998444, 
+            "evalType": "fireEvent", 
+            "frame": 6, 
+            "id": "comp_183_1", 
+            "name": "load", 
+            "startTime": 9.926756999997451, 
+            "subtree": "subtree_comp_183", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_183_3", 
+                "download_67"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "comp_183", 
+            "endTime": 9.959603999999672, 
+            "evalType": "fireEvent", 
+            "frame": 6, 
+            "id": "comp_183_2", 
+            "name": "load", 
+            "startTime": 9.959424999997282, 
+            "subtree": "subtree_comp_183", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "comp_183", 
+            "endTime": 9.95981099999699, 
+            "evalType": "fireEvent", 
+            "frame": 6, 
+            "id": "comp_183_3", 
+            "name": "load", 
+            "startTime": 9.959603999999672, 
+            "subtree": "subtree_comp_183", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_183_2"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "None", 
+            "endTime": 9.959424999997282, 
+            "evalType": "fireEvent", 
+            "frame": 6, 
+            "id": "comp_184", 
+            "name": "readystatechange", 
+            "startTime": 9.959234999998444, 
+            "subtree": "subtree_comp_183", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_8_1"
+            ], 
+            "docUrl": "https://accounts.intuit.com/ividFrame.html", 
+            "enclosing": "None", 
+            "endTime": 10.26365899999655, 
+            "evalType": "execScript", 
+            "frame": 8, 
+            "id": "comp_189", 
+            "startTime": 10.256925999998202, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://accounts.intuit.com/scripts/oii-ivid-perisistence.js?v=1.17"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_8_2"
+            ], 
+            "docUrl": "https://accounts.intuit.com/ividFrame.html", 
+            "enclosing": "None", 
+            "endTime": 10.263774999999441, 
+            "evalType": "execScript", 
+            "frame": 8, 
+            "id": "comp_190", 
+            "startTime": 10.263721999999689, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_8_3"
+            ], 
+            "docUrl": "https://accounts.intuit.com/ividFrame.html", 
+            "enclosing": "None", 
+            "endTime": 10.300593999996636, 
+            "evalType": "execScript", 
+            "frame": 8, 
+            "id": "comp_191", 
+            "startTime": 10.263921999998274, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_211", 
+                "comp_212"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "None", 
+            "endTime": 11.490324999998847, 
+            "evalType": "fireEvent", 
+            "frame": 6, 
+            "id": "comp_210", 
+            "name": "readystatechange", 
+            "startTime": 11.489911999997275, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "None", 
+            "endTime": 11.491532000000007, 
+            "evalType": "fireEvent", 
+            "frame": 6, 
+            "id": "comp_211", 
+            "name": "readystatechange", 
+            "startTime": 11.491220999996585, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.intuit.com/", 
+            "enclosing": "None", 
+            "endTime": 11.491811999996571, 
+            "evalType": "fireEvent", 
+            "frame": 6, 
+            "id": "comp_212", 
+            "name": "load", 
+            "startTime": 11.4915379999984, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "children": [
+                "comp_54", 
+                "pchunk_7_1"
+            ], 
+            "docUrl": "https://20723172p.rfihub.com/ca.html?rfiidc=638174143627976320&rfiaid=eb62e56cc4904fc3a90ecf6e2580761a&ver=9&rb=24591&ca=20723172&_o=24591&_t=20723172&pe=https%3A%2F%2Fd.xp1.ru4.com%2Fmeta%3F_o%3D15602%26_t%3Dintuit.comcont%26_random%3D54810791299.67838&pf=https%3A%2F%2F1996823.fls.doubleclick.net%2Factivityi%3Bsrc%3D1996823%3Btype%3Dfmsco864%3Bcat%3Dintui399%3Bord%3D1&ra=8691966703627259", 
+            "endColumn": 9, 
+            "endRow": 121, 
+            "endTag": "script", 
+            "endTime": 4.5217539999976, 
+            "frame": 7, 
+            "id": "pchunk_7_0", 
+            "isFragment": false, 
+            "startColumn": 6, 
+            "startRow": 0, 
+            "startTag": "html", 
+            "startTime": 4.521512999999686, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "comp_55_0"
+            ], 
+            "docUrl": "https://20723172p.rfihub.com/ca.html?rfiidc=638174143627976320&rfiaid=eb62e56cc4904fc3a90ecf6e2580761a&ver=9&rb=24591&ca=20723172&_o=24591&_t=20723172&pe=https%3A%2F%2Fd.xp1.ru4.com%2Fmeta%3F_o%3D15602%26_t%3Dintuit.comcont%26_random%3D54810791299.67838&pf=https%3A%2F%2F1996823.fls.doubleclick.net%2Factivityi%3Bsrc%3D1996823%3Btype%3Dfmsco864%3Bcat%3Dintui399%3Bord%3D1&ra=8691966703627259", 
+            "endColumn": 14, 
+            "endRow": 124, 
+            "endTag": "html", 
+            "endTime": 4.533751000002667, 
+            "frame": 7, 
+            "id": "pchunk_7_1", 
+            "isFragment": false, 
+            "startColumn": 7, 
+            "startRow": 122, 
+            "startTag": "body", 
+            "startTime": 4.533735999997589, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_7_1", 
+                "pchunk_7_0"
+            ], 
+            "id": "dchunk_7_0", 
+            "offset": 1, 
+            "resource": "download_34", 
+            "size": 3339, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_7_1"
+            ], 
+            "id": "dchunk_7_1", 
+            "offset": 3340, 
+            "resource": "download_34", 
+            "size": 23, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_4_1", 
+                "comp_48_0"
+            ], 
+            "docUrl": "https://d.xp1.ru4.com/meta?_o=15602&_t=intuit.comcont&_random=54810791299.67838", 
+            "endColumn": 9, 
+            "endRow": 24, 
+            "endTag": "script", 
+            "endTime": 4.378020000000106, 
+            "frame": 4, 
+            "id": "pchunk_4_0", 
+            "isFragment": false, 
+            "startColumn": 108, 
+            "startRow": 0, 
+            "startTag": "html", 
+            "startTime": 4.377739999999903, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "comp_49_0"
+            ], 
+            "docUrl": "https://d.xp1.ru4.com/meta?_o=15602&_t=intuit.comcont&_random=54810791299.67838", 
+            "endColumn": 9, 
+            "endRow": 51, 
+            "endTag": "script", 
+            "endTime": 4.385084999998071, 
+            "frame": 4, 
+            "id": "pchunk_4_1", 
+            "isFragment": false, 
+            "startColumn": 10, 
+            "startRow": 25, 
+            "startTag": "noscript", 
+            "startTime": 4.384945999998308, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_4_0", 
+                "dchunk_4_1"
+            ], 
+            "id": "dchunk_4_0", 
+            "offset": 108, 
+            "resource": "download_30", 
+            "size": 858, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_4_1"
+            ], 
+            "id": "dchunk_4_1", 
+            "offset": 966, 
+            "resource": "download_30", 
+            "size": 989, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "comp_37", 
+                "pchunk_3_1"
+            ], 
+            "docUrl": "https://1996823.fls.doubleclick.net/activityi;src=1996823;type=fmsco864;cat=intui399;ord=1", 
+            "endColumn": 9, 
+            "endRow": 10, 
+            "endTag": "script", 
+            "endTime": 4.057642000007036, 
+            "frame": 3, 
+            "id": "pchunk_3_0", 
+            "isFragment": false, 
+            "startColumn": 108, 
+            "startRow": 0, 
+            "startTag": "html", 
+            "startTime": 4.057413999998971, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_3_2", 
+                "download_29"
+            ], 
+            "docUrl": "https://1996823.fls.doubleclick.net/activityi;src=1996823;type=fmsco864;cat=intui399;ord=1", 
+            "endColumn": 9, 
+            "endRow": 12, 
+            "endTag": "script", 
+            "endTime": 4.060581000001548, 
+            "frame": 3, 
+            "id": "pchunk_3_1", 
+            "isFragment": false, 
+            "startColumn": 91, 
+            "startRow": 11, 
+            "startTag": "script", 
+            "startTime": 4.060556999997061, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_3_3", 
+                "comp_42_0"
+            ], 
+            "docUrl": "https://1996823.fls.doubleclick.net/activityi;src=1996823;type=fmsco864;cat=intui399;ord=1", 
+            "endColumn": 9, 
+            "endRow": 34, 
+            "endTag": "script", 
+            "endTime": 4.084104000001389, 
+            "frame": 3, 
+            "id": "pchunk_3_2", 
+            "isFragment": false, 
+            "startColumn": 10, 
+            "startRow": 13, 
+            "startTag": "noscript", 
+            "startTime": 4.0840619999980845, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [], 
+            "docUrl": "https://1996823.fls.doubleclick.net/activityi;src=1996823;type=fmsco864;cat=intui399;ord=1", 
+            "endColumn": 23, 
+            "endRow": 34, 
+            "endTag": "html", 
+            "endTime": 4.084932999998273, 
+            "frame": 3, 
+            "id": "pchunk_3_3", 
+            "isFragment": false, 
+            "startColumn": 16, 
+            "startRow": 34, 
+            "startTag": "body", 
+            "startTime": 4.084921999998187, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_3_0", 
+                "dchunk_3_1"
+            ], 
+            "id": "dchunk_3_0", 
+            "offset": 108, 
+            "resource": "download_28", 
+            "size": 432, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_3_1", 
+                "dchunk_3_2"
+            ], 
+            "id": "dchunk_3_1", 
+            "offset": 540, 
+            "resource": "download_28", 
+            "size": 10, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_3_2", 
+                "dchunk_3_3"
+            ], 
+            "id": "dchunk_3_2", 
+            "offset": 550, 
+            "resource": "download_28", 
+            "size": 699, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_3_3"
+            ], 
+            "id": "dchunk_3_3", 
+            "offset": 1249, 
+            "resource": "download_28", 
+            "size": 7, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "comp_0", 
+                "pchunk_6_1"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "endColumn": 310, 
+            "endRow": 4, 
+            "endTag": "script", 
+            "endTime": 1.3133829999969748, 
+            "frame": 6, 
+            "id": "pchunk_6_0", 
+            "isFragment": false, 
+            "startColumn": 19, 
+            "startRow": 1, 
+            "startTag": "html", 
+            "startTime": 1.312523999997211, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_6_2", 
+                "comp_1"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "endColumn": 17987, 
+            "endRow": 5, 
+            "endTag": "script", 
+            "endTime": 1.3136489999960759, 
+            "frame": 6, 
+            "id": "pchunk_6_1", 
+            "isFragment": false, 
+            "startColumn": 31, 
+            "startRow": 5, 
+            "startTag": "script", 
+            "startTime": 1.3136199999971723, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_6_3", 
+                "download_1"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "endColumn": 178, 
+            "endRow": 18, 
+            "endTag": "link", 
+            "endTime": 1.4601350000048114, 
+            "frame": 6, 
+            "id": "pchunk_6_2", 
+            "isFragment": false, 
+            "startColumn": 55, 
+            "startRow": 7, 
+            "startTag": "meta", 
+            "startTime": 1.4598259999984293, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_4", 
+                "pchunk_6_4"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "endColumn": 184, 
+            "endRow": 19, 
+            "endTag": "link", 
+            "endTime": 1.4603639999986626, 
+            "frame": 6, 
+            "id": "pchunk_6_3", 
+            "isFragment": false, 
+            "startColumn": 184, 
+            "startRow": 19, 
+            "startTag": "link", 
+            "startTime": 1.4602509999967879, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_6_5", 
+                "download_3"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "endColumn": 169, 
+            "endRow": 20, 
+            "endTag": "link", 
+            "endTime": 1.4604709999985062, 
+            "frame": 6, 
+            "id": "pchunk_6_4", 
+            "isFragment": false, 
+            "startColumn": 169, 
+            "startRow": 20, 
+            "startTag": "link", 
+            "startTime": 1.4603709999973944, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_6_6", 
+                "comp_5"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "endColumn": 9, 
+            "endRow": 25, 
+            "endTag": "script", 
+            "endTime": 1.460490999998001, 
+            "frame": 6, 
+            "id": "pchunk_6_5", 
+            "isFragment": false, 
+            "startColumn": 31, 
+            "startRow": 22, 
+            "startTag": "script", 
+            "startTime": 1.4604769999968994, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_6_7", 
+                "download_10"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "endColumn": 100, 
+            "endRow": 28, 
+            "endTag": "script", 
+            "endTime": 1.5354130000014266, 
+            "frame": 6, 
+            "id": "pchunk_6_6", 
+            "isFragment": false, 
+            "startColumn": 91, 
+            "startRow": 28, 
+            "startTag": "script", 
+            "startTime": 1.5353849999992235, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_5", 
+                "pchunk_6_8"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "endColumn": 160, 
+            "endRow": 30, 
+            "endTag": "script", 
+            "endTime": 1.5918729999975767, 
+            "frame": 6, 
+            "id": "pchunk_6_7", 
+            "isFragment": false, 
+            "startColumn": 151, 
+            "startRow": 30, 
+            "startTag": "script", 
+            "startTime": 1.5918359999996028, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_2", 
+                "pchunk_6_9"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "endColumn": 165, 
+            "endRow": 31, 
+            "endTag": "script", 
+            "endTime": 1.6558769999974174, 
+            "frame": 6, 
+            "id": "pchunk_6_8", 
+            "isFragment": false, 
+            "startColumn": 156, 
+            "startRow": 31, 
+            "startTag": "script", 
+            "startTime": 1.6558359999980894, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "comp_9", 
+                "pchunk_6_10"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "endColumn": 9, 
+            "endRow": 54, 
+            "endTag": "script", 
+            "endTime": 1.6578589999990072, 
+            "frame": 6, 
+            "id": "pchunk_6_9", 
+            "isFragment": false, 
+            "startColumn": 31, 
+            "startRow": 32, 
+            "startTag": "script", 
+            "startTime": 1.6578409999965515, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "comp_10", 
+                "pchunk_6_11"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "endColumn": 9, 
+            "endRow": 98, 
+            "endTag": "script", 
+            "endTime": 1.658010999999533, 
+            "frame": 6, 
+            "id": "pchunk_6_10", 
+            "isFragment": false, 
+            "startColumn": 31, 
+            "startRow": 55, 
+            "startTag": "script", 
+            "startTime": 1.6579959999980929, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_12", 
+                "pchunk_6_12"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "endColumn": 99, 
+            "endRow": 118, 
+            "endTag": "span", 
+            "endTime": 1.6590180000021064, 
+            "frame": 6, 
+            "id": "pchunk_6_11", 
+            "isFragment": false, 
+            "startColumn": 7, 
+            "startRow": 104, 
+            "startTag": "head", 
+            "startTime": 1.658393999998225, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_6_13", 
+                "download_13"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "endColumn": 240, 
+            "endRow": 310, 
+            "endTag": "img", 
+            "endTime": 1.6667399999860208, 
+            "frame": 6, 
+            "id": "pchunk_6_12", 
+            "isFragment": false, 
+            "startColumn": 112, 
+            "startRow": 118, 
+            "startTag": "span", 
+            "startTime": 1.6591169999992417, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_6_14", 
+                "comp_18"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "endColumn": 9, 
+            "endRow": 534, 
+            "endTag": "script", 
+            "endTime": 1.6719100000045728, 
+            "frame": 6, 
+            "id": "pchunk_6_13", 
+            "isFragment": false, 
+            "startColumn": 6, 
+            "startRow": 311, 
+            "startTag": "div", 
+            "startTime": 1.6678669999964768, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_6_15", 
+                "download_72"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "endColumn": 133, 
+            "endRow": 769, 
+            "endTag": "span", 
+            "endTime": 3.7464010000221606, 
+            "frame": 6, 
+            "id": "pchunk_6_14", 
+            "isFragment": false, 
+            "startColumn": 15, 
+            "startRow": 537, 
+            "startTag": "section", 
+            "startTime": 3.740215999998327, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_6", 
+                "pchunk_6_16"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "endColumn": 163, 
+            "endRow": 825, 
+            "endTag": "script", 
+            "endTime": 3.749327000004996, 
+            "frame": 6, 
+            "id": "pchunk_6_15", 
+            "isFragment": false, 
+            "startColumn": 146, 
+            "startRow": 769, 
+            "startTag": "span", 
+            "startTime": 3.747870999999577, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_6_17", 
+                "download_8"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "endColumn": 164, 
+            "endRow": 827, 
+            "endTag": "script", 
+            "endTime": 3.777318999997078, 
+            "frame": 6, 
+            "id": "pchunk_6_16", 
+            "isFragment": false, 
+            "startColumn": 155, 
+            "startRow": 827, 
+            "startTag": "script", 
+            "startTime": 3.7772659999973257, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "comp_21", 
+                "pchunk_6_18"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "endColumn": 9, 
+            "endRow": 837, 
+            "endTag": "script", 
+            "endTime": 3.7779759999975795, 
+            "frame": 6, 
+            "id": "pchunk_6_17", 
+            "isFragment": false, 
+            "startColumn": 31, 
+            "startRow": 830, 
+            "startTag": "script", 
+            "startTime": 3.7779499999996915, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_6_19", 
+                "download_9"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "endColumn": 178, 
+            "endRow": 838, 
+            "endTag": "script", 
+            "endTime": 3.778166999996756, 
+            "frame": 6, 
+            "id": "pchunk_6_18", 
+            "isFragment": false, 
+            "startColumn": 169, 
+            "startRow": 838, 
+            "startTag": "script", 
+            "startTime": 3.7781209999993735, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_7", 
+                "pchunk_6_20"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "endColumn": 179, 
+            "endRow": 839, 
+            "endTag": "link", 
+            "endTime": 3.7923219999975117, 
+            "frame": 6, 
+            "id": "pchunk_6_19", 
+            "isFragment": false, 
+            "startColumn": 179, 
+            "startRow": 839, 
+            "startTag": "link", 
+            "startTime": 3.7849889999997686, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "comp_24_0"
+            ], 
+            "docUrl": "https://www.intuit.com/", 
+            "endColumn": 7, 
+            "endRow": 843, 
+            "endTag": "html", 
+            "endTime": 3.792341000000306, 
+            "frame": 6, 
+            "id": "pchunk_6_20", 
+            "isFragment": false, 
+            "startColumn": 7, 
+            "startRow": 842, 
+            "startTag": "body", 
+            "startTime": 3.792333999997936, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_6_1", 
+                "pchunk_6_0"
+            ], 
+            "id": "dchunk_6_0", 
+            "offset": 35, 
+            "resource": "download_0", 
+            "size": 341, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_6_2", 
+                "pchunk_6_1"
+            ], 
+            "id": "dchunk_6_1", 
+            "offset": 376, 
+            "resource": "download_0", 
+            "size": 17956, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_6_3", 
+                "pchunk_6_2"
+            ], 
+            "id": "dchunk_6_2", 
+            "offset": 18332, 
+            "resource": "download_0", 
+            "size": 669, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_6_3", 
+                "dchunk_6_4"
+            ], 
+            "id": "dchunk_6_3", 
+            "offset": 19001, 
+            "resource": "download_0", 
+            "size": 0, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_6_4", 
+                "dchunk_6_5"
+            ], 
+            "id": "dchunk_6_4", 
+            "offset": 19001, 
+            "resource": "download_0", 
+            "size": 0, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_6_5", 
+                "dchunk_6_6"
+            ], 
+            "id": "dchunk_6_5", 
+            "offset": 19001, 
+            "resource": "download_0", 
+            "size": 189, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_6_6", 
+                "dchunk_6_7"
+            ], 
+            "id": "dchunk_6_6", 
+            "offset": 19190, 
+            "resource": "download_0", 
+            "size": 9, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_6_7", 
+                "dchunk_6_8"
+            ], 
+            "id": "dchunk_6_7", 
+            "offset": 19199, 
+            "resource": "download_0", 
+            "size": 9, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_6_9", 
+                "pchunk_6_8"
+            ], 
+            "id": "dchunk_6_8", 
+            "offset": 19208, 
+            "resource": "download_0", 
+            "size": 9, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_6_10", 
+                "pchunk_6_9"
+            ], 
+            "id": "dchunk_6_9", 
+            "offset": 19217, 
+            "resource": "download_0", 
+            "size": 812, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_6_11", 
+                "pchunk_6_10"
+            ], 
+            "id": "dchunk_6_10", 
+            "offset": 20029, 
+            "resource": "download_0", 
+            "size": 2012, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_6_12", 
+                "pchunk_6_11"
+            ], 
+            "id": "dchunk_6_11", 
+            "offset": 22041, 
+            "resource": "download_0", 
+            "size": 571, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_6_13", 
+                "pchunk_6_12"
+            ], 
+            "id": "dchunk_6_12", 
+            "offset": 22612, 
+            "resource": "download_0", 
+            "size": 9804, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_6_13", 
+                "dchunk_6_14"
+            ], 
+            "id": "dchunk_6_13", 
+            "offset": 32416, 
+            "resource": "download_0", 
+            "size": 7290, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_6_14", 
+                "dchunk_6_15"
+            ], 
+            "id": "dchunk_6_14", 
+            "offset": 39706, 
+            "resource": "download_0", 
+            "size": 9359, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_6_15", 
+                "dchunk_6_16"
+            ], 
+            "id": "dchunk_6_15", 
+            "offset": 49065, 
+            "resource": "download_0", 
+            "size": 2785, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_6_16", 
+                "dchunk_6_17"
+            ], 
+            "id": "dchunk_6_16", 
+            "offset": 51850, 
+            "resource": "download_0", 
+            "size": 9, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_6_17", 
+                "dchunk_6_18"
+            ], 
+            "id": "dchunk_6_17", 
+            "offset": 51859, 
+            "resource": "download_0", 
+            "size": 334, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_6_19", 
+                "pchunk_6_18"
+            ], 
+            "id": "dchunk_6_18", 
+            "offset": 52193, 
+            "resource": "download_0", 
+            "size": 9, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_6_20", 
+                "pchunk_6_19"
+            ], 
+            "id": "dchunk_6_19", 
+            "offset": 52202, 
+            "resource": "download_0", 
+            "size": 0, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_6_20"
+            ], 
+            "id": "dchunk_6_20", 
+            "offset": 52202, 
+            "resource": "download_0", 
+            "size": 8, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_1", 
+                "comp_118"
+            ], 
+            "docUrl": "https://20644041p.rfihub.com/ca.html?rfiidc=638174143627976320&rfiaid=eb62e56cc4904fc3a90ecf6e2580761a&ver=9&rb=1213&ca=20644041&pe=https%3A%2F%2Fd.xp1.ru4.com%2Fmeta%3F_o%3D15602%26_t%3Dintuit.comcont%26_random%3D54810791299.67838&pf=https%3A%2F%2F1996823.fls.doubleclick.net%2Factivityi%3Bsrc%3D1996823%3Btype%3Dfmsco864%3Bcat%3Dintui399%3Bord%3D1&ra=03686468116939068", 
+            "endColumn": 9, 
+            "endRow": 121, 
+            "endTag": "script", 
+            "endTime": 9.20580599999812, 
+            "frame": 1, 
+            "id": "pchunk_1_0", 
+            "isFragment": false, 
+            "startColumn": 6, 
+            "startRow": 0, 
+            "startTag": "html", 
+            "startTime": 9.205622999998013, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "comp_119_0"
+            ], 
+            "docUrl": "https://20644041p.rfihub.com/ca.html?rfiidc=638174143627976320&rfiaid=eb62e56cc4904fc3a90ecf6e2580761a&ver=9&rb=1213&ca=20644041&pe=https%3A%2F%2Fd.xp1.ru4.com%2Fmeta%3F_o%3D15602%26_t%3Dintuit.comcont%26_random%3D54810791299.67838&pf=https%3A%2F%2F1996823.fls.doubleclick.net%2Factivityi%3Bsrc%3D1996823%3Btype%3Dfmsco864%3Bcat%3Dintui399%3Bord%3D1&ra=03686468116939068", 
+            "endColumn": 14, 
+            "endRow": 124, 
+            "endTag": "html", 
+            "endTime": 9.21672899999976, 
+            "frame": 1, 
+            "id": "pchunk_1_1", 
+            "isFragment": false, 
+            "startColumn": 7, 
+            "startRow": 122, 
+            "startTag": "body", 
+            "startTime": 9.216715999998996, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_1_1", 
+                "pchunk_1_0"
+            ], 
+            "id": "dchunk_1_0", 
+            "offset": 8, 
+            "resource": "download_38", 
+            "size": 3146, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_1"
+            ], 
+            "id": "dchunk_1_1", 
+            "offset": 3154, 
+            "resource": "download_38", 
+            "size": 23, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [], 
+            "docUrl": "https://a.rfihub.com/pstats.html?rb=24591&ca=20723172&ri=eadad931feedd709e10e69bc9962b47c&rfiidc=638174143627976320&rfiaid=eb62e56cc4904fc3a90ecf6e2580761a&stats=%7B%2257331%22%3A%22395%2C1%22%7D&ra=9745973800309002", 
+            "endColumn": 26, 
+            "endRow": 0, 
+            "endTag": "html", 
+            "endTime": 4.991992999999638, 
+            "frame": 0, 
+            "id": "pchunk_0_0", 
+            "isFragment": false, 
+            "startColumn": 6, 
+            "startRow": 0, 
+            "startTag": "html", 
+            "startTime": 4.991657999999006, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_0"
+            ], 
+            "id": "dchunk_0_0", 
+            "offset": 6, 
+            "resource": "download_37", 
+            "size": 20, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [], 
+            "docUrl": "https://a.rfihub.com/pstats.html?rb=1213&ca=20644041&ri=d1d98382cdc68b828fed5def56399799&rfiidc=638174143627976320&rfiaid=eb62e56cc4904fc3a90ecf6e2580761a&stats=%7B%2257331%22%3A%22180%2C1%22%7D&ra=8791442238725722", 
+            "endColumn": 26, 
+            "endRow": 0, 
+            "endTag": "html", 
+            "endTime": 9.44318999999814, 
+            "frame": 5, 
+            "id": "pchunk_5_0", 
+            "isFragment": false, 
+            "startColumn": 6, 
+            "startRow": 0, 
+            "startTag": "html", 
+            "startTime": 9.442880999999034, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_5_0"
+            ], 
+            "id": "dchunk_5_0", 
+            "offset": 6, 
+            "resource": "download_56", 
+            "size": 20, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_8_1", 
+                "download_66"
+            ], 
+            "docUrl": "https://accounts.intuit.com/ividFrame.html", 
+            "endColumn": 87, 
+            "endRow": 4, 
+            "endTag": "script", 
+            "endTime": 10.24867500000255, 
+            "frame": 8, 
+            "id": "pchunk_8_0", 
+            "isFragment": false, 
+            "startColumn": 6, 
+            "startRow": 2, 
+            "startTag": "html", 
+            "startTime": 10.248442999996769, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "comp_190", 
+                "pchunk_8_2"
+            ], 
+            "docUrl": "https://accounts.intuit.com/ividFrame.html", 
+            "endColumn": 106, 
+            "endRow": 5, 
+            "endTag": "script", 
+            "endTime": 10.26370799999495, 
+            "frame": 8, 
+            "id": "pchunk_8_1", 
+            "isFragment": false, 
+            "startColumn": 9, 
+            "startRow": 5, 
+            "startTag": "script", 
+            "startTime": 10.263677999999345, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_8_3", 
+                "comp_191"
+            ], 
+            "docUrl": "https://accounts.intuit.com/ividFrame.html", 
+            "endColumn": 9, 
+            "endRow": 82, 
+            "endTag": "script", 
+            "endTime": 10.263863999993191, 
+            "frame": 8, 
+            "id": "pchunk_8_2", 
+            "isFragment": false, 
+            "startColumn": 7, 
+            "startRow": 6, 
+            "startTag": "head", 
+            "startTime": 10.263784999999189, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [], 
+            "docUrl": "https://accounts.intuit.com/ividFrame.html", 
+            "endColumn": 7, 
+            "endRow": 84, 
+            "endTag": "html", 
+            "endTime": 10.30062999999791, 
+            "frame": 8, 
+            "id": "pchunk_8_3", 
+            "isFragment": false, 
+            "startColumn": 7, 
+            "startRow": 83, 
+            "startTag": "body", 
+            "startTime": 10.300616999997146, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_8_1", 
+                "pchunk_8_0"
+            ], 
+            "id": "dchunk_8_0", 
+            "offset": 12, 
+            "resource": "download_65", 
+            "size": 95, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_8_2", 
+                "pchunk_8_1"
+            ], 
+            "id": "dchunk_8_1", 
+            "offset": 107, 
+            "resource": "download_65", 
+            "size": 97, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_8_3", 
+                "pchunk_8_2"
+            ], 
+            "id": "dchunk_8_2", 
+            "offset": 204, 
+            "resource": "download_65", 
+            "size": 2553, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_8_3"
+            ], 
+            "id": "dchunk_8_3", 
+            "offset": 2757, 
+            "resource": "download_65", 
+            "size": 8, 
+            "type": "download_chunk"
+        }
+    ], 
+    "frames": [
+        {
+            "id": 7, 
+            "parent": 4, 
+            "subframes": [], 
+            "url": "https://20723172p.rfihub.com/ca.html?rfiidc=638174143627976320&rfiaid=eb62e56cc4904fc3a90ecf6e2580761a&ver=9&rb=24591&ca=20723172&_o=24591&_t=20723172&pe=https%3A%2F%2Fd.xp1.ru4.com%2Fmeta%3F_o%3D15602%26_t%3Dintuit.comcont%26_random%3D54810791299.67838&pf=https%3A%2F%2F1996823.fls.doubleclick.net%2Factivityi%3Bsrc%3D1996823%3Btype%3Dfmsco864%3Bcat%3Dintui399%3Bord%3D1&ra=8691966703627259"
+        }, 
+        {
+            "id": 4, 
+            "parent": 3, 
+            "subframes": [
+                7, 
+                1, 
+                0, 
+                5
+            ], 
+            "url": "https://d.xp1.ru4.com/meta?_o=15602&_t=intuit.comcont&_random=54810791299.67838"
+        }, 
+        {
+            "id": 3, 
+            "parent": 6, 
+            "subframes": [
+                4
+            ], 
+            "url": "https://1996823.fls.doubleclick.net/activityi;src=1996823;type=fmsco864;cat=intui399;ord=1"
+        }, 
+        {
+            "id": 2, 
+            "parent": 6, 
+            "subframes": [], 
+            "url": "about:blank"
+        }, 
+        {
+            "id": 6, 
+            "subframes": [
+                3, 
+                2, 
+                8
+            ], 
+            "url": "https://www.intuit.com/"
+        }, 
+        {
+            "id": 1, 
+            "parent": 4, 
+            "subframes": [], 
+            "url": "https://20644041p.rfihub.com/ca.html?rfiidc=638174143627976320&rfiaid=eb62e56cc4904fc3a90ecf6e2580761a&ver=9&rb=1213&ca=20644041&pe=https%3A%2F%2Fd.xp1.ru4.com%2Fmeta%3F_o%3D15602%26_t%3Dintuit.comcont%26_random%3D54810791299.67838&pf=https%3A%2F%2F1996823.fls.doubleclick.net%2Factivityi%3Bsrc%3D1996823%3Btype%3Dfmsco864%3Bcat%3Dintui399%3Bord%3D1&ra=03686468116939068"
+        }, 
+        {
+            "id": 0, 
+            "parent": 4, 
+            "subframes": [], 
+            "url": "https://a.rfihub.com/pstats.html?rb=24591&ca=20723172&ri=eadad931feedd709e10e69bc9962b47c&rfiidc=638174143627976320&rfiaid=eb62e56cc4904fc3a90ecf6e2580761a&stats=%7B%2257331%22%3A%22395%2C1%22%7D&ra=9745973800309002"
+        }, 
+        {
+            "id": 5, 
+            "parent": 4, 
+            "subframes": [], 
+            "url": "https://a.rfihub.com/pstats.html?rb=1213&ca=20644041&ri=d1d98382cdc68b828fed5def56399799&rfiidc=638174143627976320&rfiaid=eb62e56cc4904fc3a90ecf6e2580761a&stats=%7B%2257331%22%3A%22180%2C1%22%7D&ra=8791442238725722"
+        }, 
+        {
+            "id": 8, 
+            "parent": 6, 
+            "subframes": [], 
+            "url": "https://accounts.intuit.com/ividFrame.html"
+        }
+    ], 
+    "loadEvent": "comp_120_0", 
+    "name": "https://www.intuit.com/", 
+    "root_activity": "download_0"
+}

@@ -1,0 +1,486 @@
+{
+    "DOMContentLoadedEvent": "comp_4", 
+    "activities": [
+        {
+            "cached": false, 
+            "children": [
+                "comp_6"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_5", 
+            "mimeType": "image/png", 
+            "priority": 5, 
+            "receiveTime": 0.8883409999980358, 
+            "sentTime": 0.295523000000685, 
+            "size": 1343, 
+            "type": "resource", 
+            "url": "https://www.wikipedia.org/portal/wikipedia.org/assets/img/sprite-bookshelf_icons.png?16ed124e8ca7c5ce9d463e8f99b2064427366360"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_6", 
+                "comp_2"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_2", 
+            "mimeType": "application/javascript", 
+            "priority": 2, 
+            "receiveTime": 0.8298990000002959, 
+            "sentTime": 0.34291599999778555, 
+            "size": 23656, 
+            "type": "resource", 
+            "url": "https://www.wikipedia.org/portal/wikipedia.org/assets/js/index-abc278face.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_6"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_1", 
+            "mimeType": "image/png", 
+            "priority": 6, 
+            "receiveTime": 0.8290669999987585, 
+            "sentTime": 0.2754609999974491, 
+            "size": 1176, 
+            "type": "resource", 
+            "url": "https://www.wikipedia.org/portal/wikipedia.org/assets/img/Wikipedia_wordmark.png"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_6", 
+                "comp_3"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_4", 
+            "mimeType": "application/javascript", 
+            "priority": 7, 
+            "receiveTime": 1.405575000000681, 
+            "sentTime": 0.8732419999978447, 
+            "size": 635, 
+            "type": "resource", 
+            "url": "https://www.wikipedia.org/portal/wikipedia.org/assets/js/gt-ie9-c84bf66d33.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "dchunk_0_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_0", 
+            "mimeType": "text/html", 
+            "priority": 1, 
+            "receiveTime": 0.339998999999807, 
+            "sentTime": 0.0, 
+            "size": 81235, 
+            "type": "resource", 
+            "url": "https://www.wikipedia.org/"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_6"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_6", 
+            "mimeType": "image/png", 
+            "priority": 3, 
+            "receiveTime": 0.9463329999962298, 
+            "sentTime": 0.33919500000047265, 
+            "size": 8735, 
+            "type": "resource", 
+            "url": "https://www.wikipedia.org/portal/wikipedia.org/assets/img/sprite-project-logos.png?05cee9edffc98f2ddb8094269aee09b58ca5e52b"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_6"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_3", 
+            "mimeType": "image/png", 
+            "priority": 4, 
+            "receiveTime": 0.8757320000004256, 
+            "sentTime": 0.275815999997576, 
+            "size": 12429, 
+            "type": "resource", 
+            "url": "https://www.wikipedia.org/portal/wikipedia.org/assets/img/Wikipedia-logo-v2.png"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_1"
+            ], 
+            "docUrl": "https://www.wikipedia.org/", 
+            "enclosing": "None", 
+            "endTime": 0.2644399999990128, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_0", 
+            "startTime": 0.2635410000002594, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_6"
+            ], 
+            "docUrl": "https://www.wikipedia.org/", 
+            "enclosing": "None", 
+            "endTime": 0.3428060000005644, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_1", 
+            "startTime": 0.3426550000003772, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_7"
+            ], 
+            "docUrl": "https://www.wikipedia.org/", 
+            "enclosing": "None", 
+            "endTime": 0.8730880000002799, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_2", 
+            "startTime": 0.8300419999977748, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://www.wikipedia.org/portal/wikipedia.org/assets/js/index-abc278face.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_8"
+            ], 
+            "docUrl": "https://www.wikipedia.org/", 
+            "enclosing": "None", 
+            "endTime": 0.8758669999988342, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_3", 
+            "startTime": 0.8755290000008245, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://www.wikipedia.org/portal/wikipedia.org/assets/js/gt-ie9-c84bf66d33.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_6"
+            ], 
+            "docUrl": "https://www.wikipedia.org/", 
+            "enclosing": "None", 
+            "endTime": 0.8853029999991122, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_4", 
+            "name": "DOMContentLoaded", 
+            "startTime": 0.8764179999998305, 
+            "subtree": "None", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.wikipedia.org/", 
+            "enclosing": "None", 
+            "endTime": 0.9465049999998882, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_6", 
+            "name": "load", 
+            "startTime": 0.9465049999998882, 
+            "subtree": "None", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "children": [
+                "pchunk_0_1", 
+                "comp_0"
+            ], 
+            "docUrl": "https://www.wikipedia.org/", 
+            "endColumn": 138, 
+            "endRow": 7, 
+            "endTag": "script", 
+            "endTime": 0.2627359999969485, 
+            "frame": 0, 
+            "id": "pchunk_0_0", 
+            "isFragment": false, 
+            "startColumn": 41, 
+            "startRow": 1, 
+            "startTag": "html", 
+            "startTime": 0.26211399999738205, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_1", 
+                "pchunk_0_2"
+            ], 
+            "docUrl": "https://www.wikipedia.org/", 
+            "endColumn": 260, 
+            "endRow": 19, 
+            "endTag": "img", 
+            "endTime": 0.27250799999092123, 
+            "frame": 0, 
+            "id": "pchunk_0_1", 
+            "isFragment": false, 
+            "startColumn": 66, 
+            "startRow": 10, 
+            "startTag": "meta", 
+            "startTime": 0.26448700000037206, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_3", 
+                "pchunk_0_3"
+            ], 
+            "docUrl": "https://www.wikipedia.org/", 
+            "endColumn": 262, 
+            "endRow": 26, 
+            "endTag": "img", 
+            "endTime": 0.276294000002963, 
+            "frame": 0, 
+            "id": "pchunk_0_2", 
+            "isFragment": false, 
+            "startColumn": 58, 
+            "startRow": 20, 
+            "startTag": "strong", 
+            "startTime": 0.2755489999981364, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_4", 
+                "download_5"
+            ], 
+            "docUrl": "https://www.wikipedia.org/", 
+            "endColumn": 69, 
+            "endRow": 179, 
+            "endTag": "i", 
+            "endTime": 0.29331700000329874, 
+            "frame": 0, 
+            "id": "pchunk_0_3", 
+            "isFragment": false, 
+            "startColumn": 6, 
+            "startRow": 27, 
+            "startTag": "div", 
+            "startTime": 0.2763699999995879, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_5", 
+                "download_6"
+            ], 
+            "docUrl": "https://www.wikipedia.org/", 
+            "endColumn": 95, 
+            "endRow": 552, 
+            "endTag": "div", 
+            "endTime": 0.33079700001326273, 
+            "frame": 0, 
+            "id": "pchunk_0_4", 
+            "isFragment": false, 
+            "startColumn": 73, 
+            "startRow": 179, 
+            "startTag": "i", 
+            "startTime": 0.2955519999995886, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_6", 
+                "comp_1"
+            ], 
+            "docUrl": "https://www.wikipedia.org/", 
+            "endColumn": 51, 
+            "endRow": 707, 
+            "endTag": "script", 
+            "endTime": 0.3411859999905573, 
+            "frame": 0, 
+            "id": "pchunk_0_5", 
+            "isFragment": false, 
+            "startColumn": 6, 
+            "startRow": 553, 
+            "startTag": "div", 
+            "startTime": 0.3392390000008163, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_7", 
+                "download_2"
+            ], 
+            "docUrl": "https://www.wikipedia.org/", 
+            "endColumn": 74, 
+            "endRow": 708, 
+            "endTag": "script", 
+            "endTime": 0.342834999999468, 
+            "frame": 0, 
+            "id": "pchunk_0_6", 
+            "isFragment": false, 
+            "startColumn": 65, 
+            "startRow": 708, 
+            "startTag": "script", 
+            "startTime": 0.34281600000031176, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_4", 
+                "pchunk_0_8"
+            ], 
+            "docUrl": "https://www.wikipedia.org/", 
+            "endColumn": 75, 
+            "endRow": 711, 
+            "endTag": "script", 
+            "endTime": 0.8731999999981781, 
+            "frame": 0, 
+            "id": "pchunk_0_7", 
+            "isFragment": false, 
+            "startColumn": 66, 
+            "startRow": 711, 
+            "startTag": "script", 
+            "startTime": 0.8731489999991027, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "comp_4"
+            ], 
+            "docUrl": "https://www.wikipedia.org/", 
+            "endColumn": 7, 
+            "endRow": 730, 
+            "endTag": "html", 
+            "endTime": 0.8763609999987239, 
+            "frame": 0, 
+            "id": "pchunk_0_8", 
+            "isFragment": false, 
+            "startColumn": 7, 
+            "startRow": 714, 
+            "startTag": "style", 
+            "startTime": 0.8760039999979199, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_1", 
+                "pchunk_0_0"
+            ], 
+            "id": "dchunk_0_0", 
+            "offset": 57, 
+            "resource": "download_0", 
+            "size": 377, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_2", 
+                "pchunk_0_1"
+            ], 
+            "id": "dchunk_0_1", 
+            "offset": 434, 
+            "resource": "download_0", 
+            "size": 39762, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_3", 
+                "pchunk_0_2"
+            ], 
+            "id": "dchunk_0_2", 
+            "offset": 40196, 
+            "resource": "download_0", 
+            "size": 515, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_4", 
+                "pchunk_0_3"
+            ], 
+            "id": "dchunk_0_3", 
+            "offset": 40711, 
+            "resource": "download_0", 
+            "size": 7748, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_4", 
+                "dchunk_0_5"
+            ], 
+            "id": "dchunk_0_4", 
+            "offset": 48459, 
+            "resource": "download_0", 
+            "size": 23951, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_5", 
+                "dchunk_0_6"
+            ], 
+            "id": "dchunk_0_5", 
+            "offset": 72410, 
+            "resource": "download_0", 
+            "size": 6031, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_6", 
+                "dchunk_0_7"
+            ], 
+            "id": "dchunk_0_6", 
+            "offset": 78441, 
+            "resource": "download_0", 
+            "size": 9, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_8", 
+                "pchunk_0_7"
+            ], 
+            "id": "dchunk_0_7", 
+            "offset": 78450, 
+            "resource": "download_0", 
+            "size": 9, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_8"
+            ], 
+            "id": "dchunk_0_8", 
+            "offset": 78459, 
+            "resource": "download_0", 
+            "size": 268, 
+            "type": "download_chunk"
+        }
+    ], 
+    "frames": [
+        {
+            "id": 0, 
+            "subframes": [], 
+            "url": "https://www.wikipedia.org/"
+        }
+    ], 
+    "loadEvent": "comp_6", 
+    "name": "https://www.wikipedia.org/", 
+    "root_activity": "download_0"
+}

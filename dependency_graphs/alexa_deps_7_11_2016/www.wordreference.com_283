@@ -1,0 +1,636 @@
+{
+    "DOMContentLoadedEvent": "comp_6_0", 
+    "activities": [
+        {
+            "cached": false, 
+            "children": [
+                "comp_10", 
+                "comp_9"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_8", 
+            "mimeType": "image/gif", 
+            "priority": 9, 
+            "receiveTime": 0.6041049999985262, 
+            "sentTime": 0.7735519999987446, 
+            "size": 35, 
+            "type": "resource", 
+            "url": "https://stats.g.doubleclick.net/r/collect?v=1&aip=1&t=dc&_r=3&tid=UA-187118-1&cid=1634394035.1474424770&jid=79052042&_v=j47&z=1402613174"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_3_0", 
+                "comp_10"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_2", 
+            "mimeType": "text/javascript", 
+            "priority": 7, 
+            "receiveTime": 0.528703999996651, 
+            "sentTime": 0.5143680000001041, 
+            "size": 27805, 
+            "type": "resource", 
+            "url": "https://www.google-analytics.com/analytics.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_10", 
+                "comp_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_1", 
+            "mimeType": "text/css", 
+            "priority": 2, 
+            "receiveTime": 0.5124980000000505, 
+            "sentTime": 0.456066999999166, 
+            "size": 715, 
+            "type": "resource", 
+            "url": "http://www.wordreference.com/2012/style/auto-complete.min.css"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "dchunk_0_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_0", 
+            "mimeType": "text/html", 
+            "priority": 1, 
+            "receiveTime": 0.45662499999889405, 
+            "sentTime": 0.0, 
+            "size": 23918, 
+            "type": "resource", 
+            "url": "http://www.wordreference.com/"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_4", 
+                "comp_10"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_4", 
+            "mimeType": "application/javascript", 
+            "priority": 3, 
+            "receiveTime": 0.6516609999998764, 
+            "sentTime": 0.5287260000004608, 
+            "size": 5922, 
+            "type": "resource", 
+            "url": "http://www.wordreference.com/2012/scripts/auto-complete.min.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_10"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_3", 
+            "mimeType": "text/javascript", 
+            "priority": 6, 
+            "receiveTime": 0.6512210000000778, 
+            "sentTime": 0.5286749999977474, 
+            "size": 101, 
+            "type": "resource", 
+            "url": "http://www.wordreference.com/2012/homepage.ip2cc.aspx"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_10", 
+                "comp_8"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_7", 
+            "mimeType": "image/gif", 
+            "priority": 5, 
+            "receiveTime": 0.7830869999961578, 
+            "sentTime": 0.6503179999999702, 
+            "size": 35, 
+            "type": "resource", 
+            "url": "https://www.google-analytics.com/collect?v=1&_v=j47&a=14977493&t=exception&_s=2&dl=http%3A%2F%2Fwww.wordreference.com%2F&ul=en-gb&de=UTF-8&dt=English%20to%20French%2C%20Italian%2C%20German%20%26%20Spanish%20Dictionary%20-%20WordReference.com&sd=24-bit&sr=1440x900&vp=919x811&je=1&fl=11.2%20r202&exd=%5Bhttp%3A%2F%2Fwww.wordreference.com%2F2012%2Fscripts%2Fmaster.min.js%20(1)%5D%20Uncaught%20ReferenceError%3A%20dMatch%20is%20not%20defined&exf=0&_utma=253024271.1634394035.1474424770.1474424770.1474472466.2&_utmz=253024271.1474424770.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)&_utmht=1478566109426&_u=CQACAMQAI~&jid=&cid=1634394035.1474424770&tid=UA-187118-1&z=1345529244"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_5", 
+                "comp_10"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_5", 
+            "mimeType": "application/javascript", 
+            "priority": 4, 
+            "receiveTime": 0.7559330000003683, 
+            "sentTime": 0.5829389999998966, 
+            "size": 19682, 
+            "type": "resource", 
+            "url": "http://www.wordreference.com/2012/scripts/master.min.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_10"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_6", 
+            "mimeType": "image/png", 
+            "priority": 8, 
+            "receiveTime": 0.6043279999976221, 
+            "sentTime": 0.5206539999999222, 
+            "size": 534, 
+            "type": "resource", 
+            "url": "http://www.wordreference.com/images/magnifying_glass_white_26x26.png"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "comp_1_0"
+            ], 
+            "docUrl": "http://www.wordreference.com/", 
+            "enclosing": "None", 
+            "endTime": 0.5129539999979897, 
+            "evalType": "recalcStyle", 
+            "frame": 0, 
+            "id": "comp_0", 
+            "startTime": 0.51253799999904, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "http://www.wordreference.com/2012/style/auto-complete.min.css"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_2", 
+                "comp_1_1"
+            ], 
+            "docUrl": "http://www.wordreference.com/", 
+            "enclosing": "comp_1", 
+            "endTime": 0.5133519999981218, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_1_0", 
+            "startTime": 0.5129579999993439, 
+            "subtree": "subtree_comp_1", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_2"
+            ], 
+            "docUrl": "http://www.wordreference.com/", 
+            "enclosing": "comp_1", 
+            "endTime": 0.5148320000007516, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_1_1", 
+            "startTime": 0.5133519999981218, 
+            "subtree": "subtree_comp_1", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_4"
+            ], 
+            "docUrl": "http://www.wordreference.com/", 
+            "enclosing": "None", 
+            "endTime": 0.5285960000001069, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_2", 
+            "startTime": 0.5274979999994684, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "comp_3_1", 
+                "download_8"
+            ], 
+            "docUrl": "http://www.wordreference.com/", 
+            "enclosing": "comp_3", 
+            "endTime": 0.5704809999988356, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_3_0", 
+            "startTime": 0.5298799999982293, 
+            "subtree": "subtree_comp_3", 
+            "type": "eval", 
+            "url": "https://www.google-analytics.com/analytics.js"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [], 
+            "docUrl": "http://www.wordreference.com/", 
+            "enclosing": "comp_3", 
+            "endTime": 0.5714220000008936, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_3_1", 
+            "startTime": 0.5704809999988356, 
+            "subtree": "subtree_comp_3", 
+            "type": "eval", 
+            "url": "https://www.google-analytics.com/analytics.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_6"
+            ], 
+            "docUrl": "http://www.wordreference.com/", 
+            "enclosing": "None", 
+            "endTime": 0.5828049999981886, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_4", 
+            "startTime": 0.5799719999995432, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "http://www.wordreference.com/2012/scripts/auto-complete.min.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_7"
+            ], 
+            "docUrl": "http://www.wordreference.com/", 
+            "enclosing": "None", 
+            "endTime": 0.6380959999987681, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_5", 
+            "startTime": 0.6304429999981949, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "http://www.wordreference.com/2012/scripts/master.min.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_7_0"
+            ], 
+            "docUrl": "http://www.wordreference.com/", 
+            "enclosing": "comp_6", 
+            "endTime": 0.6423130000002857, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_6_0", 
+            "name": "DOMContentLoaded", 
+            "startTime": 0.6384189999989758, 
+            "subtree": "subtree_comp_6", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_10"
+            ], 
+            "docUrl": "http://www.wordreference.com/", 
+            "enclosing": "comp_6", 
+            "endTime": 0.6504899999999907, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_6_1", 
+            "name": "DOMContentLoaded", 
+            "startTime": 0.6503929999998945, 
+            "subtree": "subtree_comp_6", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_7", 
+                "comp_7_1"
+            ], 
+            "docUrl": "http://www.wordreference.com/", 
+            "enclosing": "comp_7", 
+            "endTime": 0.6502049999980954, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_7_0", 
+            "name": "error", 
+            "startTime": 0.6423130000002857, 
+            "subtree": "subtree_comp_6", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_6_1"
+            ], 
+            "docUrl": "http://www.wordreference.com/", 
+            "enclosing": "comp_7", 
+            "endTime": 0.6503929999998945, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_7_1", 
+            "name": "error", 
+            "startTime": 0.6502049999980954, 
+            "subtree": "subtree_comp_6", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://www.wordreference.com/", 
+            "enclosing": "None", 
+            "endTime": 0.7835669999985839, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_8", 
+            "name": "load", 
+            "startTime": 0.7833649999993213, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://www.wordreference.com/", 
+            "enclosing": "None", 
+            "endTime": 0.807570000000851, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_9", 
+            "name": "load", 
+            "startTime": 0.807476999998471, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://www.wordreference.com/", 
+            "enclosing": "None", 
+            "endTime": 0.8075759999992442, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_10", 
+            "name": "load", 
+            "startTime": 0.8075759999992442, 
+            "subtree": "None", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "children": [
+                "pchunk_0_1", 
+                "download_1"
+            ], 
+            "docUrl": "http://www.wordreference.com/", 
+            "endColumn": 64, 
+            "endRow": 436, 
+            "endTag": "link", 
+            "endTime": 0.45548499999495107, 
+            "frame": 0, 
+            "id": "pchunk_0_0", 
+            "isFragment": false, 
+            "startColumn": 16, 
+            "startRow": 1, 
+            "startTag": "html", 
+            "startTime": 0.45167600000058883, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "comp_1_0", 
+                "pchunk_0_2"
+            ], 
+            "docUrl": "http://www.wordreference.com/", 
+            "endColumn": 9, 
+            "endRow": 450, 
+            "endTag": "script", 
+            "endTime": 0.4563209999978426, 
+            "frame": 0, 
+            "id": "pchunk_0_1", 
+            "isFragment": false, 
+            "startColumn": 8, 
+            "startRow": 437, 
+            "startTag": "script", 
+            "startTime": 0.45630099999834783, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_6", 
+                "pchunk_0_3"
+            ], 
+            "docUrl": "http://www.wordreference.com/", 
+            "endColumn": 54, 
+            "endRow": 522, 
+            "endTag": "input", 
+            "endTime": 0.519572999994125, 
+            "frame": 0, 
+            "id": "pchunk_0_2", 
+            "isFragment": false, 
+            "startColumn": 7, 
+            "startRow": 451, 
+            "startTag": "head", 
+            "startTime": 0.5148489999992307, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_4", 
+                "comp_2"
+            ], 
+            "docUrl": "http://www.wordreference.com/", 
+            "endColumn": 9, 
+            "endRow": 740, 
+            "endTag": "script", 
+            "endTime": 0.5250109999433334, 
+            "frame": 0, 
+            "id": "pchunk_0_3", 
+            "isFragment": false, 
+            "startColumn": 5, 
+            "startRow": 523, 
+            "startTag": "br", 
+            "startTime": 0.5206969999999274, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_5", 
+                "download_3"
+            ], 
+            "docUrl": "http://www.wordreference.com/", 
+            "endColumn": 78, 
+            "endRow": 741, 
+            "endTag": "script", 
+            "endTime": 0.5286439999981667, 
+            "frame": 0, 
+            "id": "pchunk_0_4", 
+            "isFragment": false, 
+            "startColumn": 69, 
+            "startRow": 741, 
+            "startTag": "script", 
+            "startTime": 0.528610999997909, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_4", 
+                "pchunk_0_6"
+            ], 
+            "docUrl": "http://www.wordreference.com/", 
+            "endColumn": 81, 
+            "endRow": 742, 
+            "endTag": "script", 
+            "endTime": 0.528705999997328, 
+            "frame": 0, 
+            "id": "pchunk_0_5", 
+            "isFragment": false, 
+            "startColumn": 72, 
+            "startRow": 742, 
+            "startTag": "script", 
+            "startTime": 0.5286869999981718, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_5", 
+                "pchunk_0_7"
+            ], 
+            "docUrl": "http://www.wordreference.com/", 
+            "endColumn": 74, 
+            "endRow": 743, 
+            "endTag": "script", 
+            "endTime": 0.582894999999553, 
+            "frame": 0, 
+            "id": "pchunk_0_6", 
+            "isFragment": false, 
+            "startColumn": 65, 
+            "startRow": 743, 
+            "startTag": "script", 
+            "startTime": 0.5828369999981078, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "comp_6_0"
+            ], 
+            "docUrl": "http://www.wordreference.com/", 
+            "endColumn": 7, 
+            "endRow": 754, 
+            "endTag": "html", 
+            "endTime": 0.6381679999976768, 
+            "frame": 0, 
+            "id": "pchunk_0_7", 
+            "isFragment": false, 
+            "startColumn": 35, 
+            "startRow": 744, 
+            "startTag": "script", 
+            "startTime": 0.6381179999989399, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_1", 
+                "pchunk_0_0"
+            ], 
+            "id": "dchunk_0_0", 
+            "offset": 33, 
+            "resource": "download_0", 
+            "size": 8743, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_2", 
+                "pchunk_0_1"
+            ], 
+            "id": "dchunk_0_1", 
+            "offset": 8776, 
+            "resource": "download_0", 
+            "size": 631, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_3", 
+                "pchunk_0_2"
+            ], 
+            "id": "dchunk_0_2", 
+            "offset": 9407, 
+            "resource": "download_0", 
+            "size": 3416, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_4", 
+                "pchunk_0_3"
+            ], 
+            "id": "dchunk_0_3", 
+            "offset": 12823, 
+            "resource": "download_0", 
+            "size": 10282, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_4", 
+                "dchunk_0_5"
+            ], 
+            "id": "dchunk_0_4", 
+            "offset": 23105, 
+            "resource": "download_0", 
+            "size": 9, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_5", 
+                "dchunk_0_6"
+            ], 
+            "id": "dchunk_0_5", 
+            "offset": 23114, 
+            "resource": "download_0", 
+            "size": 9, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_6", 
+                "dchunk_0_7"
+            ], 
+            "id": "dchunk_0_6", 
+            "offset": 23123, 
+            "resource": "download_0", 
+            "size": 9, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_7"
+            ], 
+            "id": "dchunk_0_7", 
+            "offset": 23132, 
+            "resource": "download_0", 
+            "size": 222, 
+            "type": "download_chunk"
+        }
+    ], 
+    "frames": [
+        {
+            "id": 0, 
+            "subframes": [], 
+            "url": "http://www.wordreference.com/"
+        }
+    ], 
+    "loadEvent": "comp_10", 
+    "name": "http://www.wordreference.com/", 
+    "root_activity": "download_0"
+}

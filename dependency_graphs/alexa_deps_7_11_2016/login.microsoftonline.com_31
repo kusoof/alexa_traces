@@ -1,0 +1,1234 @@
+{
+    "DOMContentLoadedEvent": "comp_35", 
+    "activities": [
+        {
+            "cached": false, 
+            "children": [
+                "dchunk_0_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_0", 
+            "mimeType": "text/html", 
+            "priority": 1, 
+            "receiveTime": 0.23789899999974295, 
+            "sentTime": 0.0, 
+            "size": 38735, 
+            "type": "resource", 
+            "url": "https://login.microsoftonline.com/"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_20", 
+                "comp_4"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_4", 
+            "mimeType": "text/css", 
+            "priority": 11, 
+            "receiveTime": 0.28585500000008324, 
+            "sentTime": 0.2469679999994696, 
+            "size": 89, 
+            "type": "resource", 
+            "url": "https://secure.aadcdn.microsoftonline-p.com/ests/2.1.4704.10/content/cdnbundles/login_hover.min.css"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_20", 
+                "comp_7_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_3", 
+            "mimeType": "application/x-javascript", 
+            "priority": 4, 
+            "receiveTime": 0.28800799999953597, 
+            "sentTime": 0.28800500000033935, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "https://secure.aadcdn.microsoftonline-p.com/ests/2.1.4704.10/content/cdnbundles/aad.login.min.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_5_0", 
+                "comp_20"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_2", 
+            "mimeType": "application/x-javascript", 
+            "priority": 3, 
+            "receiveTime": 0.24731399999836867, 
+            "sentTime": 0.24728200000026845, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "https://secure.aadcdn.microsoftonline-p.com/ests/2.1.4704.10/content/cdnbundles/jquery.1.11.min.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_17_0", 
+                "comp_20", 
+                "comp_16"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_5", 
+            "mimeType": "application/x-javascript", 
+            "priority": 5, 
+            "receiveTime": 0.37619899999845074, 
+            "sentTime": 0.29072400000040943, 
+            "size": 108826, 
+            "type": "resource", 
+            "url": "https://secure.aadcdn.microsoftonline-p.com/ests/2.1.4704.10/content/cdnbundles/watsonsupport.min.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_20", 
+                "comp_2"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_1", 
+            "mimeType": "text/css", 
+            "priority": 2, 
+            "receiveTime": 0.23991500000011, 
+            "sentTime": 0.23726799999894865, 
+            "size": 21650, 
+            "type": "resource", 
+            "url": "https://secure.aadcdn.microsoftonline-p.com/ests/2.1.4704.10/content/cdnbundles/login.min.css"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_20", 
+                "comp_19_0", 
+                "comp_18"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_7", 
+            "mimeType": "application/x-javascript", 
+            "priority": 6, 
+            "receiveTime": 0.4664680000005319, 
+            "sentTime": 0.4099499999992986, 
+            "size": 5071, 
+            "type": "resource", 
+            "url": "https://secure.aadcdn.microsoftonline-p.com/ests/2.1.4704.10/content/cdnbundles/watson.min.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_21", 
+                "comp_20"
+            ], 
+            "httpMethod": "POST", 
+            "id": "download_8", 
+            "mimeType": "application/json", 
+            "priority": 10, 
+            "receiveTime": 0.5197159999988799, 
+            "sentTime": 0.47401499999978114, 
+            "size": 264, 
+            "type": "resource", 
+            "url": "https://login.microsoftonline.com/common/handlers/watson"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_20"
+            ], 
+            "httpMethod": "POST", 
+            "id": "download_9", 
+            "mimeType": "application/json", 
+            "priority": 8, 
+            "receiveTime": 0.5966699999989942, 
+            "sentTime": 0.47524799999882816, 
+            "size": 264, 
+            "type": "resource", 
+            "url": "https://login.microsoftonline.com/common/handlers/watson"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_20"
+            ], 
+            "httpMethod": "POST", 
+            "id": "download_10", 
+            "mimeType": "application/json", 
+            "priority": 7, 
+            "receiveTime": 0.8855129999992641, 
+            "sentTime": 0.4764450000002398, 
+            "size": 264, 
+            "type": "resource", 
+            "url": "https://login.microsoftonline.com/common/handlers/watson"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_20"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_6", 
+            "mimeType": "image/png", 
+            "priority": 9, 
+            "receiveTime": 0.34515600000122504, 
+            "sentTime": 0.2958829999988666, 
+            "size": 1040, 
+            "type": "resource", 
+            "url": "https://secure.aadcdn.microsoftonline-p.com/ests/2.1.4704.10/content/images/microsoft_logo.png"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_1"
+            ], 
+            "docUrl": "https://login.microsoftonline.com/", 
+            "enclosing": "None", 
+            "endTime": 0.2359569999989617, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_0", 
+            "startTime": 0.23554999999942083, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_2"
+            ], 
+            "docUrl": "https://login.microsoftonline.com/", 
+            "enclosing": "None", 
+            "endTime": 0.2370229999996809, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_1", 
+            "startTime": 0.23603999999977532, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "comp_3_0"
+            ], 
+            "docUrl": "https://login.microsoftonline.com/", 
+            "enclosing": "None", 
+            "endTime": 0.24481500000001688, 
+            "evalType": "recalcStyle", 
+            "frame": 0, 
+            "id": "comp_2", 
+            "startTime": 0.24017300000014075, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://secure.aadcdn.microsoftonline-p.com/ests/2.1.4704.10/content/cdnbundles/login.min.css"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_4", 
+                "comp_3_1"
+            ], 
+            "docUrl": "https://login.microsoftonline.com/", 
+            "enclosing": "comp_3", 
+            "endTime": 0.24655299999903946, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_3_0", 
+            "startTime": 0.2448179999992135, 
+            "subtree": "subtree_comp_3", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_4"
+            ], 
+            "docUrl": "https://login.microsoftonline.com/", 
+            "enclosing": "comp_3", 
+            "endTime": 0.2472120000002178, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_3_1", 
+            "startTime": 0.24655299999903946, 
+            "subtree": "subtree_comp_3", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 4, 
+            "children": [], 
+            "docUrl": "https://login.microsoftonline.com/", 
+            "enclosing": "None", 
+            "endTime": 0.2868319999997766, 
+            "evalType": "recalcStyle", 
+            "frame": 0, 
+            "id": "comp_4", 
+            "startTime": 0.28664000000026135, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://secure.aadcdn.microsoftonline-p.com/ests/2.1.4704.10/content/cdnbundles/login_hover.min.css"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_6"
+            ], 
+            "docUrl": "https://login.microsoftonline.com/", 
+            "enclosing": "comp_5", 
+            "endTime": 0.28791999999884865, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_5_0", 
+            "startTime": 0.28683599999931175, 
+            "subtree": "subtree_comp_5", 
+            "type": "eval", 
+            "url": "https://secure.aadcdn.microsoftonline-p.com/ests/2.1.4704.10/content/cdnbundles/jquery.1.11.min.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_5"
+            ], 
+            "docUrl": "https://login.microsoftonline.com/", 
+            "enclosing": "comp_5", 
+            "endTime": 0.2879259999990609, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_5_1", 
+            "startTime": 0.2879219999995257, 
+            "subtree": "subtree_comp_5", 
+            "type": "eval", 
+            "url": "https://secure.aadcdn.microsoftonline-p.com/ests/2.1.4704.10/content/cdnbundles/jquery.1.11.min.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_5_1"
+            ], 
+            "docUrl": "https://login.microsoftonline.com/", 
+            "enclosing": "None", 
+            "endTime": 0.2879219999995257, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_6", 
+            "name": "error", 
+            "startTime": 0.28791999999884865, 
+            "subtree": "subtree_comp_5", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_8"
+            ], 
+            "docUrl": "https://login.microsoftonline.com/", 
+            "enclosing": "comp_7", 
+            "endTime": 0.28826499999922817, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_7_0", 
+            "startTime": 0.2880109999987326, 
+            "subtree": "subtree_comp_7", 
+            "type": "eval", 
+            "url": "https://secure.aadcdn.microsoftonline-p.com/ests/2.1.4704.10/content/cdnbundles/aad.login.min.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_6"
+            ], 
+            "docUrl": "https://login.microsoftonline.com/", 
+            "enclosing": "comp_7", 
+            "endTime": 0.2882689999987633, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_7_1", 
+            "startTime": 0.2882659999995667, 
+            "subtree": "subtree_comp_7", 
+            "type": "eval", 
+            "url": "https://secure.aadcdn.microsoftonline-p.com/ests/2.1.4704.10/content/cdnbundles/aad.login.min.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_7_1"
+            ], 
+            "docUrl": "https://login.microsoftonline.com/", 
+            "enclosing": "None", 
+            "endTime": 0.2882659999995667, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_8", 
+            "name": "error", 
+            "startTime": 0.28826499999922817, 
+            "subtree": "subtree_comp_7", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_10_0"
+            ], 
+            "docUrl": "https://login.microsoftonline.com/", 
+            "enclosing": "comp_9", 
+            "endTime": 0.28969899999901827, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_9_0", 
+            "startTime": 0.28856900000027963, 
+            "subtree": "subtree_comp_9", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_7"
+            ], 
+            "docUrl": "https://login.microsoftonline.com/", 
+            "enclosing": "comp_9", 
+            "endTime": 0.290897999999288, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_9_1", 
+            "startTime": 0.2908790000001318, 
+            "subtree": "subtree_comp_9", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_5", 
+                "comp_10_1"
+            ], 
+            "docUrl": "https://login.microsoftonline.com/", 
+            "enclosing": "comp_10", 
+            "endTime": 0.2904239999988931, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_10_0", 
+            "name": "error", 
+            "startTime": 0.28969899999901827, 
+            "subtree": "subtree_comp_9", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_9_1"
+            ], 
+            "docUrl": "https://login.microsoftonline.com/", 
+            "enclosing": "comp_10", 
+            "endTime": 0.2908790000001318, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_10_1", 
+            "name": "error", 
+            "startTime": 0.2904239999988931, 
+            "subtree": "subtree_comp_9", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_12"
+            ], 
+            "docUrl": "https://login.microsoftonline.com/", 
+            "enclosing": "comp_11", 
+            "endTime": 0.2916449999993347, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_11_0", 
+            "startTime": 0.2913939999998547, 
+            "subtree": "subtree_comp_11", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_8"
+            ], 
+            "docUrl": "https://login.microsoftonline.com/", 
+            "enclosing": "comp_11", 
+            "endTime": 0.2917299999990064, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_11_1", 
+            "startTime": 0.2916879999993398, 
+            "subtree": "subtree_comp_11", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_11_1"
+            ], 
+            "docUrl": "https://login.microsoftonline.com/", 
+            "enclosing": "None", 
+            "endTime": 0.2916879999993398, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_12", 
+            "name": "error", 
+            "startTime": 0.2916449999993347, 
+            "subtree": "subtree_comp_11", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_14"
+            ], 
+            "docUrl": "https://login.microsoftonline.com/", 
+            "enclosing": "comp_13", 
+            "endTime": 0.2923259999988659, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_13_0", 
+            "startTime": 0.29207099999985076, 
+            "subtree": "subtree_comp_13", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_9"
+            ], 
+            "docUrl": "https://login.microsoftonline.com/", 
+            "enclosing": "comp_13", 
+            "endTime": 0.2923869999995077, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_13_1", 
+            "startTime": 0.2923510000000533, 
+            "subtree": "subtree_comp_13", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_13_1"
+            ], 
+            "docUrl": "https://login.microsoftonline.com/", 
+            "enclosing": "None", 
+            "endTime": 0.2923510000000533, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_14", 
+            "name": "error", 
+            "startTime": 0.2923259999988659, 
+            "subtree": "subtree_comp_13", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_11"
+            ], 
+            "docUrl": "https://login.microsoftonline.com/", 
+            "enclosing": "None", 
+            "endTime": 0.29685299999982817, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_15", 
+            "startTime": 0.29611300000033225, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://login.microsoftonline.com/", 
+            "enclosing": "None", 
+            "endTime": 0.40968400000019756, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_16", 
+            "startTime": 0.37739700000020093, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://secure.aadcdn.microsoftonline-p.com/ests/2.1.4704.10/content/cdnbundles/watsonsupport.min.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_7", 
+                "comp_17_1"
+            ], 
+            "docUrl": "https://login.microsoftonline.com/", 
+            "enclosing": "comp_17", 
+            "endTime": 0.4097750000000815, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_17_0", 
+            "name": "load", 
+            "startTime": 0.409695999998803, 
+            "subtree": "subtree_comp_17", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://login.microsoftonline.com/", 
+            "enclosing": "comp_17", 
+            "endTime": 0.41005500000028405, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_17_1", 
+            "name": "load", 
+            "startTime": 0.4097750000000815, 
+            "subtree": "subtree_comp_17", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://login.microsoftonline.com/", 
+            "enclosing": "None", 
+            "endTime": 0.46996199999921373, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_18", 
+            "startTime": 0.4671390000003157, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://secure.aadcdn.microsoftonline-p.com/ests/2.1.4704.10/content/cdnbundles/watson.min.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_19_1", 
+                "download_8"
+            ], 
+            "docUrl": "https://login.microsoftonline.com/", 
+            "enclosing": "comp_19", 
+            "endTime": 0.47401499999978114, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_19_0", 
+            "name": "load", 
+            "startTime": 0.4699769999988348, 
+            "subtree": "subtree_comp_19", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_19_2", 
+                "download_9"
+            ], 
+            "docUrl": "https://login.microsoftonline.com/", 
+            "enclosing": "comp_19", 
+            "endTime": 0.47524799999882816, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_19_1", 
+            "name": "load", 
+            "startTime": 0.47401499999978114, 
+            "subtree": "subtree_comp_19", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_19_3", 
+                "download_10"
+            ], 
+            "docUrl": "https://login.microsoftonline.com/", 
+            "enclosing": "comp_19", 
+            "endTime": 0.4764450000002398, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_19_2", 
+            "name": "load", 
+            "startTime": 0.47524799999882816, 
+            "subtree": "subtree_comp_19", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://login.microsoftonline.com/", 
+            "enclosing": "comp_19", 
+            "endTime": 0.47660199999882025, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_19_3", 
+            "name": "load", 
+            "startTime": 0.4764450000002398, 
+            "subtree": "subtree_comp_19", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_20"
+            ], 
+            "docUrl": "https://login.microsoftonline.com/", 
+            "enclosing": "None", 
+            "endTime": 0.4770119999993767, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_35", 
+            "name": "DOMContentLoaded", 
+            "startTime": 0.4770119999993767, 
+            "subtree": "None", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://login.microsoftonline.com/", 
+            "enclosing": "None", 
+            "endTime": 0.47857199999998556, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_20", 
+            "name": "load", 
+            "startTime": 0.4770250000001397, 
+            "subtree": "None", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_22"
+            ], 
+            "docUrl": "https://login.microsoftonline.com/", 
+            "enclosing": "None", 
+            "endTime": 0.5200929999991786, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_21", 
+            "name": "readystatechange", 
+            "startTime": 0.5197379999990517, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_23"
+            ], 
+            "docUrl": "https://login.microsoftonline.com/", 
+            "enclosing": "None", 
+            "endTime": 0.5201369999995222, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_22", 
+            "name": "readystatechange", 
+            "startTime": 0.5201149999993504, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_24"
+            ], 
+            "docUrl": "https://login.microsoftonline.com/", 
+            "enclosing": "None", 
+            "endTime": 0.521310000000085, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_23", 
+            "name": "readystatechange", 
+            "startTime": 0.5202189999999973, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_25"
+            ], 
+            "docUrl": "https://login.microsoftonline.com/", 
+            "enclosing": "None", 
+            "endTime": 0.5967999999993481, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_24", 
+            "name": "readystatechange", 
+            "startTime": 0.5966950000001816, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_26"
+            ], 
+            "docUrl": "https://login.microsoftonline.com/", 
+            "enclosing": "None", 
+            "endTime": 0.5968379999994795, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_25", 
+            "name": "readystatechange", 
+            "startTime": 0.5968209999991814, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_27"
+            ], 
+            "docUrl": "https://login.microsoftonline.com/", 
+            "enclosing": "None", 
+            "endTime": 0.597035999999207, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_26", 
+            "name": "readystatechange", 
+            "startTime": 0.5969809999987774, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_28"
+            ], 
+            "docUrl": "https://login.microsoftonline.com/", 
+            "enclosing": "None", 
+            "endTime": 0.8856629999991128, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_27", 
+            "name": "readystatechange", 
+            "startTime": 0.8855359999997745, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_29"
+            ], 
+            "docUrl": "https://login.microsoftonline.com/", 
+            "enclosing": "None", 
+            "endTime": 0.8856980000000476, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_28", 
+            "name": "readystatechange", 
+            "startTime": 0.885682000000088, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://login.microsoftonline.com/", 
+            "enclosing": "None", 
+            "endTime": 0.8865139999998064, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_29", 
+            "name": "readystatechange", 
+            "startTime": 0.8860769999992044, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "children": [
+                "pchunk_0_1", 
+                "comp_0"
+            ], 
+            "docUrl": "https://login.microsoftonline.com/", 
+            "endColumn": 14, 
+            "endRow": 21, 
+            "endTag": "script", 
+            "endTime": 0.2354559999985213, 
+            "frame": 0, 
+            "id": "pchunk_0_0", 
+            "isFragment": false, 
+            "startColumn": 16, 
+            "startRow": 3, 
+            "startTag": "html", 
+            "startTime": 0.2350059999989753, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "comp_1", 
+                "pchunk_0_2"
+            ], 
+            "docUrl": "https://login.microsoftonline.com/", 
+            "endColumn": 14, 
+            "endRow": 24, 
+            "endTag": "script", 
+            "endTime": 0.2359889999988809, 
+            "frame": 0, 
+            "id": "pchunk_0_1", 
+            "isFragment": false, 
+            "startColumn": 45, 
+            "startRow": 21, 
+            "startTag": "script", 
+            "startTime": 0.2359599999999773, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_3", 
+                "download_1"
+            ], 
+            "docUrl": "https://login.microsoftonline.com/", 
+            "endColumn": 126, 
+            "endRow": 29, 
+            "endTag": "link", 
+            "endTime": 0.23733900000115682, 
+            "frame": 0, 
+            "id": "pchunk_0_2", 
+            "isFragment": false, 
+            "startColumn": 129, 
+            "startRow": 26, 
+            "startTag": "link", 
+            "startTime": 0.2370389999996405, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_4", 
+                "comp_3_0"
+            ], 
+            "docUrl": "https://login.microsoftonline.com/", 
+            "endColumn": 10, 
+            "endRow": 99, 
+            "endTag": "script", 
+            "endTime": 0.23743000000104075, 
+            "frame": 0, 
+            "id": "pchunk_0_3", 
+            "isFragment": false, 
+            "startColumn": 7, 
+            "startRow": 33, 
+            "startTag": "style", 
+            "startTime": 0.23735599999963597, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_5", 
+                "download_2"
+            ], 
+            "docUrl": "https://login.microsoftonline.com/", 
+            "endColumn": 122, 
+            "endRow": 102, 
+            "endTag": "script", 
+            "endTime": 0.24725699999908102, 
+            "frame": 0, 
+            "id": "pchunk_0_4", 
+            "isFragment": false, 
+            "startColumn": 113, 
+            "startRow": 102, 
+            "startTag": "script", 
+            "startTime": 0.24722699999983888, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_6", 
+                "download_3"
+            ], 
+            "docUrl": "https://login.microsoftonline.com/", 
+            "endColumn": 120, 
+            "endRow": 104, 
+            "endTag": "script", 
+            "endTime": 0.28796999999940454, 
+            "frame": 0, 
+            "id": "pchunk_0_5", 
+            "isFragment": false, 
+            "startColumn": 111, 
+            "startRow": 104, 
+            "startTag": "script", 
+            "startTime": 0.28794399999969755, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_7", 
+                "comp_9_0"
+            ], 
+            "docUrl": "https://login.microsoftonline.com/", 
+            "endColumn": 13, 
+            "endRow": 131, 
+            "endTag": "script", 
+            "endTime": 0.28844699999899603, 
+            "frame": 0, 
+            "id": "pchunk_0_6", 
+            "isFragment": false, 
+            "startColumn": 7, 
+            "startRow": 111, 
+            "startTag": "style", 
+            "startTime": 0.2882850000005419, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "comp_11_0", 
+                "pchunk_0_8"
+            ], 
+            "docUrl": "https://login.microsoftonline.com/", 
+            "endColumn": 13, 
+            "endRow": 217, 
+            "endTag": "script", 
+            "endTime": 0.29123400000753463, 
+            "frame": 0, 
+            "id": "pchunk_0_7", 
+            "isFragment": false, 
+            "startColumn": 86, 
+            "startRow": 135, 
+            "startTag": "div", 
+            "startTime": 0.29091299999890907, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "comp_13_0", 
+                "pchunk_0_9"
+            ], 
+            "docUrl": "https://login.microsoftonline.com/", 
+            "endColumn": 33, 
+            "endRow": 260, 
+            "endTag": "script", 
+            "endTime": 0.291893000003256, 
+            "frame": 0, 
+            "id": "pchunk_0_8", 
+            "isFragment": false, 
+            "startColumn": 60, 
+            "startRow": 218, 
+            "startTag": "div", 
+            "startTime": 0.2917409999990923, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_6", 
+                "pchunk_0_10"
+            ], 
+            "docUrl": "https://login.microsoftonline.com/", 
+            "endColumn": 167, 
+            "endRow": 524, 
+            "endTag": "img", 
+            "endTime": 0.294731000019965, 
+            "frame": 0, 
+            "id": "pchunk_0_9", 
+            "isFragment": false, 
+            "startColumn": 59, 
+            "startRow": 261, 
+            "startTag": "div", 
+            "startTime": 0.29239899999993213, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_11", 
+                "comp_15"
+            ], 
+            "docUrl": "https://login.microsoftonline.com/", 
+            "endColumn": 9, 
+            "endRow": 679, 
+            "endTag": "script", 
+            "endTime": 0.29596000000128697, 
+            "frame": 0, 
+            "id": "pchunk_0_10", 
+            "isFragment": false, 
+            "startColumn": 30, 
+            "startRow": 525, 
+            "startTag": "div", 
+            "startTime": 0.29590400000051886, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "comp_35"
+            ], 
+            "docUrl": "https://login.microsoftonline.com/", 
+            "endColumn": 7, 
+            "endRow": 689, 
+            "endTag": "html", 
+            "endTime": 0.29688200000055076, 
+            "frame": 0, 
+            "id": "pchunk_0_11", 
+            "isFragment": false, 
+            "startColumn": 11, 
+            "startRow": 688, 
+            "startTag": "body", 
+            "startTime": 0.29687600000033854, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_1", 
+                "pchunk_0_0"
+            ], 
+            "id": "dchunk_0_0", 
+            "offset": 112, 
+            "resource": "download_0", 
+            "size": 1760, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_2", 
+                "pchunk_0_1"
+            ], 
+            "id": "dchunk_0_1", 
+            "offset": 1872, 
+            "resource": "download_0", 
+            "size": 3407, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_3", 
+                "pchunk_0_2"
+            ], 
+            "id": "dchunk_0_2", 
+            "offset": 5279, 
+            "resource": "download_0", 
+            "size": 246, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_4", 
+                "pchunk_0_3"
+            ], 
+            "id": "dchunk_0_3", 
+            "offset": 5525, 
+            "resource": "download_0", 
+            "size": 2374, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_4", 
+                "dchunk_0_5"
+            ], 
+            "id": "dchunk_0_4", 
+            "offset": 7899, 
+            "resource": "download_0", 
+            "size": 9, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_5", 
+                "dchunk_0_6"
+            ], 
+            "id": "dchunk_0_5", 
+            "offset": 7908, 
+            "resource": "download_0", 
+            "size": 9, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_6", 
+                "dchunk_0_7"
+            ], 
+            "id": "dchunk_0_6", 
+            "offset": 7917, 
+            "resource": "download_0", 
+            "size": 362, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_8", 
+                "pchunk_0_7"
+            ], 
+            "id": "dchunk_0_7", 
+            "offset": 8279, 
+            "resource": "download_0", 
+            "size": 3814, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_9", 
+                "pchunk_0_8"
+            ], 
+            "id": "dchunk_0_8", 
+            "offset": 12093, 
+            "resource": "download_0", 
+            "size": 2009, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_9", 
+                "dchunk_0_10"
+            ], 
+            "id": "dchunk_0_9", 
+            "offset": 14102, 
+            "resource": "download_0", 
+            "size": 14540, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_10", 
+                "dchunk_0_11"
+            ], 
+            "id": "dchunk_0_10", 
+            "offset": 28642, 
+            "resource": "download_0", 
+            "size": 9271, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_11"
+            ], 
+            "id": "dchunk_0_11", 
+            "offset": 37913, 
+            "resource": "download_0", 
+            "size": 9, 
+            "type": "download_chunk"
+        }
+    ], 
+    "frames": [
+        {
+            "id": 0, 
+            "subframes": [], 
+            "url": "https://login.microsoftonline.com/"
+        }
+    ], 
+    "loadEvent": "comp_20", 
+    "name": "https://login.microsoftonline.com/", 
+    "root_activity": "download_0"
+}

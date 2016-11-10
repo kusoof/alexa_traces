@@ -1,0 +1,3197 @@
+{
+    "DOMContentLoadedEvent": "comp_55", 
+    "activities": [
+        {
+            "cached": false, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_57", 
+            "mimeType": "font/woff", 
+            "priority": 65, 
+            "receiveTime": 10.555791000000681, 
+            "sentTime": 10.375836999999592, 
+            "size": 103140, 
+            "type": "resource", 
+            "url": "http://fonts.gstatic.com/s/lora/v9/ZVUDGNBaEPTwTwYVkvzUow.woff"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_80_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_5", 
+            "mimeType": "text/javascript", 
+            "priority": 15, 
+            "receiveTime": 10.059450000002471, 
+            "sentTime": 9.474770999999237, 
+            "size": 27809, 
+            "type": "resource", 
+            "url": "http://www.google-analytics.com/analytics.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_36", 
+            "mimeType": "image/svg+xml", 
+            "priority": 46, 
+            "receiveTime": 10.115762999999788, 
+            "sentTime": 9.776954000000842, 
+            "size": 5108, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/production/head/images/landing/landing-icon-evernote-v2.svg"
+        }, 
+        {
+            "cached": false, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_40", 
+            "mimeType": "image/svg+xml", 
+            "priority": 42, 
+            "receiveTime": 10.127108999999109, 
+            "sentTime": 9.777421000000686, 
+            "size": 3195, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/production/head/images/landing/landing-icon-slack-v2.svg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_54", 
+                "comp_56_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_4", 
+            "mimeType": "application/javascript", 
+            "priority": 4, 
+            "receiveTime": 13.657293000000209, 
+            "sentTime": 9.372191000000385, 
+            "size": 873817, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/web/30.0.1239/js/web-templates-bundle.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_12", 
+            "mimeType": "image/png", 
+            "priority": 30, 
+            "receiveTime": 10.063666000000012, 
+            "sentTime": 9.628665000000183, 
+            "size": 2885, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/production/head/images/icon-action-overview-100@2x.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_83", 
+            "mimeType": "", 
+            "priority": 81, 
+            "receiveTime": 9.721720999999889, 
+            "sentTime": 9.743282999999792, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/fonts-woff/5b4a262e-3342-44e2-8ad7-719998a68134.woff"
+        }, 
+        {
+            "cached": false, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_25", 
+            "mimeType": "image/svg+xml", 
+            "priority": 59, 
+            "receiveTime": 10.089047999998002, 
+            "sentTime": 9.775783000000956, 
+            "size": 2589, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/production/head/images/landing/landing-icon-alerts-v2.svg"
+        }, 
+        {
+            "cached": false, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_17", 
+            "mimeType": "image/png", 
+            "priority": 23, 
+            "receiveTime": 10.084202000000005, 
+            "sentTime": 9.630010999999286, 
+            "size": 3078, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/production/head/images/icon-action-backtotop.png"
+        }, 
+        {
+            "cached": false, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_58", 
+            "mimeType": "font/woff", 
+            "priority": 64, 
+            "receiveTime": 10.556963999999425, 
+            "sentTime": 10.37594899999931, 
+            "size": 106528, 
+            "type": "resource", 
+            "url": "http://fonts.gstatic.com/s/lora/v9/VGX2f8JCsYx_8T55JDhTUg.woff"
+        }, 
+        {
+            "cached": false, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_39", 
+            "mimeType": "image/svg+xml", 
+            "priority": 43, 
+            "receiveTime": 10.124539000000368, 
+            "sentTime": 9.777162000000317, 
+            "size": 3506, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/production/head/images/landing/landing-icon-onenote-v2.svg"
+        }, 
+        {
+            "cached": false, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_46", 
+            "mimeType": "image/png", 
+            "priority": 38, 
+            "receiveTime": 10.134503999999652, 
+            "sentTime": 9.778355000000374, 
+            "size": 19012, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/production/head/images/landing/photo-zendesk-bw@2x.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_56_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_65", 
+            "mimeType": "", 
+            "priority": 12, 
+            "receiveTime": 2.4794120000005933, 
+            "sentTime": 2.4792410000009113, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/fonts-ttf/GuardianTextEgyp-BoldIt-Web.ttf"
+        }, 
+        {
+            "cached": true, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_74", 
+            "mimeType": "", 
+            "priority": 72, 
+            "receiveTime": 9.6053780000002, 
+            "sentTime": 9.625410000000556, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/fonts-ttf/GuardianTextEgyp-BoldIt-Web.ttf"
+        }, 
+        {
+            "cached": true, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_90", 
+            "mimeType": "", 
+            "priority": 88, 
+            "receiveTime": 9.721720999999889, 
+            "sentTime": 9.743318999999246, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/fonts-ttf/GuardianTextEgyp-BoldIt-Web.ttf"
+        }, 
+        {
+            "cached": false, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_43", 
+            "mimeType": "image/png", 
+            "priority": 40, 
+            "receiveTime": 10.133557999999539, 
+            "sentTime": 9.777884000000995, 
+            "size": 18018, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/production/head/images/landing/photo-brad-bw@2x.png"
+        }, 
+        {
+            "cached": false, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_47", 
+            "mimeType": "image/png", 
+            "priority": 19, 
+            "receiveTime": 10.136586000000534, 
+            "sentTime": 9.631045000000086, 
+            "size": 2971, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/production/head/images/icon-addshortcut.png"
+        }, 
+        {
+            "cached": false, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_49", 
+            "mimeType": "image/png", 
+            "priority": 21, 
+            "receiveTime": 10.091296000000511, 
+            "sentTime": 9.744426999999632, 
+            "size": 2971, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/production/head/images/icon-addshortcut.png"
+        }, 
+        {
+            "cached": false, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_29", 
+            "mimeType": "image/svg+xml", 
+            "priority": 53, 
+            "receiveTime": 10.099056999999448, 
+            "sentTime": 9.776003000000856, 
+            "size": 1589, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/production/head/images/landing/landing-icon-private-feeds-v2.svg"
+        }, 
+        {
+            "cached": false, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_35", 
+            "mimeType": "image/svg+xml", 
+            "priority": 47, 
+            "receiveTime": 10.113111000000572, 
+            "sentTime": 9.776780000000144, 
+            "size": 1403, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/production/head/images/landing/landing-icon-shared-collections-v2.svg"
+        }, 
+        {
+            "cached": false, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_18", 
+            "mimeType": "image/png", 
+            "priority": 25, 
+            "receiveTime": 10.081629000000248, 
+            "sentTime": 9.631121000000348, 
+            "size": 2883, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/production/head/images/icon-feedly.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_92", 
+            "mimeType": "image/png", 
+            "originalResource": "download_18", 
+            "priority": 90, 
+            "sentTime": 9.744468999999299, 
+            "size": 2883, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/production/head/images/icon-feedly.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_56_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_66", 
+            "mimeType": "", 
+            "priority": 13, 
+            "receiveTime": 2.4794120000005933, 
+            "sentTime": 2.4792539999998553, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/fonts-woff/GuardianTextEgyp-BoldIt-Web.woff"
+        }, 
+        {
+            "cached": true, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_75", 
+            "mimeType": "", 
+            "priority": 73, 
+            "receiveTime": 9.6053780000002, 
+            "sentTime": 9.625422000000981, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/fonts-woff/GuardianTextEgyp-BoldIt-Web.woff"
+        }, 
+        {
+            "cached": true, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_91", 
+            "mimeType": "", 
+            "priority": 89, 
+            "receiveTime": 9.721720999999889, 
+            "sentTime": 9.74332400000094, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/fonts-woff/GuardianTextEgyp-BoldIt-Web.woff"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_56_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_64", 
+            "mimeType": "", 
+            "priority": 11, 
+            "receiveTime": 2.4794120000005933, 
+            "sentTime": 2.4792340000003605, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/fonts-woff/GuardianTextEgyp-Bold-Web.woff"
+        }, 
+        {
+            "cached": true, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_73", 
+            "mimeType": "", 
+            "priority": 71, 
+            "receiveTime": 9.6053780000002, 
+            "sentTime": 9.625405000000683, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/fonts-woff/GuardianTextEgyp-Bold-Web.woff"
+        }, 
+        {
+            "cached": true, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_89", 
+            "mimeType": "", 
+            "priority": 87, 
+            "receiveTime": 9.721720999999889, 
+            "sentTime": 9.743313999999373, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/fonts-woff/GuardianTextEgyp-Bold-Web.woff"
+        }, 
+        {
+            "cached": false, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_23", 
+            "mimeType": "image/svg+xml", 
+            "priority": 60, 
+            "receiveTime": 10.083350000000792, 
+            "sentTime": 9.77538000000095, 
+            "size": 5418, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/production/head/images/landing/landing-icon-publications-v2.svg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "dchunk_0_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_0", 
+            "mimeType": "text/html", 
+            "priority": 1, 
+            "receiveTime": 2.451574000000619, 
+            "sentTime": 0.0, 
+            "size": 14366, 
+            "type": "resource", 
+            "url": "http://feedly.com/"
+        }, 
+        {
+            "cached": false, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_42", 
+            "mimeType": "image/png", 
+            "priority": 41, 
+            "receiveTime": 10.130793000000267, 
+            "sentTime": 9.777588999999352, 
+            "size": 13024, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/production/head/images/landing/photo-jason-bw@2x.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_80", 
+            "mimeType": "", 
+            "priority": 78, 
+            "receiveTime": 9.721720999999889, 
+            "sentTime": 9.743259999999282, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/fonts-ttf/DINWebPro-CondensedMedium.ttf?v1"
+        }, 
+        {
+            "cached": false, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_19", 
+            "mimeType": "image/png", 
+            "priority": 24, 
+            "receiveTime": 10.083922000001621, 
+            "sentTime": 9.631251999999222, 
+            "size": 1802, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/production/head/images/tab-second.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_94", 
+            "mimeType": "image/png", 
+            "originalResource": "download_19", 
+            "priority": 92, 
+            "sentTime": 9.744714000000386, 
+            "size": 1802, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/production/head/images/tab-second.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_56_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_60", 
+            "mimeType": "", 
+            "priority": 7, 
+            "receiveTime": 2.4794120000005933, 
+            "sentTime": 2.479198000000906, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/fonts-woff/GuardianTextEgyp-Regular-Web.woff"
+        }, 
+        {
+            "cached": true, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_69", 
+            "mimeType": "", 
+            "priority": 95, 
+            "receiveTime": 9.6053780000002, 
+            "sentTime": 9.625377000000299, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/fonts-woff/GuardianTextEgyp-Regular-Web.woff"
+        }, 
+        {
+            "cached": true, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_85", 
+            "mimeType": "", 
+            "priority": 83, 
+            "receiveTime": 9.721720999999889, 
+            "sentTime": 9.743293999999878, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/fonts-woff/GuardianTextEgyp-Regular-Web.woff"
+        }, 
+        {
+            "cached": false, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_26", 
+            "mimeType": "image/svg+xml", 
+            "priority": 56, 
+            "receiveTime": 10.091677999998865, 
+            "sentTime": 9.775512000000163, 
+            "size": 1201, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/production/head/images/landing/landing-icon-blogs-v2.svg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_75"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_14", 
+            "mimeType": "application/json", 
+            "priority": 36, 
+            "receiveTime": 10.065565999999308, 
+            "sentTime": 9.70769300000029, 
+            "size": 38405, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/essentials/essentials_en-US.json?ck=1474466946689"
+        }, 
+        {
+            "cached": false, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_6", 
+            "mimeType": "application/javascript", 
+            "priority": 67, 
+            "receiveTime": 9.475448999999571, 
+            "sentTime": 9.475539999999455, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "https://platform.twitter.com/widgets.js"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_56_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_61", 
+            "mimeType": "", 
+            "priority": 8, 
+            "receiveTime": 2.4794120000005933, 
+            "sentTime": 2.47921099999985, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/fonts-ttf/GuardianTextEgyp-RegularIt-Web.ttf"
+        }, 
+        {
+            "cached": true, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_70", 
+            "mimeType": "", 
+            "priority": 68, 
+            "receiveTime": 9.6053780000002, 
+            "sentTime": 9.625388000000385, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/fonts-ttf/GuardianTextEgyp-RegularIt-Web.ttf"
+        }, 
+        {
+            "cached": true, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_86", 
+            "mimeType": "", 
+            "priority": 84, 
+            "receiveTime": 9.721720999999889, 
+            "sentTime": 9.74330000000009, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/fonts-ttf/GuardianTextEgyp-RegularIt-Web.ttf"
+        }, 
+        {
+            "cached": false, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_34", 
+            "mimeType": "image/svg+xml", 
+            "priority": 49, 
+            "receiveTime": 10.11040200000025, 
+            "sentTime": 9.776644999999917, 
+            "size": 1495, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/production/head/images/landing/landing-icon-discover-v2.svg"
+        }, 
+        {
+            "cached": false, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_15", 
+            "mimeType": "image/png", 
+            "priority": 28, 
+            "receiveTime": 10.068504000000758, 
+            "sentTime": 9.630983999999444, 
+            "size": 2958, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/production/head/images/icon-editshortcut.png"
+        }, 
+        {
+            "cached": false, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_16", 
+            "mimeType": "image/png", 
+            "priority": 48, 
+            "receiveTime": 9.966373000001113, 
+            "sentTime": 9.744367999999668, 
+            "size": 2958, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/production/head/images/icon-editshortcut.png"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_92"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_54", 
+            "mimeType": "image/gif", 
+            "priority": 66, 
+            "receiveTime": 10.33971500000007, 
+            "sentTime": 10.215480000000753, 
+            "size": 35, 
+            "type": "resource", 
+            "url": "https://stats.g.doubleclick.net/r/collect?v=1&aip=1&t=dc&_r=3&tid=UA-50514009-7&cid=492754818.1474423993&jid=30779097&_v=j46&z=68585566"
+        }, 
+        {
+            "cached": false, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_41", 
+            "mimeType": "image/png", 
+            "priority": 17, 
+            "receiveTime": 10.213420000000042, 
+            "sentTime": 9.628802999999607, 
+            "size": 3400, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/production/head/images/icon-action-refresh.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_77", 
+            "mimeType": "image/png", 
+            "originalResource": "download_41", 
+            "priority": 75, 
+            "sentTime": 9.629947999999786, 
+            "size": 3400, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/production/head/images/icon-action-refresh.png"
+        }, 
+        {
+            "cached": false, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_51", 
+            "mimeType": "image/svg+xml", 
+            "priority": 35, 
+            "receiveTime": 10.204536999999618, 
+            "sentTime": 9.775907999999617, 
+            "size": 1155, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/production/head/images/landing/landing-icon-collections-v2.svg"
+        }, 
+        {
+            "cached": true, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_95", 
+            "mimeType": "image/svg+xml", 
+            "originalResource": "download_51", 
+            "priority": 93, 
+            "sentTime": 9.776135000000068, 
+            "size": 1155, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/production/head/images/landing/landing-icon-collections-v2.svg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_53", 
+                "comp_56_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_2", 
+            "mimeType": "application/javascript", 
+            "priority": 3, 
+            "receiveTime": 8.726275999999416, 
+            "sentTime": 2.4831670000003214, 
+            "size": 2394990, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/web/30.0.1239/js/web-main-bundle.js"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_56_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_62", 
+            "mimeType": "", 
+            "priority": 9, 
+            "receiveTime": 2.4794120000005933, 
+            "sentTime": 2.4792170000000624, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/fonts-woff/GuardianTextEgyp-RegularIt-Web.woff"
+        }, 
+        {
+            "cached": true, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_71", 
+            "mimeType": "", 
+            "priority": 69, 
+            "receiveTime": 9.6053780000002, 
+            "sentTime": 9.625394000000597, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/fonts-woff/GuardianTextEgyp-RegularIt-Web.woff"
+        }, 
+        {
+            "cached": true, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_87", 
+            "mimeType": "", 
+            "priority": 85, 
+            "receiveTime": 9.721720999999889, 
+            "sentTime": 9.743304999999964, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/fonts-woff/GuardianTextEgyp-RegularIt-Web.woff"
+        }, 
+        {
+            "cached": false, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_11", 
+            "mimeType": "image/png", 
+            "priority": 31, 
+            "receiveTime": 10.063349000000017, 
+            "sentTime": 9.628595000000132, 
+            "size": 4184, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/production/head/images/icon-action-overview-6@2x.png"
+        }, 
+        {
+            "cached": false, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_9", 
+            "mimeType": "image/png", 
+            "priority": 34, 
+            "receiveTime": 10.062063999999737, 
+            "sentTime": 9.628475999999864, 
+            "size": 2885, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/production/head/images/icon-action-overview-0@2x.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_81", 
+            "mimeType": "", 
+            "priority": 79, 
+            "receiveTime": 9.721720999999889, 
+            "sentTime": 9.743270000000848, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/fonts-woff/DINWebPro-CondensedMedium.woff?v1"
+        }, 
+        {
+            "cached": false, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_37", 
+            "mimeType": "image/svg+xml", 
+            "priority": 45, 
+            "receiveTime": 10.118852999999945, 
+            "sentTime": 9.77686999999969, 
+            "size": 1056, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/production/head/images/landing/landing-icon-knowledge-boards-v2.svg"
+        }, 
+        {
+            "cached": false, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_50", 
+            "mimeType": "image/png", 
+            "priority": 26, 
+            "receiveTime": 10.21168900000157, 
+            "sentTime": 9.767127999999502, 
+            "size": 7341, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/production/head/images/feedly-logo-black.png"
+        }, 
+        {
+            "cached": false, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_32", 
+            "mimeType": "image/svg+xml", 
+            "priority": 51, 
+            "receiveTime": 10.104847000000518, 
+            "sentTime": 9.776557999999568, 
+            "size": 1081, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/production/head/images/landing/landing-icon-share-v2.svg"
+        }, 
+        {
+            "cached": false, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_52", 
+            "mimeType": "image/png", 
+            "priority": 33, 
+            "receiveTime": 10.207264000000578, 
+            "sentTime": 9.777994000000035, 
+            "size": 20442, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/production/head/images/landing/photo-tina-bw@2x.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_56_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_59", 
+            "mimeType": "", 
+            "priority": 6, 
+            "receiveTime": 2.4794120000005933, 
+            "sentTime": 2.479185000000143, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/fonts-ttf/GuardianTextEgyp-Regular-Web.ttf"
+        }, 
+        {
+            "cached": true, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_68", 
+            "mimeType": "", 
+            "priority": 94, 
+            "receiveTime": 9.6053780000002, 
+            "sentTime": 9.625367000000551, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/fonts-ttf/GuardianTextEgyp-Regular-Web.ttf"
+        }, 
+        {
+            "cached": true, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_84", 
+            "mimeType": "", 
+            "priority": 82, 
+            "receiveTime": 9.721720999999889, 
+            "sentTime": 9.743290000000343, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/fonts-ttf/GuardianTextEgyp-Regular-Web.ttf"
+        }, 
+        {
+            "cached": false, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_27", 
+            "mimeType": "image/svg+xml", 
+            "priority": 55, 
+            "receiveTime": 10.093947000001208, 
+            "sentTime": 9.77565499999946, 
+            "size": 3433, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/production/head/images/landing/landing-icon-youtube-v2.svg"
+        }, 
+        {
+            "cached": true, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_82", 
+            "mimeType": "", 
+            "priority": 80, 
+            "receiveTime": 9.721720999999889, 
+            "sentTime": 9.743277999999918, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/fonts-ttf/4a3ef5d8-cfd9-4b96-bd67-90215512f1e5.ttf"
+        }, 
+        {
+            "cached": false, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_24", 
+            "mimeType": "image/png", 
+            "priority": 57, 
+            "receiveTime": 10.09103800000048, 
+            "sentTime": 9.771130999999514, 
+            "size": 4717, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/img/feedly-full-black.png"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_56_0", 
+                "comp_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_3", 
+            "mimeType": "text/css", 
+            "priority": 2, 
+            "receiveTime": 4.23890399999982, 
+            "sentTime": 2.4789400000008754, 
+            "size": 1090765, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/web/30.0.1239/fx/feedly-fx.css"
+        }, 
+        {
+            "cached": false, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_44", 
+            "mimeType": "image/png", 
+            "priority": 39, 
+            "receiveTime": 10.133772999999564, 
+            "sentTime": 9.778266999999687, 
+            "size": 13596, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/production/head/images/landing/photo-caa-bw@2x.png"
+        }, 
+        {
+            "cached": false, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_33", 
+            "mimeType": "image/svg+xml", 
+            "priority": 50, 
+            "receiveTime": 10.107456000001548, 
+            "sentTime": 9.77645499999926, 
+            "size": 908, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/production/head/images/landing/landing-icon-save-v2.svg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_82"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_8", 
+            "mimeType": "application/javascript", 
+            "priority": 16, 
+            "receiveTime": 10.061297000000195, 
+            "sentTime": 9.475198000000091, 
+            "size": 40056, 
+            "type": "resource", 
+            "url": "https://apis.google.com/js/platform.js?e=PlatformEnableGapiNow&onload=requestNowAuthorization"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_81_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_7", 
+            "mimeType": "text/javascript", 
+            "priority": 14, 
+            "receiveTime": 10.060299000000668, 
+            "sentTime": 9.47501899999952, 
+            "size": 13188, 
+            "type": "resource", 
+            "url": "http://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_21", 
+            "mimeType": "image/png", 
+            "priority": 58, 
+            "receiveTime": 10.091171000000031, 
+            "sentTime": 9.77363399999922, 
+            "size": 12419, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/production/head/images/landing/landing-page-brandlogos-v2.png"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_87"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_53", 
+            "mimeType": "text/css", 
+            "priority": 61, 
+            "receiveTime": 10.268015999999989, 
+            "sentTime": 10.18842500000028, 
+            "size": 859, 
+            "type": "resource", 
+            "url": "http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic&subset=latin,latin-ext,cyrillic"
+        }, 
+        {
+            "cached": false, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_30", 
+            "mimeType": "image/svg+xml", 
+            "priority": 52, 
+            "receiveTime": 10.101814999999988, 
+            "sentTime": 9.776335000000472, 
+            "size": 1109, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/production/head/images/landing/landing-icon-search-v2.svg"
+        }, 
+        {
+            "cached": false, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_48", 
+            "mimeType": "image/png", 
+            "priority": 18, 
+            "receiveTime": 10.140062000000398, 
+            "sentTime": 9.628864000000249, 
+            "size": 3588, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/production/head/images/icon-action-customize.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_78", 
+            "mimeType": "image/png", 
+            "originalResource": "download_48", 
+            "priority": 76, 
+            "sentTime": 9.62996799999928, 
+            "size": 3588, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/production/head/images/icon-action-customize.png"
+        }, 
+        {
+            "cached": false, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_10", 
+            "mimeType": "image/png", 
+            "priority": 32, 
+            "receiveTime": 10.062470000000758, 
+            "sentTime": 9.628543999999238, 
+            "size": 2920, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/production/head/images/icon-action-overview-4@2x.png"
+        }, 
+        {
+            "cached": false, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_22", 
+            "mimeType": "image/jpg", 
+            "priority": 27, 
+            "receiveTime": 10.21252899999854, 
+            "sentTime": 9.77524000000085, 
+            "size": 352381, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/production/head/images/landing/screenshot-web.jpg"
+        }, 
+        {
+            "cached": false, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_56", 
+            "mimeType": "font/woff", 
+            "priority": 63, 
+            "receiveTime": 10.558428000000276, 
+            "sentTime": 10.375884999999471, 
+            "size": 104844, 
+            "type": "resource", 
+            "url": "http://fonts.gstatic.com/s/lora/v9/P82D7rv6xi_0CR2eFvCvZw.woff"
+        }, 
+        {
+            "cached": false, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_38", 
+            "mimeType": "image/svg+xml", 
+            "priority": 44, 
+            "receiveTime": 10.12203099999897, 
+            "sentTime": 9.777323000000251, 
+            "size": 1522, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/production/head/images/landing/landing-icon-trello-v2.svg"
+        }, 
+        {
+            "cached": false, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_45", 
+            "mimeType": "image/png", 
+            "priority": 37, 
+            "receiveTime": 10.134979999998905, 
+            "sentTime": 9.777769000000262, 
+            "size": 15638, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/production/head/images/landing/photo-mit-bw@2x.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_56_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_63", 
+            "mimeType": "", 
+            "priority": 10, 
+            "receiveTime": 2.4794120000005933, 
+            "sentTime": 2.479224000000613, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/fonts-ttf/GuardianTextEgyp-Bold-Web.ttf"
+        }, 
+        {
+            "cached": true, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_72", 
+            "mimeType": "", 
+            "priority": 70, 
+            "receiveTime": 9.6053780000002, 
+            "sentTime": 9.625400000000809, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/fonts-ttf/GuardianTextEgyp-Bold-Web.ttf"
+        }, 
+        {
+            "cached": true, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_88", 
+            "mimeType": "", 
+            "priority": 86, 
+            "receiveTime": 9.721720999999889, 
+            "sentTime": 9.743309999999838, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/fonts-ttf/GuardianTextEgyp-Bold-Web.ttf"
+        }, 
+        {
+            "cached": false, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_28", 
+            "mimeType": "image/svg+xml", 
+            "priority": 54, 
+            "receiveTime": 10.096501999998509, 
+            "sentTime": 9.77623400000084, 
+            "size": 975, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/production/head/images/landing/landing-icon-reading-v2.svg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_56_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_1", 
+            "mimeType": "image/png", 
+            "priority": 5, 
+            "receiveTime": 2.7640659999997297, 
+            "sentTime": 2.481351000000359, 
+            "size": 9956, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/img/oops.png"
+        }, 
+        {
+            "cached": false, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_31", 
+            "mimeType": "image/png", 
+            "priority": 20, 
+            "receiveTime": 10.10862300000008, 
+            "sentTime": 9.628920999999536, 
+            "size": 3117, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/production/head/images/icon-action-next.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_79", 
+            "mimeType": "image/png", 
+            "originalResource": "download_31", 
+            "priority": 77, 
+            "sentTime": 9.63003899999967, 
+            "size": 3117, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/production/head/images/icon-action-next.png"
+        }, 
+        {
+            "cached": false, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_55", 
+            "mimeType": "font/woff", 
+            "priority": 62, 
+            "receiveTime": 10.572179999999207, 
+            "sentTime": 10.375717000000805, 
+            "size": 103880, 
+            "type": "resource", 
+            "url": "http://fonts.gstatic.com/s/lora/v9/3NHH5PYzHHrzDjzWZmlY1A.woff"
+        }, 
+        {
+            "cached": false, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_20", 
+            "mimeType": "image/png", 
+            "priority": 22, 
+            "receiveTime": 10.084293000001708, 
+            "sentTime": 9.631214999999429, 
+            "size": 1899, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/production/head/images/tab-first.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_93", 
+            "mimeType": "image/png", 
+            "originalResource": "download_20", 
+            "priority": 91, 
+            "sentTime": 9.744705000000977, 
+            "size": 1899, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/production/head/images/tab-first.png"
+        }, 
+        {
+            "cached": false, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_13", 
+            "mimeType": "image/png", 
+            "priority": 29, 
+            "receiveTime": 10.064120000000912, 
+            "sentTime": 9.62873799999943, 
+            "size": 3246, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/production/head/images/icon-action-markasread.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_76", 
+            "mimeType": "image/png", 
+            "originalResource": "download_13", 
+            "priority": 74, 
+            "sentTime": 9.629915999999866, 
+            "size": 3246, 
+            "type": "resource", 
+            "url": "http://s3.feedly.com/production/head/images/icon-action-markasread.png"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "comp_1"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "None", 
+            "endTime": 2.4789270000001125, 
+            "evalType": "recalcStyle", 
+            "frame": 0, 
+            "id": "comp_0", 
+            "startTime": 2.4521089999998367, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "http://s3.feedly.com/web/30.0.1239/fx/feedly-fx.css"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_3"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "None", 
+            "endTime": 2.480840000000171, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_1", 
+            "startTime": 2.4795260000009876, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_5"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "None", 
+            "endTime": 9.372043999999732, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_53", 
+            "startTime": 8.72659399999975, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "http://s3.feedly.com/web/30.0.1239/js/web-main-bundle.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_6"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "None", 
+            "endTime": 9.419922999999471, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_54", 
+            "startTime": 9.372197000000597, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "http://s3.feedly.com/web/30.0.1239/js/web-templates-bundle.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_56_0"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "None", 
+            "endTime": 9.473762999999963, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_55", 
+            "name": "DOMContentLoaded", 
+            "startTime": 9.419991000000664, 
+            "subtree": "None", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_5", 
+                "comp_56_1"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_56", 
+            "endTime": 9.47438400000101, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_56_0", 
+            "name": "load", 
+            "startTime": 9.473927999999432, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_7", 
+                "comp_56_2"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_56", 
+            "endTime": 9.474914000000354, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_56_1", 
+            "name": "load", 
+            "startTime": 9.47438400000101, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_56_3", 
+                "download_8"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_56", 
+            "endTime": 9.47512099999949, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_56_2", 
+            "name": "load", 
+            "startTime": 9.474914000000354, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_6", 
+                "comp_56_4"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_56", 
+            "endTime": 9.475448999999571, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_56_3", 
+            "name": "load", 
+            "startTime": 9.47512099999949, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_56_5", 
+                "download_68"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_56", 
+            "endTime": 9.6053780000002, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_56_4", 
+            "name": "load", 
+            "startTime": 9.475448999999571, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_56_6", 
+                "download_69"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_56", 
+            "endTime": 9.6053780000002, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_56_5", 
+            "name": "load", 
+            "startTime": 9.6053780000002, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_56_7", 
+                "download_70"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_56", 
+            "endTime": 9.6053780000002, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_56_6", 
+            "name": "load", 
+            "startTime": 9.6053780000002, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_71", 
+                "comp_56_8"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_56", 
+            "endTime": 9.6053780000002, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_56_7", 
+            "name": "load", 
+            "startTime": 9.6053780000002, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_56_9", 
+                "download_72"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_56", 
+            "endTime": 9.6053780000002, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_56_8", 
+            "name": "load", 
+            "startTime": 9.6053780000002, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_56_10", 
+                "download_73"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_56", 
+            "endTime": 9.6053780000002, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_56_9", 
+            "name": "load", 
+            "startTime": 9.6053780000002, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_74", 
+                "comp_56_11"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_56", 
+            "endTime": 9.6053780000002, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_56_10", 
+            "name": "load", 
+            "startTime": 9.6053780000002, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_75", 
+                "comp_56_12"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_56", 
+            "endTime": 9.6053780000002, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_56_11", 
+            "name": "load", 
+            "startTime": 9.6053780000002, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_15", 
+                "comp_56_13"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_56", 
+            "endTime": 9.627893000000768, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_56_12", 
+            "name": "load", 
+            "startTime": 9.6053780000002, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_16", 
+                "comp_56_14"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_56", 
+            "endTime": 9.627893000000768, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_56_13", 
+            "name": "load", 
+            "startTime": 9.627893000000768, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_56_15", 
+                "download_47"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_56", 
+            "endTime": 9.627909000000727, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_56_14", 
+            "name": "load", 
+            "startTime": 9.627893000000768, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_49", 
+                "comp_56_16"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_56", 
+            "endTime": 9.627909000000727, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_56_15", 
+            "name": "load", 
+            "startTime": 9.627909000000727, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_56_17", 
+                "download_18"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_56", 
+            "endTime": 9.627948999999717, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_56_16", 
+            "name": "load", 
+            "startTime": 9.627909000000727, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_92", 
+                "comp_56_18"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_56", 
+            "endTime": 9.627948999999717, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_56_17", 
+            "name": "load", 
+            "startTime": 9.627948999999717, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_56_19", 
+                "download_9"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_56", 
+            "endTime": 9.628493000000162, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_56_18", 
+            "name": "load", 
+            "startTime": 9.627948999999717, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_56_20", 
+                "download_10"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_56", 
+            "endTime": 9.628550999999788, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_56_19", 
+            "name": "load", 
+            "startTime": 9.628493000000162, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_56_21", 
+                "download_11"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_56", 
+            "endTime": 9.62861200000043, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_56_20", 
+            "name": "load", 
+            "startTime": 9.628550999999788, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_56_22", 
+                "download_12"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_56", 
+            "endTime": 9.628678000000946, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_56_21", 
+            "name": "load", 
+            "startTime": 9.62861200000043, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_56_23", 
+                "download_13"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_56", 
+            "endTime": 9.628752000000532, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_56_22", 
+            "name": "load", 
+            "startTime": 9.628678000000946, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_41", 
+                "comp_56_24"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_56", 
+            "endTime": 9.628812999999354, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_56_23", 
+            "name": "load", 
+            "startTime": 9.628752000000532, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_48", 
+                "comp_56_25"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_56", 
+            "endTime": 9.628877000001012, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_56_24", 
+            "name": "load", 
+            "startTime": 9.628812999999354, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_31", 
+                "comp_56_26"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_56", 
+            "endTime": 9.6289340000003, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_56_25", 
+            "name": "load", 
+            "startTime": 9.628877000001012, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_19", 
+                "comp_56_27"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_56", 
+            "endTime": 9.629853000000367, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_56_26", 
+            "name": "load", 
+            "startTime": 9.6289340000003, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_56_28", 
+                "download_20"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_56", 
+            "endTime": 9.629853000000367, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_56_27", 
+            "name": "load", 
+            "startTime": 9.629853000000367, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_56_29", 
+                "download_93"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_56", 
+            "endTime": 9.629853000000367, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_56_28", 
+            "name": "load", 
+            "startTime": 9.629853000000367, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_94", 
+                "comp_56_30"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_56", 
+            "endTime": 9.629853000000367, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_56_29", 
+            "name": "load", 
+            "startTime": 9.629853000000367, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_76", 
+                "comp_56_31"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_56", 
+            "endTime": 9.629923000000417, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_56_30", 
+            "name": "load", 
+            "startTime": 9.629853000000367, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_77", 
+                "comp_56_32"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_56", 
+            "endTime": 9.629951000000801, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_56_31", 
+            "name": "load", 
+            "startTime": 9.629923000000417, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_56_33", 
+                "download_78"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_56", 
+            "endTime": 9.629973000000973, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_56_32", 
+            "name": "load", 
+            "startTime": 9.629951000000801, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_17", 
+                "comp_56_34"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_56", 
+            "endTime": 9.630021999999371, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_56_33", 
+            "name": "load", 
+            "startTime": 9.629973000000973, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_56_35", 
+                "download_79"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_56", 
+            "endTime": 9.630044999999882, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_56_34", 
+            "name": "load", 
+            "startTime": 9.630021999999371, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_57"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_56", 
+            "endTime": 9.707178000000567, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_56_35", 
+            "name": "load", 
+            "startTime": 9.630044999999882, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_56_37", 
+                "download_14"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_56", 
+            "endTime": 9.70769300000029, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_56_36", 
+            "name": "load", 
+            "startTime": 9.707523000000947, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_80", 
+                "comp_56_38"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_56", 
+            "endTime": 9.721720999999889, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_56_37", 
+            "name": "load", 
+            "startTime": 9.70769300000029, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_81", 
+                "comp_56_39"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_56", 
+            "endTime": 9.721720999999889, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_56_38", 
+            "name": "load", 
+            "startTime": 9.721720999999889, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_56_40", 
+                "download_82"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_56", 
+            "endTime": 9.721720999999889, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_56_39", 
+            "name": "load", 
+            "startTime": 9.721720999999889, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_56_41", 
+                "download_83"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_56", 
+            "endTime": 9.721720999999889, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_56_40", 
+            "name": "load", 
+            "startTime": 9.721720999999889, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_84", 
+                "comp_56_42"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_56", 
+            "endTime": 9.721720999999889, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_56_41", 
+            "name": "load", 
+            "startTime": 9.721720999999889, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_85", 
+                "comp_56_43"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_56", 
+            "endTime": 9.721720999999889, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_56_42", 
+            "name": "load", 
+            "startTime": 9.721720999999889, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_86", 
+                "comp_56_44"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_56", 
+            "endTime": 9.721720999999889, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_56_43", 
+            "name": "load", 
+            "startTime": 9.721720999999889, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_87", 
+                "comp_56_45"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_56", 
+            "endTime": 9.721720999999889, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_56_44", 
+            "name": "load", 
+            "startTime": 9.721720999999889, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_56_46", 
+                "download_88"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_56", 
+            "endTime": 9.721720999999889, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_56_45", 
+            "name": "load", 
+            "startTime": 9.721720999999889, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_89", 
+                "comp_56_47"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_56", 
+            "endTime": 9.721720999999889, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_56_46", 
+            "name": "load", 
+            "startTime": 9.721720999999889, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_56_48", 
+                "download_90"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_56", 
+            "endTime": 9.721720999999889, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_56_47", 
+            "name": "load", 
+            "startTime": 9.721720999999889, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_56_49", 
+                "download_91"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_56", 
+            "endTime": 9.721720999999889, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_56_48", 
+            "name": "load", 
+            "startTime": 9.721720999999889, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_56_50", 
+                "download_50"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_56", 
+            "endTime": 9.767152000000351, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_56_49", 
+            "name": "load", 
+            "startTime": 9.721720999999889, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_56_51", 
+                "download_24"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_56", 
+            "endTime": 9.771155000000363, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_56_50", 
+            "name": "load", 
+            "startTime": 9.767152000000351, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_56_52", 
+                "download_22"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_56", 
+            "endTime": 9.771458999999595, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_56_51", 
+            "name": "load", 
+            "startTime": 9.771155000000363, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_56_53", 
+                "download_23"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_56", 
+            "endTime": 9.77161900000101, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_56_52", 
+            "name": "load", 
+            "startTime": 9.771458999999595, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_26", 
+                "comp_56_54"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_56", 
+            "endTime": 9.771753999999419, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_56_53", 
+            "name": "load", 
+            "startTime": 9.77161900000101, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_27", 
+                "comp_56_55"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_56", 
+            "endTime": 9.77181500000006, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_56_54", 
+            "name": "load", 
+            "startTime": 9.771753999999419, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_25", 
+                "comp_56_56"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_56", 
+            "endTime": 9.771872999999687, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_56_55", 
+            "name": "load", 
+            "startTime": 9.77181500000006, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_51", 
+                "comp_56_57"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_56", 
+            "endTime": 9.771930999999313, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_56_56", 
+            "name": "load", 
+            "startTime": 9.771872999999687, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_56_58", 
+                "download_29"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_56", 
+            "endTime": 9.771984000000884, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_56_57", 
+            "name": "load", 
+            "startTime": 9.771930999999313, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_56_59", 
+                "download_95"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_56", 
+            "endTime": 9.772257000000536, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_56_58", 
+            "name": "load", 
+            "startTime": 9.771984000000884, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_56_60", 
+                "download_28"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_56", 
+            "endTime": 9.772313999999824, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_56_59", 
+            "name": "load", 
+            "startTime": 9.772257000000536, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_30", 
+                "comp_56_61"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_56", 
+            "endTime": 9.772372999999789, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_56_60", 
+            "name": "load", 
+            "startTime": 9.772313999999824, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_33", 
+                "comp_56_62"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_56", 
+            "endTime": 9.772437999999966, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_56_61", 
+            "name": "load", 
+            "startTime": 9.772372999999789, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_32", 
+                "comp_56_63"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_56", 
+            "endTime": 9.772498000000269, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_56_62", 
+            "name": "load", 
+            "startTime": 9.772437999999966, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_56_64", 
+                "download_34"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_56", 
+            "endTime": 9.772566999999981, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_56_63", 
+            "name": "load", 
+            "startTime": 9.772498000000269, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_56_65", 
+                "download_35"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_56", 
+            "endTime": 9.772729000000254, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_56_64", 
+            "name": "load", 
+            "startTime": 9.772566999999981, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_56_66", 
+                "download_37"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_56", 
+            "endTime": 9.772790999999415, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_56_65", 
+            "name": "load", 
+            "startTime": 9.772729000000254, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_56_67", 
+                "download_36"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_56", 
+            "endTime": 9.772843000000648, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_56_66", 
+            "name": "load", 
+            "startTime": 9.772790999999415, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_39", 
+                "comp_56_68"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_56", 
+            "endTime": 9.772895000000062, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_56_67", 
+            "name": "load", 
+            "startTime": 9.772843000000648, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_38", 
+                "comp_56_69"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_56", 
+            "endTime": 9.7729589999999, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_56_68", 
+            "name": "load", 
+            "startTime": 9.772895000000062, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_40", 
+                "comp_56_70"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_56", 
+            "endTime": 9.773040000000037, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_56_69", 
+            "name": "load", 
+            "startTime": 9.7729589999999, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_42", 
+                "comp_56_71"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_56", 
+            "endTime": 9.7731789999998, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_56_70", 
+            "name": "load", 
+            "startTime": 9.773040000000037, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_56_72", 
+                "download_45"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_56", 
+            "endTime": 9.7732419999993, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_56_71", 
+            "name": "load", 
+            "startTime": 9.7731789999998, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_56_73", 
+                "download_43"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_56", 
+            "endTime": 9.773300000000745, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_56_72", 
+            "name": "load", 
+            "startTime": 9.7732419999993, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_52", 
+                "comp_56_74"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_56", 
+            "endTime": 9.773353000000498, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_56_73", 
+            "name": "load", 
+            "startTime": 9.773300000000745, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_44", 
+                "comp_56_75"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_56", 
+            "endTime": 9.773408999999447, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_56_74", 
+            "name": "load", 
+            "startTime": 9.773353000000498, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_56_76", 
+                "download_46"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_56", 
+            "endTime": 9.773479999999836, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_56_75", 
+            "name": "load", 
+            "startTime": 9.773408999999447, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_56_77", 
+                "download_21"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_56", 
+            "endTime": 9.773645999999644, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_56_76", 
+            "name": "load", 
+            "startTime": 9.773479999999836, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_56", 
+            "endTime": 9.787651000000551, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_56_77", 
+            "name": "load", 
+            "startTime": 9.773645999999644, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_56_36"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "None", 
+            "endTime": 9.707523000000947, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_57", 
+            "name": "readystatechange", 
+            "startTime": 9.707178000000567, 
+            "subtree": "subtree_comp_56", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_76"
+            ], 
+            "docUrl": "http://feedly.com/i/welcome", 
+            "enclosing": "None", 
+            "endTime": 10.064679999999498, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_75", 
+            "name": "readystatechange", 
+            "startTime": 10.064524999999776, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_77"
+            ], 
+            "docUrl": "http://feedly.com/i/welcome", 
+            "enclosing": "None", 
+            "endTime": 10.06492900000012, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_76", 
+            "name": "readystatechange", 
+            "startTime": 10.064779000000271, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_78"
+            ], 
+            "docUrl": "http://feedly.com/i/welcome", 
+            "enclosing": "None", 
+            "endTime": 10.065495000000737, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_77", 
+            "name": "readystatechange", 
+            "startTime": 10.06543000000056, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_79"
+            ], 
+            "docUrl": "http://feedly.com/i/welcome", 
+            "enclosing": "None", 
+            "endTime": 10.06604200000038, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_78", 
+            "name": "readystatechange", 
+            "startTime": 10.065939000000071, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://feedly.com/i/welcome", 
+            "enclosing": "None", 
+            "endTime": 10.071047999999792, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_79", 
+            "name": "readystatechange", 
+            "startTime": 10.066656000000876, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "comp_80_1", 
+                "download_54"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_80", 
+            "endTime": 10.17888800000037, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_80_0", 
+            "startTime": 10.140265, 
+            "subtree": "subtree_comp_80", 
+            "type": "eval", 
+            "url": "http://www.google-analytics.com/analytics.js"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_80", 
+            "endTime": 10.180702999999994, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_80_1", 
+            "startTime": 10.17888800000037, 
+            "subtree": "subtree_comp_80", 
+            "type": "eval", 
+            "url": "http://www.google-analytics.com/analytics.js"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_53", 
+                "comp_81_1"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_81", 
+            "endTime": 10.18800899999951, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_81_0", 
+            "startTime": 10.181158999999752, 
+            "subtree": "subtree_comp_81", 
+            "type": "eval", 
+            "url": "http://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "comp_81", 
+            "endTime": 10.188610999999582, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_81_1", 
+            "startTime": 10.18800899999951, 
+            "subtree": "subtree_comp_81", 
+            "type": "eval", 
+            "url": "http://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [], 
+            "docUrl": "http://feedly.com/", 
+            "enclosing": "None", 
+            "endTime": 10.206976999999824, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_82", 
+            "startTime": 10.188998999999967, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://apis.google.com/js/platform.js?e=PlatformEnableGapiNow&onload=requestNowAuthorization"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "download_58", 
+                "download_57", 
+                "download_56", 
+                "download_55"
+            ], 
+            "docUrl": "http://feedly.com/i/welcome", 
+            "enclosing": "None", 
+            "endTime": 10.27288100000078, 
+            "evalType": "recalcStyle", 
+            "frame": 0, 
+            "id": "comp_87", 
+            "startTime": 10.268523000000641, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic&subset=latin,latin-ext,cyrillic"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://feedly.com/i/welcome", 
+            "enclosing": "None", 
+            "endTime": 10.376883000000817, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_92", 
+            "name": "load", 
+            "startTime": 10.376663000000917, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "children": [
+                "pchunk_0_1", 
+                "download_3"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "endColumn": 101, 
+            "endRow": 50, 
+            "endTag": "link", 
+            "endTime": 2.4765690000022005, 
+            "frame": 0, 
+            "id": "pchunk_0_0", 
+            "isFragment": false, 
+            "startColumn": 53, 
+            "startRow": 1, 
+            "startTag": "html", 
+            "startTime": 2.448394000000917, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_62", 
+                "download_63", 
+                "download_60", 
+                "download_61", 
+                "download_66", 
+                "download_64", 
+                "download_65", 
+                "download_59", 
+                "pchunk_0_2"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "endColumn": 10, 
+            "endRow": 135, 
+            "endTag": "style", 
+            "endTime": 2.479376000001139, 
+            "frame": 0, 
+            "id": "pchunk_0_1", 
+            "isFragment": false, 
+            "startColumn": 9, 
+            "startRow": 52, 
+            "startTag": "style", 
+            "startTime": 2.4789529999998194, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_3", 
+                "comp_1"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "endColumn": 11, 
+            "endRow": 338, 
+            "endTag": "script", 
+            "endTime": 2.479433999998946, 
+            "frame": 0, 
+            "id": "pchunk_0_2", 
+            "isFragment": false, 
+            "startColumn": 16, 
+            "startRow": 137, 
+            "startTag": "script", 
+            "startTime": 2.4794199999996636, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_4", 
+                "download_1"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "endColumn": 69, 
+            "endRow": 347, 
+            "endTag": "img", 
+            "endTime": 2.482592999995177, 
+            "frame": 0, 
+            "id": "pchunk_0_3", 
+            "isFragment": false, 
+            "startColumn": 11, 
+            "startRow": 339, 
+            "startTag": "head", 
+            "startTime": 2.480854999999792, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_5", 
+                "download_2"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "endColumn": 130, 
+            "endRow": 355, 
+            "endTag": "script", 
+            "endTime": 2.4829890000000887, 
+            "frame": 0, 
+            "id": "pchunk_0_4", 
+            "isFragment": false, 
+            "startColumn": 73, 
+            "startRow": 347, 
+            "startTag": "br", 
+            "startTime": 2.4826909999992495, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_4", 
+                "pchunk_0_6"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "endColumn": 135, 
+            "endRow": 356, 
+            "endTag": "script", 
+            "endTime": 9.372142000000167, 
+            "frame": 0, 
+            "id": "pchunk_0_5", 
+            "isFragment": false, 
+            "startColumn": 126, 
+            "startRow": 356, 
+            "startTag": "script", 
+            "startTime": 9.372067000000243, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "comp_55"
+            ], 
+            "docUrl": "http://feedly.com/", 
+            "endColumn": 7, 
+            "endRow": 359, 
+            "endTag": "html", 
+            "endTime": 9.419964000000618, 
+            "frame": 0, 
+            "id": "pchunk_0_6", 
+            "isFragment": false, 
+            "startColumn": 11, 
+            "startRow": 358, 
+            "startTag": "body", 
+            "startTime": 9.41995499999939, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_1", 
+                "pchunk_0_0"
+            ], 
+            "id": "dchunk_0_0", 
+            "offset": 70, 
+            "resource": "download_0", 
+            "size": 3761, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_2", 
+                "pchunk_0_1"
+            ], 
+            "id": "dchunk_0_1", 
+            "offset": 3831, 
+            "resource": "download_0", 
+            "size": 2253, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_3", 
+                "pchunk_0_2"
+            ], 
+            "id": "dchunk_0_2", 
+            "offset": 6084, 
+            "resource": "download_0", 
+            "size": 6852, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_4", 
+                "pchunk_0_3"
+            ], 
+            "id": "dchunk_0_3", 
+            "offset": 12936, 
+            "resource": "download_0", 
+            "size": 573, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_4", 
+                "dchunk_0_5"
+            ], 
+            "id": "dchunk_0_4", 
+            "offset": 13509, 
+            "resource": "download_0", 
+            "size": 613, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_5", 
+                "dchunk_0_6"
+            ], 
+            "id": "dchunk_0_5", 
+            "offset": 14122, 
+            "resource": "download_0", 
+            "size": 9, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_6"
+            ], 
+            "id": "dchunk_0_6", 
+            "offset": 14131, 
+            "resource": "download_0", 
+            "size": 9, 
+            "type": "download_chunk"
+        }
+    ], 
+    "frames": [
+        {
+            "id": 0, 
+            "subframes": [], 
+            "url": "http://feedly.com/"
+        }
+    ], 
+    "loadEvent": "comp_56_0", 
+    "name": "http://feedly.com/", 
+    "root_activity": "download_0"
+}

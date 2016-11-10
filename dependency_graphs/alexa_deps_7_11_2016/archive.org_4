@@ -1,0 +1,2676 @@
+{
+    "DOMContentLoadedEvent": "comp_10", 
+    "activities": [
+        {
+            "cached": false, 
+            "children": [
+                "comp_2", 
+                "comp_12_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_2", 
+            "mimeType": "application/x-javascript", 
+            "priority": 4, 
+            "receiveTime": 1.6912049999991723, 
+            "sentTime": 1.4858060000005935, 
+            "size": 27913, 
+            "type": "resource", 
+            "url": "https://archive.org/includes/bootstrap.min.js?v3.0.0"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_5", 
+                "comp_12_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_7", 
+            "mimeType": "application/x-javascript", 
+            "priority": 7, 
+            "receiveTime": 2.710719999999128, 
+            "sentTime": 2.141349999999875, 
+            "size": 83712, 
+            "type": "resource", 
+            "url": "https://archive.org/includes/archive.min.js?v=308ad0a"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_12_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_16", 
+            "mimeType": "image/jpeg", 
+            "priority": 37, 
+            "receiveTime": 3.788983999998891, 
+            "sentTime": 2.220908999999665, 
+            "size": 8833, 
+            "type": "resource", 
+            "url": "https://archive.org/services/img/americana"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_12_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_13", 
+            "mimeType": "image/png", 
+            "priority": 41, 
+            "receiveTime": 3.770143999998254, 
+            "sentTime": 2.216113000000405, 
+            "size": 5554, 
+            "type": "resource", 
+            "url": "https://archive.org/services/img/opensource_audio"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_12_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_23", 
+            "mimeType": "image/png", 
+            "priority": 29, 
+            "receiveTime": 4.146233999999822, 
+            "sentTime": 2.229443000000174, 
+            "size": 8938, 
+            "type": "resource", 
+            "url": "https://archive.org/services/img/netlabels"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_4", 
+                "comp_12_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_3", 
+            "mimeType": "application/x-javascript", 
+            "priority": 6, 
+            "receiveTime": 2.3467709999986255, 
+            "sentTime": 2.139913000000888, 
+            "size": 1174, 
+            "type": "resource", 
+            "url": "https://archive.org/includes/node_modules/react-dom/dist/react-dom.js?v15.1.0"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_12_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_35", 
+            "mimeType": "image/png", 
+            "priority": 13, 
+            "receiveTime": 5.033552000000782, 
+            "sentTime": 2.2445330000009562, 
+            "size": 52400, 
+            "type": "resource", 
+            "url": "https://archive.org/services/img/oldtimeradio"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_12_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_12", 
+            "mimeType": "image/png", 
+            "priority": 49, 
+            "receiveTime": 2.4429270000000542, 
+            "sentTime": 2.1789630000002944, 
+            "size": 5240, 
+            "type": "resource", 
+            "url": "https://archive.org/services/img/etree"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_12_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_59", 
+            "mimeType": "image/png", 
+            "originalResource": "download_12", 
+            "priority": 51, 
+            "sentTime": 2.2195929999998043, 
+            "size": 5240, 
+            "type": "resource", 
+            "url": "https://archive.org/services/img/etree"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_12_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_32", 
+            "mimeType": "image/png", 
+            "priority": 21, 
+            "receiveTime": 4.347706999998991, 
+            "sentTime": 2.2394399999993766, 
+            "size": 7435, 
+            "type": "resource", 
+            "url": "https://archive.org/services/img/biodiversity"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "dchunk_0_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_0", 
+            "mimeType": "text/html", 
+            "priority": 1, 
+            "receiveTime": 1.0459410000003118, 
+            "sentTime": 0.0, 
+            "size": 130041, 
+            "type": "resource", 
+            "url": "https://archive.org/"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_12_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_40", 
+            "mimeType": "image/png", 
+            "priority": 14, 
+            "receiveTime": 4.914034999999785, 
+            "sentTime": 2.249905000000581, 
+            "size": 2564, 
+            "type": "resource", 
+            "url": "https://archive.org/services/img/loggedin"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_12_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_8", 
+            "mimeType": "image/png", 
+            "priority": 47, 
+            "receiveTime": 2.441614000001209, 
+            "sentTime": 2.1771669999998267, 
+            "size": 2177, 
+            "type": "resource", 
+            "url": "https://archive.org/services/img/texts"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_12_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_18", 
+            "mimeType": "image/png", 
+            "priority": 34, 
+            "receiveTime": 3.9725059999982477, 
+            "sentTime": 2.2220500000003085, 
+            "size": 7522, 
+            "type": "resource", 
+            "url": "https://archive.org/services/img/opensource"
+        }, 
+        {
+            "cached": false, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_50", 
+            "mimeType": "image/gif", 
+            "priority": 54, 
+            "receiveTime": 4.9898290000001, 
+            "sentTime": 4.071367000000464, 
+            "size": 35, 
+            "type": "resource", 
+            "url": "https://analytics.archive.org/0.gif?cache_bust=0.9700509032700211&server_ms=44&server_name=www14.us.archive.org&service=ao_2&kind=pageview&loadtime=2587&timediff=1&locale=en-GB&referrer=-&version=2&count=11"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_12_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_11", 
+            "mimeType": "image/jpeg", 
+            "priority": 48, 
+            "receiveTime": 2.442800000000716, 
+            "sentTime": 2.1784000000006927, 
+            "size": 8978, 
+            "type": "resource", 
+            "url": "https://archive.org/services/img/911"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_12_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_45", 
+            "mimeType": "image/png", 
+            "priority": 36, 
+            "receiveTime": 3.9071989999993093, 
+            "sentTime": 2.1855090000008204, 
+            "size": 561, 
+            "type": "resource", 
+            "url": "https://archive.org/images/gift.png"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_12_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_28", 
+            "mimeType": "image/jpeg", 
+            "priority": 24, 
+            "receiveTime": 4.3302460000013525, 
+            "sentTime": 2.2343029999992723, 
+            "size": 5447, 
+            "type": "resource", 
+            "url": "https://archive.org/services/img/feature_films"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_12_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_29", 
+            "mimeType": "image/jpeg", 
+            "priority": 23, 
+            "receiveTime": 4.335484000001088, 
+            "sentTime": 2.2371430000002874, 
+            "size": 13397, 
+            "type": "resource", 
+            "url": "https://archive.org/services/img/GratefulDead"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_12_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_38", 
+            "mimeType": "image/png", 
+            "priority": 16, 
+            "receiveTime": 4.722560000000158, 
+            "sentTime": 2.2407960000000458, 
+            "size": 27172, 
+            "type": "resource", 
+            "url": "https://archive.org/services/img/europeanlibraries"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_12_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_14", 
+            "mimeType": "image/png", 
+            "priority": 40, 
+            "receiveTime": 3.7728170000009413, 
+            "sentTime": 2.218365000000631, 
+            "size": 4650, 
+            "type": "resource", 
+            "url": "https://archive.org/services/img/opensource_movies"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_12_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_39", 
+            "mimeType": "image/png", 
+            "priority": 15, 
+            "receiveTime": 4.90970500000185, 
+            "sentTime": 2.24856600000021, 
+            "size": 14178, 
+            "type": "resource", 
+            "url": "https://archive.org/services/img/library_of_congress"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_12_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_48", 
+            "mimeType": "image/gif", 
+            "priority": 9, 
+            "receiveTime": 5.2040330000018, 
+            "sentTime": 2.2534880000002886, 
+            "size": 673, 
+            "type": "resource", 
+            "url": "https://archive.org/images/loading.gif"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_6", 
+                "comp_12_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_6", 
+            "mimeType": "text/css", 
+            "priority": 8, 
+            "receiveTime": 2.746553999999378, 
+            "sentTime": 2.154870000000301, 
+            "size": 232705, 
+            "type": "resource", 
+            "url": "https://archive.org/includes/archive.min.css?v=308ad0a"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_12_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_30", 
+            "mimeType": "image/gif", 
+            "priority": 42, 
+            "receiveTime": 3.145191999999952, 
+            "sentTime": 2.295341000000917, 
+            "size": 35, 
+            "type": "resource", 
+            "url": "https://analytics.archive.org/0.gif?service=ao_2&kind=event&ec=page_action&ea=scroll_fetch_base&el=%2F&loadtime=811&cache_bust=0.2365997729357332&version=2&count=9"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_12_0", 
+                "comp_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_4", 
+            "mimeType": "application/x-javascript", 
+            "priority": 2, 
+            "receiveTime": 1.423359000000346, 
+            "sentTime": 1.042011999999886, 
+            "size": 93107, 
+            "type": "resource", 
+            "url": "https://archive.org/includes/jquery-1.10.2.min.js?v1.10.2"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_12_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_10", 
+            "mimeType": "image/png", 
+            "priority": 50, 
+            "receiveTime": 2.4421889999994164, 
+            "sentTime": 2.1792850000001636, 
+            "size": 2337, 
+            "type": "resource", 
+            "url": "https://archive.org/services/img/librivoxaudio"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_12_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_62", 
+            "mimeType": "image/png", 
+            "originalResource": "download_10", 
+            "priority": 52, 
+            "sentTime": 2.223138999999719, 
+            "size": 2337, 
+            "type": "resource", 
+            "url": "https://archive.org/services/img/librivoxaudio"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_12_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_41", 
+            "mimeType": "image/png", 
+            "priority": 12, 
+            "receiveTime": 5.109000999998898, 
+            "sentTime": 2.2525110000005952, 
+            "size": 47380, 
+            "type": "resource", 
+            "url": "https://archive.org/services/img/microfilm"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_12_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_15", 
+            "mimeType": "image/jpeg", 
+            "priority": 45, 
+            "receiveTime": 2.5991370000010647, 
+            "sentTime": 2.181024999999863, 
+            "size": 12429, 
+            "type": "resource", 
+            "url": "https://archive.org/services/img/brooklynmuseum"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_12_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_34", 
+            "mimeType": "image/png", 
+            "priority": 19, 
+            "receiveTime": 4.687455000001137, 
+            "sentTime": 2.24556499999926, 
+            "size": 6648, 
+            "type": "resource", 
+            "url": "https://archive.org/services/img/tvnews"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_12_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_44", 
+            "mimeType": "image/png", 
+            "priority": 35, 
+            "receiveTime": 3.909218000000692, 
+            "sentTime": 2.1807819999994535, 
+            "size": 13869, 
+            "type": "resource", 
+            "url": "https://archive.org/services/img/metropolitanmuseumofart-gallery"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_12_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_36", 
+            "mimeType": "image/png", 
+            "priority": 18, 
+            "receiveTime": 4.7044910000004165, 
+            "sentTime": 2.247537999999622, 
+            "size": 8694, 
+            "type": "resource", 
+            "url": "https://archive.org/services/img/universallibrary"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_12_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_33", 
+            "mimeType": "image/jpeg", 
+            "priority": 20, 
+            "receiveTime": 4.680320999999822, 
+            "sentTime": 2.2420359999996435, 
+            "size": 28130, 
+            "type": "resource", 
+            "url": "https://archive.org/services/img/iraq_middleeast"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_12_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_26", 
+            "mimeType": "image/png", 
+            "priority": 26, 
+            "receiveTime": 4.261303000001135, 
+            "sentTime": 2.2263330000005226, 
+            "size": 5866, 
+            "type": "resource", 
+            "url": "https://archive.org/services/img/toronto"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_12_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_31", 
+            "mimeType": "image/png", 
+            "priority": 22, 
+            "receiveTime": 4.343315999998595, 
+            "sentTime": 2.2383050000007643, 
+            "size": 7567, 
+            "type": "resource", 
+            "url": "https://archive.org/services/img/speed_runs"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_12_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_19", 
+            "mimeType": "image/png", 
+            "priority": 33, 
+            "receiveTime": 3.985276999999769, 
+            "sentTime": 2.2252950000001874, 
+            "size": 13895, 
+            "type": "resource", 
+            "url": "https://archive.org/services/img/opensource_media"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_12_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_9", 
+            "mimeType": "image/png", 
+            "priority": 46, 
+            "receiveTime": 2.4426800000019284, 
+            "sentTime": 2.1780409999992116, 
+            "size": 11537, 
+            "type": "resource", 
+            "url": "https://archive.org/services/img/tv"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_12_0", 
+                "comp_1"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_1", 
+            "mimeType": "application/x-javascript", 
+            "priority": 3, 
+            "receiveTime": 1.6851999999998952, 
+            "sentTime": 1.4823510000005626, 
+            "size": 2887, 
+            "type": "resource", 
+            "url": "https://archive.org/includes/analytics.js?v=308ad0a"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_12_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_25", 
+            "mimeType": "image/png", 
+            "priority": 27, 
+            "receiveTime": 4.173515000000407, 
+            "sentTime": 2.231434999999692, 
+            "size": 7287, 
+            "type": "resource", 
+            "url": "https://archive.org/services/img/prelinger"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_12_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_17", 
+            "mimeType": "image/jpeg", 
+            "priority": 43, 
+            "receiveTime": 2.7748549999996612, 
+            "sentTime": 2.1801510000004782, 
+            "size": 11181, 
+            "type": "resource", 
+            "url": "https://archive.org/services/img/consolelivingroom"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_12_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_42", 
+            "mimeType": "image/png", 
+            "priority": 39, 
+            "receiveTime": 3.739228999998886, 
+            "sentTime": 2.1764579999999114, 
+            "size": 14278, 
+            "type": "resource", 
+            "url": "https://archive.org/images/WaybackLogoSmall.png"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_12_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_46", 
+            "mimeType": "image/png", 
+            "priority": 11, 
+            "receiveTime": 5.108190999999351, 
+            "sentTime": 2.2432260000005044, 
+            "size": 2025, 
+            "type": "resource", 
+            "url": "https://archive.org/services/img/tvarchive"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_12_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_20", 
+            "mimeType": "image/png", 
+            "priority": 32, 
+            "receiveTime": 3.9851760000001377, 
+            "sentTime": 2.22418800000014, 
+            "size": 4122, 
+            "type": "resource", 
+            "url": "https://archive.org/services/img/ElectricSheep"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_12_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_37", 
+            "mimeType": "image/jpeg", 
+            "priority": 17, 
+            "receiveTime": 4.707620000001043, 
+            "sentTime": 2.2465489999995043, 
+            "size": 28130, 
+            "type": "resource", 
+            "url": "https://archive.org/services/img/iraq_war"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_3", 
+                "comp_12_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_5", 
+            "mimeType": "application/x-javascript", 
+            "priority": 5, 
+            "receiveTime": 2.484333999998853, 
+            "sentTime": 1.4956920000004175, 
+            "size": 690515, 
+            "type": "resource", 
+            "url": "https://archive.org/includes/node_modules/react/dist/react.js?v15.1.0"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_12_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_24", 
+            "mimeType": "image/png", 
+            "priority": 28, 
+            "receiveTime": 4.1712250000000495, 
+            "sentTime": 2.2304480000002513, 
+            "size": 15630, 
+            "type": "resource", 
+            "url": "https://archive.org/services/img/robarts"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_12_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_21", 
+            "mimeType": "image/png", 
+            "priority": 30, 
+            "receiveTime": 4.124652000000424, 
+            "sentTime": 2.2274130000005243, 
+            "size": 23235, 
+            "type": "resource", 
+            "url": "https://archive.org/services/img/opensource_religionvideo"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_12_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_49", 
+            "mimeType": "image/jpeg", 
+            "priority": 31, 
+            "receiveTime": 4.069923999999446, 
+            "sentTime": 2.179775000000518, 
+            "size": 5456, 
+            "type": "resource", 
+            "url": "https://archive.org/services/img/internetarcade"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_12_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_72", 
+            "mimeType": "image/jpeg", 
+            "originalResource": "download_49", 
+            "priority": 53, 
+            "sentTime": 2.2359489999998914, 
+            "size": 5456, 
+            "type": "resource", 
+            "url": "https://archive.org/services/img/internetarcade"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_12_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_47", 
+            "mimeType": "image/png", 
+            "priority": 10, 
+            "receiveTime": 5.116719999999987, 
+            "sentTime": 2.2513120000003255, 
+            "size": 11914, 
+            "type": "resource", 
+            "url": "https://archive.org/services/img/blc"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_12_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_43", 
+            "mimeType": "image/png", 
+            "priority": 38, 
+            "receiveTime": 3.7430679999997665, 
+            "sentTime": 2.177531999999701, 
+            "size": 16048, 
+            "type": "resource", 
+            "url": "https://archive.org/images/widgetOL.png"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_12_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_22", 
+            "mimeType": "application/octet-stream", 
+            "priority": 44, 
+            "receiveTime": 2.963300999999774, 
+            "sentTime": 2.4430670000001555, 
+            "size": 27960, 
+            "type": "resource", 
+            "url": "https://archive.org/includes/fonts/Iconochive-Regular.woff?-ccsheb"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_12_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_27", 
+            "mimeType": "image/png", 
+            "priority": 25, 
+            "receiveTime": 4.307511000000886, 
+            "sentTime": 2.2324869999993098, 
+            "size": 15139, 
+            "type": "resource", 
+            "url": "https://archive.org/services/img/cdl"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_1"
+            ], 
+            "docUrl": "https://archive.org/", 
+            "enclosing": "None", 
+            "endTime": 1.482253000000128, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_0", 
+            "startTime": 1.4236700000001292, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://archive.org/includes/jquery-1.10.2.min.js?v1.10.2"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_2"
+            ], 
+            "docUrl": "https://archive.org/", 
+            "enclosing": "None", 
+            "endTime": 1.4856999999992695, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_1", 
+            "startTime": 1.4823579999992944, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://archive.org/includes/analytics.js?v=308ad0a"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_3"
+            ], 
+            "docUrl": "https://archive.org/", 
+            "enclosing": "None", 
+            "endTime": 1.4955790000003617, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_2", 
+            "startTime": 1.485819999999876, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://archive.org/includes/bootstrap.min.js?v3.0.0"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_4"
+            ], 
+            "docUrl": "https://archive.org/", 
+            "enclosing": "None", 
+            "endTime": 2.139800999999352, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_3", 
+            "startTime": 2.03161800000089, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://archive.org/includes/node_modules/react/dist/react.js?v15.1.0"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_5"
+            ], 
+            "docUrl": "https://archive.org/", 
+            "enclosing": "None", 
+            "endTime": 2.1412860000000364, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_4", 
+            "startTime": 2.1399290000008477, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://archive.org/includes/node_modules/react-dom/dist/react-dom.js?v15.1.0"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_6"
+            ], 
+            "docUrl": "https://archive.org/", 
+            "enclosing": "None", 
+            "endTime": 2.154708000000028, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_5", 
+            "startTime": 2.1413549999997485, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://archive.org/includes/archive.min.js?v=308ad0a"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "comp_7", 
+                "download_22"
+            ], 
+            "docUrl": "https://archive.org/", 
+            "enclosing": "None", 
+            "endTime": 2.1755769999999757, 
+            "evalType": "recalcStyle", 
+            "frame": 0, 
+            "id": "comp_6", 
+            "startTime": 2.154876000000513, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://archive.org/includes/archive.min.css?v=308ad0a"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_20"
+            ], 
+            "docUrl": "https://archive.org/", 
+            "enclosing": "None", 
+            "endTime": 2.21007500000087, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_7", 
+            "startTime": 2.2066909999994095, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_52"
+            ], 
+            "docUrl": "https://archive.org/", 
+            "enclosing": "None", 
+            "endTime": 2.2935010000001057, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_8", 
+            "startTime": 2.293319000000338, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_30", 
+                "comp_9_1"
+            ], 
+            "docUrl": "https://archive.org/", 
+            "enclosing": "comp_9", 
+            "endTime": 2.2952280000008614, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_9_0", 
+            "startTime": 2.293659999999363, 
+            "subtree": "subtree_comp_9", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_53"
+            ], 
+            "docUrl": "https://archive.org/", 
+            "enclosing": "comp_9", 
+            "endTime": 2.2954570000001695, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_9_1", 
+            "startTime": 2.2952280000008614, 
+            "subtree": "subtree_comp_9", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_12_0"
+            ], 
+            "docUrl": "https://archive.org/", 
+            "enclosing": "None", 
+            "endTime": 2.433555999999953, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_10", 
+            "name": "DOMContentLoaded", 
+            "startTime": 2.2955369999999675, 
+            "subtree": "None", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_50", 
+                "comp_12_1"
+            ], 
+            "docUrl": "https://archive.org/", 
+            "enclosing": "comp_12", 
+            "endTime": 4.071264000000156, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_12_0", 
+            "name": "load", 
+            "startTime": 4.070201000000452, 
+            "subtree": "subtree_comp_12", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://archive.org/", 
+            "enclosing": "comp_12", 
+            "endTime": 4.0721209999992425, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_12_1", 
+            "name": "load", 
+            "startTime": 4.071264000000156, 
+            "subtree": "subtree_comp_12", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "children": [
+                "download_4", 
+                "pchunk_0_1"
+            ], 
+            "docUrl": "https://archive.org/", 
+            "endColumn": 106, 
+            "endRow": 9, 
+            "endTag": "script", 
+            "endTime": 1.0417559999968944, 
+            "frame": 0, 
+            "id": "pchunk_0_0", 
+            "isFragment": false, 
+            "startColumn": 16, 
+            "startRow": 1, 
+            "startTag": "html", 
+            "startTime": 1.0413279999993392, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_1", 
+                "pchunk_0_2"
+            ], 
+            "docUrl": "https://archive.org/", 
+            "endColumn": 96, 
+            "endRow": 10, 
+            "endTag": "script", 
+            "endTime": 1.482307000000219, 
+            "frame": 0, 
+            "id": "pchunk_0_1", 
+            "isFragment": false, 
+            "startColumn": 87, 
+            "startRow": 10, 
+            "startTag": "script", 
+            "startTime": 1.4822690000000875, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_2", 
+                "pchunk_0_3"
+            ], 
+            "docUrl": "https://archive.org/", 
+            "endColumn": 97, 
+            "endRow": 11, 
+            "endTag": "script", 
+            "endTime": 1.4857579999988957, 
+            "frame": 0, 
+            "id": "pchunk_0_2", 
+            "isFragment": false, 
+            "startColumn": 88, 
+            "startRow": 11, 
+            "startTag": "script", 
+            "startTime": 1.4857179999999062, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_4", 
+                "download_5"
+            ], 
+            "docUrl": "https://archive.org/", 
+            "endColumn": 120, 
+            "endRow": 12, 
+            "endTag": "script", 
+            "endTime": 1.4956399999991845, 
+            "frame": 0, 
+            "id": "pchunk_0_3", 
+            "isFragment": false, 
+            "startColumn": 111, 
+            "startRow": 12, 
+            "startTag": "script", 
+            "startTime": 1.4955970000009984, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_5", 
+                "download_3"
+            ], 
+            "docUrl": "https://archive.org/", 
+            "endColumn": 128, 
+            "endRow": 13, 
+            "endTag": "script", 
+            "endTime": 2.1398649999991903, 
+            "frame": 0, 
+            "id": "pchunk_0_4", 
+            "isFragment": false, 
+            "startColumn": 119, 
+            "startRow": 13, 
+            "startTag": "script", 
+            "startTime": 2.139820000000327, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_7", 
+                "pchunk_0_6"
+            ], 
+            "docUrl": "https://archive.org/", 
+            "endColumn": 104, 
+            "endRow": 14, 
+            "endTag": "script", 
+            "endTime": 2.1413269999993645, 
+            "frame": 0, 
+            "id": "pchunk_0_5", 
+            "isFragment": false, 
+            "startColumn": 95, 
+            "startRow": 14, 
+            "startTag": "script", 
+            "startTime": 2.141298000000461, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_6", 
+                "pchunk_0_7"
+            ], 
+            "docUrl": "https://archive.org/", 
+            "endColumn": 100, 
+            "endRow": 18, 
+            "endTag": "link", 
+            "endTime": 2.1755790000006527, 
+            "frame": 0, 
+            "id": "pchunk_0_6", 
+            "isFragment": false, 
+            "startColumn": 188, 
+            "startRow": 16, 
+            "startTag": "meta", 
+            "startTime": 2.1547320000008767, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_42", 
+                "pchunk_0_8"
+            ], 
+            "docUrl": "https://archive.org/", 
+            "endColumn": 170, 
+            "endRow": 41, 
+            "endTag": "img", 
+            "endTime": 2.1762979999984964, 
+            "frame": 0, 
+            "id": "pchunk_0_7", 
+            "isFragment": false, 
+            "startColumn": 75, 
+            "startRow": 19, 
+            "startTag": "link", 
+            "startTime": 2.1756160000004456, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_9", 
+                "download_8"
+            ], 
+            "docUrl": "https://archive.org/", 
+            "endColumn": 219, 
+            "endRow": 68, 
+            "endTag": "img", 
+            "endTime": 2.1769379999932426, 
+            "frame": 0, 
+            "id": "pchunk_0_8", 
+            "isFragment": false, 
+            "startColumn": 174, 
+            "startRow": 41, 
+            "startTag": "a", 
+            "startTime": 2.1764750000002095, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_10", 
+                "download_43"
+            ], 
+            "docUrl": "https://archive.org/", 
+            "endColumn": 136, 
+            "endRow": 82, 
+            "endTag": "img", 
+            "endTime": 2.1774180000029446, 
+            "frame": 0, 
+            "id": "pchunk_0_9", 
+            "isFragment": false, 
+            "startColumn": 223, 
+            "startRow": 68, 
+            "startTag": "a", 
+            "startTime": 2.17718799999966, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_11", 
+                "download_9"
+            ], 
+            "docUrl": "https://archive.org/", 
+            "endColumn": 213, 
+            "endRow": 110, 
+            "endTag": "img", 
+            "endTime": 2.1778680000006716, 
+            "frame": 0, 
+            "id": "pchunk_0_10", 
+            "isFragment": false, 
+            "startColumn": 139, 
+            "startRow": 82, 
+            "startTag": "b", 
+            "startTime": 2.1775539999998728, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_12", 
+                "download_11"
+            ], 
+            "docUrl": "https://archive.org/", 
+            "endColumn": 209, 
+            "endRow": 123, 
+            "endTag": "img", 
+            "endTime": 2.178293000002668, 
+            "frame": 0, 
+            "id": "pchunk_0_11", 
+            "isFragment": false, 
+            "startColumn": 217, 
+            "startRow": 110, 
+            "startTag": "a", 
+            "startTime": 2.1780579999995098, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_13", 
+                "download_12"
+            ], 
+            "docUrl": "https://archive.org/", 
+            "endColumn": 219, 
+            "endRow": 150, 
+            "endTag": "img", 
+            "endTime": 2.1787549999990006, 
+            "frame": 0, 
+            "id": "pchunk_0_12", 
+            "isFragment": false, 
+            "startColumn": 213, 
+            "startRow": 123, 
+            "startTag": "a", 
+            "startTime": 2.178417000000991, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_14", 
+                "download_10"
+            ], 
+            "docUrl": "https://archive.org/", 
+            "endColumn": 235, 
+            "endRow": 163, 
+            "endTag": "img", 
+            "endTime": 2.179180000002816, 
+            "frame": 0, 
+            "id": "pchunk_0_13", 
+            "isFragment": false, 
+            "startColumn": 223, 
+            "startRow": 150, 
+            "startTag": "a", 
+            "startTime": 2.178976999999577, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_49", 
+                "pchunk_0_15"
+            ], 
+            "docUrl": "https://archive.org/", 
+            "endColumn": 259, 
+            "endRow": 190, 
+            "endTag": "img", 
+            "endTime": 2.1796009999852686, 
+            "frame": 0, 
+            "id": "pchunk_0_14", 
+            "isFragment": false, 
+            "startColumn": 239, 
+            "startRow": 163, 
+            "startTag": "a", 
+            "startTime": 2.179301000000123, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_17", 
+                "pchunk_0_16"
+            ], 
+            "docUrl": "https://archive.org/", 
+            "endColumn": 237, 
+            "endRow": 203, 
+            "endTag": "img", 
+            "endTime": 2.180050000000847, 
+            "frame": 0, 
+            "id": "pchunk_0_15", 
+            "isFragment": false, 
+            "startColumn": 263, 
+            "startRow": 190, 
+            "startTag": "a", 
+            "startTime": 2.1797939999996743, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_44", 
+                "pchunk_0_17"
+            ], 
+            "docUrl": "https://archive.org/", 
+            "endColumn": 271, 
+            "endRow": 230, 
+            "endTag": "img", 
+            "endTime": 2.180575999997018, 
+            "frame": 0, 
+            "id": "pchunk_0_16", 
+            "isFragment": false, 
+            "startColumn": 241, 
+            "startRow": 203, 
+            "startTag": "a", 
+            "startTime": 2.1801680000007764, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_18", 
+                "download_15"
+            ], 
+            "docUrl": "https://archive.org/", 
+            "endColumn": 237, 
+            "endRow": 243, 
+            "endTag": "img", 
+            "endTime": 2.1809510000039154, 
+            "frame": 0, 
+            "id": "pchunk_0_17", 
+            "isFragment": false, 
+            "startColumn": 275, 
+            "startRow": 230, 
+            "startTag": "a", 
+            "startTime": 2.180797999999413, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_19", 
+                "download_45"
+            ], 
+            "docUrl": "https://archive.org/", 
+            "endColumn": 190, 
+            "endRow": 326, 
+            "endTag": "img", 
+            "endTime": 2.184810999990077, 
+            "frame": 0, 
+            "id": "pchunk_0_18", 
+            "isFragment": false, 
+            "startColumn": 241, 
+            "startRow": 243, 
+            "startTag": "a", 
+            "startTime": 2.181038000000626, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "comp_7", 
+                "pchunk_0_20"
+            ], 
+            "docUrl": "https://archive.org/", 
+            "endColumn": 88, 
+            "endRow": 353, 
+            "endTag": "script", 
+            "endTime": 2.185990000003585, 
+            "frame": 0, 
+            "id": "pchunk_0_19", 
+            "isFragment": false, 
+            "startColumn": 194, 
+            "startRow": 326, 
+            "startTag": "a", 
+            "startTime": 2.1855460000006133, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_13", 
+                "pchunk_0_21"
+            ], 
+            "docUrl": "https://archive.org/", 
+            "endColumn": 91, 
+            "endRow": 521, 
+            "endTag": "img", 
+            "endTime": 2.214604999997391, 
+            "frame": 0, 
+            "id": "pchunk_0_20", 
+            "isFragment": false, 
+            "startColumn": 14, 
+            "startRow": 354, 
+            "startTag": "div", 
+            "startTime": 2.210106000000451, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_14", 
+                "pchunk_0_22"
+            ], 
+            "docUrl": "https://archive.org/", 
+            "endColumn": 92, 
+            "endRow": 585, 
+            "endTag": "img", 
+            "endTime": 2.2177520000132063, 
+            "frame": 0, 
+            "id": "pchunk_0_21", 
+            "isFragment": false, 
+            "startColumn": 24, 
+            "startRow": 522, 
+            "startTag": "div", 
+            "startTime": 2.2161489999998594, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_59", 
+                "pchunk_0_23"
+            ], 
+            "docUrl": "https://archive.org/", 
+            "endColumn": 80, 
+            "endRow": 649, 
+            "endTag": "img", 
+            "endTime": 2.219247999997606, 
+            "frame": 0, 
+            "id": "pchunk_0_22", 
+            "isFragment": false, 
+            "startColumn": 24, 
+            "startRow": 586, 
+            "startTag": "div", 
+            "startTime": 2.2183989999994083, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_24", 
+                "download_16"
+            ], 
+            "docUrl": "https://archive.org/", 
+            "endColumn": 78, 
+            "endRow": 711, 
+            "endTag": "img", 
+            "endTime": 2.2204669999973703, 
+            "frame": 0, 
+            "id": "pchunk_0_23", 
+            "isFragment": false, 
+            "startColumn": 24, 
+            "startRow": 650, 
+            "startTag": "div", 
+            "startTime": 2.219622000000527, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_25", 
+                "download_18"
+            ], 
+            "docUrl": "https://archive.org/", 
+            "endColumn": 85, 
+            "endRow": 773, 
+            "endTag": "img", 
+            "endTime": 2.221733000009408, 
+            "frame": 0, 
+            "id": "pchunk_0_24", 
+            "isFragment": false, 
+            "startColumn": 24, 
+            "startRow": 712, 
+            "startTag": "div", 
+            "startTime": 2.220945999999458, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_62", 
+                "pchunk_0_26"
+            ], 
+            "docUrl": "https://archive.org/", 
+            "endColumn": 88, 
+            "endRow": 837, 
+            "endTag": "img", 
+            "endTime": 2.222810000002937, 
+            "frame": 0, 
+            "id": "pchunk_0_25", 
+            "isFragment": false, 
+            "startColumn": 24, 
+            "startRow": 774, 
+            "startTag": "div", 
+            "startTime": 2.2220820000002277, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_27", 
+                "download_20"
+            ], 
+            "docUrl": "https://archive.org/", 
+            "endColumn": 88, 
+            "endRow": 899, 
+            "endTag": "img", 
+            "endTime": 2.22389000000112, 
+            "frame": 0, 
+            "id": "pchunk_0_26", 
+            "isFragment": false, 
+            "startColumn": 24, 
+            "startRow": 838, 
+            "startTag": "div", 
+            "startTime": 2.223174000000654, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_28", 
+                "download_19"
+            ], 
+            "docUrl": "https://archive.org/", 
+            "endColumn": 91, 
+            "endRow": 961, 
+            "endTag": "img", 
+            "endTime": 2.224912999992739, 
+            "frame": 0, 
+            "id": "pchunk_0_27", 
+            "isFragment": false, 
+            "startColumn": 24, 
+            "startRow": 900, 
+            "startTag": "div", 
+            "startTime": 2.224213999999847, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_26", 
+                "pchunk_0_29"
+            ], 
+            "docUrl": "https://archive.org/", 
+            "endColumn": 82, 
+            "endRow": 1023, 
+            "endTag": "img", 
+            "endTime": 2.226023000011992, 
+            "frame": 0, 
+            "id": "pchunk_0_28", 
+            "isFragment": false, 
+            "startColumn": 24, 
+            "startRow": 962, 
+            "startTag": "div", 
+            "startTime": 2.2253209999998944, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_30", 
+                "download_21"
+            ], 
+            "docUrl": "https://archive.org/", 
+            "endColumn": 93, 
+            "endRow": 1087, 
+            "endTag": "img", 
+            "endTime": 2.227077999996254, 
+            "frame": 0, 
+            "id": "pchunk_0_29", 
+            "isFragment": false, 
+            "startColumn": 24, 
+            "startRow": 1024, 
+            "startTag": "div", 
+            "startTime": 2.2263590000002296, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_23", 
+                "pchunk_0_31"
+            ], 
+            "docUrl": "https://archive.org/", 
+            "endColumn": 84, 
+            "endRow": 1208, 
+            "endTag": "img", 
+            "endTime": 2.22882199999367, 
+            "frame": 0, 
+            "id": "pchunk_0_30", 
+            "isFragment": false, 
+            "startColumn": 24, 
+            "startRow": 1088, 
+            "startTag": "div", 
+            "startTime": 2.2274410000009084, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_24", 
+                "pchunk_0_32"
+            ], 
+            "docUrl": "https://archive.org/", 
+            "endColumn": 82, 
+            "endRow": 1270, 
+            "endTag": "img", 
+            "endTime": 2.2301540000007662, 
+            "frame": 0, 
+            "id": "pchunk_0_31", 
+            "isFragment": false, 
+            "startColumn": 24, 
+            "startRow": 1209, 
+            "startTag": "div", 
+            "startTime": 2.229472999999416, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_25", 
+                "pchunk_0_33"
+            ], 
+            "docUrl": "https://archive.org/", 
+            "endColumn": 84, 
+            "endRow": 1332, 
+            "endTag": "img", 
+            "endTime": 2.2311460000055376, 
+            "frame": 0, 
+            "id": "pchunk_0_32", 
+            "isFragment": false, 
+            "startColumn": 24, 
+            "startRow": 1271, 
+            "startTag": "div", 
+            "startTime": 2.2304760000006354, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_27", 
+                "pchunk_0_34"
+            ], 
+            "docUrl": "https://archive.org/", 
+            "endColumn": 78, 
+            "endRow": 1394, 
+            "endTag": "img", 
+            "endTime": 2.232178999998723, 
+            "frame": 0, 
+            "id": "pchunk_0_33", 
+            "isFragment": false, 
+            "startColumn": 24, 
+            "startRow": 1333, 
+            "startTag": "div", 
+            "startTime": 2.2314640000004147, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_35", 
+                "download_28"
+            ], 
+            "docUrl": "https://archive.org/", 
+            "endColumn": 88, 
+            "endRow": 1456, 
+            "endTag": "img", 
+            "endTime": 2.23384900000201, 
+            "frame": 0, 
+            "id": "pchunk_0_34", 
+            "isFragment": false, 
+            "startColumn": 24, 
+            "startRow": 1395, 
+            "startTag": "div", 
+            "startTime": 2.2325110000001587, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_36", 
+                "download_72"
+            ], 
+            "docUrl": "https://archive.org/", 
+            "endColumn": 83, 
+            "endRow": 1520, 
+            "endTag": "img", 
+            "endTime": 2.2354729999951815, 
+            "frame": 0, 
+            "id": "pchunk_0_35", 
+            "isFragment": false, 
+            "startColumn": 24, 
+            "startRow": 1457, 
+            "startTag": "div", 
+            "startTime": 2.2343650000002526, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_37", 
+                "download_29"
+            ], 
+            "docUrl": "https://archive.org/", 
+            "endColumn": 87, 
+            "endRow": 1582, 
+            "endTag": "img", 
+            "endTime": 2.2368330000026617, 
+            "frame": 0, 
+            "id": "pchunk_0_36", 
+            "isFragment": false, 
+            "startColumn": 24, 
+            "startRow": 1521, 
+            "startTag": "div", 
+            "startTime": 2.235979999999472, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_31", 
+                "pchunk_0_38"
+            ], 
+            "docUrl": "https://archive.org/", 
+            "endColumn": 85, 
+            "endRow": 1646, 
+            "endTag": "img", 
+            "endTime": 2.2379589999982272, 
+            "frame": 0, 
+            "id": "pchunk_0_37", 
+            "isFragment": false, 
+            "startColumn": 24, 
+            "startRow": 1583, 
+            "startTag": "div", 
+            "startTime": 2.2371989999992365, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_32", 
+                "pchunk_0_39"
+            ], 
+            "docUrl": "https://archive.org/", 
+            "endColumn": 87, 
+            "endRow": 1708, 
+            "endTag": "img", 
+            "endTime": 2.2390900000027614, 
+            "frame": 0, 
+            "id": "pchunk_0_38", 
+            "isFragment": false, 
+            "startColumn": 24, 
+            "startRow": 1647, 
+            "startTag": "div", 
+            "startTime": 2.238336000000345, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_38", 
+                "pchunk_0_40"
+            ], 
+            "docUrl": "https://archive.org/", 
+            "endColumn": 92, 
+            "endRow": 1770, 
+            "endTag": "img", 
+            "endTime": 2.24040199999763, 
+            "frame": 0, 
+            "id": "pchunk_0_39", 
+            "isFragment": false, 
+            "startColumn": 24, 
+            "startRow": 1709, 
+            "startTag": "div", 
+            "startTime": 2.2394640000002255, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_33", 
+                "pchunk_0_41"
+            ], 
+            "docUrl": "https://archive.org/", 
+            "endColumn": 90, 
+            "endRow": 1832, 
+            "endTag": "img", 
+            "endTime": 2.2416859999921144, 
+            "frame": 0, 
+            "id": "pchunk_0_40", 
+            "isFragment": false, 
+            "startColumn": 24, 
+            "startRow": 1771, 
+            "startTag": "div", 
+            "startTime": 2.240867000000435, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_42", 
+                "download_46"
+            ], 
+            "docUrl": "https://archive.org/", 
+            "endColumn": 84, 
+            "endRow": 1894, 
+            "endTag": "img", 
+            "endTime": 2.2428669999953854, 
+            "frame": 0, 
+            "id": "pchunk_0_41", 
+            "isFragment": false, 
+            "startColumn": 24, 
+            "startRow": 1833, 
+            "startTag": "div", 
+            "startTime": 2.242065000000366, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_43", 
+                "download_35"
+            ], 
+            "docUrl": "https://archive.org/", 
+            "endColumn": 87, 
+            "endRow": 1956, 
+            "endTag": "img", 
+            "endTime": 2.2441559999952005, 
+            "frame": 0, 
+            "id": "pchunk_0_42", 
+            "isFragment": false, 
+            "startColumn": 24, 
+            "startRow": 1895, 
+            "startTag": "div", 
+            "startTime": 2.2432730000000447, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_34", 
+                "pchunk_0_44"
+            ], 
+            "docUrl": "https://archive.org/", 
+            "endColumn": 81, 
+            "endRow": 2018, 
+            "endTag": "img", 
+            "endTime": 2.245260000005146, 
+            "frame": 0, 
+            "id": "pchunk_0_43", 
+            "isFragment": false, 
+            "startColumn": 24, 
+            "startRow": 1957, 
+            "startTag": "div", 
+            "startTime": 2.2445630000001984, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_37", 
+                "pchunk_0_45"
+            ], 
+            "docUrl": "https://archive.org/", 
+            "endColumn": 83, 
+            "endRow": 2080, 
+            "endTag": "img", 
+            "endTime": 2.246246999997311, 
+            "frame": 0, 
+            "id": "pchunk_0_44", 
+            "isFragment": false, 
+            "startColumn": 24, 
+            "startRow": 2019, 
+            "startTag": "div", 
+            "startTime": 2.245591000000786, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_46", 
+                "download_36"
+            ], 
+            "docUrl": "https://archive.org/", 
+            "endColumn": 91, 
+            "endRow": 2142, 
+            "endTag": "img", 
+            "endTime": 2.2472500000039872, 
+            "frame": 0, 
+            "id": "pchunk_0_45", 
+            "isFragment": false, 
+            "startColumn": 24, 
+            "startRow": 2081, 
+            "startTag": "div", 
+            "startTime": 2.246573000000353, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_39", 
+                "pchunk_0_47"
+            ], 
+            "docUrl": "https://archive.org/", 
+            "endColumn": 94, 
+            "endRow": 2204, 
+            "endTag": "img", 
+            "endTime": 2.248273999997764, 
+            "frame": 0, 
+            "id": "pchunk_0_46", 
+            "isFragment": false, 
+            "startColumn": 24, 
+            "startRow": 2143, 
+            "startTag": "div", 
+            "startTime": 2.247566000000006, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_40", 
+                "pchunk_0_48"
+            ], 
+            "docUrl": "https://archive.org/", 
+            "endColumn": 83, 
+            "endRow": 2266, 
+            "endTag": "img", 
+            "endTime": 2.249564999996437, 
+            "frame": 0, 
+            "id": "pchunk_0_47", 
+            "isFragment": false, 
+            "startColumn": 24, 
+            "startRow": 2205, 
+            "startTag": "div", 
+            "startTime": 2.2485950000009325, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_49", 
+                "download_47"
+            ], 
+            "docUrl": "https://archive.org/", 
+            "endColumn": 78, 
+            "endRow": 2328, 
+            "endTag": "img", 
+            "endTime": 2.2508379999981116, 
+            "frame": 0, 
+            "id": "pchunk_0_48", 
+            "isFragment": false, 
+            "startColumn": 24, 
+            "startRow": 2267, 
+            "startTag": "div", 
+            "startTime": 2.2499490000009246, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_41", 
+                "pchunk_0_50"
+            ], 
+            "docUrl": "https://archive.org/", 
+            "endColumn": 84, 
+            "endRow": 2390, 
+            "endTag": "img", 
+            "endTime": 2.2521600000036415, 
+            "frame": 0, 
+            "id": "pchunk_0_49", 
+            "isFragment": false, 
+            "startColumn": 24, 
+            "startRow": 2329, 
+            "startTag": "div", 
+            "startTime": 2.25134799999978, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_48", 
+                "pchunk_0_51"
+            ], 
+            "docUrl": "https://archive.org/", 
+            "endColumn": 99, 
+            "endRow": 2436, 
+            "endTag": "img", 
+            "endTime": 2.253188999993654, 
+            "frame": 0, 
+            "id": "pchunk_0_50", 
+            "isFragment": false, 
+            "startColumn": 24, 
+            "startRow": 2391, 
+            "startTag": "div", 
+            "startTime": 2.252542000000176, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "comp_8", 
+                "pchunk_0_52"
+            ], 
+            "docUrl": "https://archive.org/", 
+            "endColumn": 11, 
+            "endRow": 2471, 
+            "endTag": "script", 
+            "endTime": 2.2535489999972924, 
+            "frame": 0, 
+            "id": "pchunk_0_51", 
+            "isFragment": false, 
+            "startColumn": 106, 
+            "startRow": 2436, 
+            "startTag": "span", 
+            "startTime": 2.2534950000008394, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "comp_9_0", 
+                "pchunk_0_53"
+            ], 
+            "docUrl": "https://archive.org/", 
+            "endColumn": 9, 
+            "endRow": 2509, 
+            "endTag": "script", 
+            "endTime": 2.293600000000879, 
+            "frame": 0, 
+            "id": "pchunk_0_52", 
+            "isFragment": false, 
+            "startColumn": 14, 
+            "startRow": 2472, 
+            "startTag": "div", 
+            "startTime": 2.293525999999474, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "comp_10"
+            ], 
+            "docUrl": "https://archive.org/", 
+            "endColumn": 7, 
+            "endRow": 2512, 
+            "endTag": "html", 
+            "endTime": 2.2954960000006395, 
+            "frame": 0, 
+            "id": "pchunk_0_53", 
+            "isFragment": false, 
+            "startColumn": 12, 
+            "startRow": 2510, 
+            "startTag": "div", 
+            "startTime": 2.2954809999991994, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_1", 
+                "pchunk_0_0"
+            ], 
+            "id": "dchunk_0_0", 
+            "offset": 32, 
+            "resource": "download_0", 
+            "size": 404, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_2", 
+                "pchunk_0_1"
+            ], 
+            "id": "dchunk_0_1", 
+            "offset": 436, 
+            "resource": "download_0", 
+            "size": 9, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_3", 
+                "pchunk_0_2"
+            ], 
+            "id": "dchunk_0_2", 
+            "offset": 445, 
+            "resource": "download_0", 
+            "size": 9, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_4", 
+                "pchunk_0_3"
+            ], 
+            "id": "dchunk_0_3", 
+            "offset": 454, 
+            "resource": "download_0", 
+            "size": 9, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_4", 
+                "dchunk_0_5"
+            ], 
+            "id": "dchunk_0_4", 
+            "offset": 463, 
+            "resource": "download_0", 
+            "size": 9, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_5", 
+                "dchunk_0_6"
+            ], 
+            "id": "dchunk_0_5", 
+            "offset": 472, 
+            "resource": "download_0", 
+            "size": 9, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_6", 
+                "dchunk_0_7"
+            ], 
+            "id": "dchunk_0_6", 
+            "offset": 481, 
+            "resource": "download_0", 
+            "size": 217, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_8", 
+                "pchunk_0_7"
+            ], 
+            "id": "dchunk_0_7", 
+            "offset": 698, 
+            "resource": "download_0", 
+            "size": 1060, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_9", 
+                "pchunk_0_8"
+            ], 
+            "id": "dchunk_0_8", 
+            "offset": 1758, 
+            "resource": "download_0", 
+            "size": 3056, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_9", 
+                "dchunk_0_10"
+            ], 
+            "id": "dchunk_0_9", 
+            "offset": 4814, 
+            "resource": "download_0", 
+            "size": 2026, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_10", 
+                "dchunk_0_11"
+            ], 
+            "id": "dchunk_0_10", 
+            "offset": 6840, 
+            "resource": "download_0", 
+            "size": 2719, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_11", 
+                "dchunk_0_12"
+            ], 
+            "id": "dchunk_0_11", 
+            "offset": 9559, 
+            "resource": "download_0", 
+            "size": 2080, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_12", 
+                "dchunk_0_13"
+            ], 
+            "id": "dchunk_0_12", 
+            "offset": 11639, 
+            "resource": "download_0", 
+            "size": 3545, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_14", 
+                "pchunk_0_13"
+            ], 
+            "id": "dchunk_0_13", 
+            "offset": 15184, 
+            "resource": "download_0", 
+            "size": 2105, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_15", 
+                "pchunk_0_14"
+            ], 
+            "id": "dchunk_0_14", 
+            "offset": 17289, 
+            "resource": "download_0", 
+            "size": 3205, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_16", 
+                "pchunk_0_15"
+            ], 
+            "id": "dchunk_0_15", 
+            "offset": 20494, 
+            "resource": "download_0", 
+            "size": 2025, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_17", 
+                "pchunk_0_16"
+            ], 
+            "id": "dchunk_0_16", 
+            "offset": 22519, 
+            "resource": "download_0", 
+            "size": 3665, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_18", 
+                "pchunk_0_17"
+            ], 
+            "id": "dchunk_0_17", 
+            "offset": 26184, 
+            "resource": "download_0", 
+            "size": 1422, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_18", 
+                "dchunk_0_19"
+            ], 
+            "id": "dchunk_0_18", 
+            "offset": 27606, 
+            "resource": "download_0", 
+            "size": 6545, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_19", 
+                "dchunk_0_20"
+            ], 
+            "id": "dchunk_0_19", 
+            "offset": 34151, 
+            "resource": "download_0", 
+            "size": 1394, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_21", 
+                "pchunk_0_20"
+            ], 
+            "id": "dchunk_0_20", 
+            "offset": 35545, 
+            "resource": "download_0", 
+            "size": 9204, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_22", 
+                "pchunk_0_21"
+            ], 
+            "id": "dchunk_0_21", 
+            "offset": 44749, 
+            "resource": "download_0", 
+            "size": 2790, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_23", 
+                "pchunk_0_22"
+            ], 
+            "id": "dchunk_0_22", 
+            "offset": 47539, 
+            "resource": "download_0", 
+            "size": 2719, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_24", 
+                "pchunk_0_23"
+            ], 
+            "id": "dchunk_0_23", 
+            "offset": 50258, 
+            "resource": "download_0", 
+            "size": 2726, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_24", 
+                "dchunk_0_25"
+            ], 
+            "id": "dchunk_0_24", 
+            "offset": 52984, 
+            "resource": "download_0", 
+            "size": 2659, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_25", 
+                "dchunk_0_26"
+            ], 
+            "id": "dchunk_0_25", 
+            "offset": 55643, 
+            "resource": "download_0", 
+            "size": 2872, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_26", 
+                "dchunk_0_27"
+            ], 
+            "id": "dchunk_0_26", 
+            "offset": 58515, 
+            "resource": "download_0", 
+            "size": 2753, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_28", 
+                "pchunk_0_27"
+            ], 
+            "id": "dchunk_0_27", 
+            "offset": 61268, 
+            "resource": "download_0", 
+            "size": 2759, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_29", 
+                "pchunk_0_28"
+            ], 
+            "id": "dchunk_0_28", 
+            "offset": 64027, 
+            "resource": "download_0", 
+            "size": 2281, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_30", 
+                "pchunk_0_29"
+            ], 
+            "id": "dchunk_0_29", 
+            "offset": 66308, 
+            "resource": "download_0", 
+            "size": 2903, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_31", 
+                "pchunk_0_30"
+            ], 
+            "id": "dchunk_0_30", 
+            "offset": 69211, 
+            "resource": "download_0", 
+            "size": 4640, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_32", 
+                "pchunk_0_31"
+            ], 
+            "id": "dchunk_0_31", 
+            "offset": 73851, 
+            "resource": "download_0", 
+            "size": 2787, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_33", 
+                "pchunk_0_32"
+            ], 
+            "id": "dchunk_0_32", 
+            "offset": 76638, 
+            "resource": "download_0", 
+            "size": 2740, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_33", 
+                "dchunk_0_34"
+            ], 
+            "id": "dchunk_0_33", 
+            "offset": 79378, 
+            "resource": "download_0", 
+            "size": 2700, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_34", 
+                "dchunk_0_35"
+            ], 
+            "id": "dchunk_0_34", 
+            "offset": 82078, 
+            "resource": "download_0", 
+            "size": 2689, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_35", 
+                "dchunk_0_36"
+            ], 
+            "id": "dchunk_0_35", 
+            "offset": 84767, 
+            "resource": "download_0", 
+            "size": 2832, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_36", 
+                "dchunk_0_37"
+            ], 
+            "id": "dchunk_0_36", 
+            "offset": 87599, 
+            "resource": "download_0", 
+            "size": 2723, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_37", 
+                "dchunk_0_38"
+            ], 
+            "id": "dchunk_0_37", 
+            "offset": 90322, 
+            "resource": "download_0", 
+            "size": 2874, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_39", 
+                "pchunk_0_38"
+            ], 
+            "id": "dchunk_0_38", 
+            "offset": 93196, 
+            "resource": "download_0", 
+            "size": 2740, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_40", 
+                "pchunk_0_39"
+            ], 
+            "id": "dchunk_0_39", 
+            "offset": 95936, 
+            "resource": "download_0", 
+            "size": 2749, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_40", 
+                "dchunk_0_41"
+            ], 
+            "id": "dchunk_0_40", 
+            "offset": 98685, 
+            "resource": "download_0", 
+            "size": 2281, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_41", 
+                "dchunk_0_42"
+            ], 
+            "id": "dchunk_0_41", 
+            "offset": 100966, 
+            "resource": "download_0", 
+            "size": 2728, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_42", 
+                "dchunk_0_43"
+            ], 
+            "id": "dchunk_0_42", 
+            "offset": 103694, 
+            "resource": "download_0", 
+            "size": 2386, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_43", 
+                "dchunk_0_44"
+            ], 
+            "id": "dchunk_0_43", 
+            "offset": 106080, 
+            "resource": "download_0", 
+            "size": 2386, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_45", 
+                "pchunk_0_44"
+            ], 
+            "id": "dchunk_0_44", 
+            "offset": 108466, 
+            "resource": "download_0", 
+            "size": 2314, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_46", 
+                "pchunk_0_45"
+            ], 
+            "id": "dchunk_0_45", 
+            "offset": 110780, 
+            "resource": "download_0", 
+            "size": 2438, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_47", 
+                "pchunk_0_46"
+            ], 
+            "id": "dchunk_0_46", 
+            "offset": 113218, 
+            "resource": "download_0", 
+            "size": 2739, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_47", 
+                "dchunk_0_48"
+            ], 
+            "id": "dchunk_0_47", 
+            "offset": 115957, 
+            "resource": "download_0", 
+            "size": 2719, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_48", 
+                "dchunk_0_49"
+            ], 
+            "id": "dchunk_0_48", 
+            "offset": 118676, 
+            "resource": "download_0", 
+            "size": 2331, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_50", 
+                "pchunk_0_49"
+            ], 
+            "id": "dchunk_0_49", 
+            "offset": 121007, 
+            "resource": "download_0", 
+            "size": 2330, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_51", 
+                "pchunk_0_50"
+            ], 
+            "id": "dchunk_0_50", 
+            "offset": 123337, 
+            "resource": "download_0", 
+            "size": 2432, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_52", 
+                "pchunk_0_51"
+            ], 
+            "id": "dchunk_0_51", 
+            "offset": 125769, 
+            "resource": "download_0", 
+            "size": 821, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_53", 
+                "pchunk_0_52"
+            ], 
+            "id": "dchunk_0_52", 
+            "offset": 126590, 
+            "resource": "download_0", 
+            "size": 1792, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_53"
+            ], 
+            "id": "dchunk_0_53", 
+            "offset": 128382, 
+            "resource": "download_0", 
+            "size": 18, 
+            "type": "download_chunk"
+        }
+    ], 
+    "frames": [
+        {
+            "id": 0, 
+            "subframes": [], 
+            "url": "https://archive.org/"
+        }
+    ], 
+    "loadEvent": "comp_12_0", 
+    "name": "https://archive.org/", 
+    "root_activity": "download_0"
+}

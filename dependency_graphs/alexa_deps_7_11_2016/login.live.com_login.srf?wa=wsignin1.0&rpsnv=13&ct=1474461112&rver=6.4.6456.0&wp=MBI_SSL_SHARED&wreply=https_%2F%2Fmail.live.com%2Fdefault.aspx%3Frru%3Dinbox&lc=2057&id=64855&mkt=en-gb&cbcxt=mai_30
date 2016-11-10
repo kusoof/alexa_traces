@@ -1,0 +1,894 @@
+{
+    "DOMContentLoadedEvent": "comp_16", 
+    "activities": [
+        {
+            "cached": false, 
+            "children": [
+                "comp_6", 
+                "comp_9_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_3", 
+            "mimeType": "application/javascript", 
+            "priority": 4, 
+            "receiveTime": 0.9341879999997218, 
+            "sentTime": 0.8047620000002098, 
+            "size": 139333, 
+            "type": "resource", 
+            "url": "https://auth.gfx.ms/16.000.26537.00/DefaultLogin_Core.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "dchunk_0_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_0", 
+            "mimeType": "text/html", 
+            "priority": 1, 
+            "receiveTime": 0.7734530000002451, 
+            "sentTime": 0.0, 
+            "size": 10490, 
+            "type": "resource", 
+            "url": "https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1474461112&rver=6.4.6456.0&wp=MBI_SSL_SHARED&wreply=https:%2F%2Fmail.live.com%2Fdefault.aspx%3Frru%3Dinbox&lc=2057&id=64855&mkt=en-gb&cbcxt=mai"
+        }, 
+        {
+            "cached": false, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_4", 
+            "mimeType": "image/svg+xml", 
+            "priority": 6, 
+            "receiveTime": 1.1642400000000634, 
+            "sentTime": 0.9783560000000762, 
+            "size": 7174, 
+            "type": "resource", 
+            "url": "https://auth.gfx.ms/16.000.26537.00/AppCentipede/AppCentipede_Microsoft.svg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_5", 
+                "comp_9_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_1", 
+            "mimeType": "application/javascript", 
+            "priority": 3, 
+            "receiveTime": 0.8157930000002125, 
+            "sentTime": 0.8034280000001672, 
+            "size": 10154, 
+            "type": "resource", 
+            "url": "https://auth.gfx.ms/16.000.26537.00/DefaultLoginStrings.EN-GB.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_6", 
+            "mimeType": "image/gif", 
+            "priority": 5, 
+            "receiveTime": 1.3985170000000835, 
+            "sentTime": 1.0179699999998775, 
+            "size": 1079, 
+            "type": "resource", 
+            "url": "https://login.live.com/pp1600/images/hig_progcircle_animated.gif"
+        }, 
+        {
+            "cached": true, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_9", 
+            "mimeType": "image/gif", 
+            "originalResource": "download_6", 
+            "priority": 8, 
+            "sentTime": 1.0188849999999547, 
+            "size": 1079, 
+            "type": "resource", 
+            "url": "https://login.live.com/pp1600/images/hig_progcircle_animated.gif"
+        }, 
+        {
+            "cached": true, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_10", 
+            "mimeType": "image/gif", 
+            "originalResource": "download_6", 
+            "priority": 9, 
+            "sentTime": 1.0200660000000425, 
+            "size": 1079, 
+            "type": "resource", 
+            "url": "https://login.live.com/pp1600/images/hig_progcircle_animated.gif"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_9_0", 
+                "comp_1"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_2", 
+            "mimeType": "text/css", 
+            "priority": 2, 
+            "receiveTime": 0.7885620000001836, 
+            "sentTime": 0.7728350000002138, 
+            "size": 75101, 
+            "type": "resource", 
+            "url": "https://auth.gfx.ms/16.000.26537.00/Default2057.css"
+        }, 
+        {
+            "cached": false, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_5", 
+            "mimeType": "image/svg+xml", 
+            "priority": 7, 
+            "receiveTime": 1.1711109999996552, 
+            "sentTime": 1.0365970000002562, 
+            "size": 5435, 
+            "type": "resource", 
+            "url": "https://auth.gfx.ms/16.000.26537.00/Microsoft_Logotype_Gray.svg"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_1"
+            ], 
+            "docUrl": "https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1474461112&rver=6.4.6456.0&wp=MBI_SSL_SHARED&wreply=https:%2F%2Fmail.live.com%2Fdefault.aspx%3Frru%3Dinbox&lc=2057&id=64855&mkt=en-gb&cbcxt=mai", 
+            "enclosing": "None", 
+            "endTime": 0.7722349999999096, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_0", 
+            "startTime": 0.7720399999998335, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "comp_2"
+            ], 
+            "docUrl": "https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1474461112&rver=6.4.6456.0&wp=MBI_SSL_SHARED&wreply=https:%2F%2Fmail.live.com%2Fdefault.aspx%3Frru%3Dinbox&lc=2057&id=64855&mkt=en-gb&cbcxt=mai", 
+            "enclosing": "None", 
+            "endTime": 0.8018299999998817, 
+            "evalType": "recalcStyle", 
+            "frame": 0, 
+            "id": "comp_1", 
+            "startTime": 0.7888820000002852, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://auth.gfx.ms/16.000.26537.00/Default2057.css"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_3"
+            ], 
+            "docUrl": "https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1474461112&rver=6.4.6456.0&wp=MBI_SSL_SHARED&wreply=https:%2F%2Fmail.live.com%2Fdefault.aspx%3Frru%3Dinbox&lc=2057&id=64855&mkt=en-gb&cbcxt=mai", 
+            "enclosing": "None", 
+            "endTime": 0.8024190000000999, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_2", 
+            "startTime": 0.8018329999999878, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_4"
+            ], 
+            "docUrl": "https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1474461112&rver=6.4.6456.0&wp=MBI_SSL_SHARED&wreply=https:%2F%2Fmail.live.com%2Fdefault.aspx%3Frru%3Dinbox&lc=2057&id=64855&mkt=en-gb&cbcxt=mai", 
+            "enclosing": "None", 
+            "endTime": 0.8025940000002265, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_3", 
+            "startTime": 0.8024829999999383, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_5"
+            ], 
+            "docUrl": "https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1474461112&rver=6.4.6456.0&wp=MBI_SSL_SHARED&wreply=https:%2F%2Fmail.live.com%2Fdefault.aspx%3Frru%3Dinbox&lc=2057&id=64855&mkt=en-gb&cbcxt=mai", 
+            "enclosing": "None", 
+            "endTime": 0.8033730000001924, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_4", 
+            "startTime": 0.8027430000001914, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_6"
+            ], 
+            "docUrl": "https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1474461112&rver=6.4.6456.0&wp=MBI_SSL_SHARED&wreply=https:%2F%2Fmail.live.com%2Fdefault.aspx%3Frru%3Dinbox&lc=2057&id=64855&mkt=en-gb&cbcxt=mai", 
+            "enclosing": "None", 
+            "endTime": 0.8046890000000531, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_5", 
+            "startTime": 0.8034339999999247, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://auth.gfx.ms/16.000.26537.00/DefaultLoginStrings.EN-GB.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_7"
+            ], 
+            "docUrl": "https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1474461112&rver=6.4.6456.0&wp=MBI_SSL_SHARED&wreply=https:%2F%2Fmail.live.com%2Fdefault.aspx%3Frru%3Dinbox&lc=2057&id=64855&mkt=en-gb&cbcxt=mai", 
+            "enclosing": "None", 
+            "endTime": 0.9469070000000102, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_6", 
+            "startTime": 0.9034879999999248, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://auth.gfx.ms/16.000.26537.00/DefaultLogin_Core.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_8"
+            ], 
+            "docUrl": "https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1474461112&rver=6.4.6456.0&wp=MBI_SSL_SHARED&wreply=https:%2F%2Fmail.live.com%2Fdefault.aspx%3Frru%3Dinbox&lc=2057&id=64855&mkt=en-gb&cbcxt=mai", 
+            "enclosing": "None", 
+            "endTime": 0.9470919999998841, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_7", 
+            "startTime": 0.9469770000000608, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_9"
+            ], 
+            "docUrl": "https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1474461112&rver=6.4.6456.0&wp=MBI_SSL_SHARED&wreply=https:%2F%2Fmail.live.com%2Fdefault.aspx%3Frru%3Dinbox&lc=2057&id=64855&mkt=en-gb&cbcxt=mai", 
+            "enclosing": "None", 
+            "endTime": 0.9471570000000611, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_8", 
+            "startTime": 0.947121000000152, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_9_0"
+            ], 
+            "docUrl": "https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1474461112&rver=6.4.6456.0&wp=MBI_SSL_SHARED&wreply=https:%2F%2Fmail.live.com%2Fdefault.aspx%3Frru%3Dinbox&lc=2057&id=64855&mkt=en-gb&cbcxt=mai", 
+            "enclosing": "None", 
+            "endTime": 0.9474450000002435, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_16", 
+            "name": "DOMContentLoaded", 
+            "startTime": 0.9474450000002435, 
+            "subtree": "None", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_4", 
+                "comp_9_1"
+            ], 
+            "docUrl": "https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1474461112&rver=6.4.6456.0&wp=MBI_SSL_SHARED&wreply=https:%2F%2Fmail.live.com%2Fdefault.aspx%3Frru%3Dinbox&lc=2057&id=64855&mkt=en-gb&cbcxt=mai", 
+            "enclosing": "comp_9", 
+            "endTime": 0.9739330000002155, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_9_0", 
+            "name": "load", 
+            "startTime": 0.9474549999999908, 
+            "subtree": "subtree_comp_9", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_10"
+            ], 
+            "docUrl": "https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1474461112&rver=6.4.6456.0&wp=MBI_SSL_SHARED&wreply=https:%2F%2Fmail.live.com%2Fdefault.aspx%3Frru%3Dinbox&lc=2057&id=64855&mkt=en-gb&cbcxt=mai", 
+            "enclosing": "comp_9", 
+            "endTime": 0.9972179999999753, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_9_1", 
+            "name": "load", 
+            "startTime": 0.9739330000002155, 
+            "subtree": "subtree_comp_9", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_11"
+            ], 
+            "docUrl": "https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1474461112&rver=6.4.6456.0&wp=MBI_SSL_SHARED&wreply=https:%2F%2Fmail.live.com%2Fdefault.aspx%3Frru%3Dinbox&lc=2057&id=64855&mkt=en-gb&cbcxt=mai", 
+            "enclosing": "comp_9", 
+            "endTime": 1.004327000000103, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_9_2", 
+            "name": "load", 
+            "startTime": 0.9973399999998946, 
+            "subtree": "subtree_comp_9", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_9_4", 
+                "download_6"
+            ], 
+            "docUrl": "https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1474461112&rver=6.4.6456.0&wp=MBI_SSL_SHARED&wreply=https:%2F%2Fmail.live.com%2Fdefault.aspx%3Frru%3Dinbox&lc=2057&id=64855&mkt=en-gb&cbcxt=mai", 
+            "enclosing": "comp_9", 
+            "endTime": 1.0182350000000042, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_9_3", 
+            "name": "load", 
+            "startTime": 1.0043789999999717, 
+            "subtree": "subtree_comp_9", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_9_5", 
+                "download_9"
+            ], 
+            "docUrl": "https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1474461112&rver=6.4.6456.0&wp=MBI_SSL_SHARED&wreply=https:%2F%2Fmail.live.com%2Fdefault.aspx%3Frru%3Dinbox&lc=2057&id=64855&mkt=en-gb&cbcxt=mai", 
+            "enclosing": "comp_9", 
+            "endTime": 1.0188520000001517, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_9_4", 
+            "name": "load", 
+            "startTime": 1.0182350000000042, 
+            "subtree": "subtree_comp_9", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_9_6", 
+                "download_10"
+            ], 
+            "docUrl": "https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1474461112&rver=6.4.6456.0&wp=MBI_SSL_SHARED&wreply=https:%2F%2Fmail.live.com%2Fdefault.aspx%3Frru%3Dinbox&lc=2057&id=64855&mkt=en-gb&cbcxt=mai", 
+            "enclosing": "comp_9", 
+            "endTime": 1.0200350000000071, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_9_5", 
+            "name": "load", 
+            "startTime": 1.0188520000001517, 
+            "subtree": "subtree_comp_9", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_5", 
+                "comp_9_7"
+            ], 
+            "docUrl": "https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1474461112&rver=6.4.6456.0&wp=MBI_SSL_SHARED&wreply=https:%2F%2Fmail.live.com%2Fdefault.aspx%3Frru%3Dinbox&lc=2057&id=64855&mkt=en-gb&cbcxt=mai", 
+            "enclosing": "comp_9", 
+            "endTime": 1.0345729999999094, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_9_6", 
+            "name": "load", 
+            "startTime": 1.0200350000000071, 
+            "subtree": "subtree_comp_9", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_12_0"
+            ], 
+            "docUrl": "https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1474461112&rver=6.4.6456.0&wp=MBI_SSL_SHARED&wreply=https:%2F%2Fmail.live.com%2Fdefault.aspx%3Frru%3Dinbox&lc=2057&id=64855&mkt=en-gb&cbcxt=mai", 
+            "enclosing": "comp_9", 
+            "endTime": 1.0373469999999543, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_9_7", 
+            "name": "load", 
+            "startTime": 1.0345729999999094, 
+            "subtree": "subtree_comp_9", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_9_2"
+            ], 
+            "docUrl": "https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1474461112&rver=6.4.6456.0&wp=MBI_SSL_SHARED&wreply=https:%2F%2Fmail.live.com%2Fdefault.aspx%3Frru%3Dinbox&lc=2057&id=64855&mkt=en-gb&cbcxt=mai", 
+            "enclosing": "None", 
+            "endTime": 0.9973399999998946, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_10", 
+            "name": "focusout", 
+            "startTime": 0.9972179999999753, 
+            "subtree": "subtree_comp_9", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_9_3"
+            ], 
+            "docUrl": "https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1474461112&rver=6.4.6456.0&wp=MBI_SSL_SHARED&wreply=https:%2F%2Fmail.live.com%2Fdefault.aspx%3Frru%3Dinbox&lc=2057&id=64855&mkt=en-gb&cbcxt=mai", 
+            "enclosing": "None", 
+            "endTime": 1.0043789999999717, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_11", 
+            "name": "focusout", 
+            "startTime": 1.004327000000103, 
+            "subtree": "subtree_comp_9", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_13"
+            ], 
+            "docUrl": "https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1474461112&rver=6.4.6456.0&wp=MBI_SSL_SHARED&wreply=https:%2F%2Fmail.live.com%2Fdefault.aspx%3Frru%3Dinbox&lc=2057&id=64855&mkt=en-gb&cbcxt=mai", 
+            "enclosing": "comp_12", 
+            "endTime": 1.1880599999999504, 
+            "evalType": "timer", 
+            "frame": 0, 
+            "id": "comp_12_0", 
+            "mode": "end", 
+            "startTime": 1.1876999999999498, 
+            "subtree": "subtree_comp_12", 
+            "timeout": 200, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_14"
+            ], 
+            "docUrl": "https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1474461112&rver=6.4.6456.0&wp=MBI_SSL_SHARED&wreply=https:%2F%2Fmail.live.com%2Fdefault.aspx%3Frru%3Dinbox&lc=2057&id=64855&mkt=en-gb&cbcxt=mai", 
+            "enclosing": "comp_12", 
+            "endTime": 1.1881680000001325, 
+            "evalType": "timer", 
+            "frame": 0, 
+            "id": "comp_12_1", 
+            "mode": "end", 
+            "startTime": 1.188144000000193, 
+            "subtree": "subtree_comp_12", 
+            "timeout": 200, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_15"
+            ], 
+            "docUrl": "https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1474461112&rver=6.4.6456.0&wp=MBI_SSL_SHARED&wreply=https:%2F%2Fmail.live.com%2Fdefault.aspx%3Frru%3Dinbox&lc=2057&id=64855&mkt=en-gb&cbcxt=mai", 
+            "enclosing": "comp_12", 
+            "endTime": 1.189408000000185, 
+            "evalType": "timer", 
+            "frame": 0, 
+            "id": "comp_12_2", 
+            "mode": "end", 
+            "startTime": 1.1883100000000013, 
+            "subtree": "subtree_comp_12", 
+            "timeout": 200, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1474461112&rver=6.4.6456.0&wp=MBI_SSL_SHARED&wreply=https:%2F%2Fmail.live.com%2Fdefault.aspx%3Frru%3Dinbox&lc=2057&id=64855&mkt=en-gb&cbcxt=mai", 
+            "enclosing": "comp_12", 
+            "endTime": 1.1896970000002511, 
+            "evalType": "timer", 
+            "frame": 0, 
+            "id": "comp_12_3", 
+            "mode": "end", 
+            "startTime": 1.1894350000002305, 
+            "subtree": "subtree_comp_12", 
+            "timeout": 200, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_12_1"
+            ], 
+            "docUrl": "https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1474461112&rver=6.4.6456.0&wp=MBI_SSL_SHARED&wreply=https:%2F%2Fmail.live.com%2Fdefault.aspx%3Frru%3Dinbox&lc=2057&id=64855&mkt=en-gb&cbcxt=mai", 
+            "enclosing": "None", 
+            "endTime": 1.188144000000193, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_13", 
+            "name": "focus", 
+            "startTime": 1.1880599999999504, 
+            "subtree": "subtree_comp_12", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_12_2"
+            ], 
+            "docUrl": "https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1474461112&rver=6.4.6456.0&wp=MBI_SSL_SHARED&wreply=https:%2F%2Fmail.live.com%2Fdefault.aspx%3Frru%3Dinbox&lc=2057&id=64855&mkt=en-gb&cbcxt=mai", 
+            "enclosing": "None", 
+            "endTime": 1.1883100000000013, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_14", 
+            "name": "focusin", 
+            "startTime": 1.1881680000001325, 
+            "subtree": "subtree_comp_12", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_12_3"
+            ], 
+            "docUrl": "https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1474461112&rver=6.4.6456.0&wp=MBI_SSL_SHARED&wreply=https:%2F%2Fmail.live.com%2Fdefault.aspx%3Frru%3Dinbox&lc=2057&id=64855&mkt=en-gb&cbcxt=mai", 
+            "enclosing": "None", 
+            "endTime": 1.1894350000002305, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_15", 
+            "name": "focusin", 
+            "startTime": 1.189408000000185, 
+            "subtree": "subtree_comp_12", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "children": [
+                "pchunk_0_1", 
+                "comp_0"
+            ], 
+            "docUrl": "https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1474461112&rver=6.4.6456.0&wp=MBI_SSL_SHARED&wreply=https:%2F%2Fmail.live.com%2Fdefault.aspx%3Frru%3Dinbox&lc=2057&id=64855&mkt=en-gb&cbcxt=mai", 
+            "endColumn": 448, 
+            "endRow": 3, 
+            "endTag": "script", 
+            "endTime": 0.7720110000004752, 
+            "frame": 0, 
+            "id": "pchunk_0_0", 
+            "isFragment": false, 
+            "startColumn": 29, 
+            "startRow": 3, 
+            "startTag": "html", 
+            "startTime": 0.7715170000001308, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_2", 
+                "pchunk_0_2"
+            ], 
+            "docUrl": "https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1474461112&rver=6.4.6456.0&wp=MBI_SSL_SHARED&wreply=https:%2F%2Fmail.live.com%2Fdefault.aspx%3Frru%3Dinbox&lc=2057&id=64855&mkt=en-gb&cbcxt=mai", 
+            "endColumn": 123, 
+            "endRow": 4, 
+            "endTag": "link", 
+            "endTime": 0.7727990000007594, 
+            "frame": 0, 
+            "id": "pchunk_0_1", 
+            "isFragment": false, 
+            "startColumn": 458, 
+            "startRow": 3, 
+            "startTag": "noscript", 
+            "startTime": 0.7722380000000157, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "comp_2", 
+                "pchunk_0_3"
+            ], 
+            "docUrl": "https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1474461112&rver=6.4.6456.0&wp=MBI_SSL_SHARED&wreply=https:%2F%2Fmail.live.com%2Fdefault.aspx%3Frru%3Dinbox&lc=2057&id=64855&mkt=en-gb&cbcxt=mai", 
+            "endColumn": 279, 
+            "endRow": 14, 
+            "endTag": "script", 
+            "endTime": 0.7731860000003508, 
+            "frame": 0, 
+            "id": "pchunk_0_2", 
+            "isFragment": false, 
+            "startColumn": 146, 
+            "startRow": 4, 
+            "startTag": "style", 
+            "startTime": 0.7730050000000119, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_4", 
+                "comp_3"
+            ], 
+            "docUrl": "https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1474461112&rver=6.4.6456.0&wp=MBI_SSL_SHARED&wreply=https:%2F%2Fmail.live.com%2Fdefault.aspx%3Frru%3Dinbox&lc=2057&id=64855&mkt=en-gb&cbcxt=mai", 
+            "endColumn": 65, 
+            "endRow": 15, 
+            "endTag": "script", 
+            "endTime": 0.8024539999996705, 
+            "frame": 0, 
+            "id": "pchunk_0_3", 
+            "isFragment": false, 
+            "startColumn": 289, 
+            "startRow": 14, 
+            "startTag": "noscript", 
+            "startTime": 0.8024230000000898, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_5", 
+                "comp_4"
+            ], 
+            "docUrl": "https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1474461112&rver=6.4.6456.0&wp=MBI_SSL_SHARED&wreply=https:%2F%2Fmail.live.com%2Fdefault.aspx%3Frru%3Dinbox&lc=2057&id=64855&mkt=en-gb&cbcxt=mai", 
+            "endColumn": 6829, 
+            "endRow": 16, 
+            "endTag": "script", 
+            "endTime": 0.8026449999997567, 
+            "frame": 0, 
+            "id": "pchunk_0_4", 
+            "isFragment": false, 
+            "startColumn": 157, 
+            "startRow": 15, 
+            "startTag": "link", 
+            "startTime": 0.8025969999998779, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_6", 
+                "download_1"
+            ], 
+            "docUrl": "https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1474461112&rver=6.4.6456.0&wp=MBI_SSL_SHARED&wreply=https:%2F%2Fmail.live.com%2Fdefault.aspx%3Frru%3Dinbox&lc=2057&id=64855&mkt=en-gb&cbcxt=mai", 
+            "endColumn": 6940, 
+            "endRow": 16, 
+            "endTag": "script", 
+            "endTime": 0.8033970000001318, 
+            "frame": 0, 
+            "id": "pchunk_0_5", 
+            "isFragment": false, 
+            "startColumn": 6931, 
+            "startRow": 16, 
+            "startTag": "script", 
+            "startTime": 0.8033780000000661, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_7", 
+                "download_3"
+            ], 
+            "docUrl": "https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1474461112&rver=6.4.6456.0&wp=MBI_SSL_SHARED&wreply=https:%2F%2Fmail.live.com%2Fdefault.aspx%3Frru%3Dinbox&lc=2057&id=64855&mkt=en-gb&cbcxt=mai", 
+            "endColumn": 107, 
+            "endRow": 17, 
+            "endTag": "script", 
+            "endTime": 0.8047249999999622, 
+            "frame": 0, 
+            "id": "pchunk_0_6", 
+            "isFragment": false, 
+            "startColumn": 98, 
+            "startRow": 17, 
+            "startTag": "script", 
+            "startTime": 0.804700000000139, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "comp_7", 
+                "pchunk_0_8"
+            ], 
+            "docUrl": "https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1474461112&rver=6.4.6456.0&wp=MBI_SSL_SHARED&wreply=https:%2F%2Fmail.live.com%2Fdefault.aspx%3Frru%3Dinbox&lc=2057&id=64855&mkt=en-gb&cbcxt=mai", 
+            "endColumn": 244, 
+            "endRow": 18, 
+            "endTag": "script", 
+            "endTime": 0.946954999999889, 
+            "frame": 0, 
+            "id": "pchunk_0_7", 
+            "isFragment": false, 
+            "startColumn": 35, 
+            "startRow": 18, 
+            "startTag": "script", 
+            "startTime": 0.9469250000001921, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_9", 
+                "comp_8"
+            ], 
+            "docUrl": "https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1474461112&rver=6.4.6456.0&wp=MBI_SSL_SHARED&wreply=https:%2F%2Fmail.live.com%2Fdefault.aspx%3Frru%3Dinbox&lc=2057&id=64855&mkt=en-gb&cbcxt=mai", 
+            "endColumn": 484, 
+            "endRow": 18, 
+            "endTag": "script", 
+            "endTime": 0.9471100000000661, 
+            "frame": 0, 
+            "id": "pchunk_0_8", 
+            "isFragment": false, 
+            "startColumn": 275, 
+            "startRow": 18, 
+            "startTag": "script", 
+            "startTime": 0.947095999999874, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "comp_16"
+            ], 
+            "docUrl": "https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1474461112&rver=6.4.6456.0&wp=MBI_SSL_SHARED&wreply=https:%2F%2Fmail.live.com%2Fdefault.aspx%3Frru%3Dinbox&lc=2057&id=64855&mkt=en-gb&cbcxt=mai", 
+            "endColumn": 14, 
+            "endRow": 20, 
+            "endTag": "html", 
+            "endTime": 0.9473010000001523, 
+            "frame": 0, 
+            "id": "pchunk_0_9", 
+            "isFragment": false, 
+            "startColumn": 491, 
+            "startRow": 18, 
+            "startTag": "head", 
+            "startTime": 0.9471600000001672, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_1", 
+                "pchunk_0_0"
+            ], 
+            "id": "dchunk_0_0", 
+            "offset": 286, 
+            "resource": "download_0", 
+            "size": 419, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_2", 
+                "pchunk_0_1"
+            ], 
+            "id": "dchunk_0_1", 
+            "offset": 705, 
+            "resource": "download_0", 
+            "size": 1099, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_3", 
+                "pchunk_0_2"
+            ], 
+            "id": "dchunk_0_2", 
+            "offset": 1804, 
+            "resource": "download_0", 
+            "size": 447, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_4", 
+                "pchunk_0_3"
+            ], 
+            "id": "dchunk_0_3", 
+            "offset": 2251, 
+            "resource": "download_0", 
+            "size": 473, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_4", 
+                "dchunk_0_5"
+            ], 
+            "id": "dchunk_0_4", 
+            "offset": 2724, 
+            "resource": "download_0", 
+            "size": 6831, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_5", 
+                "dchunk_0_6"
+            ], 
+            "id": "dchunk_0_5", 
+            "offset": 9555, 
+            "resource": "download_0", 
+            "size": 9, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_6", 
+                "dchunk_0_7"
+            ], 
+            "id": "dchunk_0_6", 
+            "offset": 9564, 
+            "resource": "download_0", 
+            "size": 9, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_8", 
+                "pchunk_0_7"
+            ], 
+            "id": "dchunk_0_7", 
+            "offset": 9573, 
+            "resource": "download_0", 
+            "size": 209, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_9", 
+                "pchunk_0_8"
+            ], 
+            "id": "dchunk_0_8", 
+            "offset": 9782, 
+            "resource": "download_0", 
+            "size": 209, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_9"
+            ], 
+            "id": "dchunk_0_9", 
+            "offset": 9991, 
+            "resource": "download_0", 
+            "size": 87, 
+            "type": "download_chunk"
+        }
+    ], 
+    "frames": [
+        {
+            "id": 0, 
+            "subframes": [], 
+            "url": "https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1474461112&rver=6.4.6456.0&wp=MBI_SSL_SHARED&wreply=https:%2F%2Fmail.live.com%2Fdefault.aspx%3Frru%3Dinbox&lc=2057&id=64855&mkt=en-gb&cbcxt=mai"
+        }
+    ], 
+    "loadEvent": "comp_9_0", 
+    "name": "https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1474461112&rver=6.4.6456.0&wp=MBI_SSL_SHARED&wreply=https:%2F%2Fmail.live.com%2Fdefault.aspx%3Frru%3Dinbox&lc=2057&id=64855&mkt=en-gb&cbcxt=mai", 
+    "root_activity": "download_0"
+}

@@ -1,0 +1,870 @@
+{
+    "DOMContentLoadedEvent": "comp_1", 
+    "activities": [
+        {
+            "cached": false, 
+            "children": [
+                "comp_2"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_5", 
+            "mimeType": "image/png", 
+            "priority": 14, 
+            "receiveTime": 0.7456860000002052, 
+            "sentTime": 0.5548890000009123, 
+            "size": 8350, 
+            "type": "resource", 
+            "url": "https://www.wikimedia.org/static/images/project-logos/wikisource.png"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_2"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_16", 
+            "mimeType": "image/png", 
+            "priority": 4, 
+            "receiveTime": 0.8747830000011163, 
+            "sentTime": 0.5573519999998098, 
+            "size": 4954, 
+            "type": "resource", 
+            "url": "https://www.wikimedia.org/static/images/project-logos/foundationwiki.png"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_2"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_10", 
+            "mimeType": "image/png", 
+            "priority": 11, 
+            "receiveTime": 0.7755200000010518, 
+            "sentTime": 0.5561870000001363, 
+            "size": 5787, 
+            "type": "resource", 
+            "url": "https://www.wikimedia.org/static/images/project-logos/commonswiki.png"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_2", 
+                "comp_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_15", 
+            "mimeType": "text/css", 
+            "priority": 5, 
+            "receiveTime": 0.8476599999994505, 
+            "sentTime": 0.5513719999999012, 
+            "size": 6292, 
+            "type": "resource", 
+            "url": "https://meta.wikimedia.org/w/load.php?debug=false&lang=en&modules=ext.gadget.wm-portal&only=styles&skin=vector&*"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_2"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_6", 
+            "mimeType": "image/png", 
+            "priority": 7, 
+            "receiveTime": 0.814209000000119, 
+            "sentTime": 0.5533959999993385, 
+            "size": 28987, 
+            "type": "resource", 
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/WiktionaryEn.svg/135px-WiktionaryEn.svg.png"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_2"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_12", 
+            "mimeType": "image/png", 
+            "priority": 9, 
+            "receiveTime": 0.8034289999995963, 
+            "sentTime": 0.5568980000007286, 
+            "size": 6414, 
+            "type": "resource", 
+            "url": "https://www.wikimedia.org/static/images/project-logos/incubatorwiki.png"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_2"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_11", 
+            "mimeType": "image/png", 
+            "priority": 10, 
+            "receiveTime": 0.7838780000001861, 
+            "sentTime": 0.5567510000000766, 
+            "size": 6255, 
+            "type": "resource", 
+            "url": "https://www.wikimedia.org/static/images/project-logos/metawiki.png"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "dchunk_0_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_0", 
+            "mimeType": "text/html", 
+            "priority": 1, 
+            "receiveTime": 0.5565129999995406, 
+            "sentTime": 0.0, 
+            "size": 7836, 
+            "type": "resource", 
+            "url": "https://www.wikimedia.org/"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_2"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_9", 
+            "mimeType": "image/png", 
+            "priority": 6, 
+            "receiveTime": 0.8280740000009246, 
+            "sentTime": 0.5555349999995087, 
+            "size": 22179, 
+            "type": "resource", 
+            "url": "https://www.wikimedia.org/static/images/project-logos/specieswiki.png"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_2"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_8", 
+            "mimeType": "image/png", 
+            "priority": 13, 
+            "receiveTime": 0.7618529999999737, 
+            "sentTime": 0.5559699999994336, 
+            "size": 2224, 
+            "type": "resource", 
+            "url": "https://www.wikimedia.org/static/images/project-logos/wikidatawiki.png"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_2"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_17", 
+            "mimeType": "image/png", 
+            "priority": 2, 
+            "receiveTime": 1.413085999998657, 
+            "sentTime": 0.5570330000009562, 
+            "size": 18989, 
+            "type": "resource", 
+            "url": "https://wikitech.wikimedia.org/w/images/c/cf/Labslogo_thumb.png"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_2"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_3", 
+            "mimeType": "image/png", 
+            "priority": 16, 
+            "receiveTime": 0.7220239999987825, 
+            "sentTime": 0.5545529999999417, 
+            "size": 3610, 
+            "type": "resource", 
+            "url": "https://www.wikimedia.org/static/images/project-logos/wikiquote.png"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_2"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_14", 
+            "mimeType": "image/png", 
+            "priority": 3, 
+            "receiveTime": 0.8758259999995062, 
+            "sentTime": 0.5551649999997608, 
+            "size": 15736, 
+            "type": "resource", 
+            "url": "https://upload.wikimedia.org/wikinews/en/b/bc/Wiki.png"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_2"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_4", 
+            "mimeType": "image/png", 
+            "priority": 15, 
+            "receiveTime": 0.7386590000005526, 
+            "sentTime": 0.5547409999999218, 
+            "size": 6598, 
+            "type": "resource", 
+            "url": "https://www.wikimedia.org/static/images/project-logos/wikibooks.png"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_2"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_13", 
+            "mimeType": "image/png", 
+            "priority": 8, 
+            "receiveTime": 0.8110429999996995, 
+            "sentTime": 0.5563320000001113, 
+            "size": 4428, 
+            "type": "resource", 
+            "url": "https://www.wikimedia.org/static/images/project-logos/wikivoyage.png"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_2"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_1", 
+            "mimeType": "image/png", 
+            "priority": 18, 
+            "receiveTime": 0.6389620000009018, 
+            "sentTime": 0.5525949999992008, 
+            "size": 20616, 
+            "type": "resource", 
+            "url": "https://www.wikimedia.org/static/images/project-logos/enwiki.png"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_2"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_2", 
+            "mimeType": "image/png", 
+            "priority": 17, 
+            "receiveTime": 0.7116859999987355, 
+            "sentTime": 0.5558180000007269, 
+            "size": 30807, 
+            "type": "resource", 
+            "url": "https://www.wikimedia.org/static/images/project-logos/mediawikiwiki.png"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_2"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_7", 
+            "mimeType": "image/png", 
+            "priority": 12, 
+            "receiveTime": 0.7653689999988273, 
+            "sentTime": 0.5553909999998723, 
+            "size": 9446, 
+            "type": "resource", 
+            "url": "https://www.wikimedia.org/static/images/project-logos/enwikiversity.png"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [], 
+            "docUrl": "https://www.wikimedia.org/", 
+            "enclosing": "None", 
+            "endTime": 0.8505480000003445, 
+            "evalType": "recalcStyle", 
+            "frame": 0, 
+            "id": "comp_0", 
+            "startTime": 0.8486240000001999, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://meta.wikimedia.org/w/load.php?debug=false&lang=en&modules=ext.gadget.wm-portal&only=styles&skin=vector&*"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_2"
+            ], 
+            "docUrl": "https://www.wikimedia.org/", 
+            "enclosing": "None", 
+            "endTime": 1.4132599999993545, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_1", 
+            "name": "DOMContentLoaded", 
+            "startTime": 1.4132599999993545, 
+            "subtree": "None", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.wikimedia.org/", 
+            "enclosing": "None", 
+            "endTime": 1.4132599999993545, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_2", 
+            "name": "load", 
+            "startTime": 1.4132599999993545, 
+            "subtree": "None", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "children": [
+                "download_15", 
+                "pchunk_0_1"
+            ], 
+            "docUrl": "https://www.wikimedia.org/", 
+            "endColumn": 157, 
+            "endRow": 12, 
+            "endTag": "link", 
+            "endTime": 0.551089000000502, 
+            "frame": 0, 
+            "id": "pchunk_0_0", 
+            "isFragment": false, 
+            "startColumn": 27, 
+            "startRow": 1, 
+            "startTag": "html", 
+            "startTime": 0.5504080000009708, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_1", 
+                "pchunk_0_2"
+            ], 
+            "docUrl": "https://www.wikimedia.org/", 
+            "endColumn": 277, 
+            "endRow": 28, 
+            "endTag": "img", 
+            "endTime": 0.5523300000004383, 
+            "frame": 0, 
+            "id": "pchunk_0_1", 
+            "isFragment": false, 
+            "startColumn": 23, 
+            "startRow": 13, 
+            "startTag": "style", 
+            "startTime": 0.5514980000007199, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_6", 
+                "pchunk_0_3"
+            ], 
+            "docUrl": "https://www.wikimedia.org/", 
+            "endColumn": 443, 
+            "endRow": 31, 
+            "endTag": "img", 
+            "endTime": 0.5543169999982638, 
+            "frame": 0, 
+            "id": "pchunk_0_2", 
+            "isFragment": false, 
+            "startColumn": 284, 
+            "startRow": 28, 
+            "startTag": "span", 
+            "startTime": 0.5526179999997112, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_4", 
+                "download_3"
+            ], 
+            "docUrl": "https://www.wikimedia.org/", 
+            "endColumn": 348, 
+            "endRow": 34, 
+            "endTag": "img", 
+            "endTime": 0.5545269999984157, 
+            "frame": 0, 
+            "id": "pchunk_0_3", 
+            "isFragment": false, 
+            "startColumn": 450, 
+            "startRow": 31, 
+            "startTag": "span", 
+            "startTime": 0.554349000000002, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_5", 
+                "download_4"
+            ], 
+            "docUrl": "https://www.wikimedia.org/", 
+            "endColumn": 446, 
+            "endRow": 37, 
+            "endTag": "img", 
+            "endTime": 0.5547380000007252, 
+            "frame": 0, 
+            "id": "pchunk_0_4", 
+            "isFragment": false, 
+            "startColumn": 355, 
+            "startRow": 34, 
+            "startTag": "span", 
+            "startTime": 0.5545689999999013, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_5", 
+                "pchunk_0_6"
+            ], 
+            "docUrl": "https://www.wikimedia.org/", 
+            "endColumn": 174, 
+            "endRow": 40, 
+            "endTag": "img", 
+            "endTime": 0.5548859999998967, 
+            "frame": 0, 
+            "id": "pchunk_0_5", 
+            "isFragment": false, 
+            "startColumn": 453, 
+            "startRow": 37, 
+            "startTag": "span", 
+            "startTime": 0.5547569999998814, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_7", 
+                "download_14"
+            ], 
+            "docUrl": "https://www.wikimedia.org/", 
+            "endColumn": 185, 
+            "endRow": 43, 
+            "endTag": "img", 
+            "endTime": 0.5551600000035251, 
+            "frame": 0, 
+            "id": "pchunk_0_6", 
+            "isFragment": false, 
+            "startColumn": 181, 
+            "startRow": 40, 
+            "startTag": "span", 
+            "startTime": 0.5549040000005334, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_7", 
+                "pchunk_0_8"
+            ], 
+            "docUrl": "https://www.wikimedia.org/", 
+            "endColumn": 191, 
+            "endRow": 46, 
+            "endTag": "img", 
+            "endTime": 0.5553800000016054, 
+            "frame": 0, 
+            "id": "pchunk_0_7", 
+            "isFragment": false, 
+            "startColumn": 192, 
+            "startRow": 43, 
+            "startTag": "span", 
+            "startTime": 0.5551880000002711, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_9", 
+                "download_9"
+            ], 
+            "docUrl": "https://www.wikimedia.org/", 
+            "endColumn": 194, 
+            "endRow": 49, 
+            "endTag": "img", 
+            "endTime": 0.5555179999973916, 
+            "frame": 0, 
+            "id": "pchunk_0_8", 
+            "isFragment": false, 
+            "startColumn": 198, 
+            "startRow": 46, 
+            "startTag": "span", 
+            "startTime": 0.5554080000001704, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_10", 
+                "download_2"
+            ], 
+            "docUrl": "https://www.wikimedia.org/", 
+            "endColumn": 182, 
+            "endRow": 52, 
+            "endTag": "img", 
+            "endTime": 0.5557339999959368, 
+            "frame": 0, 
+            "id": "pchunk_0_9", 
+            "isFragment": false, 
+            "startColumn": 201, 
+            "startRow": 49, 
+            "startTag": "span", 
+            "startTime": 0.5555469999999332, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_11", 
+                "download_8"
+            ], 
+            "docUrl": "https://www.wikimedia.org/", 
+            "endColumn": 181, 
+            "endRow": 55, 
+            "endTag": "img", 
+            "endTime": 0.5559529999991355, 
+            "frame": 0, 
+            "id": "pchunk_0_10", 
+            "isFragment": false, 
+            "startColumn": 189, 
+            "startRow": 52, 
+            "startTag": "span", 
+            "startTime": 0.5558340000006865, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_12", 
+                "download_10"
+            ], 
+            "docUrl": "https://www.wikimedia.org/", 
+            "endColumn": 203, 
+            "endRow": 58, 
+            "endTag": "img", 
+            "endTime": 0.5561669999988226, 
+            "frame": 0, 
+            "id": "pchunk_0_11", 
+            "isFragment": false, 
+            "startColumn": 188, 
+            "startRow": 55, 
+            "startTag": "span", 
+            "startTime": 0.5559830000001966, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_13", 
+                "download_13"
+            ], 
+            "docUrl": "https://www.wikimedia.org/", 
+            "endColumn": 194, 
+            "endRow": 61, 
+            "endTag": "img", 
+            "endTime": 0.5563190000029863, 
+            "frame": 0, 
+            "id": "pchunk_0_12", 
+            "isFragment": false, 
+            "startColumn": 210, 
+            "startRow": 58, 
+            "startTag": "span", 
+            "startTime": 0.5562000000008993, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_14", 
+                "download_11"
+            ], 
+            "docUrl": "https://www.wikimedia.org/", 
+            "endColumn": 298, 
+            "endRow": 64, 
+            "endTag": "img", 
+            "endTime": 0.556575000000521, 
+            "frame": 0, 
+            "id": "pchunk_0_13", 
+            "isFragment": false, 
+            "startColumn": 201, 
+            "startRow": 61, 
+            "startTag": "span", 
+            "startTime": 0.5563440000005357, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_15", 
+                "download_12"
+            ], 
+            "docUrl": "https://www.wikimedia.org/", 
+            "endColumn": 224, 
+            "endRow": 67, 
+            "endTag": "img", 
+            "endTime": 0.5568910000019969, 
+            "frame": 0, 
+            "id": "pchunk_0_14", 
+            "isFragment": false, 
+            "startColumn": 305, 
+            "startRow": 64, 
+            "startTag": "span", 
+            "startTime": 0.5567659999996977, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_17", 
+                "pchunk_0_16"
+            ], 
+            "docUrl": "https://www.wikimedia.org/", 
+            "endColumn": 186, 
+            "endRow": 70, 
+            "endTag": "img", 
+            "endTime": 0.5571610000006331, 
+            "frame": 0, 
+            "id": "pchunk_0_15", 
+            "isFragment": false, 
+            "startColumn": 231, 
+            "startRow": 67, 
+            "startTag": "span", 
+            "startTime": 0.5569099999993341, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_16", 
+                "pchunk_0_17"
+            ], 
+            "docUrl": "https://www.wikimedia.org/", 
+            "endColumn": 327, 
+            "endRow": 73, 
+            "endTag": "img", 
+            "endTime": 0.5573349999976926, 
+            "frame": 0, 
+            "id": "pchunk_0_16", 
+            "isFragment": false, 
+            "startColumn": 193, 
+            "startRow": 70, 
+            "startTag": "span", 
+            "startTime": 0.5571799999997893, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "comp_1"
+            ], 
+            "docUrl": "https://www.wikimedia.org/", 
+            "endColumn": 7, 
+            "endRow": 84, 
+            "endTag": "html", 
+            "endTime": 0.5574840000026597, 
+            "frame": 0, 
+            "id": "pchunk_0_17", 
+            "isFragment": false, 
+            "startColumn": 334, 
+            "startRow": 73, 
+            "startTag": "span", 
+            "startTime": 0.5573679999997694, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_1", 
+                "pchunk_0_0"
+            ], 
+            "id": "dchunk_0_0", 
+            "offset": 43, 
+            "resource": "download_0", 
+            "size": 664, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_2", 
+                "pchunk_0_1"
+            ], 
+            "id": "dchunk_0_1", 
+            "offset": 707, 
+            "resource": "download_0", 
+            "size": 1682, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_3", 
+                "pchunk_0_2"
+            ], 
+            "id": "dchunk_0_2", 
+            "offset": 2389, 
+            "resource": "download_0", 
+            "size": 494, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_4", 
+                "pchunk_0_3"
+            ], 
+            "id": "dchunk_0_3", 
+            "offset": 2883, 
+            "resource": "download_0", 
+            "size": 519, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_4", 
+                "dchunk_0_5"
+            ], 
+            "id": "dchunk_0_4", 
+            "offset": 3402, 
+            "resource": "download_0", 
+            "size": 497, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_5", 
+                "dchunk_0_6"
+            ], 
+            "id": "dchunk_0_5", 
+            "offset": 3899, 
+            "resource": "download_0", 
+            "size": 225, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_6", 
+                "dchunk_0_7"
+            ], 
+            "id": "dchunk_0_6", 
+            "offset": 4124, 
+            "resource": "download_0", 
+            "size": 236, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_8", 
+                "pchunk_0_7"
+            ], 
+            "id": "dchunk_0_7", 
+            "offset": 4360, 
+            "resource": "download_0", 
+            "size": 291, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_9", 
+                "pchunk_0_8"
+            ], 
+            "id": "dchunk_0_8", 
+            "offset": 4651, 
+            "resource": "download_0", 
+            "size": 245, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_9", 
+                "dchunk_0_10"
+            ], 
+            "id": "dchunk_0_9", 
+            "offset": 4896, 
+            "resource": "download_0", 
+            "size": 233, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_10", 
+                "dchunk_0_11"
+            ], 
+            "id": "dchunk_0_10", 
+            "offset": 5129, 
+            "resource": "download_0", 
+            "size": 232, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_11", 
+                "dchunk_0_12"
+            ], 
+            "id": "dchunk_0_11", 
+            "offset": 5361, 
+            "resource": "download_0", 
+            "size": 254, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_12", 
+                "dchunk_0_13"
+            ], 
+            "id": "dchunk_0_12", 
+            "offset": 5615, 
+            "resource": "download_0", 
+            "size": 245, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_14", 
+                "pchunk_0_13"
+            ], 
+            "id": "dchunk_0_13", 
+            "offset": 5860, 
+            "resource": "download_0", 
+            "size": 273, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_15", 
+                "pchunk_0_14"
+            ], 
+            "id": "dchunk_0_14", 
+            "offset": 6133, 
+            "resource": "download_0", 
+            "size": 275, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_16", 
+                "pchunk_0_15"
+            ], 
+            "id": "dchunk_0_15", 
+            "offset": 6408, 
+            "resource": "download_0", 
+            "size": 237, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_17", 
+                "pchunk_0_16"
+            ], 
+            "id": "dchunk_0_16", 
+            "offset": 6645, 
+            "resource": "download_0", 
+            "size": 436, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_17"
+            ], 
+            "id": "dchunk_0_17", 
+            "offset": 7081, 
+            "resource": "download_0", 
+            "size": 421, 
+            "type": "download_chunk"
+        }
+    ], 
+    "frames": [
+        {
+            "id": 0, 
+            "subframes": [], 
+            "url": "https://www.wikimedia.org/"
+        }
+    ], 
+    "loadEvent": "comp_2", 
+    "name": "https://www.wikimedia.org/", 
+    "root_activity": "download_0"
+}

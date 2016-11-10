@@ -1,0 +1,3242 @@
+{
+    "DOMContentLoadedEvent": "comp_19", 
+    "activities": [
+        {
+            "cached": false, 
+            "children": [
+                "comp_18"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_12", 
+            "mimeType": "image/gif", 
+            "priority": 9, 
+            "receiveTime": 1.2017129999985627, 
+            "sentTime": 0.8671049999993556, 
+            "size": 43, 
+            "type": "resource", 
+            "url": "http://metrics.ikea.com/b/ss/ikeaallprod/1/JS-1.6.1/s44770690388977?AQB=1&ndh=1&pf=1&t=8%2F10%2F2016%200%3A34%3A29%202%200&fid=4BB39683D551EE92-22F66A9D41A5629F&ce=UTF-8&ns=ikea&pageName=www.ikea.com%20global%20start%20page&g=http%3A%2F%2Fwww.ikea.com%2F&cc=USD&c2=global&c3=global&c4=global&c5=global&v7=master&c8=master&c14=0%3A30&c15=Tuesday&c16=Weekday&c17=en&v20=Tuesday&v21=Weekday&v22=en&v24=anonymous&c28=anonymous&c41=www.ikea.com&c45=web&v45=web&c69=medium&c73=new%20splash%20page&s=1440x900&c=24&j=1.6&v=Y&k=Y&bw=934&bh=811&AQE=1"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_12", 
+                "comp_9"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_5", 
+            "mimeType": "application/x-javascript", 
+            "priority": 3, 
+            "receiveTime": 0.7531529999996565, 
+            "sentTime": 0.21375199999965844, 
+            "size": 23661, 
+            "type": "resource", 
+            "url": "http://tags.tiqcdn.com/utag/ikea/global-splash-page/prod/utag.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "dchunk_0_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_0", 
+            "mimeType": "text/html", 
+            "priority": 1, 
+            "receiveTime": 0.1530509999993228, 
+            "sentTime": 0.0, 
+            "size": 53328, 
+            "type": "resource", 
+            "url": "http://www.ikea.com/"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_12"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_4", 
+            "mimeType": "image/png", 
+            "priority": 6, 
+            "receiveTime": 0.7526989999987563, 
+            "sentTime": 0.21577799999977287, 
+            "size": 14617, 
+            "type": "resource", 
+            "url": "http://www.ikea.com/ext/ikeagateway/statics/flag-sprite-opt.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_12"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_13", 
+            "mimeType": "image/png", 
+            "originalResource": "download_4", 
+            "priority": 38, 
+            "sentTime": 0.21677399999862246, 
+            "size": 14617, 
+            "type": "resource", 
+            "url": "http://www.ikea.com/ext/ikeagateway/statics/flag-sprite-opt.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_12"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_14", 
+            "mimeType": "image/png", 
+            "originalResource": "download_4", 
+            "priority": 39, 
+            "sentTime": 0.21700400000008813, 
+            "size": 14617, 
+            "type": "resource", 
+            "url": "http://www.ikea.com/ext/ikeagateway/statics/flag-sprite-opt.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_12"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_15", 
+            "mimeType": "image/png", 
+            "originalResource": "download_4", 
+            "priority": 40, 
+            "sentTime": 0.21780499999840686, 
+            "size": 14617, 
+            "type": "resource", 
+            "url": "http://www.ikea.com/ext/ikeagateway/statics/flag-sprite-opt.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_12"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_16", 
+            "mimeType": "image/png", 
+            "originalResource": "download_4", 
+            "priority": 41, 
+            "sentTime": 0.21804599999995844, 
+            "size": 14617, 
+            "type": "resource", 
+            "url": "http://www.ikea.com/ext/ikeagateway/statics/flag-sprite-opt.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_12"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_17", 
+            "mimeType": "image/png", 
+            "originalResource": "download_4", 
+            "priority": 42, 
+            "sentTime": 0.21819699999832665, 
+            "size": 14617, 
+            "type": "resource", 
+            "url": "http://www.ikea.com/ext/ikeagateway/statics/flag-sprite-opt.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_12"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_18", 
+            "mimeType": "image/png", 
+            "originalResource": "download_4", 
+            "priority": 43, 
+            "sentTime": 0.2184979999983625, 
+            "size": 14617, 
+            "type": "resource", 
+            "url": "http://www.ikea.com/ext/ikeagateway/statics/flag-sprite-opt.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_12"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_19", 
+            "mimeType": "image/png", 
+            "originalResource": "download_4", 
+            "priority": 44, 
+            "sentTime": 0.2192029999987426, 
+            "size": 14617, 
+            "type": "resource", 
+            "url": "http://www.ikea.com/ext/ikeagateway/statics/flag-sprite-opt.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_12"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_20", 
+            "mimeType": "image/png", 
+            "originalResource": "download_4", 
+            "priority": 45, 
+            "sentTime": 0.21938199999931385, 
+            "size": 14617, 
+            "type": "resource", 
+            "url": "http://www.ikea.com/ext/ikeagateway/statics/flag-sprite-opt.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_12"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_21", 
+            "mimeType": "image/png", 
+            "originalResource": "download_4", 
+            "priority": 46, 
+            "sentTime": 0.22006099999998696, 
+            "size": 14617, 
+            "type": "resource", 
+            "url": "http://www.ikea.com/ext/ikeagateway/statics/flag-sprite-opt.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_12"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_22", 
+            "mimeType": "image/png", 
+            "originalResource": "download_4", 
+            "priority": 47, 
+            "sentTime": 0.22023199999966891, 
+            "size": 14617, 
+            "type": "resource", 
+            "url": "http://www.ikea.com/ext/ikeagateway/statics/flag-sprite-opt.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_12"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_23", 
+            "mimeType": "image/png", 
+            "originalResource": "download_4", 
+            "priority": 48, 
+            "sentTime": 0.22114799999872048, 
+            "size": 14617, 
+            "type": "resource", 
+            "url": "http://www.ikea.com/ext/ikeagateway/statics/flag-sprite-opt.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_12"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_24", 
+            "mimeType": "image/png", 
+            "originalResource": "download_4", 
+            "priority": 49, 
+            "sentTime": 0.22153599999910512, 
+            "size": 14617, 
+            "type": "resource", 
+            "url": "http://www.ikea.com/ext/ikeagateway/statics/flag-sprite-opt.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_12"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_25", 
+            "mimeType": "image/png", 
+            "originalResource": "download_4", 
+            "priority": 50, 
+            "sentTime": 0.22170699999878707, 
+            "size": 14617, 
+            "type": "resource", 
+            "url": "http://www.ikea.com/ext/ikeagateway/statics/flag-sprite-opt.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_12"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_26", 
+            "mimeType": "image/png", 
+            "originalResource": "download_4", 
+            "priority": 51, 
+            "sentTime": 0.22245599999951082, 
+            "size": 14617, 
+            "type": "resource", 
+            "url": "http://www.ikea.com/ext/ikeagateway/statics/flag-sprite-opt.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_12"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_27", 
+            "mimeType": "image/png", 
+            "originalResource": "download_4", 
+            "priority": 52, 
+            "sentTime": 0.2226139999984298, 
+            "size": 14617, 
+            "type": "resource", 
+            "url": "http://www.ikea.com/ext/ikeagateway/statics/flag-sprite-opt.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_12"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_28", 
+            "mimeType": "image/png", 
+            "originalResource": "download_4", 
+            "priority": 53, 
+            "sentTime": 0.22275599999920814, 
+            "size": 14617, 
+            "type": "resource", 
+            "url": "http://www.ikea.com/ext/ikeagateway/statics/flag-sprite-opt.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_12"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_29", 
+            "mimeType": "image/png", 
+            "originalResource": "download_4", 
+            "priority": 54, 
+            "sentTime": 0.2229090000000724, 
+            "size": 14617, 
+            "type": "resource", 
+            "url": "http://www.ikea.com/ext/ikeagateway/statics/flag-sprite-opt.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_12"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_30", 
+            "mimeType": "image/png", 
+            "originalResource": "download_4", 
+            "priority": 55, 
+            "sentTime": 0.22308299999895098, 
+            "size": 14617, 
+            "type": "resource", 
+            "url": "http://www.ikea.com/ext/ikeagateway/statics/flag-sprite-opt.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_12"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_31", 
+            "mimeType": "image/png", 
+            "originalResource": "download_4", 
+            "priority": 56, 
+            "sentTime": 0.22322600000006787, 
+            "size": 14617, 
+            "type": "resource", 
+            "url": "http://www.ikea.com/ext/ikeagateway/statics/flag-sprite-opt.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_12"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_32", 
+            "mimeType": "image/png", 
+            "originalResource": "download_4", 
+            "priority": 57, 
+            "sentTime": 0.22337999999945168, 
+            "size": 14617, 
+            "type": "resource", 
+            "url": "http://www.ikea.com/ext/ikeagateway/statics/flag-sprite-opt.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_12"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_33", 
+            "mimeType": "image/png", 
+            "originalResource": "download_4", 
+            "priority": 58, 
+            "sentTime": 0.22353099999963888, 
+            "size": 14617, 
+            "type": "resource", 
+            "url": "http://www.ikea.com/ext/ikeagateway/statics/flag-sprite-opt.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_12"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_34", 
+            "mimeType": "image/png", 
+            "originalResource": "download_4", 
+            "priority": 59, 
+            "sentTime": 0.22369099999923492, 
+            "size": 14617, 
+            "type": "resource", 
+            "url": "http://www.ikea.com/ext/ikeagateway/statics/flag-sprite-opt.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_12"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_35", 
+            "mimeType": "image/png", 
+            "originalResource": "download_4", 
+            "priority": 60, 
+            "sentTime": 0.2238229999984469, 
+            "size": 14617, 
+            "type": "resource", 
+            "url": "http://www.ikea.com/ext/ikeagateway/statics/flag-sprite-opt.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_12"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_36", 
+            "mimeType": "image/png", 
+            "originalResource": "download_4", 
+            "priority": 61, 
+            "sentTime": 0.22399199999927077, 
+            "size": 14617, 
+            "type": "resource", 
+            "url": "http://www.ikea.com/ext/ikeagateway/statics/flag-sprite-opt.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_12"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_37", 
+            "mimeType": "image/png", 
+            "originalResource": "download_4", 
+            "priority": 62, 
+            "sentTime": 0.2241599999997561, 
+            "size": 14617, 
+            "type": "resource", 
+            "url": "http://www.ikea.com/ext/ikeagateway/statics/flag-sprite-opt.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_12"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_38", 
+            "mimeType": "image/png", 
+            "originalResource": "download_4", 
+            "priority": 63, 
+            "sentTime": 0.22429299999930663, 
+            "size": 14617, 
+            "type": "resource", 
+            "url": "http://www.ikea.com/ext/ikeagateway/statics/flag-sprite-opt.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_12"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_39", 
+            "mimeType": "image/png", 
+            "originalResource": "download_4", 
+            "priority": 64, 
+            "sentTime": 0.2244959999989078, 
+            "size": 14617, 
+            "type": "resource", 
+            "url": "http://www.ikea.com/ext/ikeagateway/statics/flag-sprite-opt.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_12"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_40", 
+            "mimeType": "image/png", 
+            "originalResource": "download_4", 
+            "priority": 13, 
+            "sentTime": 0.2246529999993072, 
+            "size": 14617, 
+            "type": "resource", 
+            "url": "http://www.ikea.com/ext/ikeagateway/statics/flag-sprite-opt.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_12"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_41", 
+            "mimeType": "image/png", 
+            "originalResource": "download_4", 
+            "priority": 14, 
+            "sentTime": 0.22480199999881734, 
+            "size": 14617, 
+            "type": "resource", 
+            "url": "http://www.ikea.com/ext/ikeagateway/statics/flag-sprite-opt.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_12"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_42", 
+            "mimeType": "image/png", 
+            "originalResource": "download_4", 
+            "priority": 15, 
+            "sentTime": 0.22499499999867112, 
+            "size": 14617, 
+            "type": "resource", 
+            "url": "http://www.ikea.com/ext/ikeagateway/statics/flag-sprite-opt.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_12"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_43", 
+            "mimeType": "image/png", 
+            "originalResource": "download_4", 
+            "priority": 16, 
+            "sentTime": 0.22521499999857042, 
+            "size": 14617, 
+            "type": "resource", 
+            "url": "http://www.ikea.com/ext/ikeagateway/statics/flag-sprite-opt.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_12"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_44", 
+            "mimeType": "image/png", 
+            "originalResource": "download_4", 
+            "priority": 17, 
+            "sentTime": 0.22540599999956612, 
+            "size": 14617, 
+            "type": "resource", 
+            "url": "http://www.ikea.com/ext/ikeagateway/statics/flag-sprite-opt.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_12"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_45", 
+            "mimeType": "image/png", 
+            "originalResource": "download_4", 
+            "priority": 18, 
+            "sentTime": 0.22555499999907624, 
+            "size": 14617, 
+            "type": "resource", 
+            "url": "http://www.ikea.com/ext/ikeagateway/statics/flag-sprite-opt.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_12"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_46", 
+            "mimeType": "image/png", 
+            "originalResource": "download_4", 
+            "priority": 19, 
+            "sentTime": 0.22569799999837414, 
+            "size": 14617, 
+            "type": "resource", 
+            "url": "http://www.ikea.com/ext/ikeagateway/statics/flag-sprite-opt.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_12"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_47", 
+            "mimeType": "image/png", 
+            "originalResource": "download_4", 
+            "priority": 20, 
+            "sentTime": 0.22599199999967823, 
+            "size": 14617, 
+            "type": "resource", 
+            "url": "http://www.ikea.com/ext/ikeagateway/statics/flag-sprite-opt.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_12"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_48", 
+            "mimeType": "image/png", 
+            "originalResource": "download_4", 
+            "priority": 21, 
+            "sentTime": 0.22623999999996158, 
+            "size": 14617, 
+            "type": "resource", 
+            "url": "http://www.ikea.com/ext/ikeagateway/statics/flag-sprite-opt.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_12"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_49", 
+            "mimeType": "image/png", 
+            "originalResource": "download_4", 
+            "priority": 22, 
+            "sentTime": 0.22787199999947916, 
+            "size": 14617, 
+            "type": "resource", 
+            "url": "http://www.ikea.com/ext/ikeagateway/statics/flag-sprite-opt.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_12"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_50", 
+            "mimeType": "image/png", 
+            "originalResource": "download_4", 
+            "priority": 23, 
+            "sentTime": 0.2280899999987014, 
+            "size": 14617, 
+            "type": "resource", 
+            "url": "http://www.ikea.com/ext/ikeagateway/statics/flag-sprite-opt.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_12"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_51", 
+            "mimeType": "image/png", 
+            "originalResource": "download_4", 
+            "priority": 24, 
+            "sentTime": 0.2282809999996971, 
+            "size": 14617, 
+            "type": "resource", 
+            "url": "http://www.ikea.com/ext/ikeagateway/statics/flag-sprite-opt.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_12"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_52", 
+            "mimeType": "image/png", 
+            "originalResource": "download_4", 
+            "priority": 25, 
+            "sentTime": 0.22999999999956344, 
+            "size": 14617, 
+            "type": "resource", 
+            "url": "http://www.ikea.com/ext/ikeagateway/statics/flag-sprite-opt.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_12"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_53", 
+            "mimeType": "image/png", 
+            "originalResource": "download_4", 
+            "priority": 26, 
+            "sentTime": 0.23082900000008522, 
+            "size": 14617, 
+            "type": "resource", 
+            "url": "http://www.ikea.com/ext/ikeagateway/statics/flag-sprite-opt.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_12"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_54", 
+            "mimeType": "image/png", 
+            "originalResource": "download_4", 
+            "priority": 27, 
+            "sentTime": 0.23128099999848928, 
+            "size": 14617, 
+            "type": "resource", 
+            "url": "http://www.ikea.com/ext/ikeagateway/statics/flag-sprite-opt.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_12"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_55", 
+            "mimeType": "image/png", 
+            "originalResource": "download_4", 
+            "priority": 28, 
+            "sentTime": 0.23152200000004086, 
+            "size": 14617, 
+            "type": "resource", 
+            "url": "http://www.ikea.com/ext/ikeagateway/statics/flag-sprite-opt.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_12"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_56", 
+            "mimeType": "image/png", 
+            "originalResource": "download_4", 
+            "priority": 29, 
+            "sentTime": 0.23231200000009267, 
+            "size": 14617, 
+            "type": "resource", 
+            "url": "http://www.ikea.com/ext/ikeagateway/statics/flag-sprite-opt.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_12"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_57", 
+            "mimeType": "image/png", 
+            "originalResource": "download_4", 
+            "priority": 30, 
+            "sentTime": 0.23318699999981618, 
+            "size": 14617, 
+            "type": "resource", 
+            "url": "http://www.ikea.com/ext/ikeagateway/statics/flag-sprite-opt.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_12"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_58", 
+            "mimeType": "image/png", 
+            "originalResource": "download_4", 
+            "priority": 31, 
+            "sentTime": 0.2340779999994993, 
+            "size": 14617, 
+            "type": "resource", 
+            "url": "http://www.ikea.com/ext/ikeagateway/statics/flag-sprite-opt.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_12"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_59", 
+            "mimeType": "image/png", 
+            "originalResource": "download_4", 
+            "priority": 32, 
+            "sentTime": 0.234798999999839, 
+            "size": 14617, 
+            "type": "resource", 
+            "url": "http://www.ikea.com/ext/ikeagateway/statics/flag-sprite-opt.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_12"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_60", 
+            "mimeType": "image/png", 
+            "originalResource": "download_4", 
+            "priority": 33, 
+            "sentTime": 0.23599599999943166, 
+            "size": 14617, 
+            "type": "resource", 
+            "url": "http://www.ikea.com/ext/ikeagateway/statics/flag-sprite-opt.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_12"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_61", 
+            "mimeType": "image/png", 
+            "originalResource": "download_4", 
+            "priority": 34, 
+            "sentTime": 0.23670899999888206, 
+            "size": 14617, 
+            "type": "resource", 
+            "url": "http://www.ikea.com/ext/ikeagateway/statics/flag-sprite-opt.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_12"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_62", 
+            "mimeType": "image/png", 
+            "originalResource": "download_4", 
+            "priority": 35, 
+            "sentTime": 0.23755199999868637, 
+            "size": 14617, 
+            "type": "resource", 
+            "url": "http://www.ikea.com/ext/ikeagateway/statics/flag-sprite-opt.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_12"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_63", 
+            "mimeType": "image/png", 
+            "originalResource": "download_4", 
+            "priority": 36, 
+            "sentTime": 0.23852199999964796, 
+            "size": 14617, 
+            "type": "resource", 
+            "url": "http://www.ikea.com/ext/ikeagateway/statics/flag-sprite-opt.png"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_10", 
+                "comp_12"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_6", 
+            "mimeType": "application/x-javascript", 
+            "priority": 5, 
+            "receiveTime": 0.752559000000474, 
+            "sentTime": 0.21236899999894376, 
+            "size": 12974, 
+            "type": "resource", 
+            "url": "http://ds-aksb-a.akamaihd.net/aksb.min.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_12"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_8", 
+            "mimeType": "image/jpeg", 
+            "priority": 10, 
+            "receiveTime": 0.7839809999986755, 
+            "sentTime": 0.6223620000000665, 
+            "size": 36576, 
+            "type": "resource", 
+            "url": "http://www.ikea.com/ext/ikeagateway/statics/ikea_gateway_hero_S_5.jpg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_17"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_10", 
+            "mimeType": "application/x-javascript", 
+            "priority": 12, 
+            "receiveTime": 0.9007029999993392, 
+            "sentTime": 0.8677520000001095, 
+            "size": 2, 
+            "type": "resource", 
+            "url": "http://tags.tiqcdn.com/utag/tiqapp/utag.v.js?a=ikea/global-splash-page/201609051430&cb=1478565269282"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_12", 
+                "comp_8"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_7", 
+            "mimeType": "image/webp", 
+            "priority": 11, 
+            "receiveTime": 0.7537069999998494, 
+            "sentTime": 0.5998449999988225, 
+            "size": 82, 
+            "type": "resource", 
+            "url": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4WAoAAAAQAAAAAAAAAAAAQUxQSAwAAAABBxAR/Q9ERP8DAABWUDggGAAAADABAJ0BKgEAAQADADQlpAADcAD++/1QAA=="
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_15_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_9", 
+            "mimeType": "application/x-javascript", 
+            "priority": 8, 
+            "receiveTime": 0.840078999999605, 
+            "sentTime": 0.7870479999983218, 
+            "size": 60925, 
+            "type": "resource", 
+            "url": "http://tags.tiqcdn.com/utag/ikea/global-splash-page/prod/utag.2.js?utv=ut4.41.201609221246"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_12"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_3", 
+            "mimeType": "image/svg+xml", 
+            "priority": 7, 
+            "receiveTime": 0.7481950000001234, 
+            "sentTime": 0.2146519999987504, 
+            "size": 2828, 
+            "type": "resource", 
+            "url": "http://www.ikea.com/ext/ikeagateway/statics/logo.svg"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_12"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_64", 
+            "mimeType": "image/svg+xml", 
+            "originalResource": "download_3", 
+            "priority": 37, 
+            "sentTime": 0.24046999999882246, 
+            "size": 2828, 
+            "type": "resource", 
+            "url": "http://www.ikea.com/ext/ikeagateway/statics/logo.svg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_5_0", 
+                "comp_12"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_2", 
+            "mimeType": "application/x-javascript", 
+            "priority": 4, 
+            "receiveTime": 0.3399589999989985, 
+            "sentTime": 0.24571799999830546, 
+            "size": 24255, 
+            "type": "resource", 
+            "url": "http://www.ikea.com/ext/ikeagateway/bundle.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_11", 
+            "mimeType": "text/html", 
+            "priority": 65, 
+            "receiveTime": 0.8878479999984847, 
+            "sentTime": 0.8880259999987175, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "http://ds-aksb-a.akamaihd.net/2/472539/b?dE=75&cS=75&cE=92&rqS=92&rsS=122&rsE=129&sS=&dl=136&di=612&fp=778&dlS=621&dlE=621&dc=783&leS=783&leE=783&to=&ol=0&cr=23&mt=&mb=&b=16641&u=http%3A//www.ikea.com/&ua=Mozilla/5.0%20%28X11%3B%20Linux%20x86_64%29%20AppleWebKit/537.1%20%28KHTML%2C%20like%20Gecko%29%20Chrome/22.0.1195.0%20Safari/537.1&pl=Linux%20x86_64&us=&gh=104.86.111.134&t=&rid=624b278&akM=q&akN=&vc=10:8&bpcip=5ac1f100&akTX=1&akTI=624b278&ai=178200&pmgn=&pmgi=&pmp="
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_12", 
+                "comp_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_1", 
+            "mimeType": "text/css", 
+            "priority": 2, 
+            "receiveTime": 0.20542999999815947, 
+            "sentTime": 0.1400180000000546, 
+            "size": 31770, 
+            "type": "resource", 
+            "url": "http://www.ikea.com/ext/ikeagateway/styles.css"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "comp_1_0"
+            ], 
+            "docUrl": "http://www.ikea.com/", 
+            "enclosing": "None", 
+            "endTime": 0.21034799999870302, 
+            "evalType": "recalcStyle", 
+            "frame": 0, 
+            "id": "comp_0", 
+            "startTime": 0.20500799999899755, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "http://www.ikea.com/ext/ikeagateway/styles.css"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_6", 
+                "comp_1_1"
+            ], 
+            "docUrl": "http://www.ikea.com/", 
+            "enclosing": "comp_1", 
+            "endTime": 0.21120599999994738, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_1_0", 
+            "startTime": 0.21035099999971862, 
+            "subtree": "subtree_comp_1", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_2"
+            ], 
+            "docUrl": "http://www.ikea.com/", 
+            "enclosing": "comp_1", 
+            "endTime": 0.21254299999964132, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_1_1", 
+            "startTime": 0.21120599999994738, 
+            "subtree": "subtree_comp_1", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_3"
+            ], 
+            "docUrl": "http://www.ikea.com/", 
+            "enclosing": "None", 
+            "endTime": 0.21337399999902118, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_2", 
+            "startTime": 0.21275799999966694, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_5", 
+                "comp_3_1"
+            ], 
+            "docUrl": "http://www.ikea.com/", 
+            "enclosing": "comp_3", 
+            "endTime": 0.21359499999925902, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_3_0", 
+            "startTime": 0.21348399999988033, 
+            "subtree": "subtree_comp_3", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_4"
+            ], 
+            "docUrl": "http://www.ikea.com/", 
+            "enclosing": "comp_3", 
+            "endTime": 0.2139790000001085, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_3_1", 
+            "startTime": 0.21359499999925902, 
+            "subtree": "subtree_comp_3", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_59"
+            ], 
+            "docUrl": "http://www.ikea.com/", 
+            "enclosing": "None", 
+            "endTime": 0.24561699999867415, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_4", 
+            "startTime": 0.24115699999856588, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_7", 
+                "comp_5_1"
+            ], 
+            "docUrl": "http://www.ikea.com/", 
+            "enclosing": "comp_5", 
+            "endTime": 0.5997250000000349, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_5_0", 
+            "startTime": 0.24759699999958684, 
+            "subtree": "subtree_comp_5", 
+            "type": "eval", 
+            "url": "http://www.ikea.com/ext/ikeagateway/bundle.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_60"
+            ], 
+            "docUrl": "http://www.ikea.com/", 
+            "enclosing": "comp_5", 
+            "endTime": 0.6129679999994551, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_5_1", 
+            "startTime": 0.5997250000000349, 
+            "subtree": "subtree_comp_5", 
+            "type": "eval", 
+            "url": "http://www.ikea.com/ext/ikeagateway/bundle.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_6_1", 
+                "download_8"
+            ], 
+            "docUrl": "http://www.ikea.com/", 
+            "enclosing": "comp_6", 
+            "endTime": 0.6223620000000665, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_6_0", 
+            "name": "readystatechange", 
+            "startTime": 0.6130159999993339, 
+            "subtree": "subtree_comp_6", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_11"
+            ], 
+            "docUrl": "http://www.ikea.com/", 
+            "enclosing": "comp_6", 
+            "endTime": 0.6224589999983436, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_6_1", 
+            "name": "readystatechange", 
+            "startTime": 0.6223620000000665, 
+            "subtree": "subtree_comp_6", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://www.ikea.com/", 
+            "enclosing": "None", 
+            "endTime": 0.7570029999988037, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_8", 
+            "name": "error", 
+            "startTime": 0.7565619999986666, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "comp_14_0"
+            ], 
+            "docUrl": "http://www.ikea.com/", 
+            "enclosing": "None", 
+            "endTime": 0.7750759999998991, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_9", 
+            "startTime": 0.7570099999993545, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "http://tags.tiqcdn.com/utag/ikea/global-splash-page/prod/utag.js"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [], 
+            "docUrl": "http://www.ikea.com/", 
+            "enclosing": "None", 
+            "endTime": 0.7791929999984859, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_10", 
+            "startTime": 0.775099999998929, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "http://ds-aksb-a.akamaihd.net/aksb.min.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_19"
+            ], 
+            "docUrl": "http://www.ikea.com/", 
+            "enclosing": "None", 
+            "endTime": 0.7844079999995301, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_11", 
+            "name": "readystatechange", 
+            "startTime": 0.7841869999992923, 
+            "subtree": "None", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_12"
+            ], 
+            "docUrl": "http://www.ikea.com/", 
+            "enclosing": "None", 
+            "endTime": 0.7844479999985197, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_19", 
+            "name": "DOMContentLoaded", 
+            "startTime": 0.7844479999985197, 
+            "subtree": "None", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_16_0"
+            ], 
+            "docUrl": "http://www.ikea.com/", 
+            "enclosing": "None", 
+            "endTime": 0.7848659999999654, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_12", 
+            "name": "load", 
+            "startTime": 0.7844549999990704, 
+            "subtree": "None", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_14_1", 
+                "download_9"
+            ], 
+            "docUrl": "http://www.ikea.com/", 
+            "enclosing": "comp_14", 
+            "endTime": 0.7868869999983872, 
+            "evalType": "timer", 
+            "frame": 0, 
+            "id": "comp_14_0", 
+            "mode": "end", 
+            "startTime": 0.7861559999983001, 
+            "subtree": "subtree_comp_14", 
+            "timeout": 1, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://www.ikea.com/", 
+            "enclosing": "comp_14", 
+            "endTime": 0.7871099999993021, 
+            "evalType": "timer", 
+            "frame": 0, 
+            "id": "comp_14_1", 
+            "mode": "end", 
+            "startTime": 0.7868869999983872, 
+            "subtree": "subtree_comp_14", 
+            "timeout": 1, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_12", 
+                "comp_15_1"
+            ], 
+            "docUrl": "http://www.ikea.com/", 
+            "enclosing": "comp_15", 
+            "endTime": 0.8653399999984686, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_15_0", 
+            "startTime": 0.8404869999994844, 
+            "subtree": "subtree_comp_15", 
+            "type": "eval", 
+            "url": "http://tags.tiqcdn.com/utag/ikea/global-splash-page/prod/utag.2.js?utv=ut4.41.201609221246"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "comp_15_2", 
+                "download_10"
+            ], 
+            "docUrl": "http://www.ikea.com/", 
+            "enclosing": "comp_15", 
+            "endTime": 0.8676120000000083, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_15_1", 
+            "startTime": 0.8653399999984686, 
+            "subtree": "subtree_comp_15", 
+            "type": "eval", 
+            "url": "http://tags.tiqcdn.com/utag/ikea/global-splash-page/prod/utag.2.js?utv=ut4.41.201609221246"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [], 
+            "docUrl": "http://www.ikea.com/", 
+            "enclosing": "comp_15", 
+            "endTime": 0.8681779999988066, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_15_2", 
+            "startTime": 0.8676120000000083, 
+            "subtree": "subtree_comp_15", 
+            "type": "eval", 
+            "url": "http://tags.tiqcdn.com/utag/ikea/global-splash-page/prod/utag.2.js?utv=ut4.41.201609221246"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_16_1", 
+                "download_11"
+            ], 
+            "docUrl": "http://www.ikea.com/", 
+            "enclosing": "comp_16", 
+            "endTime": 0.8878479999984847, 
+            "evalType": "timer", 
+            "frame": 0, 
+            "id": "comp_16_0", 
+            "mode": "end", 
+            "startTime": 0.8860079999994923, 
+            "subtree": "subtree_comp_16", 
+            "timeout": 100, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://www.ikea.com/", 
+            "enclosing": "comp_16", 
+            "endTime": 0.8882549999998446, 
+            "evalType": "timer", 
+            "frame": 0, 
+            "id": "comp_16_1", 
+            "mode": "end", 
+            "startTime": 0.8878479999984847, 
+            "subtree": "subtree_comp_16", 
+            "timeout": 100, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [], 
+            "docUrl": "http://www.ikea.com/", 
+            "enclosing": "None", 
+            "endTime": 0.9011829999999463, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_17", 
+            "startTime": 0.901055999998789, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "http://tags.tiqcdn.com/utag/tiqapp/utag.v.js?a=ikea/global-splash-page/201609051430&cb=1478565269282"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://www.ikea.com/", 
+            "enclosing": "None", 
+            "endTime": 1.2046859999991284, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_18", 
+            "name": "load", 
+            "startTime": 1.2041759999992792, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "children": [
+                "pchunk_0_1", 
+                "download_1"
+            ], 
+            "docUrl": "http://www.ikea.com/", 
+            "endColumn": 60, 
+            "endRow": 25, 
+            "endTag": "link", 
+            "endTime": 0.14064999999936845, 
+            "frame": 0, 
+            "id": "pchunk_0_0", 
+            "isFragment": false, 
+            "startColumn": 16, 
+            "startRow": 1, 
+            "startTag": "html", 
+            "startTime": 0.1383769999993092, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "comp_1_0", 
+                "pchunk_0_2"
+            ], 
+            "docUrl": "http://www.ikea.com/", 
+            "endColumn": 29, 
+            "endRow": 33, 
+            "endTag": "script", 
+            "endTime": 0.14148600000044098, 
+            "frame": 0, 
+            "id": "pchunk_0_1", 
+            "isFragment": false, 
+            "startColumn": 51, 
+            "startRow": 26, 
+            "startTag": "link", 
+            "startTime": 0.14129499999944528, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "comp_2", 
+                "pchunk_0_3"
+            ], 
+            "docUrl": "http://www.ikea.com/", 
+            "endColumn": 11, 
+            "endRow": 95, 
+            "endTag": "script", 
+            "endTime": 0.2127070000005915, 
+            "frame": 0, 
+            "id": "pchunk_0_2", 
+            "isFragment": false, 
+            "startColumn": 27, 
+            "startRow": 34, 
+            "startTag": "head", 
+            "startTime": 0.21256699999867124, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_4", 
+                "comp_3_0"
+            ], 
+            "docUrl": "http://www.ikea.com/", 
+            "endColumn": 281, 
+            "endRow": 97, 
+            "endTag": "script", 
+            "endTime": 0.21346499999708612, 
+            "frame": 0, 
+            "id": "pchunk_0_3", 
+            "isFragment": false, 
+            "startColumn": 33, 
+            "startRow": 97, 
+            "startTag": "script", 
+            "startTime": 0.21340699999927892, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_5", 
+                "download_3"
+            ], 
+            "docUrl": "http://www.ikea.com/", 
+            "endColumn": 68, 
+            "endRow": 114, 
+            "endTag": "img", 
+            "endTime": 0.21455199999945762, 
+            "frame": 0, 
+            "id": "pchunk_0_4", 
+            "isFragment": false, 
+            "startColumn": 11, 
+            "startRow": 99, 
+            "startTag": "section", 
+            "startTime": 0.2139999999999418, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_4", 
+                "pchunk_0_6"
+            ], 
+            "docUrl": "http://www.ikea.com/", 
+            "endColumn": 45, 
+            "endRow": 149, 
+            "endTag": "span", 
+            "endTime": 0.21557099999699858, 
+            "frame": 0, 
+            "id": "pchunk_0_5", 
+            "isFragment": false, 
+            "startColumn": 12, 
+            "startRow": 115, 
+            "startTag": "a", 
+            "startTime": 0.21469599999909406, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_7", 
+                "download_13"
+            ], 
+            "docUrl": "http://www.ikea.com/", 
+            "endColumn": 41, 
+            "endRow": 161, 
+            "endTag": "span", 
+            "endTime": 0.2162209999969491, 
+            "frame": 0, 
+            "id": "pchunk_0_6", 
+            "isFragment": false, 
+            "startColumn": 52, 
+            "startRow": 149, 
+            "startTag": "span", 
+            "startTime": 0.21579799999926763, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_14", 
+                "pchunk_0_8"
+            ], 
+            "docUrl": "http://www.ikea.com/", 
+            "endColumn": 45, 
+            "endRow": 169, 
+            "endTag": "span", 
+            "endTime": 0.21696499999961816, 
+            "frame": 0, 
+            "id": "pchunk_0_7", 
+            "isFragment": false, 
+            "startColumn": 48, 
+            "startRow": 161, 
+            "startTag": "span", 
+            "startTime": 0.21678499999870837, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_15", 
+                "pchunk_0_9"
+            ], 
+            "docUrl": "http://www.ikea.com/", 
+            "endColumn": 41, 
+            "endRow": 181, 
+            "endTag": "span", 
+            "endTime": 0.21740900000440888, 
+            "frame": 0, 
+            "id": "pchunk_0_8", 
+            "isFragment": false, 
+            "startColumn": 52, 
+            "startRow": 169, 
+            "startTag": "span", 
+            "startTime": 0.21701499999835505, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_16", 
+                "pchunk_0_10"
+            ], 
+            "docUrl": "http://www.ikea.com/", 
+            "endColumn": 45, 
+            "endRow": 189, 
+            "endTag": "span", 
+            "endTime": 0.2179679999990185, 
+            "frame": 0, 
+            "id": "pchunk_0_9", 
+            "isFragment": false, 
+            "startColumn": 48, 
+            "startRow": 181, 
+            "startTag": "span", 
+            "startTime": 0.2178169999988313, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_17", 
+                "pchunk_0_11"
+            ], 
+            "docUrl": "http://www.ikea.com/", 
+            "endColumn": 41, 
+            "endRow": 197, 
+            "endTag": "span", 
+            "endTime": 0.21816900000158057, 
+            "frame": 0, 
+            "id": "pchunk_0_10", 
+            "isFragment": false, 
+            "startColumn": 52, 
+            "startRow": 189, 
+            "startTag": "span", 
+            "startTime": 0.2180579999985639, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_12", 
+                "download_18"
+            ], 
+            "docUrl": "http://www.ikea.com/", 
+            "endColumn": 44, 
+            "endRow": 205, 
+            "endTag": "span", 
+            "endTime": 0.2184400000005553, 
+            "frame": 0, 
+            "id": "pchunk_0_11", 
+            "isFragment": false, 
+            "startColumn": 48, 
+            "startRow": 197, 
+            "startTag": "span", 
+            "startTime": 0.21820699999989301, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_13", 
+                "download_19"
+            ], 
+            "docUrl": "http://www.ikea.com/", 
+            "endColumn": 45, 
+            "endRow": 217, 
+            "endTag": "span", 
+            "endTime": 0.2188449999994191, 
+            "frame": 0, 
+            "id": "pchunk_0_12", 
+            "isFragment": false, 
+            "startColumn": 51, 
+            "startRow": 205, 
+            "startTag": "span", 
+            "startTime": 0.21851299999980256, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_14", 
+                "download_20"
+            ], 
+            "docUrl": "http://www.ikea.com/", 
+            "endColumn": 47, 
+            "endRow": 225, 
+            "endTag": "span", 
+            "endTime": 0.2193569999999454, 
+            "frame": 0, 
+            "id": "pchunk_0_13", 
+            "isFragment": false, 
+            "startColumn": 52, 
+            "startRow": 217, 
+            "startTag": "span", 
+            "startTime": 0.2192219999997178, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_15", 
+                "download_21"
+            ], 
+            "docUrl": "http://www.ikea.com/", 
+            "endColumn": 42, 
+            "endRow": 237, 
+            "endTag": "span", 
+            "endTime": 0.21968799999558541, 
+            "frame": 0, 
+            "id": "pchunk_0_14", 
+            "isFragment": false, 
+            "startColumn": 54, 
+            "startRow": 225, 
+            "startTag": "span", 
+            "startTime": 0.21939299999939976, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_22", 
+                "pchunk_0_16"
+            ], 
+            "docUrl": "http://www.ikea.com/", 
+            "endColumn": 44, 
+            "endRow": 245, 
+            "endTag": "span", 
+            "endTime": 0.22018900000148278, 
+            "frame": 0, 
+            "id": "pchunk_0_15", 
+            "isFragment": false, 
+            "startColumn": 49, 
+            "startRow": 237, 
+            "startTag": "span", 
+            "startTime": 0.22007200000007288, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_23", 
+                "pchunk_0_17"
+            ], 
+            "docUrl": "http://www.ikea.com/", 
+            "endColumn": 54, 
+            "endRow": 263, 
+            "endTag": "span", 
+            "endTime": 0.2207269999962591, 
+            "frame": 0, 
+            "id": "pchunk_0_16", 
+            "isFragment": false, 
+            "startColumn": 51, 
+            "startRow": 245, 
+            "startTag": "span", 
+            "startTime": 0.22024400000009337, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_18", 
+                "download_24"
+            ], 
+            "docUrl": "http://www.ikea.com/", 
+            "endColumn": 43, 
+            "endRow": 277, 
+            "endTag": "span", 
+            "endTime": 0.22145199999795295, 
+            "frame": 0, 
+            "id": "pchunk_0_17", 
+            "isFragment": false, 
+            "startColumn": 61, 
+            "startRow": 263, 
+            "startTag": "span", 
+            "startTime": 0.2211589999988064, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_19", 
+                "download_25"
+            ], 
+            "docUrl": "http://www.ikea.com/", 
+            "endColumn": 43, 
+            "endRow": 285, 
+            "endTag": "span", 
+            "endTime": 0.22167600000284438, 
+            "frame": 0, 
+            "id": "pchunk_0_18", 
+            "isFragment": false, 
+            "startColumn": 50, 
+            "startRow": 277, 
+            "startTag": "span", 
+            "startTime": 0.2215459999988525, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_26", 
+                "pchunk_0_20"
+            ], 
+            "docUrl": "http://www.ikea.com/", 
+            "endColumn": 44, 
+            "endRow": 297, 
+            "endTag": "span", 
+            "endTime": 0.22202300000571995, 
+            "frame": 0, 
+            "id": "pchunk_0_19", 
+            "isFragment": false, 
+            "startColumn": 50, 
+            "startRow": 285, 
+            "startTag": "span", 
+            "startTime": 0.22171699999853445, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_27", 
+                "pchunk_0_21"
+            ], 
+            "docUrl": "http://www.ikea.com/", 
+            "endColumn": 43, 
+            "endRow": 305, 
+            "endTag": "span", 
+            "endTime": 0.22259300000223448, 
+            "frame": 0, 
+            "id": "pchunk_0_20", 
+            "isFragment": false, 
+            "startColumn": 51, 
+            "startRow": 297, 
+            "startTag": "span", 
+            "startTime": 0.22247499999866704, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_22", 
+                "download_28"
+            ], 
+            "docUrl": "http://www.ikea.com/", 
+            "endColumn": 42, 
+            "endRow": 313, 
+            "endTag": "span", 
+            "endTime": 0.22272500000144646, 
+            "frame": 0, 
+            "id": "pchunk_0_21", 
+            "isFragment": false, 
+            "startColumn": 50, 
+            "startRow": 305, 
+            "startTag": "span", 
+            "startTime": 0.2226299999983894, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_23", 
+                "download_29"
+            ], 
+            "docUrl": "http://www.ikea.com/", 
+            "endColumn": 50, 
+            "endRow": 321, 
+            "endTag": "span", 
+            "endTime": 0.22288499999740452, 
+            "frame": 0, 
+            "id": "pchunk_0_22", 
+            "isFragment": false, 
+            "startColumn": 49, 
+            "startRow": 313, 
+            "startTag": "span", 
+            "startTime": 0.22276599999895552, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_24", 
+                "download_30"
+            ], 
+            "docUrl": "http://www.ikea.com/", 
+            "endColumn": 43, 
+            "endRow": 329, 
+            "endTag": "span", 
+            "endTime": 0.22305999999662163, 
+            "frame": 0, 
+            "id": "pchunk_0_23", 
+            "isFragment": false, 
+            "startColumn": 57, 
+            "startRow": 321, 
+            "startTag": "span", 
+            "startTime": 0.22292500000003201, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_31", 
+                "pchunk_0_25"
+            ], 
+            "docUrl": "http://www.ikea.com/", 
+            "endColumn": 43, 
+            "endRow": 337, 
+            "endTag": "span", 
+            "endTime": 0.2232060000005731, 
+            "frame": 0, 
+            "id": "pchunk_0_24", 
+            "isFragment": false, 
+            "startColumn": 50, 
+            "startRow": 329, 
+            "startTag": "span", 
+            "startTime": 0.22309899999891059, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_26", 
+                "download_32"
+            ], 
+            "docUrl": "http://www.ikea.com/", 
+            "endColumn": 42, 
+            "endRow": 345, 
+            "endTag": "span", 
+            "endTime": 0.22334399999817833, 
+            "frame": 0, 
+            "id": "pchunk_0_25", 
+            "isFragment": false, 
+            "startColumn": 50, 
+            "startRow": 337, 
+            "startTag": "span", 
+            "startTime": 0.22324200000002747, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_33", 
+                "pchunk_0_27"
+            ], 
+            "docUrl": "http://www.ikea.com/", 
+            "endColumn": 43, 
+            "endRow": 353, 
+            "endTag": "span", 
+            "endTime": 0.22350100000039674, 
+            "frame": 0, 
+            "id": "pchunk_0_26", 
+            "isFragment": false, 
+            "startColumn": 49, 
+            "startRow": 345, 
+            "startTag": "span", 
+            "startTime": 0.2233909999995376, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_28", 
+                "download_34"
+            ], 
+            "docUrl": "http://www.ikea.com/", 
+            "endColumn": 42, 
+            "endRow": 361, 
+            "endTag": "span", 
+            "endTime": 0.22366099999999278, 
+            "frame": 0, 
+            "id": "pchunk_0_27", 
+            "isFragment": false, 
+            "startColumn": 50, 
+            "startRow": 353, 
+            "startTag": "span", 
+            "startTime": 0.2235419999997248, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_35", 
+                "pchunk_0_29"
+            ], 
+            "docUrl": "http://www.ikea.com/", 
+            "endColumn": 43, 
+            "endRow": 369, 
+            "endTag": "span", 
+            "endTime": 0.22379299999920477, 
+            "frame": 0, 
+            "id": "pchunk_0_28", 
+            "isFragment": false, 
+            "startColumn": 49, 
+            "startRow": 361, 
+            "startTag": "span", 
+            "startTime": 0.22370299999965937, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_30", 
+                "download_36"
+            ], 
+            "docUrl": "http://www.ikea.com/", 
+            "endColumn": 43, 
+            "endRow": 377, 
+            "endTag": "span", 
+            "endTime": 0.2239689999987604, 
+            "frame": 0, 
+            "id": "pchunk_0_29", 
+            "isFragment": false, 
+            "startColumn": 50, 
+            "startRow": 369, 
+            "startTag": "span", 
+            "startTime": 0.22383300000001327, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_31", 
+                "download_37"
+            ], 
+            "docUrl": "http://www.ikea.com/", 
+            "endColumn": 43, 
+            "endRow": 385, 
+            "endTag": "span", 
+            "endTime": 0.2241329999960726, 
+            "frame": 0, 
+            "id": "pchunk_0_30", 
+            "isFragment": false, 
+            "startColumn": 50, 
+            "startRow": 377, 
+            "startTag": "span", 
+            "startTime": 0.22400999999990745, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_38", 
+                "pchunk_0_32"
+            ], 
+            "docUrl": "http://www.ikea.com/", 
+            "endColumn": 41, 
+            "endRow": 393, 
+            "endTag": "span", 
+            "endTime": 0.22426899999845773, 
+            "frame": 0, 
+            "id": "pchunk_0_31", 
+            "isFragment": false, 
+            "startColumn": 50, 
+            "startRow": 385, 
+            "startTag": "span", 
+            "startTime": 0.2241699999995035, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_39", 
+                "pchunk_0_33"
+            ], 
+            "docUrl": "http://www.ikea.com/", 
+            "endColumn": 45, 
+            "endRow": 401, 
+            "endTag": "span", 
+            "endTime": 0.2244559999980993, 
+            "frame": 0, 
+            "id": "pchunk_0_32", 
+            "isFragment": false, 
+            "startColumn": 48, 
+            "startRow": 393, 
+            "startTag": "span", 
+            "startTime": 0.22430399999939254, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_40", 
+                "pchunk_0_34"
+            ], 
+            "docUrl": "http://www.ikea.com/", 
+            "endColumn": 47, 
+            "endRow": 409, 
+            "endTag": "span", 
+            "endTime": 0.22463199999947392, 
+            "frame": 0, 
+            "id": "pchunk_0_33", 
+            "isFragment": false, 
+            "startColumn": 52, 
+            "startRow": 401, 
+            "startTag": "span", 
+            "startTime": 0.22450799999933224, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_41", 
+                "pchunk_0_35"
+            ], 
+            "docUrl": "http://www.ikea.com/", 
+            "endColumn": 42, 
+            "endRow": 417, 
+            "endTag": "span", 
+            "endTime": 0.22477099999923666, 
+            "frame": 0, 
+            "id": "pchunk_0_34", 
+            "isFragment": false, 
+            "startColumn": 54, 
+            "startRow": 409, 
+            "startTag": "span", 
+            "startTime": 0.22466799999892828, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_36", 
+                "download_42"
+            ], 
+            "docUrl": "http://www.ikea.com/", 
+            "endColumn": 42, 
+            "endRow": 425, 
+            "endTag": "span", 
+            "endTime": 0.2249679999986256, 
+            "frame": 0, 
+            "id": "pchunk_0_35", 
+            "isFragment": false, 
+            "startColumn": 49, 
+            "startRow": 417, 
+            "startTag": "span", 
+            "startTime": 0.22481199999856472, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_37", 
+                "download_43"
+            ], 
+            "docUrl": "http://www.ikea.com/", 
+            "endColumn": 44, 
+            "endRow": 433, 
+            "endTag": "span", 
+            "endTime": 0.22517900000093505, 
+            "frame": 0, 
+            "id": "pchunk_0_36", 
+            "isFragment": false, 
+            "startColumn": 49, 
+            "startRow": 425, 
+            "startTag": "span", 
+            "startTime": 0.22501499999998487, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_44", 
+                "pchunk_0_38"
+            ], 
+            "docUrl": "http://www.ikea.com/", 
+            "endColumn": 43, 
+            "endRow": 441, 
+            "endTag": "span", 
+            "endTime": 0.22537399999600893, 
+            "frame": 0, 
+            "id": "pchunk_0_37", 
+            "isFragment": false, 
+            "startColumn": 51, 
+            "startRow": 433, 
+            "startTag": "span", 
+            "startTime": 0.2252329999992071, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_45", 
+                "pchunk_0_39"
+            ], 
+            "docUrl": "http://www.ikea.com/", 
+            "endColumn": 42, 
+            "endRow": 449, 
+            "endTag": "span", 
+            "endTime": 0.22553399999924295, 
+            "frame": 0, 
+            "id": "pchunk_0_38", 
+            "isFragment": false, 
+            "startColumn": 50, 
+            "startRow": 441, 
+            "startTag": "span", 
+            "startTime": 0.22541699999965203, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_40", 
+                "download_46"
+            ], 
+            "docUrl": "http://www.ikea.com/", 
+            "endColumn": 42, 
+            "endRow": 457, 
+            "endTag": "span", 
+            "endTime": 0.22566900000128953, 
+            "frame": 0, 
+            "id": "pchunk_0_39", 
+            "isFragment": false, 
+            "startColumn": 49, 
+            "startRow": 449, 
+            "startTag": "span", 
+            "startTime": 0.22556899999835878, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_41", 
+                "download_47"
+            ], 
+            "docUrl": "http://www.ikea.com/", 
+            "endColumn": 44, 
+            "endRow": 465, 
+            "endTag": "span", 
+            "endTime": 0.22597200000382145, 
+            "frame": 0, 
+            "id": "pchunk_0_40", 
+            "isFragment": false, 
+            "startColumn": 49, 
+            "startRow": 457, 
+            "startTag": "span", 
+            "startTime": 0.22570899999846006, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_48", 
+                "pchunk_0_42"
+            ], 
+            "docUrl": "http://www.ikea.com/", 
+            "endColumn": 41, 
+            "endRow": 473, 
+            "endTag": "span", 
+            "endTime": 0.22620899999856192, 
+            "frame": 0, 
+            "id": "pchunk_0_41", 
+            "isFragment": false, 
+            "startColumn": 51, 
+            "startRow": 465, 
+            "startTag": "span", 
+            "startTime": 0.22601899999972375, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_49", 
+                "pchunk_0_43"
+            ], 
+            "docUrl": "http://www.ikea.com/", 
+            "endColumn": 51, 
+            "endRow": 487, 
+            "endTag": "span", 
+            "endTime": 0.2271459999938088, 
+            "frame": 0, 
+            "id": "pchunk_0_42", 
+            "isFragment": false, 
+            "startColumn": 48, 
+            "startRow": 473, 
+            "startTag": "span", 
+            "startTime": 0.22625199999856704, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_50", 
+                "pchunk_0_44"
+            ], 
+            "docUrl": "http://www.ikea.com/", 
+            "endColumn": 42, 
+            "endRow": 495, 
+            "endTag": "span", 
+            "endTime": 0.2280559999999241, 
+            "frame": 0, 
+            "id": "pchunk_0_43", 
+            "isFragment": false, 
+            "startColumn": 58, 
+            "startRow": 487, 
+            "startTag": "span", 
+            "startTime": 0.22789899999952468, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_51", 
+                "pchunk_0_45"
+            ], 
+            "docUrl": "http://www.ikea.com/", 
+            "endColumn": 47, 
+            "endRow": 503, 
+            "endTag": "span", 
+            "endTime": 0.22824999999829743, 
+            "frame": 0, 
+            "id": "pchunk_0_44", 
+            "isFragment": false, 
+            "startColumn": 49, 
+            "startRow": 495, 
+            "startTag": "span", 
+            "startTime": 0.22810199999912584, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_52", 
+                "pchunk_0_46"
+            ], 
+            "docUrl": "http://www.ikea.com/", 
+            "endColumn": 42, 
+            "endRow": 517, 
+            "endTag": "span", 
+            "endTime": 0.2293039999967732, 
+            "frame": 0, 
+            "id": "pchunk_0_45", 
+            "isFragment": false, 
+            "startColumn": 54, 
+            "startRow": 503, 
+            "startTag": "span", 
+            "startTime": 0.22829399999864108, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_53", 
+                "pchunk_0_47"
+            ], 
+            "docUrl": "http://www.ikea.com/", 
+            "endColumn": 50, 
+            "endRow": 529, 
+            "endTag": "span", 
+            "endTime": 0.23036100000535953, 
+            "frame": 0, 
+            "id": "pchunk_0_46", 
+            "isFragment": false, 
+            "startColumn": 49, 
+            "startRow": 517, 
+            "startTag": "span", 
+            "startTime": 0.2300279999999475, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_48", 
+                "download_54"
+            ], 
+            "docUrl": "http://www.ikea.com/", 
+            "endColumn": 41, 
+            "endRow": 543, 
+            "endTag": "span", 
+            "endTime": 0.23120099999869126, 
+            "frame": 0, 
+            "id": "pchunk_0_47", 
+            "isFragment": false, 
+            "startColumn": 57, 
+            "startRow": 529, 
+            "startTag": "span", 
+            "startTime": 0.2308469999989029, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_49", 
+                "download_55"
+            ], 
+            "docUrl": "http://www.ikea.com/", 
+            "endColumn": 42, 
+            "endRow": 551, 
+            "endTag": "span", 
+            "endTime": 0.23148699999910605, 
+            "frame": 0, 
+            "id": "pchunk_0_48", 
+            "isFragment": false, 
+            "startColumn": 48, 
+            "startRow": 543, 
+            "startTag": "span", 
+            "startTime": 0.23130099999980303, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_56", 
+                "pchunk_0_50"
+            ], 
+            "docUrl": "http://www.ikea.com/", 
+            "endColumn": 42, 
+            "endRow": 563, 
+            "endTag": "span", 
+            "endTime": 0.23187499999403371, 
+            "frame": 0, 
+            "id": "pchunk_0_49", 
+            "isFragment": false, 
+            "startColumn": 49, 
+            "startRow": 551, 
+            "startTag": "span", 
+            "startTime": 0.23153699999966193, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_51", 
+                "download_57"
+            ], 
+            "docUrl": "http://www.ikea.com/", 
+            "endColumn": 42, 
+            "endRow": 575, 
+            "endTag": "span", 
+            "endTime": 0.23274499999752152, 
+            "frame": 0, 
+            "id": "pchunk_0_50", 
+            "isFragment": false, 
+            "startColumn": 49, 
+            "startRow": 563, 
+            "startTag": "span", 
+            "startTime": 0.23232499999903666, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_58", 
+                "pchunk_0_52"
+            ], 
+            "docUrl": "http://www.ikea.com/", 
+            "endColumn": 43, 
+            "endRow": 587, 
+            "endTag": "span", 
+            "endTime": 0.23361400000794674, 
+            "frame": 0, 
+            "id": "pchunk_0_51", 
+            "isFragment": false, 
+            "startColumn": 49, 
+            "startRow": 575, 
+            "startTag": "span", 
+            "startTime": 0.23319999999876018, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_59", 
+                "pchunk_0_53"
+            ], 
+            "docUrl": "http://www.ikea.com/", 
+            "endColumn": 41, 
+            "endRow": 599, 
+            "endTag": "span", 
+            "endTime": 0.2344100000045728, 
+            "frame": 0, 
+            "id": "pchunk_0_52", 
+            "isFragment": false, 
+            "startColumn": 50, 
+            "startRow": 587, 
+            "startTag": "span", 
+            "startTime": 0.23408999999992375, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_54", 
+                "download_60"
+            ], 
+            "docUrl": "http://www.ikea.com/", 
+            "endColumn": 48, 
+            "endRow": 611, 
+            "endTag": "span", 
+            "endTime": 0.23512399999708578, 
+            "frame": 0, 
+            "id": "pchunk_0_53", 
+            "isFragment": false, 
+            "startColumn": 48, 
+            "startRow": 599, 
+            "startTag": "span", 
+            "startTime": 0.2348099999999249, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_55", 
+                "download_61"
+            ], 
+            "docUrl": "http://www.ikea.com/", 
+            "endColumn": 56, 
+            "endRow": 623, 
+            "endTag": "span", 
+            "endTime": 0.23629299999629438, 
+            "frame": 0, 
+            "id": "pchunk_0_54", 
+            "isFragment": false, 
+            "startColumn": 55, 
+            "startRow": 611, 
+            "startTag": "span", 
+            "startTime": 0.23601199999939126, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_62", 
+                "pchunk_0_56"
+            ], 
+            "docUrl": "http://www.ikea.com/", 
+            "endColumn": 42, 
+            "endRow": 641, 
+            "endTag": "span", 
+            "endTime": 0.23713799999859475, 
+            "frame": 0, 
+            "id": "pchunk_0_55", 
+            "isFragment": false, 
+            "startColumn": 63, 
+            "startRow": 623, 
+            "startTag": "span", 
+            "startTime": 0.23672099999930651, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_63", 
+                "pchunk_0_57"
+            ], 
+            "docUrl": "http://www.ikea.com/", 
+            "endColumn": 49, 
+            "endRow": 653, 
+            "endTag": "span", 
+            "endTime": 0.2380059999995865, 
+            "frame": 0, 
+            "id": "pchunk_0_56", 
+            "isFragment": false, 
+            "startColumn": 49, 
+            "startRow": 641, 
+            "startTag": "span", 
+            "startTime": 0.23756399999911082, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_58", 
+                "download_64"
+            ], 
+            "docUrl": "http://www.ikea.com/", 
+            "endColumn": 62, 
+            "endRow": 703, 
+            "endTag": "img", 
+            "endTime": 0.2400820000038948, 
+            "frame": 0, 
+            "id": "pchunk_0_57", 
+            "isFragment": false, 
+            "startColumn": 56, 
+            "startRow": 653, 
+            "startTag": "span", 
+            "startTime": 0.2385340000000724, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "comp_4", 
+                "pchunk_0_59"
+            ], 
+            "docUrl": "http://www.ikea.com/", 
+            "endColumn": 11, 
+            "endRow": 720, 
+            "endTag": "script", 
+            "endTime": 0.24070899999969697, 
+            "frame": 0, 
+            "id": "pchunk_0_58", 
+            "isFragment": false, 
+            "startColumn": 11, 
+            "startRow": 704, 
+            "startTag": "small", 
+            "startTime": 0.2404979999992065, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_60", 
+                "download_2"
+            ], 
+            "docUrl": "http://www.ikea.com/", 
+            "endColumn": 52, 
+            "endRow": 722, 
+            "endTag": "script", 
+            "endTime": 0.24568399999952817, 
+            "frame": 0, 
+            "id": "pchunk_0_59", 
+            "isFragment": false, 
+            "startColumn": 43, 
+            "startRow": 722, 
+            "startTag": "script", 
+            "startTime": 0.2456399999991845, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "comp_6_0"
+            ], 
+            "docUrl": "http://www.ikea.com/", 
+            "endColumn": 7, 
+            "endRow": 724, 
+            "endTag": "html", 
+            "endTime": 0.6129929999988235, 
+            "frame": 0, 
+            "id": "pchunk_0_60", 
+            "isFragment": false, 
+            "startColumn": 7, 
+            "startRow": 723, 
+            "startTag": "body", 
+            "startTime": 0.6129860000000917, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_1", 
+                "pchunk_0_0"
+            ], 
+            "id": "dchunk_0_0", 
+            "offset": 32, 
+            "resource": "download_0", 
+            "size": 1583, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_2", 
+                "pchunk_0_1"
+            ], 
+            "id": "dchunk_0_1", 
+            "offset": 1615, 
+            "resource": "download_0", 
+            "size": 1051, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_3", 
+                "pchunk_0_2"
+            ], 
+            "id": "dchunk_0_2", 
+            "offset": 2666, 
+            "resource": "download_0", 
+            "size": 2012, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_4", 
+                "pchunk_0_3"
+            ], 
+            "id": "dchunk_0_3", 
+            "offset": 4678, 
+            "resource": "download_0", 
+            "size": 248, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_4", 
+                "dchunk_0_5"
+            ], 
+            "id": "dchunk_0_4", 
+            "offset": 4926, 
+            "resource": "download_0", 
+            "size": 859, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_5", 
+                "dchunk_0_6"
+            ], 
+            "id": "dchunk_0_5", 
+            "offset": 5785, 
+            "resource": "download_0", 
+            "size": 1063, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_6", 
+                "dchunk_0_7"
+            ], 
+            "id": "dchunk_0_6", 
+            "offset": 6848, 
+            "resource": "download_0", 
+            "size": 826, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_8", 
+                "pchunk_0_7"
+            ], 
+            "id": "dchunk_0_7", 
+            "offset": 7674, 
+            "resource": "download_0", 
+            "size": 298, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_9", 
+                "pchunk_0_8"
+            ], 
+            "id": "dchunk_0_8", 
+            "offset": 7972, 
+            "resource": "download_0", 
+            "size": 788, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_9", 
+                "dchunk_0_10"
+            ], 
+            "id": "dchunk_0_9", 
+            "offset": 8760, 
+            "resource": "download_0", 
+            "size": 334, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_10", 
+                "dchunk_0_11"
+            ], 
+            "id": "dchunk_0_10", 
+            "offset": 9094, 
+            "resource": "download_0", 
+            "size": 270, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_11", 
+                "dchunk_0_12"
+            ], 
+            "id": "dchunk_0_11", 
+            "offset": 9364, 
+            "resource": "download_0", 
+            "size": 307, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_12", 
+                "dchunk_0_13"
+            ], 
+            "id": "dchunk_0_12", 
+            "offset": 9671, 
+            "resource": "download_0", 
+            "size": 752, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_14", 
+                "pchunk_0_13"
+            ], 
+            "id": "dchunk_0_13", 
+            "offset": 10423, 
+            "resource": "download_0", 
+            "size": 261, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_15", 
+                "pchunk_0_14"
+            ], 
+            "id": "dchunk_0_14", 
+            "offset": 10684, 
+            "resource": "download_0", 
+            "size": 775, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_16", 
+                "pchunk_0_15"
+            ], 
+            "id": "dchunk_0_15", 
+            "offset": 11459, 
+            "resource": "download_0", 
+            "size": 299, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_17", 
+                "pchunk_0_16"
+            ], 
+            "id": "dchunk_0_16", 
+            "offset": 11758, 
+            "resource": "download_0", 
+            "size": 929, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_18", 
+                "pchunk_0_17"
+            ], 
+            "id": "dchunk_0_17", 
+            "offset": 12687, 
+            "resource": "download_0", 
+            "size": 485, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_18", 
+                "dchunk_0_19"
+            ], 
+            "id": "dchunk_0_18", 
+            "offset": 13172, 
+            "resource": "download_0", 
+            "size": 257, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_19", 
+                "dchunk_0_20"
+            ], 
+            "id": "dchunk_0_19", 
+            "offset": 13429, 
+            "resource": "download_0", 
+            "size": 680, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_21", 
+                "pchunk_0_20"
+            ], 
+            "id": "dchunk_0_20", 
+            "offset": 14109, 
+            "resource": "download_0", 
+            "size": 283, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_22", 
+                "pchunk_0_21"
+            ], 
+            "id": "dchunk_0_21", 
+            "offset": 14392, 
+            "resource": "download_0", 
+            "size": 277, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_23", 
+                "pchunk_0_22"
+            ], 
+            "id": "dchunk_0_22", 
+            "offset": 14669, 
+            "resource": "download_0", 
+            "size": 285, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_24", 
+                "pchunk_0_23"
+            ], 
+            "id": "dchunk_0_23", 
+            "offset": 14954, 
+            "resource": "download_0", 
+            "size": 295, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_24", 
+                "dchunk_0_25"
+            ], 
+            "id": "dchunk_0_24", 
+            "offset": 15249, 
+            "resource": "download_0", 
+            "size": 280, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_25", 
+                "dchunk_0_26"
+            ], 
+            "id": "dchunk_0_25", 
+            "offset": 15529, 
+            "resource": "download_0", 
+            "size": 277, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_26", 
+                "dchunk_0_27"
+            ], 
+            "id": "dchunk_0_26", 
+            "offset": 15806, 
+            "resource": "download_0", 
+            "size": 269, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_28", 
+                "pchunk_0_27"
+            ], 
+            "id": "dchunk_0_27", 
+            "offset": 16075, 
+            "resource": "download_0", 
+            "size": 287, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_29", 
+                "pchunk_0_28"
+            ], 
+            "id": "dchunk_0_28", 
+            "offset": 16362, 
+            "resource": "download_0", 
+            "size": 278, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_30", 
+                "pchunk_0_29"
+            ], 
+            "id": "dchunk_0_29", 
+            "offset": 16640, 
+            "resource": "download_0", 
+            "size": 278, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_31", 
+                "pchunk_0_30"
+            ], 
+            "id": "dchunk_0_30", 
+            "offset": 16918, 
+            "resource": "download_0", 
+            "size": 323, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_32", 
+                "pchunk_0_31"
+            ], 
+            "id": "dchunk_0_31", 
+            "offset": 17241, 
+            "resource": "download_0", 
+            "size": 275, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_33", 
+                "pchunk_0_32"
+            ], 
+            "id": "dchunk_0_32", 
+            "offset": 17516, 
+            "resource": "download_0", 
+            "size": 299, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_33", 
+                "dchunk_0_34"
+            ], 
+            "id": "dchunk_0_33", 
+            "offset": 17815, 
+            "resource": "download_0", 
+            "size": 286, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_34", 
+                "dchunk_0_35"
+            ], 
+            "id": "dchunk_0_34", 
+            "offset": 18101, 
+            "resource": "download_0", 
+            "size": 285, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_35", 
+                "dchunk_0_36"
+            ], 
+            "id": "dchunk_0_35", 
+            "offset": 18386, 
+            "resource": "download_0", 
+            "size": 276, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_36", 
+                "dchunk_0_37"
+            ], 
+            "id": "dchunk_0_36", 
+            "offset": 18662, 
+            "resource": "download_0", 
+            "size": 279, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_37", 
+                "dchunk_0_38"
+            ], 
+            "id": "dchunk_0_37", 
+            "offset": 18941, 
+            "resource": "download_0", 
+            "size": 282, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_39", 
+                "pchunk_0_38"
+            ], 
+            "id": "dchunk_0_38", 
+            "offset": 19223, 
+            "resource": "download_0", 
+            "size": 279, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_40", 
+                "pchunk_0_39"
+            ], 
+            "id": "dchunk_0_39", 
+            "offset": 19502, 
+            "resource": "download_0", 
+            "size": 270, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_40", 
+                "dchunk_0_41"
+            ], 
+            "id": "dchunk_0_40", 
+            "offset": 19772, 
+            "resource": "download_0", 
+            "size": 279, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_41", 
+                "dchunk_0_42"
+            ], 
+            "id": "dchunk_0_41", 
+            "offset": 20051, 
+            "resource": "download_0", 
+            "size": 255, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_42", 
+                "dchunk_0_43"
+            ], 
+            "id": "dchunk_0_42", 
+            "offset": 20306, 
+            "resource": "download_0", 
+            "size": 808, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_43", 
+                "dchunk_0_44"
+            ], 
+            "id": "dchunk_0_43", 
+            "offset": 21114, 
+            "resource": "download_0", 
+            "size": 292, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_45", 
+                "pchunk_0_44"
+            ], 
+            "id": "dchunk_0_44", 
+            "offset": 21406, 
+            "resource": "download_0", 
+            "size": 257, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_46", 
+                "pchunk_0_45"
+            ], 
+            "id": "dchunk_0_45", 
+            "offset": 21663, 
+            "resource": "download_0", 
+            "size": 813, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_47", 
+                "pchunk_0_46"
+            ], 
+            "id": "dchunk_0_46", 
+            "offset": 22476, 
+            "resource": "download_0", 
+            "size": 755, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_47", 
+                "dchunk_0_48"
+            ], 
+            "id": "dchunk_0_47", 
+            "offset": 23231, 
+            "resource": "download_0", 
+            "size": 435, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_48", 
+                "dchunk_0_49"
+            ], 
+            "id": "dchunk_0_48", 
+            "offset": 23666, 
+            "resource": "download_0", 
+            "size": 285, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_50", 
+                "pchunk_0_49"
+            ], 
+            "id": "dchunk_0_49", 
+            "offset": 23951, 
+            "resource": "download_0", 
+            "size": 723, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_51", 
+                "pchunk_0_50"
+            ], 
+            "id": "dchunk_0_50", 
+            "offset": 24674, 
+            "resource": "download_0", 
+            "size": 765, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_52", 
+                "pchunk_0_51"
+            ], 
+            "id": "dchunk_0_51", 
+            "offset": 25439, 
+            "resource": "download_0", 
+            "size": 777, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_53", 
+                "pchunk_0_52"
+            ], 
+            "id": "dchunk_0_52", 
+            "offset": 26216, 
+            "resource": "download_0", 
+            "size": 728, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_54", 
+                "pchunk_0_53"
+            ], 
+            "id": "dchunk_0_53", 
+            "offset": 26944, 
+            "resource": "download_0", 
+            "size": 758, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_54", 
+                "dchunk_0_55"
+            ], 
+            "id": "dchunk_0_54", 
+            "offset": 27702, 
+            "resource": "download_0", 
+            "size": 790, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_55", 
+                "dchunk_0_56"
+            ], 
+            "id": "dchunk_0_55", 
+            "offset": 28492, 
+            "resource": "download_0", 
+            "size": 925, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_56", 
+                "dchunk_0_57"
+            ], 
+            "id": "dchunk_0_56", 
+            "offset": 29417, 
+            "resource": "download_0", 
+            "size": 779, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_58", 
+                "pchunk_0_57"
+            ], 
+            "id": "dchunk_0_57", 
+            "offset": 30196, 
+            "resource": "download_0", 
+            "size": 1485, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_59", 
+                "pchunk_0_58"
+            ], 
+            "id": "dchunk_0_58", 
+            "offset": 31681, 
+            "resource": "download_0", 
+            "size": 19742, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_60", 
+                "pchunk_0_59"
+            ], 
+            "id": "dchunk_0_59", 
+            "offset": 51423, 
+            "resource": "download_0", 
+            "size": 9, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_60"
+            ], 
+            "id": "dchunk_0_60", 
+            "offset": 51432, 
+            "resource": "download_0", 
+            "size": 8, 
+            "type": "download_chunk"
+        }
+    ], 
+    "frames": [
+        {
+            "id": 0, 
+            "subframes": [], 
+            "url": "http://www.ikea.com/"
+        }
+    ], 
+    "loadEvent": "comp_12", 
+    "name": "http://www.ikea.com/", 
+    "root_activity": "download_0"
+}

@@ -1,0 +1,841 @@
+{
+    "DOMContentLoadedEvent": "comp_11", 
+    "activities": [
+        {
+            "cached": false, 
+            "children": [
+                "comp_5_0", 
+                "comp_10"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_4", 
+            "mimeType": "text/javascript", 
+            "priority": 13, 
+            "receiveTime": 0.5653589999965334, 
+            "sentTime": 0.47656500000084634, 
+            "size": 27809, 
+            "type": "resource", 
+            "url": "http://www.google-analytics.com/analytics.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_10"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_13", 
+            "mimeType": "application/font-woff", 
+            "priority": 8, 
+            "receiveTime": 5.260603999999148, 
+            "sentTime": 0.7426649999979418, 
+            "size": 25532, 
+            "type": "resource", 
+            "url": "http://static.mailchimp.com/web/assets/fonts/open-sans/opensans-bold-webfont.woff"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_10"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_16", 
+            "mimeType": "image/png", 
+            "priority": 4, 
+            "receiveTime": 5.417606999999407, 
+            "sentTime": 0.5010000000002037, 
+            "size": 168577, 
+            "type": "resource", 
+            "url": "http://static.mailchimp.com/web/home/desktop.png"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_10"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_15", 
+            "mimeType": "application/font-woff", 
+            "priority": 5, 
+            "receiveTime": 5.264994000001025, 
+            "sentTime": 0.7430769999991753, 
+            "size": 26924, 
+            "type": "resource", 
+            "url": "http://static.mailchimp.com/web/assets/fonts/open-sans/opensans-bolditalic-webfont.woff"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_10", 
+                "comp_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_1", 
+            "mimeType": "text/css", 
+            "priority": 2, 
+            "receiveTime": 0.45412800000121933, 
+            "sentTime": 0.22932800000126008, 
+            "size": 148812, 
+            "type": "resource", 
+            "url": "http://mailchimp.com/assets/css/site-114cc8df.css"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_10"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_9", 
+            "mimeType": "application/font-woff", 
+            "priority": 14, 
+            "receiveTime": 0.8059109999994689, 
+            "sentTime": 0.7427989999996498, 
+            "size": 16820, 
+            "type": "resource", 
+            "url": "http://mailchimp.com/assets/fonts/freddicons-6f458194.woff"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "dchunk_0_0", 
+                "comp_10", 
+                "comp_8"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_10", 
+            "mimeType": "text/html", 
+            "priority": 15, 
+            "receiveTime": 0.8370350000004692, 
+            "sentTime": 0.8064439999980095, 
+            "size": 194, 
+            "type": "resource", 
+            "url": "http://5597601.fls.doubleclick.net/activityi;src=5597601;type=homep0;cat=asfho0;ord=5350950897927;~oref=http%3A%2F%2Fmailchimp.com%2F?"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_10"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_12", 
+            "mimeType": "application/font-woff", 
+            "priority": 7, 
+            "receiveTime": 5.261145000000397, 
+            "sentTime": 0.7425849999999627, 
+            "size": 24728, 
+            "type": "resource", 
+            "url": "http://static.mailchimp.com/web/assets/fonts/open-sans/opensans-regular-webfont.woff"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_10", 
+                "comp_9"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_11", 
+            "mimeType": "image/gif", 
+            "priority": 16, 
+            "receiveTime": 0.8029139999998733, 
+            "sentTime": 0.8841539999993984, 
+            "size": 42, 
+            "type": "resource", 
+            "url": "https://www.google.co.uk/ads/ga-audiences?v=1&aip=1&t=sr&_r=4&tid=UA-329148-81&cid=1165329724.1474425295&jid=1584041060&_v=j46&z=326470900&ipr=y"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_10", 
+                "comp_2"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_3", 
+            "mimeType": "application/javascript", 
+            "priority": 3, 
+            "receiveTime": 0.6872780000012426, 
+            "sentTime": 0.47734099999797763, 
+            "size": 21881, 
+            "type": "resource", 
+            "url": "http://mailchimp.com/assets/scripts/init-e2856732.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_10"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_14", 
+            "mimeType": "application/font-woff", 
+            "priority": 6, 
+            "receiveTime": 5.264667999999801, 
+            "sentTime": 0.7429720000000088, 
+            "size": 27212, 
+            "type": "resource", 
+            "url": "http://static.mailchimp.com/web/assets/fonts/open-sans/opensans-italic-webfont.woff"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_10", 
+                "comp_8"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_6", 
+            "mimeType": "text/html", 
+            "priority": 17, 
+            "receiveTime": 0.7931580000004033, 
+            "sentTime": 0.7938979999998992, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "about:blank"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_4", 
+                "comp_10"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_2", 
+            "mimeType": "application/javascript", 
+            "priority": 9, 
+            "receiveTime": 0.7650319999993371, 
+            "sentTime": 0.49656400000094436, 
+            "size": 131333, 
+            "type": "resource", 
+            "url": "http://mailchimp.com/assets/scripts/site-e4fd2681.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_10", 
+                "comp_6_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_5", 
+            "mimeType": "application/javascript", 
+            "priority": 10, 
+            "receiveTime": 0.7423459999990882, 
+            "sentTime": 0.49906800000098883, 
+            "size": 40614, 
+            "type": "resource", 
+            "url": "http://www.googletagmanager.com/gtm.js?id=GTM-MCZTKL"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_10"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_8", 
+            "mimeType": "image/svg+xml", 
+            "priority": 11, 
+            "receiveTime": 0.8032769999990705, 
+            "sentTime": 0.5034630000009201, 
+            "size": 7923, 
+            "type": "resource", 
+            "url": "http://mailchimp.com/assets/images/logo-dark-6af72327.svg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_10"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_7", 
+            "mimeType": "image/svg+xml", 
+            "priority": 12, 
+            "receiveTime": 0.7984010000000126, 
+            "sentTime": 0.4995710000002873, 
+            "size": 11660, 
+            "type": "resource", 
+            "url": "http://mailchimp.com/assets/images/freddie-719ecb5b.svg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "dchunk_1_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_0", 
+            "mimeType": "text/html", 
+            "priority": 1, 
+            "receiveTime": 0.44439799999963725, 
+            "sentTime": 0.0, 
+            "size": 13585, 
+            "type": "resource", 
+            "url": "http://mailchimp.com/"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "comp_1_0", 
+                "download_15", 
+                "download_14", 
+                "download_13", 
+                "download_12", 
+                "download_9"
+            ], 
+            "docUrl": "http://mailchimp.com/", 
+            "enclosing": "None", 
+            "endTime": 0.4752149999985704, 
+            "evalType": "recalcStyle", 
+            "frame": 1, 
+            "id": "comp_0", 
+            "startTime": 0.4554089999983262, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "http://mailchimp.com/assets/css/site-114cc8df.css"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_4", 
+                "comp_1_1"
+            ], 
+            "docUrl": "http://mailchimp.com/", 
+            "enclosing": "comp_1", 
+            "endTime": 0.4757309999986319, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_1_0", 
+            "startTime": 0.47521899999992456, 
+            "subtree": "subtree_comp_1", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_1_2"
+            ], 
+            "docUrl": "http://mailchimp.com/", 
+            "enclosing": "comp_1", 
+            "endTime": 0.4772750000011001, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_1_1", 
+            "startTime": 0.4757309999986319, 
+            "subtree": "subtree_comp_1", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_1_3"
+            ], 
+            "docUrl": "http://mailchimp.com/", 
+            "enclosing": "None", 
+            "endTime": 0.49649700000009034, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_2", 
+            "startTime": 0.47735000000102445, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "http://mailchimp.com/assets/scripts/init-e2856732.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_5", 
+                "comp_3_1"
+            ], 
+            "docUrl": "http://mailchimp.com/", 
+            "enclosing": "comp_3", 
+            "endTime": 0.4990010000001348, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_3_0", 
+            "startTime": 0.4988069999999425, 
+            "subtree": "subtree_comp_3", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_1_5"
+            ], 
+            "docUrl": "http://mailchimp.com/", 
+            "enclosing": "comp_3", 
+            "endTime": 0.4991679999984626, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_3_1", 
+            "startTime": 0.4990010000001348, 
+            "subtree": "subtree_comp_3", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 3, 
+            "children": [], 
+            "docUrl": "http://mailchimp.com/", 
+            "enclosing": "None", 
+            "endTime": 0.5652479999989737, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_4", 
+            "startTime": 0.504335000001447, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "http://mailchimp.com/assets/scripts/site-e4fd2681.js"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "comp_5_1", 
+                "download_11"
+            ], 
+            "docUrl": "http://mailchimp.com/", 
+            "enclosing": "comp_5", 
+            "endTime": 0.7698349999991478, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_5_0", 
+            "startTime": 0.7431589999978314, 
+            "subtree": "subtree_comp_5", 
+            "type": "eval", 
+            "url": "http://www.google-analytics.com/analytics.js"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [], 
+            "docUrl": "http://mailchimp.com/", 
+            "enclosing": "comp_5", 
+            "endTime": 0.7715140000000247, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_5_1", 
+            "startTime": 0.7698349999991478, 
+            "subtree": "subtree_comp_5", 
+            "type": "eval", 
+            "url": "http://www.google-analytics.com/analytics.js"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "comp_6_1", 
+                "download_10"
+            ], 
+            "docUrl": "http://mailchimp.com/", 
+            "enclosing": "comp_6", 
+            "endTime": 0.7931580000004033, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_6_0", 
+            "startTime": 0.7719800000013493, 
+            "subtree": "subtree_comp_6", 
+            "type": "eval", 
+            "url": "http://www.googletagmanager.com/gtm.js?id=GTM-MCZTKL"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_6", 
+                "comp_6_2"
+            ], 
+            "docUrl": "http://mailchimp.com/", 
+            "enclosing": "comp_6", 
+            "endTime": 0.7931580000004033, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_6_1", 
+            "startTime": 0.7931580000004033, 
+            "subtree": "subtree_comp_6", 
+            "type": "eval", 
+            "url": "http://www.googletagmanager.com/gtm.js?id=GTM-MCZTKL"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [], 
+            "docUrl": "http://mailchimp.com/", 
+            "enclosing": "comp_6", 
+            "endTime": 0.7949269999990065, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_6_2", 
+            "startTime": 0.7931580000004033, 
+            "subtree": "subtree_comp_6", 
+            "type": "eval", 
+            "url": "http://www.googletagmanager.com/gtm.js?id=GTM-MCZTKL"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://mailchimp.com/", 
+            "enclosing": "None", 
+            "endTime": 0.8522789999988163, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_8", 
+            "name": "load", 
+            "startTime": 0.8518650000005437, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://mailchimp.com/", 
+            "enclosing": "None", 
+            "endTime": 0.9177559999989171, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_9", 
+            "name": "load", 
+            "startTime": 0.9174280000006547, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_10"
+            ], 
+            "docUrl": "http://mailchimp.com/", 
+            "enclosing": "None", 
+            "endTime": 5.361695999999938, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_11", 
+            "name": "DOMContentLoaded", 
+            "startTime": 5.361695999999938, 
+            "subtree": "None", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://mailchimp.com/", 
+            "enclosing": "None", 
+            "endTime": 5.3801019999991695, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_10", 
+            "name": "load", 
+            "startTime": 5.362125999999989, 
+            "subtree": "None", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "children": [
+                "pchunk_1_1", 
+                "download_1"
+            ], 
+            "docUrl": "http://mailchimp.com/", 
+            "endColumn": 1176, 
+            "endRow": 24, 
+            "endTag": "link", 
+            "endTime": 0.22898799999893527, 
+            "frame": 1, 
+            "id": "pchunk_1_0", 
+            "isFragment": false, 
+            "startColumn": 81, 
+            "startRow": 0, 
+            "startTag": "html", 
+            "startTime": 0.22798400000101537, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "comp_1_0", 
+                "pchunk_1_2"
+            ], 
+            "docUrl": "http://mailchimp.com/", 
+            "endColumn": 522, 
+            "endRow": 32, 
+            "endTag": "script", 
+            "endTime": 0.22983100000055856, 
+            "frame": 1, 
+            "id": "pchunk_1_1", 
+            "isFragment": false, 
+            "startColumn": 1199, 
+            "startRow": 24, 
+            "startTag": "style", 
+            "startTime": 0.2294369999981427, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_3", 
+                "pchunk_1_3"
+            ], 
+            "docUrl": "http://mailchimp.com/", 
+            "endColumn": 601, 
+            "endRow": 32, 
+            "endTag": "script", 
+            "endTime": 0.4773160000004282, 
+            "frame": 1, 
+            "id": "pchunk_1_2", 
+            "isFragment": false, 
+            "startColumn": 592, 
+            "startRow": 32, 
+            "startTag": "script", 
+            "startTime": 0.47728099999949336, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_4", 
+                "download_2"
+            ], 
+            "docUrl": "http://mailchimp.com/", 
+            "endColumn": 693, 
+            "endRow": 32, 
+            "endTag": "script", 
+            "endTime": 0.49653399999806425, 
+            "frame": 1, 
+            "id": "pchunk_1_3", 
+            "isFragment": false, 
+            "startColumn": 684, 
+            "startRow": 32, 
+            "startTag": "script", 
+            "startTime": 0.49650000000110595, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_5", 
+                "comp_3_0"
+            ], 
+            "docUrl": "http://mailchimp.com/", 
+            "endColumn": 63, 
+            "endRow": 39, 
+            "endTag": "script", 
+            "endTime": 0.49666299999444163, 
+            "frame": 1, 
+            "id": "pchunk_1_4", 
+            "isFragment": false, 
+            "startColumn": 700, 
+            "startRow": 32, 
+            "startTag": "head", 
+            "startTime": 0.4965699999993376, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_7", 
+                "pchunk_1_6"
+            ], 
+            "docUrl": "http://mailchimp.com/", 
+            "endColumn": 127, 
+            "endRow": 41, 
+            "endTag": "a", 
+            "endTime": 0.49983699999938835, 
+            "frame": 1, 
+            "id": "pchunk_1_5", 
+            "isFragment": false, 
+            "startColumn": 49, 
+            "startRow": 41, 
+            "startTag": "header", 
+            "startTime": 0.4991889999982959, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_16", 
+                "pchunk_1_7"
+            ], 
+            "docUrl": "http://mailchimp.com/", 
+            "endColumn": 1339, 
+            "endRow": 41, 
+            "endTag": "img", 
+            "endTime": 0.5009309999950347, 
+            "frame": 1, 
+            "id": "pchunk_1_6", 
+            "isFragment": false, 
+            "startColumn": 131, 
+            "startRow": 41, 
+            "startTag": "h1", 
+            "startTime": 0.49984300000141957, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_8", 
+                "download_8"
+            ], 
+            "docUrl": "http://mailchimp.com/", 
+            "endColumn": 3393, 
+            "endRow": 45, 
+            "endTag": "a", 
+            "endTime": 0.5030389999847102, 
+            "frame": 1, 
+            "id": "pchunk_1_7", 
+            "isFragment": false, 
+            "startColumn": 1345, 
+            "startRow": 41, 
+            "startTag": "div", 
+            "startTime": 0.5010269999984303, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "comp_11"
+            ], 
+            "docUrl": "http://mailchimp.com/", 
+            "endColumn": 17, 
+            "endRow": 53, 
+            "endTag": "html", 
+            "endTime": 0.5039830000023358, 
+            "frame": 1, 
+            "id": "pchunk_1_8", 
+            "isFragment": false, 
+            "startColumn": 3397, 
+            "startRow": 45, 
+            "startTag": "a", 
+            "startTime": 0.5034919999998237, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_1_1", 
+                "pchunk_1_0"
+            ], 
+            "id": "dchunk_1_0", 
+            "offset": 81, 
+            "resource": "download_0", 
+            "size": 2705, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_1_2", 
+                "pchunk_1_1"
+            ], 
+            "id": "dchunk_1_1", 
+            "offset": 2786, 
+            "resource": "download_0", 
+            "size": 2527, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_1_3", 
+                "pchunk_1_2"
+            ], 
+            "id": "dchunk_1_2", 
+            "offset": 5313, 
+            "resource": "download_0", 
+            "size": 9, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_1_4", 
+                "pchunk_1_3"
+            ], 
+            "id": "dchunk_1_3", 
+            "offset": 5322, 
+            "resource": "download_0", 
+            "size": 9, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_4", 
+                "dchunk_1_5"
+            ], 
+            "id": "dchunk_1_4", 
+            "offset": 5331, 
+            "resource": "download_0", 
+            "size": 539, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_5", 
+                "dchunk_1_6"
+            ], 
+            "id": "dchunk_1_5", 
+            "offset": 5870, 
+            "resource": "download_0", 
+            "size": 78, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_6", 
+                "dchunk_1_7"
+            ], 
+            "id": "dchunk_1_6", 
+            "offset": 5948, 
+            "resource": "download_0", 
+            "size": 1208, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_1_8", 
+                "pchunk_1_7"
+            ], 
+            "id": "dchunk_1_7", 
+            "offset": 7156, 
+            "resource": "download_0", 
+            "size": 4940, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_8"
+            ], 
+            "id": "dchunk_1_8", 
+            "offset": 12096, 
+            "resource": "download_0", 
+            "size": 1196, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "comp_8"
+            ], 
+            "docUrl": "http://5597601.fls.doubleclick.net/activityi;src=5597601;type=homep0;cat=asfho0;ord=5350950897927;~oref=http%3A%2F%2Fmailchimp.com%2F?", 
+            "endColumn": 194, 
+            "endRow": 0, 
+            "endTag": "html", 
+            "endTime": 0.8510329999990063, 
+            "frame": 0, 
+            "id": "pchunk_0_0", 
+            "isFragment": false, 
+            "startColumn": 108, 
+            "startRow": 0, 
+            "startTag": "html", 
+            "startTime": 0.850773999998637, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_0"
+            ], 
+            "id": "dchunk_0_0", 
+            "offset": 109, 
+            "resource": "download_10", 
+            "size": 86, 
+            "type": "download_chunk"
+        }
+    ], 
+    "frames": [
+        {
+            "id": 1, 
+            "subframes": [
+                0
+            ], 
+            "url": "http://mailchimp.com/"
+        }, 
+        {
+            "id": 0, 
+            "parent": 1, 
+            "subframes": [], 
+            "url": "http://5597601.fls.doubleclick.net/activityi;src=5597601;type=homep0;cat=asfho0;ord=5350950897927;~oref=http%3A%2F%2Fmailchimp.com%2F?"
+        }
+    ], 
+    "loadEvent": "comp_10", 
+    "name": "http://mailchimp.com/", 
+    "root_activity": "download_0"
+}

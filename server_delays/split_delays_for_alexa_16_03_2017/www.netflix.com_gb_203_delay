@@ -20,7 +20,7 @@ GET www.netflix.com www.netflix.com/ichnaea/cl2/freeform/homepagePing?interval=1
 GET www.netflix.com www.netflix.com/ichnaea/cl2/freeform/homepagePing?interval=1000&count=10 1744 0.084788 text/plain other 1 0 0
 GET www.netflix.com www.netflix.com/ichnaea/log 1792 0.102722 text/plain other 1 0 0
 GET www.netflix.com www.netflix.com/ichnaea/cl2/freeform/homepagePing?interval=1000&count=12 1760 0.076975 text/plain other 1 0 0
-GET x.bidswitch.net x.bidswitch.net/check_uuid/https%3A%2F%2Fdockhand.netflix.com%2Fusr%3Feuid%3D%24%7BBSW_UUID%7D%3Bpid%3D3?dsp_id=161 0 0.037204 text/plain other 0 0 1
+GET x.bidswitch.net x.bidswitch.net/check_uuid/https%3A%2F%2Fdockhand.netflix.com%2Fusr%3Feuid%3D%24%7BBSW_UUID%7D%3Bpid%3D3?dsp_id=161 0 0.010000 text/plain other 0 0 1
 GET s.btstatic.com s.btstatic.com/tag.js 12752 0.011526 application/javascript javascript 1 0 0
 GET www.netflix.com www.netflix.com/ichnaea/cl2/freeform/WebsiteDetect?source=wwwhead&fetchType=css 1216 0.292489 text/plain other 1 0 0
 GET www.netflix.com www.netflix.com/ichnaea/cl2/freeform/homepagePing?interval=1000&count=15 1792 0.073348 text/plain other 1 0 0

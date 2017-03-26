@@ -1,0 +1,745 @@
+{
+    "DOMContentLoadedEvent": "comp_9", 
+    "activities": [
+        {
+            "cached": false, 
+            "children": [
+                "comp_2", 
+                "comp_12"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_2", 
+            "mimeType": "text/css", 
+            "priority": {
+                "cp": 2, 
+                "cp-plus": 2, 
+                "depth": 3, 
+                "mime-type": 3
+            }, 
+            "receiveTime": 1.0000419999996666, 
+            "sentTime": 0.6802530000004481, 
+            "size": 30970, 
+            "type": "resource", 
+            "url": "http://www.craigslist.org/styles/jquery-ui-clcustom.css?v=31607a98a2cb3fba2c70e3e66ecb4440"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_12", 
+                "comp_1"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_1", 
+            "mimeType": "text/css", 
+            "priority": {
+                "cp": 3, 
+                "cp-plus": 3, 
+                "depth": 2, 
+                "mime-type": 2
+            }, 
+            "receiveTime": 0.9959400000007008, 
+            "sentTime": 0.6798500000004424, 
+            "size": 42757, 
+            "type": "resource", 
+            "url": "http://www.craigslist.org/styles/cl.css?v=fb99c0f0ee3768b8cac83d05d0f44ed7"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_6", 
+                "comp_12"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_4", 
+            "mimeType": "application/x-javascript", 
+            "priority": {
+                "cp": 5, 
+                "cp-plus": 5, 
+                "depth": 5, 
+                "mime-type": 5
+            }, 
+            "receiveTime": 1.6556899999995949, 
+            "sentTime": 1.0807370000002265, 
+            "size": 379772, 
+            "type": "resource", 
+            "url": "http://www.craigslist.org/js/general-concat.min.js?v=74400654469610d45c36475adebdea95"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "dchunk_0_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_0", 
+            "mimeType": "text/html", 
+            "priority": {
+                "cp": 1, 
+                "cp-plus": 1, 
+                "depth": 1, 
+                "mime-type": 1
+            }, 
+            "receiveTime": 0.7674110000007204, 
+            "sentTime": 0.0, 
+            "size": 52810, 
+            "type": "resource", 
+            "url": "http://london.craigslist.co.uk/"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "dchunk_1_0", 
+                "comp_12"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_6", 
+            "mimeType": "text/html", 
+            "priority": {
+                "cp": 6, 
+                "cp-plus": 7, 
+                "depth": 7, 
+                "mime-type": 7
+            }, 
+            "receiveTime": 2.2056959999990795, 
+            "sentTime": 1.4185940000006667, 
+            "size": 1346, 
+            "type": "resource", 
+            "url": "http://www.craigslist.co.uk/static/localstorage.html?v=51a29e41f8e978141e4085ed4a77d170"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_12", 
+                "comp_8"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_5", 
+            "mimeType": "application/x-javascript", 
+            "priority": {
+                "cp": 7, 
+                "cp-plus": 6, 
+                "depth": 6, 
+                "mime-type": 6
+            }, 
+            "receiveTime": 1.6214770000005956, 
+            "sentTime": 1.4187650000003487, 
+            "size": 2350, 
+            "type": "resource", 
+            "url": "http://www.craigslist.org/js/homepage-concat.min.js?v=69372a831a7625a2650cba9920b95969"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_12", 
+                "comp_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_3", 
+            "mimeType": "text/css", 
+            "priority": {
+                "cp": 4, 
+                "cp-plus": 4, 
+                "depth": 4, 
+                "mime-type": 4
+            }, 
+            "receiveTime": 0.9092510000009497, 
+            "sentTime": 0.6800739999998768, 
+            "size": 15536, 
+            "type": "resource", 
+            "url": "http://www.craigslist.org/styles/homepage.css?v=d22da4afa947ab9a6ddea033cd4fe1ed"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "comp_3"
+            ], 
+            "docUrl": "http://london.craigslist.co.uk/", 
+            "enclosing": "None", 
+            "endTime": 0.9106019999999262, 
+            "evalType": "recalcStyle", 
+            "frame": 0, 
+            "id": "comp_0", 
+            "mode": "dom", 
+            "startTime": 0.9093800000009651, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "http://www.craigslist.org/styles/homepage.css?v=d22da4afa947ab9a6ddea033cd4fe1ed"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "comp_3"
+            ], 
+            "docUrl": "http://london.craigslist.co.uk/", 
+            "enclosing": "None", 
+            "endTime": 0.9998410000007425, 
+            "evalType": "recalcStyle", 
+            "frame": 0, 
+            "id": "comp_1", 
+            "mode": "dom", 
+            "startTime": 0.9961610000009387, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "http://www.craigslist.org/styles/cl.css?v=fb99c0f0ee3768b8cac83d05d0f44ed7"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "comp_3"
+            ], 
+            "docUrl": "http://london.craigslist.co.uk/", 
+            "enclosing": "None", 
+            "endTime": 1.0043120000009367, 
+            "evalType": "recalcStyle", 
+            "frame": 0, 
+            "id": "comp_2", 
+            "mode": "dom", 
+            "startTime": 1.0001900000006572, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "http://www.craigslist.org/styles/jquery-ui-clcustom.css?v=31607a98a2cb3fba2c70e3e66ecb4440"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_4"
+            ], 
+            "docUrl": "http://london.craigslist.co.uk/", 
+            "enclosing": "None", 
+            "endTime": 1.0075639999995474, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_3", 
+            "mode": "dom", 
+            "startTime": 1.0043150000001333, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_5"
+            ], 
+            "docUrl": "http://london.craigslist.co.uk/", 
+            "enclosing": "None", 
+            "endTime": 1.0805340000006254, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_4", 
+            "mode": "dom", 
+            "startTime": 1.080363999999463, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_6"
+            ], 
+            "docUrl": "http://london.craigslist.co.uk/", 
+            "enclosing": "None", 
+            "endTime": 1.0806720000000496, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_5", 
+            "mode": "dom", 
+            "startTime": 1.0805970000001253, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_7"
+            ], 
+            "docUrl": "http://london.craigslist.co.uk/", 
+            "enclosing": "None", 
+            "endTime": 1.417816999999559, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_6", 
+            "mode": "dom", 
+            "startTime": 1.3422090000003664, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "http://www.craigslist.org/js/general-concat.min.js?v=74400654469610d45c36475adebdea95"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_6", 
+                "comp_7_1"
+            ], 
+            "docUrl": "http://london.craigslist.co.uk/", 
+            "enclosing": "comp_7", 
+            "endTime": 1.4179579999999987, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_7_0", 
+            "mode": "dom", 
+            "startTime": 1.417887999999948, 
+            "subtree": "subtree_comp_7", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_8"
+            ], 
+            "docUrl": "http://london.craigslist.co.uk/", 
+            "enclosing": "comp_7", 
+            "endTime": 1.4187039999997069, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_7_1", 
+            "mode": "dom", 
+            "startTime": 1.4179579999999987, 
+            "subtree": "subtree_comp_7", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_9"
+            ], 
+            "docUrl": "http://london.craigslist.co.uk/", 
+            "enclosing": "None", 
+            "endTime": 1.4339730000010604, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_8", 
+            "mode": "dom", 
+            "startTime": 1.4187700000002224, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "http://www.craigslist.org/js/homepage-concat.min.js?v=69372a831a7625a2650cba9920b95969"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_12"
+            ], 
+            "docUrl": "http://london.craigslist.co.uk/", 
+            "enclosing": "None", 
+            "endTime": 1.4485970000005182, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_9", 
+            "mode": "dom", 
+            "name": "DOMContentLoaded", 
+            "startTime": 1.4340229999997973, 
+            "subtree": "None", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_1_1"
+            ], 
+            "docUrl": "http://www.craigslist.co.uk/static/localstorage.html?v=51a29e41f8e978141e4085ed4a77d170", 
+            "enclosing": "None", 
+            "endTime": 2.2164539999994304, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_10", 
+            "mode": "load", 
+            "startTime": 2.2074190000003, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://london.craigslist.co.uk/", 
+            "enclosing": "None", 
+            "endTime": 2.2168860000001587, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_12", 
+            "mode": "load", 
+            "name": "load", 
+            "startTime": 2.2168860000001587, 
+            "subtree": "None", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "children": [
+                "pchunk_0_1", 
+                "download_1"
+            ], 
+            "docUrl": "http://london.craigslist.co.uk/", 
+            "endColumn": 128, 
+            "endRow": 10, 
+            "endTag": "link", 
+            "endTime": 0.6798390000039944, 
+            "frame": 0, 
+            "id": "pchunk_0_0", 
+            "isFragment": false, 
+            "startColumn": 20, 
+            "startRow": 1, 
+            "startTag": "html", 
+            "startTime": 0.6791640000010375, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_3", 
+                "pchunk_0_2"
+            ], 
+            "docUrl": "http://london.craigslist.co.uk/", 
+            "endColumn": 134, 
+            "endRow": 11, 
+            "endTag": "link", 
+            "endTime": 0.6801530000011553, 
+            "frame": 0, 
+            "id": "pchunk_0_1", 
+            "isFragment": false, 
+            "startColumn": 134, 
+            "startRow": 11, 
+            "startTag": "link", 
+            "startTime": 0.679971999999907, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_2", 
+                "pchunk_0_3"
+            ], 
+            "docUrl": "http://london.craigslist.co.uk/", 
+            "endColumn": 144, 
+            "endRow": 12, 
+            "endTag": "link", 
+            "endTime": 0.680315999999948, 
+            "frame": 0, 
+            "id": "pchunk_0_2", 
+            "isFragment": false, 
+            "startColumn": 144, 
+            "startRow": 12, 
+            "startTag": "link", 
+            "startTime": 0.6801620000005641, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_4", 
+                "comp_3"
+            ], 
+            "docUrl": "http://london.craigslist.co.uk/", 
+            "endColumn": 12, 
+            "endRow": 58, 
+            "endTag": "script", 
+            "endTime": 0.6804520000023331, 
+            "frame": 0, 
+            "id": "pchunk_0_3", 
+            "isFragment": false, 
+            "startColumn": 108, 
+            "startRow": 13, 
+            "startTag": "link", 
+            "startTime": 0.6803220000001602, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_5", 
+                "comp_4"
+            ], 
+            "docUrl": "http://london.craigslist.co.uk/", 
+            "endColumn": 9, 
+            "endRow": 757, 
+            "endTag": "script", 
+            "endTime": 1.0442990000628924, 
+            "frame": 0, 
+            "id": "pchunk_0_4", 
+            "isFragment": false, 
+            "startColumn": 21, 
+            "startRow": 61, 
+            "startTag": "div", 
+            "startTime": 1.0075849999993807, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_6", 
+                "comp_5"
+            ], 
+            "docUrl": "http://london.craigslist.co.uk/", 
+            "endColumn": 12, 
+            "endRow": 766, 
+            "endTag": "script", 
+            "endTime": 1.0805830000008427, 
+            "frame": 0, 
+            "id": "pchunk_0_5", 
+            "isFragment": false, 
+            "startColumn": 39, 
+            "startRow": 761, 
+            "startTag": "script", 
+            "startTime": 1.080551999999443, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_7", 
+                "download_4"
+            ], 
+            "docUrl": "http://london.craigslist.co.uk/", 
+            "endColumn": 128, 
+            "endRow": 768, 
+            "endTag": "script", 
+            "endTime": 1.0806990000000951, 
+            "frame": 0, 
+            "id": "pchunk_0_6", 
+            "isFragment": false, 
+            "startColumn": 119, 
+            "startRow": 768, 
+            "startTag": "script", 
+            "startTime": 1.080680000000939, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_8", 
+                "comp_7_0"
+            ], 
+            "docUrl": "http://london.craigslist.co.uk/", 
+            "endColumn": 16, 
+            "endRow": 775, 
+            "endTag": "script", 
+            "endTime": 1.4178670000001148, 
+            "frame": 0, 
+            "id": "pchunk_0_7", 
+            "isFragment": false, 
+            "startColumn": 31, 
+            "startRow": 770, 
+            "startTag": "script", 
+            "startTime": 1.417833999999857, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_5", 
+                "pchunk_0_9"
+            ], 
+            "docUrl": "http://london.craigslist.co.uk/", 
+            "endColumn": 129, 
+            "endRow": 776, 
+            "endTag": "script", 
+            "endTime": 1.4187440000005154, 
+            "frame": 0, 
+            "id": "pchunk_0_8", 
+            "isFragment": false, 
+            "startColumn": 120, 
+            "startRow": 776, 
+            "startTag": "script", 
+            "startTime": 1.4187180000008084, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "comp_9"
+            ], 
+            "docUrl": "http://london.craigslist.co.uk/", 
+            "endColumn": 7, 
+            "endRow": 779, 
+            "endTag": "html", 
+            "endTime": 1.4339990000007674, 
+            "frame": 0, 
+            "id": "pchunk_0_9", 
+            "isFragment": false, 
+            "startColumn": 7, 
+            "startRow": 778, 
+            "startTag": "body", 
+            "startTime": 1.4339909999998781, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_1", 
+                "pchunk_0_0"
+            ], 
+            "id": "dchunk_0_0", 
+            "offset": 36, 
+            "resource": "download_0", 
+            "size": 704, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_2", 
+                "pchunk_0_1"
+            ], 
+            "id": "dchunk_0_1", 
+            "offset": 740, 
+            "resource": "download_0", 
+            "size": 0, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_3", 
+                "pchunk_0_2"
+            ], 
+            "id": "dchunk_0_2", 
+            "offset": 740, 
+            "resource": "download_0", 
+            "size": 0, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_4", 
+                "pchunk_0_3"
+            ], 
+            "id": "dchunk_0_3", 
+            "offset": 740, 
+            "resource": "download_0", 
+            "size": 1862, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_4", 
+                "dchunk_0_5"
+            ], 
+            "id": "dchunk_0_4", 
+            "offset": 2602, 
+            "resource": "download_0", 
+            "size": 48843, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_5", 
+                "dchunk_0_6"
+            ], 
+            "id": "dchunk_0_5", 
+            "offset": 51445, 
+            "resource": "download_0", 
+            "size": 246, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_6", 
+                "dchunk_0_7"
+            ], 
+            "id": "dchunk_0_6", 
+            "offset": 51691, 
+            "resource": "download_0", 
+            "size": 9, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_8", 
+                "pchunk_0_7"
+            ], 
+            "id": "dchunk_0_7", 
+            "offset": 51700, 
+            "resource": "download_0", 
+            "size": 281, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_9", 
+                "pchunk_0_8"
+            ], 
+            "id": "dchunk_0_8", 
+            "offset": 51981, 
+            "resource": "download_0", 
+            "size": 9, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_9"
+            ], 
+            "id": "dchunk_0_9", 
+            "offset": 51990, 
+            "resource": "download_0", 
+            "size": 8, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "comp_10", 
+                "pchunk_1_1"
+            ], 
+            "docUrl": "http://www.craigslist.co.uk/static/localstorage.html?v=51a29e41f8e978141e4085ed4a77d170", 
+            "endColumn": 17, 
+            "endRow": 41, 
+            "endTag": "script", 
+            "endTime": 2.2073700000000827, 
+            "frame": 1, 
+            "id": "pchunk_1_0", 
+            "isFragment": false, 
+            "startColumn": 6, 
+            "startRow": 1, 
+            "startTag": "html", 
+            "startTime": 2.207034000000931, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [], 
+            "docUrl": "http://www.craigslist.co.uk/static/localstorage.html?v=51a29e41f8e978141e4085ed4a77d170", 
+            "endColumn": 7, 
+            "endRow": 44, 
+            "endTag": "html", 
+            "endTime": 2.216576000000714, 
+            "frame": 1, 
+            "id": "pchunk_1_1", 
+            "isFragment": false, 
+            "startColumn": 11, 
+            "startRow": 42, 
+            "startTag": "head", 
+            "startTime": 2.2164690000008704, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_1_1", 
+                "pchunk_1_0"
+            ], 
+            "id": "dchunk_1_0", 
+            "offset": 22, 
+            "resource": "download_6", 
+            "size": 1285, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_1"
+            ], 
+            "id": "dchunk_1_1", 
+            "offset": 1307, 
+            "resource": "download_6", 
+            "size": 26, 
+            "type": "download_chunk"
+        }
+    ], 
+    "frames": [
+        {
+            "id": 0, 
+            "subframes": [
+                1
+            ], 
+            "url": "http://london.craigslist.co.uk/"
+        }, 
+        {
+            "id": 1, 
+            "parent": 0, 
+            "subframes": [], 
+            "url": "http://www.craigslist.co.uk/static/localstorage.html?v=51a29e41f8e978141e4085ed4a77d170"
+        }
+    ], 
+    "loadEvent": "comp_12", 
+    "name": "http://london.craigslist.co.uk/", 
+    "root_activity": "download_0"
+}

@@ -1,0 +1,5632 @@
+{
+    "DOMContentLoadedEvent": "comp_28_0", 
+    "activities": [
+        {
+            "cached": false, 
+            "children": [
+                "comp_131", 
+                "comp_38"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_26", 
+            "mimeType": "application/javascript", 
+            "priority": {
+                "cp": 20, 
+                "cp-plus": 21, 
+                "depth": 14, 
+                "mime-type": 13
+            }, 
+            "receiveTime": 3.119559000002482, 
+            "sentTime": 2.089427999999316, 
+            "size": 125361, 
+            "type": "resource", 
+            "url": "https://s3.nikecdn.com/unite/app/193/scripts/app.min.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_131"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_22", 
+            "mimeType": "image/png", 
+            "priority": {
+                "cp": 18, 
+                "cp-plus": 19, 
+                "depth": 29, 
+                "mime-type": 41
+            }, 
+            "receiveTime": 3.7282390000000305, 
+            "sentTime": 2.120416000001569, 
+            "size": 707, 
+            "type": "resource", 
+            "url": "http://www.nike.com/nikestore/html/img/nikeid.png"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_131", 
+                "comp_21_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_2", 
+            "mimeType": "application/x-javascript", 
+            "priority": {
+                "cp": 11, 
+                "cp-plus": 11, 
+                "depth": 11, 
+                "mime-type": 11
+            }, 
+            "receiveTime": 2.0736780000006547, 
+            "sentTime": 2.030681000000186, 
+            "size": 39573, 
+            "type": "resource", 
+            "url": "http://secure-store.nike.com/utag/nike/main/prod/utag.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_15", 
+                "comp_131"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_15", 
+            "mimeType": "text/css", 
+            "priority": {
+                "cp": 5, 
+                "cp-plus": 5, 
+                "depth": 5, 
+                "mime-type": 5
+            }, 
+            "receiveTime": 1.7432460000018182, 
+            "sentTime": 1.4434839999994438, 
+            "size": 11184, 
+            "type": "resource", 
+            "url": "http://content.nike.com/etc/designs/nike/vendor/tesla/nike.tesla.shared.min.css?buildRev=9027faa533d558364357a47c4827942c799cdc9f"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_131", 
+                "comp_11"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_7", 
+            "mimeType": "text/css", 
+            "priority": {
+                "cp": 9, 
+                "cp-plus": 9, 
+                "depth": 6, 
+                "mime-type": 6
+            }, 
+            "receiveTime": 1.4747459999998682, 
+            "sentTime": 1.442404000001261, 
+            "size": 178124, 
+            "type": "resource", 
+            "url": "http://store.nike.com/gb/en_gb/style.css?assets=nike,jQuery,nike.nsgInit,polyfills,nike.ScriptLoader,nike.EventBus,nike.page.OneNikeShell,nike.page.OneNikePageLayout,nike.fonts.glyphPolyfill,nike.exp.global.Ad,nike.exp.util.shared.desktop.CookieSettings,nike.style.exp.exp-desktop,nike.exp.util.shared.base.TextReplacement,nike.Chat,nike.exp.global.CookieSettingsCheck,nike.exp.global.CookieSettingsHandler&assetType=STYLE&buildRev=9027faa533d558364357a47c4827942c799cdc9f"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_131", 
+                "comp_13"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_11", 
+            "mimeType": "text/css", 
+            "priority": {
+                "cp": 7, 
+                "cp-plus": 7, 
+                "depth": 8, 
+                "mime-type": 8
+            }, 
+            "receiveTime": 1.609082999999373, 
+            "sentTime": 1.4431430000004184, 
+            "size": 28405, 
+            "type": "resource", 
+            "url": "http://content.nike.com/etc/designs/nike/vendor/tesla/footer/nike.tesla.footer.min.css?buildRev=9027faa533d558364357a47c4827942c799cdc9f"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "dchunk_3_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_0", 
+            "mimeType": "text/html", 
+            "priority": {
+                "cp": 1, 
+                "cp-plus": 1, 
+                "depth": 1, 
+                "mime-type": 1
+            }, 
+            "receiveTime": 0.9327369999991788, 
+            "sentTime": 0.0, 
+            "size": 63636, 
+            "type": "resource", 
+            "url": "http://www.nike.com/"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_131", 
+                "comp_5"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_4", 
+            "mimeType": "application/javascript", 
+            "priority": {
+                "cp": 4, 
+                "cp-plus": 4, 
+                "depth": 4, 
+                "mime-type": 4
+            }, 
+            "receiveTime": 1.299118000002636, 
+            "sentTime": 1.0321440000006987, 
+            "size": 918544, 
+            "type": "resource", 
+            "url": "http://store.nike.com/NikeScriptManager.js?assets=nike,nike.Countries_Locales_Cookies,nike.page.html.BaseScripts,nike.gadget.Event,nike.geo.Util,nike.geo.Locate,nike.analytics.Tracking,nike.analytics.TrackingUtil,nike.gadget.desktop.LanguageTunnel&assetType=SCRIPT&buildRev=9027faa533d558364357a47c4827942c799cdc9f"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_256"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_59", 
+            "mimeType": "text/plain", 
+            "priority": {
+                "cp": 61, 
+                "cp-plus": 61, 
+                "depth": 64, 
+                "mime-type": 64
+            }, 
+            "receiveTime": 5.066882999999507, 
+            "sentTime": 5.066882999999507, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "https://unite.nike.com/deauth?appVersion=193&experienceVersion=163&uxid=com.nike.commerce.nikedotcom.web&locale=en_GB&backendEnvironment=default&browser=Google%20Inc.&os=undefined&mobile=false&native=false&clientId=HlHa2Cje3ctlaOqnxvgZXNaAs7T9nAuH"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_131"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_6", 
+            "mimeType": "text/html", 
+            "priority": {
+                "cp": 50, 
+                "cp-plus": 50, 
+                "depth": 51, 
+                "mime-type": 39
+            }, 
+            "receiveTime": 1.449759000002814, 
+            "sentTime": 1.374242999998387, 
+            "size": 286590, 
+            "type": "resource", 
+            "url": "http://www.nike.com/gb/en_gb/"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_131", 
+                "comp_96", 
+                "comp_97"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_48", 
+            "mimeType": "text/javascript", 
+            "priority": {
+                "cp": 51, 
+                "cp-plus": 51, 
+                "depth": 37, 
+                "mime-type": 30
+            }, 
+            "receiveTime": 3.7592960000001767, 
+            "sentTime": 3.706621000001178, 
+            "size": 858, 
+            "type": "resource", 
+            "url": "https://web.nike.com/neo/unite-web/neo.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_131", 
+                "comp_93"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_47", 
+            "mimeType": "text/css", 
+            "priority": {
+                "cp": 52, 
+                "cp-plus": 52, 
+                "depth": 36, 
+                "mime-type": 16
+            }, 
+            "receiveTime": 3.7338719999970635, 
+            "sentTime": 3.7073290000007546, 
+            "size": 32000, 
+            "type": "resource", 
+            "url": "https://s3.nikecdn.com/unite/app/193/styles/unite/import.css"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_131"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_24", 
+            "mimeType": "image/jpeg", 
+            "priority": {
+                "cp": 16, 
+                "cp-plus": 17, 
+                "depth": 31, 
+                "mime-type": 43
+            }, 
+            "receiveTime": 3.793997999997373, 
+            "sentTime": 2.124761999999464, 
+            "size": 63832, 
+            "type": "resource", 
+            "url": "https://content.nike.com/content/dam/one-nike/en_lu/FA16/Sportswear/autumn_essentials_bg_DT.jpg.transform/full-screen/autumn_essentials_bg_DT.jpg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_20", 
+                "comp_131"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_9", 
+            "mimeType": "application/javascript", 
+            "priority": {
+                "cp": 10, 
+                "cp-plus": 10, 
+                "depth": 10, 
+                "mime-type": 10
+            }, 
+            "receiveTime": 1.9819449999995413, 
+            "sentTime": 1.7599000000009255, 
+            "size": 1958620, 
+            "type": "resource", 
+            "url": "http://store.nike.com/gb/en_gb/NikeScriptManager.js?assets=nike,jQuery,nike.nsgInit,polyfills,nike.ScriptLoader,nike.EventBus,nike.page.OneNikeShell,nike.page.OneNikePageLayout,nike.fonts.glyphPolyfill,nike.exp.global.Ad,nike.exp.util.shared.desktop.CookieSettings,nike.style.exp.exp-desktop,nike.exp.util.shared.base.TextReplacement,nike.Chat,nike.exp.global.CookieSettingsCheck,nike.exp.global.CookieSettingsHandler&assetType=SCRIPT&buildRev=9027faa533d558364357a47c4827942c799cdc9f"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_130", 
+                "comp_131"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_50", 
+            "mimeType": "text/javascript", 
+            "priority": {
+                "cp": 41, 
+                "cp-plus": 41, 
+                "depth": 39, 
+                "mime-type": 31
+            }, 
+            "receiveTime": 3.9247119999999995, 
+            "sentTime": 3.6686249999984284, 
+            "size": 304, 
+            "type": "resource", 
+            "url": "http://expert.nike.com/pageload?v=0FF52B&cid=N190d14744258155415107060011117b96b3d77b96b3d77b96b3d7000000000000000007b96b3d700000000000000&cids=1&ts=1474479739098&pcount=4&pdata=title%3DNike%2520Official%2520Site.%2520Nike.com%2520(UK)%26url%3Dhttp%253A%252F%252Fwww.nike.com%252Fgb%252Fen_gb%252F%26wn%3D739098%26ls%3D1"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_131", 
+                "comp_25"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_10", 
+            "mimeType": "application/javascript", 
+            "priority": {
+                "cp": 24, 
+                "cp-plus": 13, 
+                "depth": 13, 
+                "mime-type": 18
+            }, 
+            "receiveTime": 2.2927899999995134, 
+            "sentTime": 2.1422219999985828, 
+            "size": 322742, 
+            "type": "resource", 
+            "url": "http://store.nike.com/gb/en_gb/script.js?assets=nike.exp.pdp.desktop.MiniPdpShell,nike.exp.launch.CqNotify&loaded=nike,jQuery,nike.nsgInit,polyfills,nike.ScriptLoader,nike.EventBus,nike.page.OneNikeShell,nike.page.OneNikePageLayout,nike.fonts.glyphPolyfill,nike.exp.global.Ad,nike.exp.util.shared.desktop.CookieSettings,nike.style.exp.exp-desktop,nike.exp.util.shared.base.TextReplacement,nike.Chat,nike.exp.global.CookieSettingsCheck,nike.exp.global.CookieSettingsHandler&assetType=SCRIPT&buildRev=9027faa533d558364357a47c4827942c799cdc9f"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_131"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_36", 
+            "mimeType": "image/png", 
+            "priority": {
+                "cp": 32, 
+                "cp-plus": 32, 
+                "depth": 49, 
+                "mime-type": 54
+            }, 
+            "receiveTime": 3.2147579999982554, 
+            "sentTime": 2.6437589999986812, 
+            "size": 295, 
+            "type": "resource", 
+            "url": "http://content.nike.com/etc/designs/nike/pages/one-nike/images/btn-overlay-close.png"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_131", 
+                "comp_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_3", 
+            "mimeType": "text/css", 
+            "priority": {
+                "cp": 2, 
+                "cp-plus": 2, 
+                "depth": 2, 
+                "mime-type": 2
+            }, 
+            "receiveTime": 1.022744000001694, 
+            "sentTime": 0.9312140000001818, 
+            "size": 9924, 
+            "type": "resource", 
+            "url": "http://store.nike.com/style.css?assets=nike,nike.Countries_Locales_Cookies,nike.page.html.BaseScripts,nike.gadget.Event,nike.geo.Util,nike.geo.Locate,nike.analytics.Tracking,nike.analytics.TrackingUtil,nike.gadget.desktop.LanguageTunnel&assetType=STYLE&buildRev=9027faa533d558364357a47c4827942c799cdc9f"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_23_0", 
+                "comp_131"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_18", 
+            "mimeType": "application/javascript", 
+            "priority": {
+                "cp": 12, 
+                "cp-plus": 12, 
+                "depth": 12, 
+                "mime-type": 12
+            }, 
+            "receiveTime": 2.6906509999971604, 
+            "sentTime": 2.0480459999998857, 
+            "size": 1895, 
+            "type": "resource", 
+            "url": "https://s3.nikecdn.com/unite/scripts/unite.min.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_51", 
+                "comp_131"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_19", 
+            "mimeType": "text/html", 
+            "priority": {
+                "cp": 54, 
+                "cp-plus": 54, 
+                "depth": 26, 
+                "mime-type": 35
+            }, 
+            "receiveTime": 2.7004769999985, 
+            "sentTime": 2.701175999998668, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "about:blank"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_131", 
+                "comp_46"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_20", 
+            "mimeType": "text/html", 
+            "priority": {
+                "cp": 55, 
+                "cp-plus": 55, 
+                "depth": 27, 
+                "mime-type": 36
+            }, 
+            "receiveTime": 2.7038339999999152, 
+            "sentTime": 2.704321000001073, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "about:blank"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_131"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_25", 
+            "mimeType": "image/jpeg", 
+            "priority": {
+                "cp": 13, 
+                "cp-plus": 14, 
+                "depth": 32, 
+                "mime-type": 44
+            }, 
+            "receiveTime": 3.7988489999988815, 
+            "sentTime": 2.1270069999991392, 
+            "size": 106403, 
+            "type": "resource", 
+            "url": "https://content.nike.com/content/dam/one-nike/en_lu/FA16/Home/0901-HP-Creative/Desktop/9.1_a_p2_desktop.jpg.transform/full-screen/9.1_a_p2_desktop.jpg"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_131", 
+                "comp_35"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_79", 
+            "mimeType": "image/jpeg", 
+            "originalResource": "download_25", 
+            "priority": {
+                "cp": 53, 
+                "cp-plus": 53, 
+                "depth": 54, 
+                "mime-type": 56
+            }, 
+            "sentTime": 2.5917069999995874, 
+            "size": 106403, 
+            "type": "resource", 
+            "url": "https://content.nike.com/content/dam/one-nike/en_lu/FA16/Home/0901-HP-Creative/Desktop/9.1_a_p2_desktop.jpg.transform/full-screen/9.1_a_p2_desktop.jpg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_84_0", 
+                "comp_131", 
+                "comp_85"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_46", 
+            "mimeType": "application/javascript", 
+            "priority": {
+                "cp": 35, 
+                "cp-plus": 35, 
+                "depth": 20, 
+                "mime-type": 14
+            }, 
+            "receiveTime": 3.683123999999225, 
+            "sentTime": 3.5934500000003027, 
+            "size": 48008, 
+            "type": "resource", 
+            "url": "https://s3.nikecdn.com/unite/experiences/163/com.nike.commerce.nikedotcom.web/en_GB.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_131"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_30", 
+            "mimeType": "image/jpeg", 
+            "priority": {
+                "cp": 14, 
+                "cp-plus": 15, 
+                "depth": 44, 
+                "mime-type": 50
+            }, 
+            "receiveTime": 3.8056540000034147, 
+            "sentTime": 2.1344759999992675, 
+            "size": 73361, 
+            "type": "resource", 
+            "url": "https://content.nike.com/content/dam/one-nike/en_lu/FA16/Landing-page/0912_HP_P4_FTB_DT.jpg.transform/full-screen/0912_HP_P4_FTB_DT.jpg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_131", 
+                "comp_119"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_49", 
+            "mimeType": "text/html", 
+            "priority": {
+                "cp": 46, 
+                "cp-plus": 46, 
+                "depth": 38, 
+                "mime-type": 38
+            }, 
+            "receiveTime": 3.868291999999201, 
+            "sentTime": 3.717274999999063, 
+            "size": 6805, 
+            "type": "resource", 
+            "url": "http://store.nike.com/gb/en_gb/nikestore/gadget/nike/gadget/CookieSettingsManager?gadgetName=nike.gadget.CookieSettingsManager"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "dchunk_0_0", 
+                "comp_131", 
+                "comp_51"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_40", 
+            "mimeType": "text/html", 
+            "priority": {
+                "cp": 34, 
+                "cp-plus": 34, 
+                "depth": 15, 
+                "mime-type": 22
+            }, 
+            "receiveTime": 2.7649809999966237, 
+            "sentTime": 3.217290000000503, 
+            "size": 11131, 
+            "type": "resource", 
+            "url": "https://secure-store.nike.com/common/content/endpoint.html#xdm_e=http%3A%2F%2Fwww.nike.com&xdm_c=default5660&xdm_p=1"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_42", 
+                "comp_46", 
+                "comp_131"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_41", 
+            "mimeType": "application/javascript", 
+            "priority": {
+                "cp": 44, 
+                "cp-plus": 44, 
+                "depth": 34, 
+                "mime-type": 29
+            }, 
+            "receiveTime": 3.511170999998285, 
+            "sentTime": 3.2810500000014144, 
+            "size": 20742, 
+            "type": "resource", 
+            "url": "http://store.nike.com/common/scripts/easyXDM.min.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_131", 
+                "comp_78", 
+                "dchunk_2_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_45", 
+            "mimeType": "text/html", 
+            "priority": {
+                "cp": 48, 
+                "cp-plus": 48, 
+                "depth": 35, 
+                "mime-type": 37
+            }, 
+            "receiveTime": 3.66852800000197, 
+            "sentTime": 3.5921329999982845, 
+            "size": 4196, 
+            "type": "resource", 
+            "url": "https://s3.nikecdn.com/unite/session.html"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "dchunk_1_0", 
+                "comp_131", 
+                "comp_46"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_38", 
+            "mimeType": "text/html", 
+            "priority": {
+                "cp": 39, 
+                "cp-plus": 39, 
+                "depth": 21, 
+                "mime-type": 24
+            }, 
+            "receiveTime": 2.7677179999991495, 
+            "sentTime": 3.217407000000094, 
+            "size": 11131, 
+            "type": "resource", 
+            "url": "http://store.nike.com/common/content/endpoint.html#xdm_e=http%3A%2F%2Fwww.nike.com&xdm_c=default5661&xdm_p=1"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_51", 
+                "comp_47", 
+                "comp_131"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_42", 
+            "mimeType": "application/javascript", 
+            "priority": {
+                "cp": 36, 
+                "cp-plus": 36, 
+                "depth": 17, 
+                "mime-type": 23
+            }, 
+            "receiveTime": 3.5258560000002035, 
+            "sentTime": 3.2872559999996156, 
+            "size": 20742, 
+            "type": "resource", 
+            "url": "https://secure-store.nike.com/common/scripts/easyXDM.min.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_60", 
+            "mimeType": "application/ecmascript", 
+            "priority": {
+                "cp": 47, 
+                "cp-plus": 47, 
+                "depth": 65, 
+                "mime-type": 65
+            }, 
+            "receiveTime": 10.106988999999885, 
+            "sentTime": 9.943070000001171, 
+            "size": 189, 
+            "type": "resource", 
+            "url": "http://gscounters.us1.gigya.com/gscounters.sendReport?reports=%5B%7B%22name%22%3A%22loadc%22%2C%22time%22%3A%221474479740370%22%2C%22reportData%22%3A%7B%22sref%22%3A%22http%3A%2F%2Fwww.nike.com%2F%22%7D%7D%5D&APIKey=2_IIKHKceEmeqTxf-7vybsrw5g-6NnFG3ykf2bPYS5PwX7T09Mk-ykJZaAZMMIVzTN&sdk=js_6.3.72&format=jsonp&callback=gigya._.apiAdapters.web.callback&context=R2697588054"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_131"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_13", 
+            "mimeType": "application/x-javascript", 
+            "priority": {
+                "cp": 45, 
+                "cp-plus": 45, 
+                "depth": 52, 
+                "mime-type": 33
+            }, 
+            "receiveTime": 2.3575519999976677, 
+            "sentTime": 2.1880549999987124, 
+            "size": 46128, 
+            "type": "resource", 
+            "url": "http://content.nike.com/etc/designs/nike/vendor/tesla/nike.tesla.shared.min.js?buildRev=9027faa533d558364357a47c4827942c799cdc9f"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_131"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_37", 
+            "mimeType": "image/png", 
+            "priority": {
+                "cp": 28, 
+                "cp-plus": 28, 
+                "depth": 50, 
+                "mime-type": 55
+            }, 
+            "receiveTime": 3.2159390000015264, 
+            "sentTime": 2.546837999998388, 
+            "size": 71, 
+            "type": "resource", 
+            "url": "http://store.nike.com/common/img/transparent-mask.png?buildRev=9027faa533d558364357a47c4827942c799cdc9f"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_131", 
+                "comp_4"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_5", 
+            "mimeType": "text/css", 
+            "priority": {
+                "cp": 23, 
+                "cp-plus": 24, 
+                "depth": 22, 
+                "mime-type": 15
+            }, 
+            "receiveTime": 1.1392520000008517, 
+            "sentTime": 1.0306369999998424, 
+            "size": 145569, 
+            "type": "resource", 
+            "url": "https://www.nike.com/styleguide/nsg/NIKE/en_us/desktop/nsg.style.css?v=4.0.0"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_131", 
+                "comp_18"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_63", 
+            "mimeType": "text/css", 
+            "originalResource": "download_5", 
+            "priority": {
+                "cp": 57, 
+                "cp-plus": 57, 
+                "depth": 53, 
+                "mime-type": 17
+            }, 
+            "sentTime": 1.7534630000009201, 
+            "size": 145569, 
+            "type": "resource", 
+            "url": "https://www.nike.com/styleguide/nsg/NIKE/en_us/desktop/nsg.style.css?v=4.0.0"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_131", 
+                "comp_41", 
+                "comp_40"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_34", 
+            "mimeType": "application/javascript", 
+            "priority": {
+                "cp": 30, 
+                "cp-plus": 30, 
+                "depth": 47, 
+                "mime-type": 32
+            }, 
+            "receiveTime": 3.1230389999982435, 
+            "sentTime": 2.521699000000808, 
+            "size": 18848, 
+            "type": "resource", 
+            "url": "http://store.nike.com/gb/en_gb/script.js?assets=nike.gadget.CookieSettingsManager&loaded=nike.exp.global.Ad%2Cnike.page.OneNikeShell%2Cnike.fonts.glyphPolyfill%2Clogging%2Cnike%2Cnike.EventBus%2Cnike.exp.global.CookieSettingsCheck%2Cnike.page.OneNikePageLayout%2Cnike.style.exp.exp-desktop%2Cnike.Chat%2Cnike.nsgInit%2Cnike.exp.global.CookieSettingsHandler%2Cnike.exp.util.shared.desktop.CookieSettings%2Cnike.exp.util.shared.base.TextReplacement%2Cnike.ScriptLoader%2CjQuery%2Cpolyfills%2Cnike.exp.launch.CqNotify%2Cnike.exp.pdp.desktop.MiniPdpShell&format=optimized&showFurnitureKeys=null"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_131", 
+                "comp_12"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_8", 
+            "mimeType": "text/css", 
+            "priority": {
+                "cp": 8, 
+                "cp-plus": 8, 
+                "depth": 7, 
+                "mime-type": 7
+            }, 
+            "receiveTime": 1.4908260000011069, 
+            "sentTime": 1.4427919999980077, 
+            "size": 26345, 
+            "type": "resource", 
+            "url": "http://store.nike.com/gb/en_gb/style.css?assets=nike.exp.pdp.desktop.MiniPdpShell,nike.exp.launch.CqNotify&loaded=nike,jQuery,nike.nsgInit,polyfills,nike.ScriptLoader,nike.EventBus,nike.page.OneNikeShell,nike.page.OneNikePageLayout,nike.fonts.glyphPolyfill,nike.exp.global.Ad,nike.exp.util.shared.desktop.CookieSettings,nike.style.exp.exp-desktop,nike.exp.util.shared.base.TextReplacement,nike.Chat,nike.exp.global.CookieSettingsCheck,nike.exp.global.CookieSettingsHandler&assetType=STYLE&buildRev=9027faa533d558364357a47c4827942c799cdc9f"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_131", 
+                "comp_3_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_1", 
+            "mimeType": "application/javascript", 
+            "priority": {
+                "cp": 3, 
+                "cp-plus": 3, 
+                "depth": 3, 
+                "mime-type": 3
+            }, 
+            "receiveTime": 1.0656169999965641, 
+            "sentTime": 1.0263620000005176, 
+            "size": 3464, 
+            "type": "resource", 
+            "url": "https://www.nike.com/styleguide/init/nsg.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_242"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_57", 
+            "mimeType": "application/octet-stream", 
+            "priority": {
+                "cp": 42, 
+                "cp-plus": 42, 
+                "depth": 58, 
+                "mime-type": 59
+            }, 
+            "receiveTime": 5.049893999999767, 
+            "sentTime": 4.793317999999999, 
+            "size": 14, 
+            "type": "resource", 
+            "url": "https://unite.nike.com/cookieToToken?appVersion=193&experienceVersion=163&uxid=com.nike.commerce.nikedotcom.web&locale=en_GB&backendEnvironment=default&browser=Google%20Inc.&os=undefined&mobile=false&native=false&clientId=HlHa2Cje3ctlaOqnxvgZXNaAs7T9nAuH"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_131", 
+                "comp_39_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_31", 
+            "mimeType": "text/javascript", 
+            "priority": {
+                "cp": 22, 
+                "cp-plus": 23, 
+                "depth": 16, 
+                "mime-type": 19
+            }, 
+            "receiveTime": 3.121595000000525, 
+            "sentTime": 2.034088000000338, 
+            "size": 200455, 
+            "type": "resource", 
+            "url": "http://web.nike.com/neo/main/neo.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_131"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_21", 
+            "mimeType": "image/png", 
+            "priority": {
+                "cp": 21, 
+                "cp-plus": 22, 
+                "depth": 28, 
+                "mime-type": 40
+            }, 
+            "receiveTime": 3.4614999999976135, 
+            "sentTime": 2.0936949999995704, 
+            "size": 6714, 
+            "type": "resource", 
+            "url": "http://content.nike.com/content/dam/nike/global/country_flags/gb_sml.png"
+        }, 
+        {
+            "cached": false, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_55", 
+            "mimeType": "application/x-javascript", 
+            "priority": {
+                "cp": 65, 
+                "cp-plus": 65, 
+                "depth": 61, 
+                "mime-type": 34
+            }, 
+            "receiveTime": 4.941416999998182, 
+            "sentTime": 4.941416999998182, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "http://connect.facebook.net/en_US/sdk.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_131"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_39", 
+            "mimeType": "application/x-font-opentype", 
+            "priority": {
+                "cp": 40, 
+                "cp-plus": 40, 
+                "depth": 33, 
+                "mime-type": 45
+            }, 
+            "receiveTime": 3.510666999998648, 
+            "sentTime": 3.2161449999985052, 
+            "size": 34860, 
+            "type": "resource", 
+            "url": "https://secure-store.nike.com/content-static/Fonts/5fdc935e-9e30-442a-bbe9-8d887b858471.woff"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_131"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_29", 
+            "mimeType": "image/jpeg", 
+            "priority": {
+                "cp": 15, 
+                "cp-plus": 16, 
+                "depth": 43, 
+                "mime-type": 49
+            }, 
+            "receiveTime": 3.80170999999973, 
+            "sentTime": 2.1322540000001027, 
+            "size": 58702, 
+            "type": "resource", 
+            "url": "https://content.nike.com/content/dam/one-nike/en_lu/FA16/Home/0901-HP-Creative/Desktop/9.1_a_p3_desktop.jpg.transform/full-screen/9.1_a_p3_desktop.jpg"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_131", 
+                "comp_34"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_80", 
+            "mimeType": "image/jpeg", 
+            "originalResource": "download_29", 
+            "priority": {
+                "cp": 58, 
+                "cp-plus": 58, 
+                "depth": 55, 
+                "mime-type": 57
+            }, 
+            "sentTime": 2.5986080000002403, 
+            "size": 58702, 
+            "type": "resource", 
+            "url": "https://content.nike.com/content/dam/one-nike/en_lu/FA16/Home/0901-HP-Creative/Desktop/9.1_a_p3_desktop.jpg.transform/full-screen/9.1_a_p3_desktop.jpg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_131"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_23", 
+            "mimeType": "image/gif", 
+            "priority": {
+                "cp": 19, 
+                "cp-plus": 20, 
+                "depth": 30, 
+                "mime-type": 42
+            }, 
+            "receiveTime": 3.744495000002644, 
+            "sentTime": 2.1374289999985194, 
+            "size": 3208, 
+            "type": "resource", 
+            "url": "http://www.nike.com/tesla/nikestore/html/img/loading_on_white.gif"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_233", 
+                "comp_232"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_54", 
+            "mimeType": "text/javascript", 
+            "priority": {
+                "cp": 38, 
+                "cp-plus": 38, 
+                "depth": 57, 
+                "mime-type": 21
+            }, 
+            "receiveTime": 4.859476999998151, 
+            "sentTime": 4.782659000000422, 
+            "size": 165034, 
+            "type": "resource", 
+            "url": "https://cdns.gigya.com/js/socialize.js?apikey=2_IIKHKceEmeqTxf-7vybsrw5g-6NnFG3ykf2bPYS5PwX7T09Mk-ykJZaAZMMIVzTN&cacheBuster=0.5603244989179075"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_14", 
+                "comp_131"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_12", 
+            "mimeType": "text/css", 
+            "priority": {
+                "cp": 6, 
+                "cp-plus": 6, 
+                "depth": 9, 
+                "mime-type": 9
+            }, 
+            "receiveTime": 1.6721830000024056, 
+            "sentTime": 1.4437599999982922, 
+            "size": 293261, 
+            "type": "resource", 
+            "url": "http://content.nike.com/etc/designs/nike/vendor/tesla/nike.tesla.one-nike.min.css?buildRev=9027faa533d558364357a47c4827942c799cdc9f"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_239"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_56", 
+            "mimeType": "application/json", 
+            "priority": {
+                "cp": 64, 
+                "cp-plus": 64, 
+                "depth": 62, 
+                "mime-type": 62
+            }, 
+            "receiveTime": 4.7866289999983564, 
+            "sentTime": 4.7866289999983564, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "https://unite.nike.com/appInitialization?appVersion=193&experienceVersion=163&uxid=com.nike.commerce.nikedotcom.web&locale=en_GB&backendEnvironment=default&browser=Google%20Inc.&os=undefined&mobile=false&native=false&clientId=HlHa2Cje3ctlaOqnxvgZXNaAs7T9nAuH&status=success&uxId=com.nike.commerce.nikedotcom.web&isAndroid=false&isIOS=false&isMobile=false&isNative=false&timeElapsed=1206"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_131"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_35", 
+            "mimeType": "image/png", 
+            "priority": {
+                "cp": 33, 
+                "cp-plus": 33, 
+                "depth": 48, 
+                "mime-type": 53
+            }, 
+            "receiveTime": 3.2144530000005034, 
+            "sentTime": 2.643650999998499, 
+            "size": 2160, 
+            "type": "resource", 
+            "url": "http://content.nike.com/etc/designs/nike/pages/one-nike/images/carousel/arrows.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_131"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_81", 
+            "mimeType": "image/png", 
+            "originalResource": "download_35", 
+            "priority": {
+                "cp": 59, 
+                "cp-plus": 59, 
+                "depth": 56, 
+                "mime-type": 58
+            }, 
+            "sentTime": 2.6436959999991814, 
+            "size": 2160, 
+            "type": "resource", 
+            "url": "http://content.nike.com/etc/designs/nike/pages/one-nike/images/carousel/arrows.png"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_138", 
+                "comp_131"
+            ], 
+            "httpMethod": "POST", 
+            "id": "download_51", 
+            "mimeType": "text/plain", 
+            "priority": {
+                "cp": 56, 
+                "cp-plus": 56, 
+                "depth": 40, 
+                "mime-type": 46
+            }, 
+            "receiveTime": 3.691351000001305, 
+            "sentTime": 3.691351000001305, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "http://nod.nikecloud.com/nod/rest/intake"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_161"
+            ], 
+            "httpMethod": "POST", 
+            "id": "download_52", 
+            "mimeType": "text/plain", 
+            "priority": {
+                "cp": 63, 
+                "cp-plus": 63, 
+                "depth": 59, 
+                "mime-type": 60
+            }, 
+            "receiveTime": 4.016083999998955, 
+            "sentTime": 4.016083999998955, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "http://nod.nikecloud.com/nod/rest/intake"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_178"
+            ], 
+            "httpMethod": "POST", 
+            "id": "download_53", 
+            "mimeType": "text/plain", 
+            "priority": {
+                "cp": 60, 
+                "cp-plus": 60, 
+                "depth": 60, 
+                "mime-type": 61
+            }, 
+            "receiveTime": 4.017736999998306, 
+            "sentTime": 4.017736999998306, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "http://nod.nikecloud.com/nod/rest/intake"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_253"
+            ], 
+            "httpMethod": "POST", 
+            "id": "download_58", 
+            "mimeType": "text/plain", 
+            "priority": {
+                "cp": 62, 
+                "cp-plus": 62, 
+                "depth": 63, 
+                "mime-type": 63
+            }, 
+            "receiveTime": 5.0671780000011495, 
+            "sentTime": 5.0671780000011495, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "http://nod.nikecloud.com/nod/rest/intake"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_131"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_16", 
+            "mimeType": "application/x-javascript", 
+            "priority": {
+                "cp": 29, 
+                "cp-plus": 29, 
+                "depth": 24, 
+                "mime-type": 27
+            }, 
+            "receiveTime": 2.820958000000246, 
+            "sentTime": 2.187870000001567, 
+            "size": 119936, 
+            "type": "resource", 
+            "url": "http://content.nike.com/etc/designs/nike/vendor/tesla/footer/nike.tesla.footer.min.js?buildRev=9027faa533d558364357a47c4827942c799cdc9f"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_131", 
+                "comp_30"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_17", 
+            "mimeType": "application/javascript", 
+            "priority": {
+                "cp": 37, 
+                "cp-plus": 37, 
+                "depth": 25, 
+                "mime-type": 28
+            }, 
+            "receiveTime": 2.0791919999974198, 
+            "sentTime": 1.7595580000015616, 
+            "size": 36073, 
+            "type": "resource", 
+            "url": "https://www.nike.com/styleguide/nsg/js/nsg.script.js?v=4.0.0"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_131"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_33", 
+            "mimeType": "font/woff", 
+            "priority": {
+                "cp": 25, 
+                "cp-plus": 25, 
+                "depth": 46, 
+                "mime-type": 52
+            }, 
+            "receiveTime": 3.122747999997955, 
+            "sentTime": 2.0764600000002247, 
+            "size": 30024, 
+            "type": "resource", 
+            "url": "https://www.nike.com/styleguide/assets/fonts/onenike-glyph/desktop/OneNikeGlyphs-bca907400c29ede5b2b332e2713ea7dc.woff"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_76", 
+                "comp_75_0", 
+                "comp_131"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_44", 
+            "mimeType": "text/javascript", 
+            "priority": {
+                "cp": 31, 
+                "cp-plus": 31, 
+                "depth": 19, 
+                "mime-type": 20
+            }, 
+            "receiveTime": 3.6056169999974372, 
+            "sentTime": 3.2934620000014547, 
+            "size": 11663, 
+            "type": "resource", 
+            "url": "http://expert.nike.com/chat.js?ver=1&_=1474479738723"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_131", 
+                "comp_71", 
+                "comp_72_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_43", 
+            "mimeType": "text/javascript", 
+            "priority": {
+                "cp": 49, 
+                "cp-plus": 49, 
+                "depth": 18, 
+                "mime-type": 25
+            }, 
+            "receiveTime": 3.536156000001938, 
+            "sentTime": 3.4681500000006054, 
+            "size": 40127, 
+            "type": "resource", 
+            "url": "http://web.nike.com/dreams/dreamcatcher/release/dc.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_131"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_14", 
+            "mimeType": "application/x-javascript", 
+            "priority": {
+                "cp": 43, 
+                "cp-plus": 43, 
+                "depth": 23, 
+                "mime-type": 26
+            }, 
+            "receiveTime": 2.4211129999966943, 
+            "sentTime": 2.1881690000009257, 
+            "size": 144554, 
+            "type": "resource", 
+            "url": "http://content.nike.com/etc/designs/nike/vendor/tesla/nike.tesla.one-nike.min.js?buildRev=9027faa533d558364357a47c4827942c799cdc9f"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_131"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_27", 
+            "mimeType": "font/woff", 
+            "priority": {
+                "cp": 26, 
+                "cp-plus": 26, 
+                "depth": 41, 
+                "mime-type": 47
+            }, 
+            "receiveTime": 3.116441999998642, 
+            "sentTime": 2.0760750000008557, 
+            "size": 3364, 
+            "type": "resource", 
+            "url": "https://www.nike.com/styleguide/assets/fonts/onenike-currency/OneNikeCurrency-8aaff7decca3face1566b24221b5eb2b.woff"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_131"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_32", 
+            "mimeType": "image/gif", 
+            "priority": {
+                "cp": 27, 
+                "cp-plus": 27, 
+                "depth": 45, 
+                "mime-type": 51
+            }, 
+            "receiveTime": 3.1191190000026836, 
+            "sentTime": 2.1212559999985388, 
+            "size": 1785, 
+            "type": "resource", 
+            "url": "http://store.nike.com/common/img/loading.gif?buildRev=9027faa533d558364357a47c4827942c799cdc9f"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_131"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_28", 
+            "mimeType": "image/png", 
+            "priority": {
+                "cp": 17, 
+                "cp-plus": 18, 
+                "depth": 42, 
+                "mime-type": 48
+            }, 
+            "receiveTime": 3.805646999997407, 
+            "sentTime": 2.140510000001086, 
+            "size": 6714, 
+            "type": "resource", 
+            "url": "https://content.nike.com/content/dam/nike/global/country_flags/gb_sml.png"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "comp_1"
+            ], 
+            "docUrl": "http://www.nike.com/", 
+            "enclosing": "None", 
+            "endTime": 1.0248289999981353, 
+            "evalType": "recalcStyle", 
+            "frame": 3, 
+            "id": "comp_0", 
+            "mode": "dom", 
+            "startTime": 1.0229269999981625, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "http://store.nike.com/style.css?assets=nike,nike.Countries_Locales_Cookies,nike.page.html.BaseScripts,nike.gadget.Event,nike.geo.Util,nike.geo.Locate,nike.analytics.Tracking,nike.analytics.TrackingUtil,nike.gadget.desktop.LanguageTunnel&assetType=STYLE&buildRev=9027faa533d558364357a47c4827942c799cdc9f"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_3_2"
+            ], 
+            "docUrl": "http://www.nike.com/", 
+            "enclosing": "None", 
+            "endTime": 1.0261539999992237, 
+            "evalType": "execScript", 
+            "frame": 3, 
+            "id": "comp_1", 
+            "mode": "dom", 
+            "startTime": 1.0248329999994894, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_3_3"
+            ], 
+            "docUrl": "http://www.nike.com/", 
+            "enclosing": "None", 
+            "endTime": 1.0262909999983094, 
+            "evalType": "execScript", 
+            "frame": 3, 
+            "id": "comp_2", 
+            "mode": "dom", 
+            "startTime": 1.026228999999148, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_5", 
+                "comp_3_1"
+            ], 
+            "docUrl": "http://www.nike.com/", 
+            "enclosing": "comp_3", 
+            "endTime": 1.0296070000003965, 
+            "evalType": "execScript", 
+            "frame": 3, 
+            "id": "comp_3_0", 
+            "mode": "dom", 
+            "startTime": 1.026369999999588, 
+            "subtree": "subtree_comp_3", 
+            "type": "eval", 
+            "url": "https://www.nike.com/styleguide/init/nsg.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_3_4"
+            ], 
+            "docUrl": "http://www.nike.com/", 
+            "enclosing": "comp_3", 
+            "endTime": 1.032032999999501, 
+            "evalType": "execScript", 
+            "frame": 3, 
+            "id": "comp_3_1", 
+            "mode": "dom", 
+            "startTime": 1.0296070000003965, 
+            "subtree": "subtree_comp_3", 
+            "type": "eval", 
+            "url": "https://www.nike.com/styleguide/init/nsg.js"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "download_39", 
+                "download_27", 
+                "download_33"
+            ], 
+            "docUrl": "http://www.nike.com/", 
+            "enclosing": "None", 
+            "endTime": 1.1559219999980996, 
+            "evalType": "recalcStyle", 
+            "frame": 3, 
+            "id": "comp_4", 
+            "mode": "dom", 
+            "startTime": 1.1409930000008899, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://www.nike.com/styleguide/nsg/NIKE/en_us/desktop/nsg.style.css?v=4.0.0"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_3_5"
+            ], 
+            "docUrl": "http://www.nike.com/", 
+            "enclosing": "None", 
+            "endTime": 1.3686699999998382, 
+            "evalType": "execScript", 
+            "frame": 3, 
+            "id": "comp_5", 
+            "mode": "dom", 
+            "startTime": 1.1988840000012715, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "http://store.nike.com/NikeScriptManager.js?assets=nike,nike.Countries_Locales_Cookies,nike.page.html.BaseScripts,nike.gadget.Event,nike.geo.Util,nike.geo.Locate,nike.analytics.Tracking,nike.analytics.TrackingUtil,nike.gadget.desktop.LanguageTunnel&assetType=SCRIPT&buildRev=9027faa533d558364357a47c4827942c799cdc9f"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_6", 
+                "comp_6_1"
+            ], 
+            "docUrl": "http://www.nike.com/", 
+            "enclosing": "comp_6", 
+            "endTime": 1.372123000001011, 
+            "evalType": "fireEvent", 
+            "frame": 3, 
+            "id": "comp_6_0", 
+            "mode": "dom", 
+            "name": "DOMContentLoaded", 
+            "startTime": 1.3686879999986559, 
+            "subtree": "subtree_comp_6", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_28_0"
+            ], 
+            "docUrl": "http://www.nike.com/", 
+            "enclosing": "comp_6", 
+            "endTime": 1.3734130000011646, 
+            "evalType": "fireEvent", 
+            "frame": 3, 
+            "id": "comp_6_1", 
+            "mode": "dom", 
+            "name": "DOMContentLoaded", 
+            "startTime": 1.372123000001011, 
+            "subtree": "subtree_comp_6", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_3_6"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "None", 
+            "endTime": 1.4387580000002345, 
+            "evalType": "execScript", 
+            "frame": 3, 
+            "id": "comp_8", 
+            "mode": "dom", 
+            "startTime": 1.4295920000004116, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_3_7"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "None", 
+            "endTime": 1.4395479999984673, 
+            "evalType": "execScript", 
+            "frame": 3, 
+            "id": "comp_9", 
+            "mode": "dom", 
+            "startTime": 1.4389129999981378, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_3_8"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "None", 
+            "endTime": 1.4410290000014356, 
+            "evalType": "execScript", 
+            "frame": 3, 
+            "id": "comp_10", 
+            "mode": "dom", 
+            "startTime": 1.4395860000004177, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "comp_16"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "None", 
+            "endTime": 1.4898140000004787, 
+            "evalType": "recalcStyle", 
+            "frame": 3, 
+            "id": "comp_11", 
+            "mode": "dom", 
+            "startTime": 1.475892999998905, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "http://store.nike.com/gb/en_gb/style.css?assets=nike,jQuery,nike.nsgInit,polyfills,nike.ScriptLoader,nike.EventBus,nike.page.OneNikeShell,nike.page.OneNikePageLayout,nike.fonts.glyphPolyfill,nike.exp.global.Ad,nike.exp.util.shared.desktop.CookieSettings,nike.style.exp.exp-desktop,nike.exp.util.shared.base.TextReplacement,nike.Chat,nike.exp.global.CookieSettingsCheck,nike.exp.global.CookieSettingsHandler&assetType=STYLE&buildRev=9027faa533d558364357a47c4827942c799cdc9f"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "comp_16"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "None", 
+            "endTime": 1.4922459999979765, 
+            "evalType": "recalcStyle", 
+            "frame": 3, 
+            "id": "comp_12", 
+            "mode": "dom", 
+            "startTime": 1.4907600000005914, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "http://store.nike.com/gb/en_gb/style.css?assets=nike.exp.pdp.desktop.MiniPdpShell,nike.exp.launch.CqNotify&loaded=nike,jQuery,nike.nsgInit,polyfills,nike.ScriptLoader,nike.EventBus,nike.page.OneNikeShell,nike.page.OneNikePageLayout,nike.fonts.glyphPolyfill,nike.exp.global.Ad,nike.exp.util.shared.desktop.CookieSettings,nike.style.exp.exp-desktop,nike.exp.util.shared.base.TextReplacement,nike.Chat,nike.exp.global.CookieSettingsCheck,nike.exp.global.CookieSettingsHandler&assetType=STYLE&buildRev=9027faa533d558364357a47c4827942c799cdc9f"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "comp_16"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "None", 
+            "endTime": 1.612356000001455, 
+            "evalType": "recalcStyle", 
+            "frame": 3, 
+            "id": "comp_13", 
+            "mode": "dom", 
+            "startTime": 1.609442000000854, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "http://content.nike.com/etc/designs/nike/vendor/tesla/footer/nike.tesla.footer.min.css?buildRev=9027faa533d558364357a47c4827942c799cdc9f"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "comp_16"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "None", 
+            "endTime": 1.6854669999993348, 
+            "evalType": "recalcStyle", 
+            "frame": 3, 
+            "id": "comp_14", 
+            "mode": "dom", 
+            "startTime": 1.6740270000009332, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "http://content.nike.com/etc/designs/nike/vendor/tesla/nike.tesla.one-nike.min.css?buildRev=9027faa533d558364357a47c4827942c799cdc9f"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "comp_16"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "None", 
+            "endTime": 1.7477140000009967, 
+            "evalType": "recalcStyle", 
+            "frame": 3, 
+            "id": "comp_15", 
+            "mode": "dom", 
+            "startTime": 1.7433830000009038, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "http://content.nike.com/etc/designs/nike/vendor/tesla/nike.tesla.shared.min.css?buildRev=9027faa533d558364357a47c4827942c799cdc9f"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_3_14"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "None", 
+            "endTime": 1.7479009999988193, 
+            "evalType": "execScript", 
+            "frame": 3, 
+            "id": "comp_16", 
+            "mode": "dom", 
+            "startTime": 1.747717999998713, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_63", 
+                "comp_17_1"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "comp_17", 
+            "endTime": 1.7522590000007767, 
+            "evalType": "execScript", 
+            "frame": 3, 
+            "id": "comp_17_0", 
+            "mode": "dom", 
+            "startTime": 1.7481010000010428, 
+            "subtree": "subtree_comp_17", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_17", 
+                "comp_17_2"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "comp_17", 
+            "endTime": 1.7525060000007215, 
+            "evalType": "execScript", 
+            "frame": 3, 
+            "id": "comp_17_1", 
+            "mode": "dom", 
+            "startTime": 1.7522590000007767, 
+            "subtree": "subtree_comp_17", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_3_15"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "comp_17", 
+            "endTime": 1.7596520000006421, 
+            "evalType": "execScript", 
+            "frame": 3, 
+            "id": "comp_17_2", 
+            "mode": "dom", 
+            "startTime": 1.7525060000007215, 
+            "subtree": "subtree_comp_17", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 4, 
+            "children": [], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "None", 
+            "endTime": 1.7593530000012834, 
+            "evalType": "recalcStyle", 
+            "frame": 3, 
+            "id": "comp_18", 
+            "mode": "dom", 
+            "startTime": 1.7534689999993134, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://www.nike.com/styleguide/nsg/NIKE/en_us/desktop/nsg.style.css?v=4.0.0"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_3_16"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "None", 
+            "endTime": 1.759805999998207, 
+            "evalType": "execScript", 
+            "frame": 3, 
+            "id": "comp_19", 
+            "mode": "dom", 
+            "startTime": 1.7597040000000561, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_36_0", 
+                "pchunk_3_17"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "None", 
+            "endTime": 2.030556000001525, 
+            "evalType": "execScript", 
+            "frame": 3, 
+            "id": "comp_20", 
+            "mode": "dom", 
+            "startTime": 1.7599039999986417, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "http://store.nike.com/gb/en_gb/NikeScriptManager.js?assets=nike,jQuery,nike.nsgInit,polyfills,nike.ScriptLoader,nike.EventBus,nike.page.OneNikeShell,nike.page.OneNikePageLayout,nike.fonts.glyphPolyfill,nike.exp.global.Ad,nike.exp.util.shared.desktop.CookieSettings,nike.style.exp.exp-desktop,nike.exp.util.shared.base.TextReplacement,nike.Chat,nike.exp.global.CookieSettingsCheck,nike.exp.global.CookieSettingsHandler&assetType=SCRIPT&buildRev=9027faa533d558364357a47c4827942c799cdc9f"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_31", 
+                "comp_21_1"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "comp_21", 
+            "endTime": 2.033977999999479, 
+            "evalType": "execScript", 
+            "frame": 3, 
+            "id": "comp_21_0", 
+            "mode": "dom", 
+            "startTime": 2.0306869999985793, 
+            "subtree": "subtree_comp_21", 
+            "type": "eval", 
+            "url": "http://secure-store.nike.com/utag/nike/main/prod/utag.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_3_18"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "comp_21", 
+            "endTime": 2.0465689999982715, 
+            "evalType": "execScript", 
+            "frame": 3, 
+            "id": "comp_21_1", 
+            "mode": "dom", 
+            "startTime": 2.033977999999479, 
+            "subtree": "subtree_comp_21", 
+            "type": "eval", 
+            "url": "http://secure-store.nike.com/utag/nike/main/prod/utag.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_26", 
+                "comp_23_1"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "comp_23", 
+            "endTime": 2.0892170000006445, 
+            "evalType": "execScript", 
+            "frame": 3, 
+            "id": "comp_23_0", 
+            "mode": "dom", 
+            "startTime": 2.0873759999994945, 
+            "subtree": "subtree_comp_23", 
+            "type": "eval", 
+            "url": "https://s3.nikecdn.com/unite/scripts/unite.min.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_3_19"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "comp_23", 
+            "endTime": 2.089650999998412, 
+            "evalType": "execScript", 
+            "frame": 3, 
+            "id": "comp_23_1", 
+            "mode": "dom", 
+            "startTime": 2.0892170000006445, 
+            "subtree": "subtree_comp_23", 
+            "type": "eval", 
+            "url": "https://s3.nikecdn.com/unite/scripts/unite.min.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_3_23"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "None", 
+            "endTime": 2.122297999998409, 
+            "evalType": "execScript", 
+            "frame": 3, 
+            "id": "comp_24", 
+            "mode": "dom", 
+            "startTime": 2.12213200000042, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_3_30"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "None", 
+            "endTime": 2.1877429999985907, 
+            "evalType": "execScript", 
+            "frame": 3, 
+            "id": "comp_25", 
+            "mode": "dom", 
+            "startTime": 2.1422270000002754, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "http://store.nike.com/gb/en_gb/script.js?assets=nike.exp.pdp.desktop.MiniPdpShell,nike.exp.launch.CqNotify&loaded=nike,jQuery,nike.nsgInit,polyfills,nike.ScriptLoader,nike.EventBus,nike.page.OneNikeShell,nike.page.OneNikePageLayout,nike.fonts.glyphPolyfill,nike.exp.global.Ad,nike.exp.util.shared.desktop.CookieSettings,nike.style.exp.exp-desktop,nike.exp.util.shared.base.TextReplacement,nike.Chat,nike.exp.global.CookieSettingsCheck,nike.exp.global.CookieSettingsHandler&assetType=SCRIPT&buildRev=9027faa533d558364357a47c4827942c799cdc9f"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_3_34"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "None", 
+            "endTime": 2.199444999998377, 
+            "evalType": "execScript", 
+            "frame": 3, 
+            "id": "comp_26", 
+            "mode": "dom", 
+            "startTime": 2.1882909999985714, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_3_35"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "None", 
+            "endTime": 2.199866999999358, 
+            "evalType": "execScript", 
+            "frame": 3, 
+            "id": "comp_27", 
+            "mode": "dom", 
+            "startTime": 2.199767999998585, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_34", 
+                "comp_28_1"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "comp_28", 
+            "endTime": 2.5215529999986757, 
+            "evalType": "fireEvent", 
+            "frame": 3, 
+            "id": "comp_28_0", 
+            "mode": "dom", 
+            "name": "DOMContentLoaded", 
+            "startTime": 2.2833519999985583, 
+            "subtree": "subtree_comp_28", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_28_2", 
+                "download_37"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "comp_28", 
+            "endTime": 2.546837999998388, 
+            "evalType": "fireEvent", 
+            "frame": 3, 
+            "id": "comp_28_1", 
+            "mode": "dom", 
+            "name": "DOMContentLoaded", 
+            "startTime": 2.5215529999986757, 
+            "subtree": "subtree_comp_28", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_79", 
+                "comp_28_3"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "comp_28", 
+            "endTime": 2.591649999998481, 
+            "evalType": "fireEvent", 
+            "frame": 3, 
+            "id": "comp_28_2", 
+            "mode": "dom", 
+            "name": "DOMContentLoaded", 
+            "startTime": 2.546837999998388, 
+            "subtree": "subtree_comp_28", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_28_4", 
+                "download_80"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "comp_28", 
+            "endTime": 2.598538999998709, 
+            "evalType": "fireEvent", 
+            "frame": 3, 
+            "id": "comp_28_3", 
+            "mode": "dom", 
+            "name": "DOMContentLoaded", 
+            "startTime": 2.591649999998481, 
+            "subtree": "subtree_comp_28", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_28_5", 
+                "download_35"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "comp_28", 
+            "endTime": 2.642651999998634, 
+            "evalType": "fireEvent", 
+            "frame": 3, 
+            "id": "comp_28_4", 
+            "mode": "dom", 
+            "name": "DOMContentLoaded", 
+            "startTime": 2.598538999998709, 
+            "subtree": "subtree_comp_28", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_28_6", 
+                "download_81"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "comp_28", 
+            "endTime": 2.642746999998053, 
+            "evalType": "fireEvent", 
+            "frame": 3, 
+            "id": "comp_28_5", 
+            "mode": "dom", 
+            "name": "DOMContentLoaded", 
+            "startTime": 2.642651999998634, 
+            "subtree": "subtree_comp_28", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_28_7", 
+                "download_36"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "comp_28", 
+            "endTime": 2.6428129999985686, 
+            "evalType": "fireEvent", 
+            "frame": 3, 
+            "id": "comp_28_6", 
+            "mode": "dom", 
+            "name": "DOMContentLoaded", 
+            "startTime": 2.642746999998053, 
+            "subtree": "subtree_comp_28", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_28_8", 
+                "download_19"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "comp_28", 
+            "endTime": 2.7004769999985, 
+            "evalType": "fireEvent", 
+            "frame": 3, 
+            "id": "comp_28_7", 
+            "mode": "dom", 
+            "name": "DOMContentLoaded", 
+            "startTime": 2.6428129999985686, 
+            "subtree": "subtree_comp_28", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_40", 
+                "comp_28_9"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "comp_28", 
+            "endTime": 2.7004769999985, 
+            "evalType": "fireEvent", 
+            "frame": 3, 
+            "id": "comp_28_8", 
+            "mode": "dom", 
+            "name": "DOMContentLoaded", 
+            "startTime": 2.7004769999985, 
+            "subtree": "subtree_comp_28", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_28_10", 
+                "download_20"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "comp_28", 
+            "endTime": 2.7038339999999152, 
+            "evalType": "fireEvent", 
+            "frame": 3, 
+            "id": "comp_28_9", 
+            "mode": "dom", 
+            "name": "DOMContentLoaded", 
+            "startTime": 2.7004769999985, 
+            "subtree": "subtree_comp_28", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_38", 
+                "comp_28_11"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "comp_28", 
+            "endTime": 2.7038339999999152, 
+            "evalType": "fireEvent", 
+            "frame": 3, 
+            "id": "comp_28_10", 
+            "mode": "dom", 
+            "name": "DOMContentLoaded", 
+            "startTime": 2.7038339999999152, 
+            "subtree": "subtree_comp_28", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_131", 
+                "comp_30"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "comp_28", 
+            "endTime": 2.8115470000011555, 
+            "evalType": "fireEvent", 
+            "frame": 3, 
+            "id": "comp_28_11", 
+            "mode": "dom", 
+            "name": "DOMContentLoaded", 
+            "startTime": 2.7038339999999152, 
+            "subtree": "subtree_comp_28", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 2, 
+            "children": [], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "None", 
+            "endTime": 3.066867999998067, 
+            "evalType": "execScript", 
+            "frame": 3, 
+            "id": "comp_30", 
+            "mode": "load", 
+            "startTime": 3.058899999999994, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://www.nike.com/styleguide/nsg/js/nsg.script.js?v=4.0.0"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "None", 
+            "endTime": 3.24552599999879, 
+            "evalType": "fireEvent", 
+            "frame": 3, 
+            "id": "comp_34", 
+            "mode": "load", 
+            "name": "load", 
+            "startTime": 3.223300999998173, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "None", 
+            "endTime": 3.2747920000001614, 
+            "evalType": "fireEvent", 
+            "frame": 3, 
+            "id": "comp_35", 
+            "mode": "load", 
+            "name": "load", 
+            "startTime": 3.245556999998371, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_44", 
+                "comp_36_1"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "comp_36", 
+            "endTime": 3.2931859999989683, 
+            "evalType": "timer", 
+            "frame": 3, 
+            "id": "comp_36_0", 
+            "mode": "load", 
+            "startTime": 3.2874960000008286, 
+            "subtree": "subtree_comp_36", 
+            "timeout": 1000, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "comp_36", 
+            "endTime": 3.293616999999358, 
+            "evalType": "timer", 
+            "frame": 3, 
+            "id": "comp_36_1", 
+            "mode": "load", 
+            "startTime": 3.2931859999989683, 
+            "subtree": "subtree_comp_36", 
+            "timeout": 1000, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_64_0"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "None", 
+            "endTime": 3.316109999999753, 
+            "evalType": "execScript", 
+            "frame": 3, 
+            "id": "comp_38", 
+            "mode": "load", 
+            "startTime": 3.293906999999308, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://s3.nikecdn.com/unite/app/193/scripts/app.min.js"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_43", 
+                "comp_39_1"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "comp_39", 
+            "endTime": 3.4678730000014184, 
+            "evalType": "execScript", 
+            "frame": 3, 
+            "id": "comp_39_0", 
+            "mode": "load", 
+            "startTime": 3.3162760000013805, 
+            "subtree": "subtree_comp_39", 
+            "type": "eval", 
+            "url": "http://web.nike.com/neo/main/neo.js"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "comp_39", 
+            "endTime": 3.4682360000006156, 
+            "evalType": "execScript", 
+            "frame": 3, 
+            "id": "comp_39_1", 
+            "mode": "load", 
+            "startTime": 3.4678730000014184, 
+            "subtree": "subtree_comp_39", 
+            "type": "eval", 
+            "url": "http://web.nike.com/neo/main/neo.js"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "None", 
+            "endTime": 3.4870090000003984, 
+            "evalType": "execScript", 
+            "frame": 3, 
+            "id": "comp_40", 
+            "mode": "load", 
+            "startTime": 3.468329999999696, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "http://store.nike.com/gb/en_gb/script.js?assets=nike.gadget.CookieSettingsManager&loaded=nike.exp.global.Ad%2Cnike.page.OneNikeShell%2Cnike.fonts.glyphPolyfill%2Clogging%2Cnike%2Cnike.EventBus%2Cnike.exp.global.CookieSettingsCheck%2Cnike.page.OneNikePageLayout%2Cnike.style.exp.exp-desktop%2Cnike.Chat%2Cnike.nsgInit%2Cnike.exp.global.CookieSettingsHandler%2Cnike.exp.util.shared.desktop.CookieSettings%2Cnike.exp.util.shared.base.TextReplacement%2Cnike.ScriptLoader%2CjQuery%2Cpolyfills%2Cnike.exp.launch.CqNotify%2Cnike.exp.pdp.desktop.MiniPdpShell&format=optimized&showFurnitureKeys=null"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "None", 
+            "endTime": 3.5038769999991928, 
+            "evalType": "fireEvent", 
+            "frame": 3, 
+            "id": "comp_41", 
+            "mode": "load", 
+            "name": "load", 
+            "startTime": 3.4870200000004843, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_1_1"
+            ], 
+            "docUrl": "http://store.nike.com/common/content/endpoint.html#xdm_e=http%3A%2F%2Fwww.nike.com&xdm_c=default5661&xdm_p=1", 
+            "enclosing": "None", 
+            "endTime": 3.5216489999984333, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_42", 
+            "mode": "load", 
+            "startTime": 3.5113209999981336, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "http://store.nike.com/common/scripts/easyXDM.min.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_1_2"
+            ], 
+            "docUrl": "http://store.nike.com/common/content/endpoint.html#xdm_e=http%3A%2F%2Fwww.nike.com&xdm_c=default5661&xdm_p=1", 
+            "enclosing": "None", 
+            "endTime": 3.5219800000013493, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_43", 
+            "mode": "load", 
+            "startTime": 3.521748999999545, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_1_3"
+            ], 
+            "docUrl": "http://store.nike.com/common/content/endpoint.html#xdm_e=http%3A%2F%2Fwww.nike.com&xdm_c=default5661&xdm_p=1", 
+            "enclosing": "None", 
+            "endTime": 3.5245020000002114, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_44", 
+            "mode": "load", 
+            "startTime": 3.5221920000003593, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_46"
+            ], 
+            "docUrl": "http://store.nike.com/common/content/endpoint.html#xdm_e=http%3A%2F%2Fwww.nike.com&xdm_c=default5661&xdm_p=1", 
+            "enclosing": "None", 
+            "endTime": 3.5250860000014654, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_45", 
+            "mode": "load", 
+            "name": "DOMContentLoaded", 
+            "startTime": 3.524649999999383, 
+            "subtree": "None", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://store.nike.com/common/content/endpoint.html#xdm_e=http%3A%2F%2Fwww.nike.com&xdm_c=default5661&xdm_p=1", 
+            "enclosing": "None", 
+            "endTime": 3.5254170000007434, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_46", 
+            "mode": "load", 
+            "name": "load", 
+            "startTime": 3.5253540000012435, 
+            "subtree": "None", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_1"
+            ], 
+            "docUrl": "https://secure-store.nike.com/common/content/endpoint.html#xdm_e=http%3A%2F%2Fwww.nike.com&xdm_c=default5660&xdm_p=1", 
+            "enclosing": "None", 
+            "endTime": 3.5320280000014463, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_47", 
+            "mode": "load", 
+            "startTime": 3.5260679999992135, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://secure-store.nike.com/common/scripts/easyXDM.min.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_2"
+            ], 
+            "docUrl": "https://secure-store.nike.com/common/content/endpoint.html#xdm_e=http%3A%2F%2Fwww.nike.com&xdm_c=default5660&xdm_p=1", 
+            "enclosing": "None", 
+            "endTime": 3.5321709999989253, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_48", 
+            "mode": "load", 
+            "startTime": 3.532082999998238, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_3"
+            ], 
+            "docUrl": "https://secure-store.nike.com/common/content/endpoint.html#xdm_e=http%3A%2F%2Fwww.nike.com&xdm_c=default5660&xdm_p=1", 
+            "enclosing": "None", 
+            "endTime": 3.5343529999991006, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_49", 
+            "mode": "load", 
+            "startTime": 3.5323739999985264, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_65", 
+                "comp_51"
+            ], 
+            "docUrl": "https://secure-store.nike.com/common/content/endpoint.html#xdm_e=http%3A%2F%2Fwww.nike.com&xdm_c=default5660&xdm_p=1", 
+            "enclosing": "None", 
+            "endTime": 3.53564600000027, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_50", 
+            "mode": "load", 
+            "name": "DOMContentLoaded", 
+            "startTime": 3.5347149999979592, 
+            "subtree": "None", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://secure-store.nike.com/common/content/endpoint.html#xdm_e=http%3A%2F%2Fwww.nike.com&xdm_c=default5660&xdm_p=1", 
+            "enclosing": "None", 
+            "endTime": 3.535859999999957, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_51", 
+            "mode": "load", 
+            "name": "load", 
+            "startTime": 3.535811999998259, 
+            "subtree": "None", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_45", 
+                "comp_64_1"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "comp_64", 
+            "endTime": 3.5913150000014866, 
+            "evalType": "timer", 
+            "frame": 3, 
+            "id": "comp_64_0", 
+            "mode": "load", 
+            "startTime": 3.5709490000008373, 
+            "subtree": "subtree_comp_64", 
+            "timeout": 4, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_64_2", 
+                "download_46"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "comp_64", 
+            "endTime": 3.5933199999999488, 
+            "evalType": "timer", 
+            "frame": 3, 
+            "id": "comp_64_1", 
+            "mode": "load", 
+            "startTime": 3.5913150000014866, 
+            "subtree": "subtree_comp_64", 
+            "timeout": 4, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "comp_64", 
+            "endTime": 3.5936169999986305, 
+            "evalType": "timer", 
+            "frame": 3, 
+            "id": "comp_64_2", 
+            "mode": "load", 
+            "startTime": 3.5933199999999488, 
+            "subtree": "subtree_comp_64", 
+            "timeout": 4, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_79"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "None", 
+            "endTime": 3.6070719999988796, 
+            "evalType": "fireEvent", 
+            "frame": 3, 
+            "id": "comp_65", 
+            "mode": "load", 
+            "name": "message", 
+            "startTime": 3.606186000000889, 
+            "subtree": "None", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "None", 
+            "endTime": 3.6325639999995474, 
+            "evalType": "execScript", 
+            "frame": 3, 
+            "id": "comp_71", 
+            "mode": "load", 
+            "startTime": 3.612253999999666, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "http://web.nike.com/dreams/dreamcatcher/release/dc.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_73"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "comp_72", 
+            "endTime": 3.6547260000006645, 
+            "evalType": "fireEvent", 
+            "frame": 3, 
+            "id": "comp_72_0", 
+            "mode": "load", 
+            "name": "load", 
+            "startTime": 3.6325829999987036, 
+            "subtree": "subtree_comp_72", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_74"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "comp_72", 
+            "endTime": 3.659432000000379, 
+            "evalType": "fireEvent", 
+            "frame": 3, 
+            "id": "comp_72_1", 
+            "mode": "load", 
+            "name": "load", 
+            "startTime": 3.655094999998255, 
+            "subtree": "subtree_comp_72", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_83_0"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "comp_72", 
+            "endTime": 3.660673999998835, 
+            "evalType": "fireEvent", 
+            "frame": 3, 
+            "id": "comp_72_2", 
+            "mode": "load", 
+            "name": "load", 
+            "startTime": 3.6606600000013714, 
+            "subtree": "subtree_comp_72", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_72_1"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "None", 
+            "endTime": 3.655094999998255, 
+            "evalType": "fireEvent", 
+            "frame": 3, 
+            "id": "comp_73", 
+            "mode": "load", 
+            "name": "readystatechange", 
+            "startTime": 3.6547260000006645, 
+            "subtree": "subtree_comp_72", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_72_2"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "None", 
+            "endTime": 3.6606600000013714, 
+            "evalType": "fireEvent", 
+            "frame": 3, 
+            "id": "comp_74", 
+            "mode": "load", 
+            "name": "analytics.submodule_ready", 
+            "startTime": 3.659432000000379, 
+            "subtree": "subtree_comp_72", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_50", 
+                "comp_75_1"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "comp_75", 
+            "endTime": 3.6680669999987003, 
+            "evalType": "execScript", 
+            "frame": 3, 
+            "id": "comp_75_0", 
+            "mode": "load", 
+            "startTime": 3.660840000000462, 
+            "subtree": "subtree_comp_75", 
+            "type": "eval", 
+            "url": "http://expert.nike.com/chat.js?ver=1&_=1474479738723"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "comp_75", 
+            "endTime": 3.6687180000008084, 
+            "evalType": "execScript", 
+            "frame": 3, 
+            "id": "comp_75_1", 
+            "mode": "load", 
+            "startTime": 3.6680669999987003, 
+            "subtree": "subtree_comp_75", 
+            "type": "eval", 
+            "url": "http://expert.nike.com/chat.js?ver=1&_=1474479738723"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "None", 
+            "endTime": 3.669012999998813, 
+            "evalType": "fireEvent", 
+            "frame": 3, 
+            "id": "comp_76", 
+            "mode": "load", 
+            "name": "load", 
+            "startTime": 3.668730000001233, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_2_1"
+            ], 
+            "docUrl": "https://s3.nikecdn.com/unite/session.html", 
+            "enclosing": "None", 
+            "endTime": 3.6736049999999523, 
+            "evalType": "execScript", 
+            "frame": 2, 
+            "id": "comp_77", 
+            "mode": "load", 
+            "startTime": 3.669898000000103, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "None", 
+            "endTime": 3.674072999998316, 
+            "evalType": "fireEvent", 
+            "frame": 3, 
+            "id": "comp_78", 
+            "mode": "load", 
+            "name": "load", 
+            "startTime": 3.6739359999992303, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_86_0"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "None", 
+            "endTime": 3.6839379999983066, 
+            "evalType": "timer", 
+            "frame": 3, 
+            "id": "comp_79", 
+            "mode": "load", 
+            "startTime": 3.683497999998508, 
+            "subtree": "None", 
+            "timeout": 0, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_51", 
+                "comp_83_1"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "comp_83", 
+            "endTime": 3.691351000001305, 
+            "evalType": "timer", 
+            "frame": 3, 
+            "id": "comp_83_0", 
+            "mode": "load", 
+            "startTime": 3.684270000001561, 
+            "subtree": "subtree_comp_83", 
+            "timeout": 0, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "comp_83", 
+            "endTime": 3.691563000000315, 
+            "evalType": "timer", 
+            "frame": 3, 
+            "id": "comp_83_1", 
+            "mode": "load", 
+            "startTime": 3.691351000001305, 
+            "subtree": "subtree_comp_83", 
+            "timeout": 0, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_48", 
+                "comp_84_1"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "comp_84", 
+            "endTime": 3.7064140000002226, 
+            "evalType": "execScript", 
+            "frame": 3, 
+            "id": "comp_84_0", 
+            "mode": "load", 
+            "startTime": 3.6915770000014163, 
+            "subtree": "subtree_comp_84", 
+            "type": "eval", 
+            "url": "https://s3.nikecdn.com/unite/experiences/163/com.nike.commerce.nikedotcom.web/en_GB.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_84_2", 
+                "download_47"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "comp_84", 
+            "endTime": 3.7068949999993492, 
+            "evalType": "execScript", 
+            "frame": 3, 
+            "id": "comp_84_1", 
+            "mode": "load", 
+            "startTime": 3.7064140000002226, 
+            "subtree": "subtree_comp_84", 
+            "type": "eval", 
+            "url": "https://s3.nikecdn.com/unite/experiences/163/com.nike.commerce.nikedotcom.web/en_GB.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_217_0"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "comp_84", 
+            "endTime": 3.708106999998563, 
+            "evalType": "execScript", 
+            "frame": 3, 
+            "id": "comp_84_2", 
+            "mode": "load", 
+            "startTime": 3.7068949999993492, 
+            "subtree": "subtree_comp_84", 
+            "type": "eval", 
+            "url": "https://s3.nikecdn.com/unite/experiences/163/com.nike.commerce.nikedotcom.web/en_GB.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "None", 
+            "endTime": 3.708355999999185, 
+            "evalType": "fireEvent", 
+            "frame": 3, 
+            "id": "comp_85", 
+            "mode": "load", 
+            "name": "load", 
+            "startTime": 3.7081189999989874, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_49", 
+                "comp_86_1"
+            ], 
+            "docUrl": "http://store.nike.com/common/content/endpoint.html#xdm_e=http%3A%2F%2Fwww.nike.com&xdm_c=default5661&xdm_p=1", 
+            "enclosing": "comp_86", 
+            "endTime": 3.717274999999063, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_86_0", 
+            "mode": "load", 
+            "name": "message", 
+            "startTime": 3.715367000000697, 
+            "subtree": "subtree_comp_86", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://store.nike.com/common/content/endpoint.html#xdm_e=http%3A%2F%2Fwww.nike.com&xdm_c=default5661&xdm_p=1", 
+            "enclosing": "comp_86", 
+            "endTime": 3.7173640000000887, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_86_1", 
+            "mode": "load", 
+            "name": "message", 
+            "startTime": 3.717274999999063, 
+            "subtree": "subtree_comp_86", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "None", 
+            "endTime": 3.7495029999990948, 
+            "evalType": "recalcStyle", 
+            "frame": 3, 
+            "id": "comp_93", 
+            "mode": "load", 
+            "startTime": 3.734593000001041, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://s3.nikecdn.com/unite/app/193/styles/unite/import.css"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "None", 
+            "endTime": 3.7615089999999327, 
+            "evalType": "execScript", 
+            "frame": 3, 
+            "id": "comp_96", 
+            "mode": "load", 
+            "startTime": 3.7601599999979953, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://web.nike.com/neo/unite-web/neo.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "None", 
+            "endTime": 3.761838999998872, 
+            "evalType": "fireEvent", 
+            "frame": 3, 
+            "id": "comp_97", 
+            "mode": "load", 
+            "name": "load", 
+            "startTime": 3.761521000000357, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_120"
+            ], 
+            "docUrl": "http://store.nike.com/common/content/endpoint.html#xdm_e=http%3A%2F%2Fwww.nike.com&xdm_c=default5661&xdm_p=1", 
+            "enclosing": "None", 
+            "endTime": 3.8677979999993113, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_119", 
+            "mode": "load", 
+            "name": "readystatechange", 
+            "startTime": 3.8671069999982137, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_121"
+            ], 
+            "docUrl": "http://store.nike.com/common/content/endpoint.html#xdm_e=http%3A%2F%2Fwww.nike.com&xdm_c=default5661&xdm_p=1", 
+            "enclosing": "None", 
+            "endTime": 3.8678560000007565, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_120", 
+            "mode": "load", 
+            "name": "readystatechange", 
+            "startTime": 3.8678260000015143, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_122"
+            ], 
+            "docUrl": "http://store.nike.com/common/content/endpoint.html#xdm_e=http%3A%2F%2Fwww.nike.com&xdm_c=default5661&xdm_p=1", 
+            "enclosing": "None", 
+            "endTime": 3.8684360000006563, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_121", 
+            "mode": "load", 
+            "name": "readystatechange", 
+            "startTime": 3.8683410000012373, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://store.nike.com/common/content/endpoint.html#xdm_e=http%3A%2F%2Fwww.nike.com&xdm_c=default5661&xdm_p=1", 
+            "enclosing": "None", 
+            "endTime": 3.869670000000042, 
+            "evalType": "fireEvent", 
+            "frame": 1, 
+            "id": "comp_122", 
+            "mode": "load", 
+            "name": "readystatechange", 
+            "startTime": 3.868748000000778, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "None", 
+            "endTime": 3.9272300000011455, 
+            "evalType": "execScript", 
+            "frame": 3, 
+            "id": "comp_130", 
+            "mode": "load", 
+            "startTime": 3.926570999999967, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "http://expert.nike.com/pageload?v=0FF52B&cid=N190d14744258155415107060011117b96b3d77b96b3d77b96b3d7000000000000000007b96b3d700000000000000&cids=1&ts=1474479739098&pcount=4&pdata=title%3DNike%2520Official%2520Site.%2520Nike.com%2520(UK)%26url%3Dhttp%253A%252F%252Fwww.nike.com%252Fgb%252Fen_gb%252F%26wn%3D739098%26ls%3D1"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_135_0"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "None", 
+            "endTime": 3.980217000000266, 
+            "evalType": "fireEvent", 
+            "frame": 3, 
+            "id": "comp_131", 
+            "mode": "load", 
+            "name": "load", 
+            "startTime": 3.960773999999219, 
+            "subtree": "None", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_136"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "comp_135", 
+            "endTime": 3.9945369999986724, 
+            "evalType": "timer", 
+            "frame": 3, 
+            "id": "comp_135_0", 
+            "mode": "loadplus", 
+            "startTime": 3.987576999999874, 
+            "subtree": "subtree_comp_135", 
+            "timeout": 0, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_143_0"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "comp_135", 
+            "endTime": 3.995731999999407, 
+            "evalType": "timer", 
+            "frame": 3, 
+            "id": "comp_135_1", 
+            "mode": "loadplus", 
+            "startTime": 3.994610999998258, 
+            "subtree": "subtree_comp_135", 
+            "timeout": 0, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_135_1"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "None", 
+            "endTime": 3.994610999998258, 
+            "evalType": "fireEvent", 
+            "frame": 3, 
+            "id": "comp_136", 
+            "mode": "end", 
+            "name": "readystatechange", 
+            "startTime": 3.9945369999986724, 
+            "subtree": "subtree_comp_135", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_139", 
+                "comp_140_0"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "None", 
+            "endTime": 4.0076589999989665, 
+            "evalType": "fireEvent", 
+            "frame": 3, 
+            "id": "comp_138", 
+            "mode": "end", 
+            "name": "readystatechange", 
+            "startTime": 4.007283999999345, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "None", 
+            "endTime": 4.008044999998674, 
+            "evalType": "fireEvent", 
+            "frame": 3, 
+            "id": "comp_139", 
+            "mode": "end", 
+            "name": "readystatechange", 
+            "startTime": 4.007881999998062, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_141"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "comp_140", 
+            "endTime": 4.014916000000085, 
+            "evalType": "fireEvent", 
+            "frame": 3, 
+            "id": "comp_140_0", 
+            "mode": "end", 
+            "name": "load", 
+            "startTime": 4.008062000000791, 
+            "subtree": "subtree_comp_140", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_144_0"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "comp_140", 
+            "endTime": 4.0154120000006515, 
+            "evalType": "fireEvent", 
+            "frame": 3, 
+            "id": "comp_140_1", 
+            "mode": "end", 
+            "name": "load", 
+            "startTime": 4.015007999998488, 
+            "subtree": "subtree_comp_140", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_140_1"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "None", 
+            "endTime": 4.015007999998488, 
+            "evalType": "fireEvent", 
+            "frame": 3, 
+            "id": "comp_141", 
+            "mode": "end", 
+            "name": "readystatechange", 
+            "startTime": 4.014916000000085, 
+            "subtree": "subtree_comp_140", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_52", 
+                "comp_143_1"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "comp_143", 
+            "endTime": 4.016083999998955, 
+            "evalType": "timer", 
+            "frame": 3, 
+            "id": "comp_143_0", 
+            "mode": "loadplus", 
+            "startTime": 4.015754000000015, 
+            "subtree": "subtree_comp_143", 
+            "timeout": 0, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "comp_143", 
+            "endTime": 4.017194000000018, 
+            "evalType": "timer", 
+            "frame": 3, 
+            "id": "comp_143_1", 
+            "mode": "loadplus", 
+            "startTime": 4.016083999998955, 
+            "subtree": "subtree_comp_143", 
+            "timeout": 0, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_53", 
+                "comp_144_1"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "comp_144", 
+            "endTime": 4.017736999998306, 
+            "evalType": "timer", 
+            "frame": 3, 
+            "id": "comp_144_0", 
+            "mode": "loadplus", 
+            "startTime": 4.017313000000286, 
+            "subtree": "subtree_comp_144", 
+            "timeout": 0, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "comp_144", 
+            "endTime": 4.017824999998993, 
+            "evalType": "timer", 
+            "frame": 3, 
+            "id": "comp_144_1", 
+            "mode": "loadplus", 
+            "startTime": 4.017736999998306, 
+            "subtree": "subtree_comp_144", 
+            "timeout": 0, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_163", 
+                "comp_162"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "None", 
+            "endTime": 4.169115000000602, 
+            "evalType": "fireEvent", 
+            "frame": 3, 
+            "id": "comp_161", 
+            "mode": "end", 
+            "name": "readystatechange", 
+            "startTime": 4.168811999999889, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "None", 
+            "endTime": 4.1691979999995965, 
+            "evalType": "fireEvent", 
+            "frame": 3, 
+            "id": "comp_162", 
+            "mode": "end", 
+            "name": "readystatechange", 
+            "startTime": 4.169127000001026, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "None", 
+            "endTime": 4.1697820000008505, 
+            "evalType": "fireEvent", 
+            "frame": 3, 
+            "id": "comp_163", 
+            "mode": "end", 
+            "name": "load", 
+            "startTime": 4.16920399999799, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_180", 
+                "comp_179"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "None", 
+            "endTime": 4.320227000000159, 
+            "evalType": "fireEvent", 
+            "frame": 3, 
+            "id": "comp_178", 
+            "mode": "end", 
+            "name": "readystatechange", 
+            "startTime": 4.318788000000495, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "None", 
+            "endTime": 4.320522999998502, 
+            "evalType": "fireEvent", 
+            "frame": 3, 
+            "id": "comp_179", 
+            "mode": "end", 
+            "name": "readystatechange", 
+            "startTime": 4.320421000000351, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "None", 
+            "endTime": 4.320937000000413, 
+            "evalType": "fireEvent", 
+            "frame": 3, 
+            "id": "comp_180", 
+            "mode": "end", 
+            "name": "load", 
+            "startTime": 4.320530000000872, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_218"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "comp_217", 
+            "endTime": 4.78197899999941, 
+            "evalType": "timer", 
+            "frame": 3, 
+            "id": "comp_217_0", 
+            "mode": "end", 
+            "startTime": 4.7782939999997325, 
+            "subtree": "subtree_comp_217", 
+            "timeout": 100, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_217_2", 
+                "download_54"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "comp_217", 
+            "endTime": 4.782540000000154, 
+            "evalType": "timer", 
+            "frame": 3, 
+            "id": "comp_217_1", 
+            "mode": "end", 
+            "startTime": 4.782043999999587, 
+            "subtree": "subtree_comp_217", 
+            "timeout": 100, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_220_0", 
+                "comp_219"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "comp_217", 
+            "endTime": 4.782936999999947, 
+            "evalType": "timer", 
+            "frame": 3, 
+            "id": "comp_217_2", 
+            "mode": "end", 
+            "startTime": 4.782540000000154, 
+            "subtree": "subtree_comp_217", 
+            "timeout": 100, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_217_1"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "None", 
+            "endTime": 4.782043999999587, 
+            "evalType": "fireEvent", 
+            "frame": 3, 
+            "id": "comp_218", 
+            "mode": "end", 
+            "name": "readystatechange", 
+            "startTime": 4.78197899999941, 
+            "subtree": "subtree_comp_217", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_221"
+            ], 
+            "docUrl": "https://s3.nikecdn.com/unite/session.html", 
+            "enclosing": "None", 
+            "endTime": 4.785897999998269, 
+            "evalType": "fireEvent", 
+            "frame": 2, 
+            "id": "comp_219", 
+            "mode": "end", 
+            "name": "message", 
+            "startTime": 4.782974000001559, 
+            "subtree": "None", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_220_1", 
+                "download_56"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "comp_220", 
+            "endTime": 4.7866289999983564, 
+            "evalType": "timer", 
+            "frame": 3, 
+            "id": "comp_220_0", 
+            "mode": "end", 
+            "startTime": 4.786224999999831, 
+            "subtree": "subtree_comp_220", 
+            "timeout": 0, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "comp_220", 
+            "endTime": 4.786759999999049, 
+            "evalType": "timer", 
+            "frame": 3, 
+            "id": "comp_220_1", 
+            "mode": "end", 
+            "startTime": 4.7866289999983564, 
+            "subtree": "subtree_comp_220", 
+            "timeout": 0, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_222"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "None", 
+            "endTime": 4.787648000001354, 
+            "evalType": "fireEvent", 
+            "frame": 3, 
+            "id": "comp_221", 
+            "mode": "end", 
+            "name": "message", 
+            "startTime": 4.786802999999054, 
+            "subtree": "None", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_223"
+            ], 
+            "docUrl": "https://s3.nikecdn.com/unite/session.html", 
+            "enclosing": "None", 
+            "endTime": 4.787844999998924, 
+            "evalType": "fireEvent", 
+            "frame": 2, 
+            "id": "comp_222", 
+            "mode": "end", 
+            "name": "message", 
+            "startTime": 4.787687000000005, 
+            "subtree": "None", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_224"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "None", 
+            "endTime": 4.788378000001103, 
+            "evalType": "fireEvent", 
+            "frame": 3, 
+            "id": "comp_223", 
+            "mode": "end", 
+            "name": "message", 
+            "startTime": 4.787904000000708, 
+            "subtree": "None", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_225"
+            ], 
+            "docUrl": "https://s3.nikecdn.com/unite/session.html", 
+            "enclosing": "None", 
+            "endTime": 4.788495000000694, 
+            "evalType": "fireEvent", 
+            "frame": 2, 
+            "id": "comp_224", 
+            "mode": "end", 
+            "name": "message", 
+            "startTime": 4.788403999998991, 
+            "subtree": "None", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_226"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "None", 
+            "endTime": 4.7889910000012605, 
+            "evalType": "fireEvent", 
+            "frame": 3, 
+            "id": "comp_225", 
+            "mode": "end", 
+            "name": "message", 
+            "startTime": 4.788517000000866, 
+            "subtree": "None", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_227"
+            ], 
+            "docUrl": "https://s3.nikecdn.com/unite/session.html", 
+            "enclosing": "None", 
+            "endTime": 4.789185999998153, 
+            "evalType": "fireEvent", 
+            "frame": 2, 
+            "id": "comp_226", 
+            "mode": "end", 
+            "name": "message", 
+            "startTime": 4.789050999999745, 
+            "subtree": "None", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_228"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "None", 
+            "endTime": 4.790278000000399, 
+            "evalType": "fireEvent", 
+            "frame": 3, 
+            "id": "comp_227", 
+            "mode": "end", 
+            "name": "message", 
+            "startTime": 4.789207999998325, 
+            "subtree": "None", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_229_0"
+            ], 
+            "docUrl": "https://s3.nikecdn.com/unite/session.html", 
+            "enclosing": "None", 
+            "endTime": 4.790414999999484, 
+            "evalType": "fireEvent", 
+            "frame": 2, 
+            "id": "comp_228", 
+            "mode": "end", 
+            "name": "message", 
+            "startTime": 4.790302999997948, 
+            "subtree": "None", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_230"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "comp_229", 
+            "endTime": 4.791341000000102, 
+            "evalType": "fireEvent", 
+            "frame": 3, 
+            "id": "comp_229_0", 
+            "mode": "end", 
+            "name": "message", 
+            "startTime": 4.790437999999995, 
+            "subtree": "subtree_comp_229", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_231_0"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "comp_229", 
+            "endTime": 4.791903000001184, 
+            "evalType": "fireEvent", 
+            "frame": 3, 
+            "id": "comp_229_1", 
+            "mode": "end", 
+            "name": "message", 
+            "startTime": 4.791508999998769, 
+            "subtree": "subtree_comp_229", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_229_1"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "None", 
+            "endTime": 4.791508999998769, 
+            "evalType": "fireEvent", 
+            "frame": 3, 
+            "id": "comp_230", 
+            "mode": "end", 
+            "name": "readystatechange", 
+            "startTime": 4.791341000000102, 
+            "subtree": "subtree_comp_229", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_231_1", 
+                "download_57"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "comp_231", 
+            "endTime": 4.793317999999999, 
+            "evalType": "timer", 
+            "frame": 3, 
+            "id": "comp_231_0", 
+            "mode": "end", 
+            "startTime": 4.793076999998448, 
+            "subtree": "subtree_comp_231", 
+            "timeout": 0, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "comp_231", 
+            "endTime": 4.793480000000272, 
+            "evalType": "timer", 
+            "frame": 3, 
+            "id": "comp_231_1", 
+            "mode": "end", 
+            "startTime": 4.793317999999999, 
+            "subtree": "subtree_comp_231", 
+            "timeout": 0, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_234_0", 
+                "comp_236", 
+                "comp_264"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "None", 
+            "endTime": 4.939986000001227, 
+            "evalType": "execScript", 
+            "frame": 3, 
+            "id": "comp_232", 
+            "mode": "end", 
+            "startTime": 4.85988400000133, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://cdns.gigya.com/js/socialize.js?apikey=2_IIKHKceEmeqTxf-7vybsrw5g-6NnFG3ykf2bPYS5PwX7T09Mk-ykJZaAZMMIVzTN&cacheBuster=0.5603244989179075"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "None", 
+            "endTime": 4.940308000001096, 
+            "evalType": "fireEvent", 
+            "frame": 3, 
+            "id": "comp_233", 
+            "mode": "end", 
+            "name": "load", 
+            "startTime": 4.939998999998352, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_234_1", 
+                "download_55"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "comp_234", 
+            "endTime": 4.941416999998182, 
+            "evalType": "timer", 
+            "frame": 3, 
+            "id": "comp_234_0", 
+            "mode": "end", 
+            "startTime": 4.941158000001451, 
+            "subtree": "subtree_comp_234", 
+            "timeout": 1, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "comp_234", 
+            "endTime": 4.941587000001164, 
+            "evalType": "timer", 
+            "frame": 3, 
+            "id": "comp_234_1", 
+            "mode": "end", 
+            "startTime": 4.941416999998182, 
+            "subtree": "subtree_comp_234", 
+            "timeout": 1, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "None", 
+            "endTime": 4.953684000000067, 
+            "evalType": "fireEvent", 
+            "frame": 3, 
+            "id": "comp_236", 
+            "mode": "end", 
+            "name": "error", 
+            "startTime": 4.95348599999852, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_240", 
+                "comp_241"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "None", 
+            "endTime": 5.026110999999219, 
+            "evalType": "fireEvent", 
+            "frame": 3, 
+            "id": "comp_239", 
+            "mode": "end", 
+            "name": "readystatechange", 
+            "startTime": 5.025668999998743, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "None", 
+            "endTime": 5.026433999999426, 
+            "evalType": "fireEvent", 
+            "frame": 3, 
+            "id": "comp_240", 
+            "mode": "end", 
+            "name": "readystatechange", 
+            "startTime": 5.026282999999239, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "None", 
+            "endTime": 5.0268360000009125, 
+            "evalType": "fireEvent", 
+            "frame": 3, 
+            "id": "comp_241", 
+            "mode": "end", 
+            "name": "load", 
+            "startTime": 5.0264400000014575, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_244", 
+                "comp_243", 
+                "comp_248"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "None", 
+            "endTime": 5.050208000000566, 
+            "evalType": "fireEvent", 
+            "frame": 3, 
+            "id": "comp_242", 
+            "mode": "end", 
+            "name": "readystatechange", 
+            "startTime": 5.049922999998671, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "None", 
+            "endTime": 5.050366999999824, 
+            "evalType": "fireEvent", 
+            "frame": 3, 
+            "id": "comp_243", 
+            "mode": "end", 
+            "name": "progress", 
+            "startTime": 5.050233999998454, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_245_0"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "None", 
+            "endTime": 5.05044899999848, 
+            "evalType": "fireEvent", 
+            "frame": 3, 
+            "id": "comp_244", 
+            "mode": "end", 
+            "name": "readystatechange", 
+            "startTime": 5.050382000001264, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_246"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "comp_245", 
+            "endTime": 5.052748999998585, 
+            "evalType": "fireEvent", 
+            "frame": 3, 
+            "id": "comp_245_0", 
+            "mode": "end", 
+            "name": "readystatechange", 
+            "startTime": 5.051414999998087, 
+            "subtree": "subtree_comp_245", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_247"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "comp_245", 
+            "endTime": 5.062655000001541, 
+            "evalType": "fireEvent", 
+            "frame": 3, 
+            "id": "comp_245_1", 
+            "mode": "end", 
+            "name": "readystatechange", 
+            "startTime": 5.052810000001045, 
+            "subtree": "subtree_comp_245", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_250_0", 
+                "comp_251_0"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "comp_245", 
+            "endTime": 5.0659320000013395, 
+            "evalType": "fireEvent", 
+            "frame": 3, 
+            "id": "comp_245_2", 
+            "mode": "end", 
+            "name": "readystatechange", 
+            "startTime": 5.0627109999986715, 
+            "subtree": "subtree_comp_245", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_245_1"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "None", 
+            "endTime": 5.052810000001045, 
+            "evalType": "fireEvent", 
+            "frame": 3, 
+            "id": "comp_246", 
+            "mode": "end", 
+            "name": "readystatechange", 
+            "startTime": 5.052748999998585, 
+            "subtree": "subtree_comp_245", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_245_2"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "None", 
+            "endTime": 5.0627109999986715, 
+            "evalType": "fireEvent", 
+            "frame": 3, 
+            "id": "comp_247", 
+            "mode": "end", 
+            "name": "readystatechange", 
+            "startTime": 5.062655000001541, 
+            "subtree": "subtree_comp_245", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "None", 
+            "endTime": 5.0663710000007995, 
+            "evalType": "fireEvent", 
+            "frame": 3, 
+            "id": "comp_248", 
+            "mode": "end", 
+            "name": "load", 
+            "startTime": 5.065985000001092, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_59", 
+                "comp_250_1"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "comp_250", 
+            "endTime": 5.066882999999507, 
+            "evalType": "timer", 
+            "frame": 3, 
+            "id": "comp_250_0", 
+            "mode": "end", 
+            "startTime": 5.066756000000169, 
+            "subtree": "subtree_comp_250", 
+            "timeout": 0, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "comp_250", 
+            "endTime": 5.066951000000699, 
+            "evalType": "timer", 
+            "frame": 3, 
+            "id": "comp_250_1", 
+            "mode": "end", 
+            "startTime": 5.066882999999507, 
+            "subtree": "subtree_comp_250", 
+            "timeout": 0, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_58", 
+                "comp_251_1"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "comp_251", 
+            "endTime": 5.0671780000011495, 
+            "evalType": "timer", 
+            "frame": 3, 
+            "id": "comp_251_0", 
+            "mode": "end", 
+            "startTime": 5.066956999999093, 
+            "subtree": "subtree_comp_251", 
+            "timeout": 0, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "comp_251", 
+            "endTime": 5.067254000001412, 
+            "evalType": "timer", 
+            "frame": 3, 
+            "id": "comp_251_1", 
+            "mode": "end", 
+            "startTime": 5.0671780000011495, 
+            "subtree": "subtree_comp_251", 
+            "timeout": 0, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_255", 
+                "comp_254"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "None", 
+            "endTime": 5.2218790000006265, 
+            "evalType": "fireEvent", 
+            "frame": 3, 
+            "id": "comp_253", 
+            "mode": "end", 
+            "name": "readystatechange", 
+            "startTime": 5.221360999999888, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "None", 
+            "endTime": 5.222108999998454, 
+            "evalType": "fireEvent", 
+            "frame": 3, 
+            "id": "comp_254", 
+            "mode": "end", 
+            "name": "readystatechange", 
+            "startTime": 5.222047999999631, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "None", 
+            "endTime": 5.22275499999887, 
+            "evalType": "fireEvent", 
+            "frame": 3, 
+            "id": "comp_255", 
+            "mode": "end", 
+            "name": "load", 
+            "startTime": 5.222114000000147, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_258", 
+                "comp_257"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "None", 
+            "endTime": 5.276641000000382, 
+            "evalType": "fireEvent", 
+            "frame": 3, 
+            "id": "comp_256", 
+            "mode": "end", 
+            "name": "readystatechange", 
+            "startTime": 5.276355999998486, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "None", 
+            "endTime": 5.2770349999991595, 
+            "evalType": "fireEvent", 
+            "frame": 3, 
+            "id": "comp_257", 
+            "mode": "end", 
+            "name": "readystatechange", 
+            "startTime": 5.276812000000064, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "None", 
+            "endTime": 5.27801399999953, 
+            "evalType": "fireEvent", 
+            "frame": 3, 
+            "id": "comp_258", 
+            "mode": "end", 
+            "name": "load", 
+            "startTime": 5.277042000001529, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_265_0", 
+                "comp_266", 
+                "comp_267"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "None", 
+            "endTime": 9.941420999999536, 
+            "evalType": "timer", 
+            "frame": 3, 
+            "id": "comp_264", 
+            "mode": "end", 
+            "startTime": 9.931468999999197, 
+            "subtree": "None", 
+            "timeout": 5000, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_60", 
+                "comp_265_1"
+            ], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "comp_265", 
+            "endTime": 9.943070000001171, 
+            "evalType": "timer", 
+            "frame": 3, 
+            "id": "comp_265_0", 
+            "mode": "end", 
+            "startTime": 9.942881999999372, 
+            "subtree": "subtree_comp_265", 
+            "timeout": 1, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "comp_265", 
+            "endTime": 9.943971000000602, 
+            "evalType": "timer", 
+            "frame": 3, 
+            "id": "comp_265_1", 
+            "mode": "end", 
+            "startTime": 9.943070000001171, 
+            "subtree": "subtree_comp_265", 
+            "timeout": 1, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "None", 
+            "endTime": 10.11077799999839, 
+            "evalType": "execScript", 
+            "frame": 3, 
+            "id": "comp_266", 
+            "mode": "end", 
+            "startTime": 10.107789000001503, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "http://gscounters.us1.gigya.com/gscounters.sendReport?reports=%5B%7B%22name%22%3A%22loadc%22%2C%22time%22%3A%221474479740370%22%2C%22reportData%22%3A%7B%22sref%22%3A%22http%3A%2F%2Fwww.nike.com%2F%22%7D%7D%5D&APIKey=2_IIKHKceEmeqTxf-7vybsrw5g-6NnFG3ykf2bPYS5PwX7T09Mk-ykJZaAZMMIVzTN&sdk=js_6.3.72&format=jsonp&callback=gigya._.apiAdapters.web.callback&context=R2697588054"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://www.nike.com/gb/en_gb/", 
+            "enclosing": "None", 
+            "endTime": 10.111142999998265, 
+            "evalType": "fireEvent", 
+            "frame": 3, 
+            "id": "comp_267", 
+            "mode": "end", 
+            "name": "load", 
+            "startTime": 10.11079299999983, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "children": [
+                "pchunk_3_1", 
+                "download_3"
+            ], 
+            "docUrl": "http://www.nike.com/", 
+            "endColumn": 370, 
+            "endRow": 29, 
+            "endTag": "link", 
+            "endTime": 0.9304639999900246, 
+            "frame": 3, 
+            "id": "pchunk_3_0", 
+            "isFragment": false, 
+            "startColumn": 20, 
+            "startRow": 4, 
+            "startTag": "html", 
+            "startTime": 0.9296839999988151, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_3_2", 
+                "comp_1"
+            ], 
+            "docUrl": "http://www.nike.com/", 
+            "endColumn": 9, 
+            "endRow": 330, 
+            "endTag": "script", 
+            "endTime": 0.9313679999977467, 
+            "frame": 3, 
+            "id": "pchunk_3_1", 
+            "isFragment": false, 
+            "startColumn": 82, 
+            "startRow": 30, 
+            "startTag": "link", 
+            "startTime": 0.9312839999984135, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_3_3", 
+                "comp_2"
+            ], 
+            "docUrl": "http://www.nike.com/", 
+            "endColumn": 13, 
+            "endRow": 335, 
+            "endTag": "script", 
+            "endTime": 1.0262060000022757, 
+            "frame": 3, 
+            "id": "pchunk_3_2", 
+            "isFragment": false, 
+            "startColumn": 35, 
+            "startRow": 331, 
+            "startTag": "script", 
+            "startTime": 1.0261739999987185, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_3_4", 
+                "download_1"
+            ], 
+            "docUrl": "http://www.nike.com/", 
+            "endColumn": 94, 
+            "endRow": 336, 
+            "endTag": "script", 
+            "endTime": 1.0263169999998354, 
+            "frame": 3, 
+            "id": "pchunk_3_3", 
+            "isFragment": false, 
+            "startColumn": 85, 
+            "startRow": 336, 
+            "startTag": "script", 
+            "startTime": 1.0263000000013562, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_4", 
+                "pchunk_3_5"
+            ], 
+            "docUrl": "http://www.nike.com/", 
+            "endColumn": 365, 
+            "endRow": 337, 
+            "endTag": "script", 
+            "endTime": 1.032095999999001, 
+            "frame": 3, 
+            "id": "pchunk_3_4", 
+            "isFragment": false, 
+            "startColumn": 356, 
+            "startRow": 337, 
+            "startTag": "script", 
+            "startTime": 1.0320499999979802, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_3_6", 
+                "comp_8"
+            ], 
+            "docUrl": "http://www.nike.com/", 
+            "endColumn": 14463, 
+            "endRow": 18, 
+            "endTag": "script", 
+            "endTime": 1.4289280000048166, 
+            "frame": 3, 
+            "id": "pchunk_3_5", 
+            "isFragment": false, 
+            "startColumn": 30, 
+            "startRow": 15, 
+            "startTag": "html", 
+            "startTime": 1.4285730000010517, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_3_7", 
+                "comp_9"
+            ], 
+            "docUrl": "http://www.nike.com/", 
+            "endColumn": 9, 
+            "endRow": 312, 
+            "endTag": "script", 
+            "endTime": 1.4388030000009167, 
+            "frame": 3, 
+            "id": "pchunk_3_6", 
+            "isFragment": false, 
+            "startColumn": 10, 
+            "startRow": 19, 
+            "startTag": "script", 
+            "startTime": 1.438784999998461, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_3_8", 
+                "comp_10"
+            ], 
+            "docUrl": "http://www.nike.com/", 
+            "endColumn": 11, 
+            "endRow": 315, 
+            "endTag": "script", 
+            "endTime": 1.4395759999970323, 
+            "frame": 3, 
+            "id": "pchunk_3_7", 
+            "isFragment": false, 
+            "startColumn": 10, 
+            "startRow": 313, 
+            "startTag": "script", 
+            "startTime": 1.4395609999992303, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_7", 
+                "pchunk_3_9"
+            ], 
+            "docUrl": "http://www.nike.com/", 
+            "endColumn": 538, 
+            "endRow": 348, 
+            "endTag": "link", 
+            "endTime": 1.4417729999986477, 
+            "frame": 3, 
+            "id": "pchunk_3_8", 
+            "isFragment": false, 
+            "startColumn": 9, 
+            "startRow": 316, 
+            "startTag": "title", 
+            "startTime": 1.4410400000015215, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_3_10", 
+                "download_8"
+            ], 
+            "docUrl": "http://www.nike.com/", 
+            "endColumn": 606, 
+            "endRow": 350, 
+            "endTag": "link", 
+            "endTime": 1.442984000001161, 
+            "frame": 3, 
+            "id": "pchunk_3_9", 
+            "isFragment": false, 
+            "startColumn": 606, 
+            "startRow": 350, 
+            "startTag": "link", 
+            "startTime": 1.4426170000006096, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_3_11", 
+                "download_11"
+            ], 
+            "docUrl": "http://www.nike.com/", 
+            "endColumn": 191, 
+            "endRow": 352, 
+            "endTag": "link", 
+            "endTime": 1.4433160000007774, 
+            "frame": 3, 
+            "id": "pchunk_3_10", 
+            "isFragment": false, 
+            "startColumn": 191, 
+            "startRow": 352, 
+            "startTag": "link", 
+            "startTime": 1.4430030000003171, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_15", 
+                "pchunk_3_12"
+            ], 
+            "docUrl": "http://www.nike.com/", 
+            "endColumn": 184, 
+            "endRow": 353, 
+            "endTag": "link", 
+            "endTime": 1.4436490000007325, 
+            "frame": 3, 
+            "id": "pchunk_3_11", 
+            "isFragment": false, 
+            "startColumn": 184, 
+            "startRow": 353, 
+            "startTag": "link", 
+            "startTime": 1.4433280000012019, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_3_13", 
+                "download_12"
+            ], 
+            "docUrl": "http://www.nike.com/", 
+            "endColumn": 186, 
+            "endRow": 354, 
+            "endTag": "link", 
+            "endTime": 1.4439190000011877, 
+            "frame": 3, 
+            "id": "pchunk_3_12", 
+            "isFragment": false, 
+            "startColumn": 186, 
+            "startRow": 354, 
+            "startTag": "link", 
+            "startTime": 1.4436600000008184, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "comp_16", 
+                "pchunk_3_14"
+            ], 
+            "docUrl": "http://www.nike.com/", 
+            "endColumn": 11, 
+            "endRow": 361, 
+            "endTag": "script", 
+            "endTime": 1.4439600000005157, 
+            "frame": 3, 
+            "id": "pchunk_3_13", 
+            "isFragment": false, 
+            "startColumn": 33, 
+            "startRow": 356, 
+            "startTag": "script", 
+            "startTime": 1.4439280000005965, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "comp_17_0", 
+                "pchunk_3_15"
+            ], 
+            "docUrl": "http://www.nike.com/", 
+            "endColumn": 3483, 
+            "endRow": 362, 
+            "endTag": "script", 
+            "endTime": 1.7479590000002645, 
+            "frame": 3, 
+            "id": "pchunk_3_14", 
+            "isFragment": false, 
+            "startColumn": 10, 
+            "startRow": 362, 
+            "startTag": "script", 
+            "startTime": 1.7479180000009364, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "comp_19", 
+                "pchunk_3_16"
+            ], 
+            "docUrl": "http://www.nike.com/", 
+            "endColumn": 13, 
+            "endRow": 366, 
+            "endTag": "script", 
+            "endTime": 1.7596900000025926, 
+            "frame": 3, 
+            "id": "pchunk_3_15", 
+            "isFragment": false, 
+            "startColumn": 35, 
+            "startRow": 363, 
+            "startTag": "script", 
+            "startTime": 1.7596689999991213, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_9", 
+                "pchunk_3_17"
+            ], 
+            "docUrl": "http://www.nike.com/", 
+            "endColumn": 533, 
+            "endRow": 367, 
+            "endTag": "script", 
+            "endTime": 1.7598739999993995, 
+            "frame": 3, 
+            "id": "pchunk_3_16", 
+            "isFragment": false, 
+            "startColumn": 524, 
+            "startRow": 367, 
+            "startTag": "script", 
+            "startTime": 1.7598169999982929, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_3_18", 
+                "download_2"
+            ], 
+            "docUrl": "http://www.nike.com/", 
+            "endColumn": 100, 
+            "endRow": 368, 
+            "endTag": "script", 
+            "endTime": 2.0306130000026315, 
+            "frame": 3, 
+            "id": "pchunk_3_17", 
+            "isFragment": false, 
+            "startColumn": 91, 
+            "startRow": 368, 
+            "startTag": "script", 
+            "startTime": 2.030575000000681, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_3_19", 
+                "download_18"
+            ], 
+            "docUrl": "http://www.nike.com/", 
+            "endColumn": 108, 
+            "endRow": 459, 
+            "endTag": "script", 
+            "endTime": 2.0475860000151442, 
+            "frame": 3, 
+            "id": "pchunk_3_18", 
+            "isFragment": false, 
+            "startColumn": 7, 
+            "startRow": 369, 
+            "startTag": "head", 
+            "startTime": 2.046591999998782, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_3_20", 
+                "download_21"
+            ], 
+            "docUrl": "http://www.nike.com/", 
+            "endColumn": 102, 
+            "endRow": 750, 
+            "endTag": "img", 
+            "endTime": 2.0925589999860676, 
+            "frame": 3, 
+            "id": "pchunk_3_19", 
+            "isFragment": false, 
+            "startColumn": 16, 
+            "startRow": 460, 
+            "startTag": "div", 
+            "startTime": 2.089665999999852, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_3_21", 
+                "download_22"
+            ], 
+            "docUrl": "http://www.nike.com/", 
+            "endColumn": 105, 
+            "endRow": 3513, 
+            "endTag": "img", 
+            "endTime": 2.1128620000708906, 
+            "frame": 3, 
+            "id": "pchunk_3_20", 
+            "isFragment": false, 
+            "startColumn": 16, 
+            "startRow": 751, 
+            "startTag": "a", 
+            "startTime": 2.093731000000844, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_32", 
+                "pchunk_3_22"
+            ], 
+            "docUrl": "http://www.nike.com/", 
+            "endColumn": 33, 
+            "endRow": 3561, 
+            "endTag": "div", 
+            "endTime": 2.1211439999897266, 
+            "frame": 3, 
+            "id": "pchunk_3_21", 
+            "isFragment": false, 
+            "startColumn": 129, 
+            "startRow": 3514, 
+            "startTag": "div", 
+            "startTime": 2.120426999998017, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "comp_24", 
+                "pchunk_3_23"
+            ], 
+            "docUrl": "http://www.nike.com/", 
+            "endColumn": 19, 
+            "endRow": 3584, 
+            "endTag": "script", 
+            "endTime": 2.122026000000915, 
+            "frame": 3, 
+            "id": "pchunk_3_22", 
+            "isFragment": false, 
+            "startColumn": 39, 
+            "startRow": 3561, 
+            "startTag": "div", 
+            "startTime": 2.1214269999982207, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_3_24", 
+                "download_24"
+            ], 
+            "docUrl": "http://www.nike.com/", 
+            "endColumn": 411, 
+            "endRow": 3675, 
+            "endTag": "img", 
+            "endTime": 2.124212999980955, 
+            "frame": 3, 
+            "id": "pchunk_3_23", 
+            "isFragment": false, 
+            "startColumn": 39, 
+            "startRow": 3585, 
+            "startTag": "div", 
+            "startTime": 2.122312999999849, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_3_25", 
+                "download_25"
+            ], 
+            "docUrl": "http://www.nike.com/", 
+            "endColumn": 409, 
+            "endRow": 3735, 
+            "endTag": "img", 
+            "endTime": 2.1264749999827472, 
+            "frame": 3, 
+            "id": "pchunk_3_24", 
+            "isFragment": false, 
+            "startColumn": 16, 
+            "startRow": 3676, 
+            "startTag": "div", 
+            "startTime": 2.1247929999990447, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_3_26", 
+                "download_29"
+            ], 
+            "docUrl": "http://www.nike.com/", 
+            "endColumn": 409, 
+            "endRow": 3838, 
+            "endTag": "img", 
+            "endTime": 2.131262000009883, 
+            "frame": 3, 
+            "id": "pchunk_3_25", 
+            "isFragment": false, 
+            "startColumn": 16, 
+            "startRow": 3736, 
+            "startTag": "div", 
+            "startTime": 2.127035999998043, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_30", 
+                "pchunk_3_27"
+            ], 
+            "docUrl": "http://www.nike.com/", 
+            "endColumn": 395, 
+            "endRow": 3891, 
+            "endTag": "img", 
+            "endTime": 2.1341840000095544, 
+            "frame": 3, 
+            "id": "pchunk_3_26", 
+            "isFragment": false, 
+            "startColumn": 16, 
+            "startRow": 3839, 
+            "startTag": "div", 
+            "startTime": 2.1322829999990063, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_23", 
+                "pchunk_3_28"
+            ], 
+            "docUrl": "http://www.nike.com/", 
+            "endColumn": 88, 
+            "endRow": 3974, 
+            "endTag": "img", 
+            "endTime": 2.1367929999942135, 
+            "frame": 3, 
+            "id": "pchunk_3_27", 
+            "isFragment": false, 
+            "startColumn": 16, 
+            "startRow": 3892, 
+            "startTag": "div", 
+            "startTime": 2.134633000001486, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_3_29", 
+                "download_28"
+            ], 
+            "docUrl": "http://www.nike.com/", 
+            "endColumn": 291, 
+            "endRow": 4020, 
+            "endTag": "img", 
+            "endTime": 2.1400249999896914, 
+            "frame": 3, 
+            "id": "pchunk_3_28", 
+            "isFragment": false, 
+            "startColumn": 20, 
+            "startRow": 3975, 
+            "startTag": "div", 
+            "startTime": 2.1374639999994542, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_3_30", 
+                "download_10"
+            ], 
+            "docUrl": "http://www.nike.com/", 
+            "endColumn": 567, 
+            "endRow": 4076, 
+            "endTag": "script", 
+            "endTime": 2.1416800000115472, 
+            "frame": 3, 
+            "id": "pchunk_3_29", 
+            "isFragment": false, 
+            "startColumn": 11, 
+            "startRow": 4021, 
+            "startTag": "span", 
+            "startTime": 2.1405479999993986, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_16", 
+                "pchunk_3_31"
+            ], 
+            "docUrl": "http://www.nike.com/", 
+            "endColumn": 203, 
+            "endRow": 4078, 
+            "endTag": "script", 
+            "endTime": 2.1877429999985907, 
+            "frame": 3, 
+            "id": "pchunk_3_30", 
+            "isFragment": false, 
+            "startColumn": 194, 
+            "startRow": 4078, 
+            "startTag": "script", 
+            "startTime": 2.1877429999985907, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_3_32", 
+                "download_13"
+            ], 
+            "docUrl": "http://www.nike.com/", 
+            "endColumn": 196, 
+            "endRow": 4079, 
+            "endTag": "script", 
+            "endTime": 2.188020999998116, 
+            "frame": 3, 
+            "id": "pchunk_3_31", 
+            "isFragment": false, 
+            "startColumn": 187, 
+            "startRow": 4079, 
+            "startTag": "script", 
+            "startTime": 2.187985000000481, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_3_33", 
+                "download_14"
+            ], 
+            "docUrl": "http://www.nike.com/", 
+            "endColumn": 198, 
+            "endRow": 4080, 
+            "endTag": "script", 
+            "endTime": 2.188131999999314, 
+            "frame": 3, 
+            "id": "pchunk_3_32", 
+            "isFragment": false, 
+            "startColumn": 189, 
+            "startRow": 4080, 
+            "startTag": "script", 
+            "startTime": 2.188068999999814, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_3_34", 
+                "comp_26"
+            ], 
+            "docUrl": "http://www.nike.com/", 
+            "endColumn": 11, 
+            "endRow": 4088, 
+            "endTag": "script", 
+            "endTime": 2.1882490000025427, 
+            "frame": 3, 
+            "id": "pchunk_3_33", 
+            "isFragment": false, 
+            "startColumn": 33, 
+            "startRow": 4082, 
+            "startTag": "script", 
+            "startTime": 2.188185999999405, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "comp_27", 
+                "pchunk_3_35"
+            ], 
+            "docUrl": "http://www.nike.com/", 
+            "endColumn": 472, 
+            "endRow": 4100, 
+            "endTag": "script", 
+            "endTime": 2.199678999990283, 
+            "frame": 3, 
+            "id": "pchunk_3_34", 
+            "isFragment": false, 
+            "startColumn": 68, 
+            "startRow": 4091, 
+            "startTag": "div", 
+            "startTime": 2.1994720000002417, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "comp_6_0"
+            ], 
+            "docUrl": "http://www.nike.com/", 
+            "endColumn": 7, 
+            "endRow": 4102, 
+            "endTag": "html", 
+            "endTime": 2.1998850000018138, 
+            "frame": 3, 
+            "id": "pchunk_3_35", 
+            "isFragment": false, 
+            "startColumn": 7, 
+            "startRow": 4101, 
+            "startTag": "body", 
+            "startTime": 2.199877999999444, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_3_0", 
+                "dchunk_3_1"
+            ], 
+            "id": "dchunk_3_0", 
+            "offset": 39, 
+            "resource": "download_0", 
+            "size": 2049, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_3_1", 
+                "dchunk_3_2"
+            ], 
+            "id": "dchunk_3_1", 
+            "offset": 2088, 
+            "resource": "download_0", 
+            "size": 10604, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_3_2", 
+                "dchunk_3_3"
+            ], 
+            "id": "dchunk_3_2", 
+            "offset": 12692, 
+            "resource": "download_0", 
+            "size": 84, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_3_3", 
+                "dchunk_3_4"
+            ], 
+            "id": "dchunk_3_3", 
+            "offset": 12776, 
+            "resource": "download_0", 
+            "size": 9, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_3_5", 
+                "pchunk_3_4"
+            ], 
+            "id": "dchunk_3_4", 
+            "offset": 12785, 
+            "resource": "download_0", 
+            "size": 9, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_3_6", 
+                "pchunk_3_5"
+            ], 
+            "id": "dchunk_3_5", 
+            "offset": 12794, 
+            "resource": "download_0", 
+            "size": 14493, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_3_7", 
+                "pchunk_3_6"
+            ], 
+            "id": "dchunk_3_6", 
+            "offset": 27287, 
+            "resource": "download_0", 
+            "size": 10419, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_3_7", 
+                "dchunk_3_8"
+            ], 
+            "id": "dchunk_3_7", 
+            "offset": 37706, 
+            "resource": "download_0", 
+            "size": 120, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_3_8", 
+                "dchunk_3_9"
+            ], 
+            "id": "dchunk_3_8", 
+            "offset": 37826, 
+            "resource": "download_0", 
+            "size": 2631, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_3_9", 
+                "dchunk_3_10"
+            ], 
+            "id": "dchunk_3_9", 
+            "offset": 40457, 
+            "resource": "download_0", 
+            "size": 0, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_3_10", 
+                "dchunk_3_11"
+            ], 
+            "id": "dchunk_3_10", 
+            "offset": 40457, 
+            "resource": "download_0", 
+            "size": 0, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_3_11", 
+                "dchunk_3_12"
+            ], 
+            "id": "dchunk_3_11", 
+            "offset": 40457, 
+            "resource": "download_0", 
+            "size": 0, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_3_12", 
+                "dchunk_3_13"
+            ], 
+            "id": "dchunk_3_12", 
+            "offset": 40457, 
+            "resource": "download_0", 
+            "size": 0, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_3_14", 
+                "pchunk_3_13"
+            ], 
+            "id": "dchunk_3_13", 
+            "offset": 40457, 
+            "resource": "download_0", 
+            "size": 109, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_3_15", 
+                "pchunk_3_14"
+            ], 
+            "id": "dchunk_3_14", 
+            "offset": 40566, 
+            "resource": "download_0", 
+            "size": 3473, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_3_16", 
+                "pchunk_3_15"
+            ], 
+            "id": "dchunk_3_15", 
+            "offset": 44039, 
+            "resource": "download_0", 
+            "size": 78, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_3_17", 
+                "pchunk_3_16"
+            ], 
+            "id": "dchunk_3_16", 
+            "offset": 44117, 
+            "resource": "download_0", 
+            "size": 9, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_3_18", 
+                "pchunk_3_17"
+            ], 
+            "id": "dchunk_3_17", 
+            "offset": 44126, 
+            "resource": "download_0", 
+            "size": 9, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_3_18", 
+                "dchunk_3_19"
+            ], 
+            "id": "dchunk_3_18", 
+            "offset": 44135, 
+            "resource": "download_0", 
+            "size": 3266, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_3_19", 
+                "dchunk_3_20"
+            ], 
+            "id": "dchunk_3_19", 
+            "offset": 47401, 
+            "resource": "download_0", 
+            "size": 13217, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_3_21", 
+                "pchunk_3_20"
+            ], 
+            "id": "dchunk_3_20", 
+            "offset": 60618, 
+            "resource": "download_0", 
+            "size": 177804, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_3_22", 
+                "pchunk_3_21"
+            ], 
+            "id": "dchunk_3_21", 
+            "offset": 238422, 
+            "resource": "download_0", 
+            "size": 3089, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_3_23", 
+                "pchunk_3_22"
+            ], 
+            "id": "dchunk_3_22", 
+            "offset": 241511, 
+            "resource": "download_0", 
+            "size": 1208, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_3_24", 
+                "pchunk_3_23"
+            ], 
+            "id": "dchunk_3_23", 
+            "offset": 242719, 
+            "resource": "download_0", 
+            "size": 9021, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_3_24", 
+                "dchunk_3_25"
+            ], 
+            "id": "dchunk_3_24", 
+            "offset": 251740, 
+            "resource": "download_0", 
+            "size": 5257, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_3_25", 
+                "dchunk_3_26"
+            ], 
+            "id": "dchunk_3_25", 
+            "offset": 256997, 
+            "resource": "download_0", 
+            "size": 15068, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_3_26", 
+                "dchunk_3_27"
+            ], 
+            "id": "dchunk_3_26", 
+            "offset": 272065, 
+            "resource": "download_0", 
+            "size": 7551, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_3_28", 
+                "pchunk_3_27"
+            ], 
+            "id": "dchunk_3_27", 
+            "offset": 279616, 
+            "resource": "download_0", 
+            "size": 4969, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_3_29", 
+                "pchunk_3_28"
+            ], 
+            "id": "dchunk_3_28", 
+            "offset": 284585, 
+            "resource": "download_0", 
+            "size": 4627, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_3_29", 
+                "dchunk_3_30"
+            ], 
+            "id": "dchunk_3_29", 
+            "offset": 289212, 
+            "resource": "download_0", 
+            "size": 4698, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_3_30", 
+                "dchunk_3_31"
+            ], 
+            "id": "dchunk_3_30", 
+            "offset": 293910, 
+            "resource": "download_0", 
+            "size": 9, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_3_31", 
+                "dchunk_3_32"
+            ], 
+            "id": "dchunk_3_31", 
+            "offset": 293919, 
+            "resource": "download_0", 
+            "size": 9, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_3_32", 
+                "dchunk_3_33"
+            ], 
+            "id": "dchunk_3_32", 
+            "offset": 293928, 
+            "resource": "download_0", 
+            "size": 9, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_3_33", 
+                "dchunk_3_34"
+            ], 
+            "id": "dchunk_3_33", 
+            "offset": 293937, 
+            "resource": "download_0", 
+            "size": 404, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_3_35", 
+                "pchunk_3_34"
+            ], 
+            "id": "dchunk_3_34", 
+            "offset": 294341, 
+            "resource": "download_0", 
+            "size": 1044, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_3_35"
+            ], 
+            "id": "dchunk_3_35", 
+            "offset": 295385, 
+            "resource": "download_0", 
+            "size": 9, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_1", 
+                "comp_77"
+            ], 
+            "docUrl": "https://s3.nikecdn.com/unite/session.html", 
+            "endColumn": 13, 
+            "endRow": 103, 
+            "endTag": "script", 
+            "endTime": 3.669828999998572, 
+            "frame": 2, 
+            "id": "pchunk_2_0", 
+            "isFragment": false, 
+            "startColumn": 6, 
+            "startRow": 1, 
+            "startTag": "html", 
+            "startTime": 3.6697060000005877, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "comp_78"
+            ], 
+            "docUrl": "https://s3.nikecdn.com/unite/session.html", 
+            "endColumn": 7, 
+            "endRow": 109, 
+            "endTag": "html", 
+            "endTime": 3.673665999998775, 
+            "frame": 2, 
+            "id": "pchunk_2_1", 
+            "isFragment": false, 
+            "startColumn": 9, 
+            "startRow": 105, 
+            "startTag": "head", 
+            "startTime": 3.6736180000007153, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_0", 
+                "dchunk_2_1"
+            ], 
+            "id": "dchunk_2_0", 
+            "offset": 22, 
+            "resource": "download_45", 
+            "size": 4134, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_1"
+            ], 
+            "id": "dchunk_2_1", 
+            "offset": 4156, 
+            "resource": "download_45", 
+            "size": 28, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "download_41", 
+                "pchunk_1_1"
+            ], 
+            "docUrl": "http://store.nike.com/common/content/endpoint.html#xdm_e=http%3A%2F%2Fwww.nike.com&xdm_c=default5661&xdm_p=1", 
+            "endColumn": 17, 
+            "endRow": 6, 
+            "endTag": "script", 
+            "endTime": 3.280894999999873, 
+            "frame": 1, 
+            "id": "pchunk_1_0", 
+            "isFragment": false, 
+            "startColumn": 6, 
+            "startRow": 1, 
+            "startTag": "html", 
+            "startTime": 3.28071799999816, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "comp_43", 
+                "pchunk_1_2"
+            ], 
+            "docUrl": "http://store.nike.com/common/content/endpoint.html#xdm_e=http%3A%2F%2Fwww.nike.com&xdm_c=default5661&xdm_p=1", 
+            "endColumn": 17, 
+            "endRow": 10, 
+            "endTag": "script", 
+            "endTime": 3.521723000001657, 
+            "frame": 1, 
+            "id": "pchunk_1_1", 
+            "isFragment": false, 
+            "startColumn": 39, 
+            "startRow": 7, 
+            "startTag": "script", 
+            "startTime": 3.5216790000013134, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "comp_44", 
+                "pchunk_1_3"
+            ], 
+            "docUrl": "http://store.nike.com/common/content/endpoint.html#xdm_e=http%3A%2F%2Fwww.nike.com&xdm_c=default5661&xdm_p=1", 
+            "endColumn": 17, 
+            "endRow": 245, 
+            "endTag": "script", 
+            "endTime": 3.522015000002284, 
+            "frame": 1, 
+            "id": "pchunk_1_2", 
+            "isFragment": false, 
+            "startColumn": 39, 
+            "startRow": 11, 
+            "startTag": "script", 
+            "startTime": 3.521993999998813, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "comp_45"
+            ], 
+            "docUrl": "http://store.nike.com/common/content/endpoint.html#xdm_e=http%3A%2F%2Fwww.nike.com&xdm_c=default5661&xdm_p=1", 
+            "endColumn": 7, 
+            "endRow": 249, 
+            "endTag": "html", 
+            "endTime": 3.5246059999990393, 
+            "frame": 1, 
+            "id": "pchunk_1_3", 
+            "isFragment": false, 
+            "startColumn": 11, 
+            "startRow": 246, 
+            "startTag": "head", 
+            "startTime": 3.524519999999029, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_1_1", 
+                "pchunk_1_0"
+            ], 
+            "id": "dchunk_1_0", 
+            "offset": 22, 
+            "resource": "download_38", 
+            "size": 276, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_1_2", 
+                "pchunk_1_1"
+            ], 
+            "id": "dchunk_1_1", 
+            "offset": 298, 
+            "resource": "download_38", 
+            "size": 129, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_1_3", 
+                "pchunk_1_2"
+            ], 
+            "id": "dchunk_1_2", 
+            "offset": 427, 
+            "resource": "download_38", 
+            "size": 10580, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_3"
+            ], 
+            "id": "dchunk_1_3", 
+            "offset": 11007, 
+            "resource": "download_38", 
+            "size": 31, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "download_42", 
+                "pchunk_0_1"
+            ], 
+            "docUrl": "https://secure-store.nike.com/common/content/endpoint.html#xdm_e=http%3A%2F%2Fwww.nike.com&xdm_c=default5660&xdm_p=1", 
+            "endColumn": 17, 
+            "endRow": 6, 
+            "endTag": "script", 
+            "endTime": 3.286995999991632, 
+            "frame": 0, 
+            "id": "pchunk_0_0", 
+            "isFragment": false, 
+            "startColumn": 6, 
+            "startRow": 1, 
+            "startTag": "html", 
+            "startTime": 3.2868019999987155, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "comp_48", 
+                "pchunk_0_2"
+            ], 
+            "docUrl": "https://secure-store.nike.com/common/content/endpoint.html#xdm_e=http%3A%2F%2Fwww.nike.com&xdm_c=default5660&xdm_p=1", 
+            "endColumn": 17, 
+            "endRow": 10, 
+            "endTag": "script", 
+            "endTime": 3.5320669999964593, 
+            "frame": 0, 
+            "id": "pchunk_0_1", 
+            "isFragment": false, 
+            "startColumn": 39, 
+            "startRow": 7, 
+            "startTag": "script", 
+            "startTime": 3.5320429999992484, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "comp_49", 
+                "pchunk_0_3"
+            ], 
+            "docUrl": "https://secure-store.nike.com/common/content/endpoint.html#xdm_e=http%3A%2F%2Fwww.nike.com&xdm_c=default5660&xdm_p=1", 
+            "endColumn": 17, 
+            "endRow": 245, 
+            "endTag": "script", 
+            "endTime": 3.532194999996136, 
+            "frame": 0, 
+            "id": "pchunk_0_2", 
+            "isFragment": false, 
+            "startColumn": 39, 
+            "startRow": 11, 
+            "startTag": "script", 
+            "startTime": 3.532179999998334, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "comp_50"
+            ], 
+            "docUrl": "https://secure-store.nike.com/common/content/endpoint.html#xdm_e=http%3A%2F%2Fwww.nike.com&xdm_c=default5660&xdm_p=1", 
+            "endColumn": 7, 
+            "endRow": 249, 
+            "endTag": "html", 
+            "endTime": 3.5344549999936135, 
+            "frame": 0, 
+            "id": "pchunk_0_3", 
+            "isFragment": false, 
+            "startColumn": 11, 
+            "startRow": 246, 
+            "startTag": "head", 
+            "startTime": 3.5343659999998636, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_1", 
+                "pchunk_0_0"
+            ], 
+            "id": "dchunk_0_0", 
+            "offset": 22, 
+            "resource": "download_40", 
+            "size": 276, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_2", 
+                "pchunk_0_1"
+            ], 
+            "id": "dchunk_0_1", 
+            "offset": 298, 
+            "resource": "download_40", 
+            "size": 129, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_3", 
+                "pchunk_0_2"
+            ], 
+            "id": "dchunk_0_2", 
+            "offset": 427, 
+            "resource": "download_40", 
+            "size": 10580, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_3"
+            ], 
+            "id": "dchunk_0_3", 
+            "offset": 11007, 
+            "resource": "download_40", 
+            "size": 31, 
+            "type": "download_chunk"
+        }
+    ], 
+    "frames": [
+        {
+            "id": 3, 
+            "subframes": [
+                2, 
+                1, 
+                0
+            ], 
+            "url": "http://www.nike.com/"
+        }, 
+        {
+            "id": 2, 
+            "parent": 3, 
+            "subframes": [], 
+            "url": "https://s3.nikecdn.com/unite/session.html"
+        }, 
+        {
+            "id": 1, 
+            "parent": 3, 
+            "subframes": [], 
+            "url": "http://store.nike.com/common/content/endpoint.html#xdm_e=http%3A%2F%2Fwww.nike.com&xdm_c=default5661&xdm_p=1"
+        }, 
+        {
+            "id": 0, 
+            "parent": 3, 
+            "subframes": [], 
+            "url": "https://secure-store.nike.com/common/content/endpoint.html#xdm_e=http%3A%2F%2Fwww.nike.com&xdm_c=default5660&xdm_p=1"
+        }
+    ], 
+    "loadEvent": "comp_131", 
+    "name": "http://www.nike.com/", 
+    "root_activity": "download_0"
+}

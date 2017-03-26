@@ -1,0 +1,2595 @@
+{
+    "DOMContentLoadedEvent": "comp_17", 
+    "activities": [
+        {
+            "cached": true, 
+            "children": [
+                "comp_42"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_47", 
+            "mimeType": "", 
+            "priority": {
+                "cp": 47, 
+                "cp-plus": 47, 
+                "depth": 14, 
+                "mime-type": 14
+            }, 
+            "receiveTime": 0.6038699999990058, 
+            "sentTime": 0.6038699999990058, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "http://www.apple.com/wss/fonts/Myriad-Set-Pro/v2/myriad-set-pro_bold.ttf"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_42"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_36", 
+            "mimeType": "image/jpeg", 
+            "priority": {
+                "cp": 13, 
+                "cp-plus": 14, 
+                "depth": 42, 
+                "mime-type": 42
+            }, 
+            "receiveTime": 2.3695410000000265, 
+            "sentTime": 0.9133439999986877, 
+            "size": 16056, 
+            "type": "resource", 
+            "url": "http://images.apple.com/v/home/cz/images/shared/promos/accessibility_medium.jpg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "dchunk_0_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_0", 
+            "mimeType": "text/html", 
+            "priority": {
+                "cp": 1, 
+                "cp-plus": 1, 
+                "depth": 1, 
+                "mime-type": 1
+            }, 
+            "receiveTime": 0.4236109999983455, 
+            "sentTime": 0.0, 
+            "size": 36608, 
+            "type": "resource", 
+            "url": "http://www.apple.com/"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_42"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_40", 
+            "mimeType": "application/font-woff", 
+            "priority": {
+                "cp": 19, 
+                "cp-plus": 19, 
+                "depth": 46, 
+                "mime-type": 46
+            }, 
+            "receiveTime": 2.0139989999988757, 
+            "sentTime": 1.3424919999997655, 
+            "size": 98104, 
+            "type": "resource", 
+            "url": "http://www.apple.com/wss/fonts/Myriad-Set-Pro/v2/myriad-set-pro_medium.woff"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_42"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_42", 
+            "mimeType": "application/font-woff", 
+            "priority": {
+                "cp": 41, 
+                "cp-plus": 41, 
+                "depth": 48, 
+                "mime-type": 48
+            }, 
+            "receiveTime": 1.6832699999995384, 
+            "sentTime": 1.3430559999997058, 
+            "size": 5556, 
+            "type": "resource", 
+            "url": "http://www.apple.com/wss/fonts/Apple-Icons/v1/appleicons_text.woff"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_6", 
+                "comp_42"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_11", 
+            "mimeType": "application/x-javascript", 
+            "priority": {
+                "cp": 2, 
+                "cp-plus": 2, 
+                "depth": 8, 
+                "mime-type": 8
+            }, 
+            "receiveTime": 0.6952329999985523, 
+            "sentTime": 0.4233269999986078, 
+            "size": 81208, 
+            "type": "resource", 
+            "url": "http://images.apple.com/v/home/cz/built/scripts/head.built.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_42"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_18", 
+            "mimeType": "image/svg+xml", 
+            "priority": {
+                "cp": 32, 
+                "cp-plus": 32, 
+                "depth": 24, 
+                "mime-type": 24
+            }, 
+            "receiveTime": 1.1676529999986087, 
+            "sentTime": 0.727735999998913, 
+            "size": 464, 
+            "type": "resource", 
+            "url": "http://www.apple.com/ac/globalnav/2.0/en_US/images/globalnav/bag/image_large.svg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_42"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_29", 
+            "mimeType": "image/jpeg", 
+            "priority": {
+                "cp": 37, 
+                "cp-plus": 37, 
+                "depth": 35, 
+                "mime-type": 35
+            }, 
+            "receiveTime": 1.348465999999462, 
+            "sentTime": 0.9129729999986012, 
+            "size": 20000, 
+            "type": "resource", 
+            "url": "http://images.apple.com/v/home/cz/images/shared/promos/nike_watch_medium.jpg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_42"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_43", 
+            "mimeType": "application/font-woff", 
+            "priority": {
+                "cp": 21, 
+                "cp-plus": 21, 
+                "depth": 49, 
+                "mime-type": 49
+            }, 
+            "receiveTime": 1.970841999998811, 
+            "sentTime": 1.3433749999985594, 
+            "size": 5504, 
+            "type": "resource", 
+            "url": "http://www.apple.com/wss/fonts/Apple-Icons/v1/appleicons_thin.woff"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_42"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_37", 
+            "mimeType": "application/font-woff", 
+            "priority": {
+                "cp": 17, 
+                "cp-plus": 17, 
+                "depth": 43, 
+                "mime-type": 43
+            }, 
+            "receiveTime": 2.044699000000037, 
+            "sentTime": 1.3424099999992904, 
+            "size": 97772, 
+            "type": "resource", 
+            "url": "http://www.apple.com/wss/fonts/Myriad-Set-Pro/v2/myriad-set-pro_text.woff"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_42"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_31", 
+            "mimeType": "image/jpeg", 
+            "priority": {
+                "cp": 23, 
+                "cp-plus": 23, 
+                "depth": 37, 
+                "mime-type": 37
+            }, 
+            "receiveTime": 1.4569489999994403, 
+            "sentTime": 0.912743999999293, 
+            "size": 18630, 
+            "type": "resource", 
+            "url": "http://images.apple.com/v/home/cz/images/shared/promos/apple_tv_medium.jpg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_42"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_21", 
+            "mimeType": "image/svg+xml", 
+            "priority": {
+                "cp": 30, 
+                "cp-plus": 30, 
+                "depth": 27, 
+                "mime-type": 27
+            }, 
+            "receiveTime": 1.1717769999995653, 
+            "sentTime": 0.7265269999988959, 
+            "size": 3347, 
+            "type": "resource", 
+            "url": "http://www.apple.com/ac/globalnav/2.0/en_US/images/globalnav/links/music/image_large.svg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_42"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_15", 
+            "mimeType": "image/svg+xml", 
+            "priority": {
+                "cp": 35, 
+                "cp-plus": 35, 
+                "depth": 21, 
+                "mime-type": 21
+            }, 
+            "receiveTime": 1.161588999997548, 
+            "sentTime": 0.7254329999996116, 
+            "size": 3382, 
+            "type": "resource", 
+            "url": "http://www.apple.com/ac/globalnav/2.0/en_US/images/globalnav/links/iphone/image_large.svg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_42"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_34", 
+            "mimeType": "application/font-woff", 
+            "priority": {
+                "cp": 45, 
+                "cp-plus": 45, 
+                "depth": 40, 
+                "mime-type": 40
+            }, 
+            "receiveTime": 1.626243999999133, 
+            "sentTime": 1.3425339999994321, 
+            "size": 94980, 
+            "type": "resource", 
+            "url": "http://www.apple.com/wss/fonts/Myriad-Set-Pro/v2/myriad-set-pro_thin.woff"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_42", 
+                "comp_2"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_3", 
+            "mimeType": "text/css", 
+            "priority": {
+                "cp": 6, 
+                "cp-plus": 6, 
+                "depth": 4, 
+                "mime-type": 4
+            }, 
+            "receiveTime": 0.4791159999986121, 
+            "sentTime": 0.42197699999996985, 
+            "size": 87389, 
+            "type": "resource", 
+            "url": "http://www.apple.com/ac/localnav/3.0/styles/ac-localnav.built.css"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_42"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_35", 
+            "mimeType": "application/font-woff", 
+            "priority": {
+                "cp": 46, 
+                "cp-plus": 46, 
+                "depth": 41, 
+                "mime-type": 41
+            }, 
+            "receiveTime": 1.607332999999926, 
+            "sentTime": 1.342650999999023, 
+            "size": 93604, 
+            "type": "resource", 
+            "url": "http://www.apple.com/wss/fonts/Myriad-Set-Pro/v2/myriad-set-pro_ultralight.woff"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_42"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_27", 
+            "mimeType": "image/png", 
+            "priority": {
+                "cp": 42, 
+                "cp-plus": 42, 
+                "depth": 33, 
+                "mime-type": 33
+            }, 
+            "receiveTime": 1.2453669999977137, 
+            "sentTime": 0.9117139999998471, 
+            "size": 896, 
+            "type": "resource", 
+            "url": "http://images.apple.com/v/home/cz/images/shared/logo_iphone_large.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_42"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_48", 
+            "mimeType": "", 
+            "priority": {
+                "cp": 48, 
+                "cp-plus": 48, 
+                "depth": 15, 
+                "mime-type": 15
+            }, 
+            "receiveTime": 0.6038859999989654, 
+            "sentTime": 0.6038859999989654, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "http://www.apple.com/wss/fonts/Myriad-Set-Pro/v2/myriad-set-pro_bold-italic.woff"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_42", 
+                "comp_1"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_2", 
+            "mimeType": "text/css", 
+            "priority": {
+                "cp": 7, 
+                "cp-plus": 7, 
+                "depth": 3, 
+                "mime-type": 3
+            }, 
+            "receiveTime": 0.47023799999988114, 
+            "sentTime": 0.42171199999938835, 
+            "size": 56634, 
+            "type": "resource", 
+            "url": "http://www.apple.com/ac/globalfooter/2.0/en_US/styles/ac-globalfooter.built.css"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_42", 
+                "comp_4"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_5", 
+            "mimeType": "text/css", 
+            "priority": {
+                "cp": 4, 
+                "cp-plus": 4, 
+                "depth": 6, 
+                "mime-type": 6
+            }, 
+            "receiveTime": 0.4866829999991751, 
+            "sentTime": 0.4228389999989304, 
+            "size": 4212, 
+            "type": "resource", 
+            "url": "http://www.apple.com/wss/fonts/?family=Apple+Icons&v=1"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_42"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_26", 
+            "mimeType": "image/png", 
+            "priority": {
+                "cp": 43, 
+                "cp-plus": 43, 
+                "depth": 32, 
+                "mime-type": 32
+            }, 
+            "receiveTime": 1.2449779999988095, 
+            "sentTime": 0.912265999999363, 
+            "size": 1503, 
+            "type": "resource", 
+            "url": "http://images.apple.com/v/home/cz/images/shared/logo_event_large.png"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_42"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_13", 
+            "mimeType": "image/svg+xml", 
+            "priority": {
+                "cp": 38, 
+                "cp-plus": 38, 
+                "depth": 19, 
+                "mime-type": 19
+            }, 
+            "receiveTime": 1.1572349999987637, 
+            "sentTime": 0.7236839999986842, 
+            "size": 1860, 
+            "type": "resource", 
+            "url": "http://www.apple.com/ac/globalnav/2.0/en_US/images/globalnav/apple/image_large.svg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_42", 
+                "comp_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_1", 
+            "mimeType": "text/css", 
+            "priority": {
+                "cp": 8, 
+                "cp-plus": 8, 
+                "depth": 2, 
+                "mime-type": 2
+            }, 
+            "receiveTime": 0.45876900000075693, 
+            "sentTime": 0.421290999998746, 
+            "size": 84711, 
+            "type": "resource", 
+            "url": "http://www.apple.com/ac/globalnav/2.0/en_US/styles/ac-globalnav.built.css"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_42"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_25", 
+            "mimeType": "image/jpeg", 
+            "priority": {
+                "cp": 16, 
+                "cp-plus": 16, 
+                "depth": 31, 
+                "mime-type": 31
+            }, 
+            "receiveTime": 1.6255789999995613, 
+            "sentTime": 0.911430999998629, 
+            "size": 105258, 
+            "type": "resource", 
+            "url": "http://images.apple.com/v/home/cz/images/gallery/macbookpro_portrait_medium.jpg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_42"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_32", 
+            "mimeType": "image/jpeg", 
+            "priority": {
+                "cp": 39, 
+                "cp-plus": 39, 
+                "depth": 38, 
+                "mime-type": 38
+            }, 
+            "receiveTime": 1.341800999998668, 
+            "sentTime": 0.9131539999998495, 
+            "size": 12327, 
+            "type": "resource", 
+            "url": "http://images.apple.com/v/home/cz/images/shared/promos/airpods_medium.jpg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_42"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_17", 
+            "mimeType": "image/svg+xml", 
+            "priority": {
+                "cp": 33, 
+                "cp-plus": 33, 
+                "depth": 23, 
+                "mime-type": 23
+            }, 
+            "receiveTime": 1.1648139999979321, 
+            "sentTime": 0.726224000000002, 
+            "size": 1112, 
+            "type": "resource", 
+            "url": "http://www.apple.com/ac/globalnav/2.0/en_US/images/globalnav/links/tv/image_large.svg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_42"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_14", 
+            "mimeType": "image/svg+xml", 
+            "priority": {
+                "cp": 36, 
+                "cp-plus": 36, 
+                "depth": 20, 
+                "mime-type": 20
+            }, 
+            "receiveTime": 1.160368999999264, 
+            "sentTime": 0.7244929999997112, 
+            "size": 2063, 
+            "type": "resource", 
+            "url": "http://www.apple.com/ac/globalnav/2.0/en_US/images/globalnav/links/mac/image_large.svg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_42", 
+                "comp_10"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_6", 
+            "mimeType": "application/x-javascript", 
+            "priority": {
+                "cp": 11, 
+                "cp-plus": 11, 
+                "depth": 11, 
+                "mime-type": 11
+            }, 
+            "receiveTime": 0.9801109999989421, 
+            "sentTime": 0.9079019999990123, 
+            "size": 412, 
+            "type": "resource", 
+            "url": "http://www.apple.com/metrics/ac-analytics/1.1/scripts/auto-init.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_42", 
+                "comp_11"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_23", 
+            "mimeType": "application/json", 
+            "priority": {
+                "cp": 40, 
+                "cp-plus": 40, 
+                "depth": 29, 
+                "mime-type": 29
+            }, 
+            "receiveTime": 1.1751879999992525, 
+            "sentTime": 0.819283999999243, 
+            "size": 137, 
+            "type": "resource", 
+            "url": "http://www.apple.com/us/shop/bag/status?apikey=SFX9YPYY9PPXCU9KH"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_42"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_19", 
+            "mimeType": "image/svg+xml", 
+            "priority": {
+                "cp": 31, 
+                "cp-plus": 31, 
+                "depth": 25, 
+                "mime-type": 25
+            }, 
+            "receiveTime": 1.1688279999998485, 
+            "sentTime": 0.7270099999986996, 
+            "size": 4200, 
+            "type": "resource", 
+            "url": "http://www.apple.com/ac/globalnav/2.0/en_US/images/globalnav/links/support/image_large.svg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_42"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_38", 
+            "mimeType": "application/font-woff", 
+            "priority": {
+                "cp": 20, 
+                "cp-plus": 20, 
+                "depth": 44, 
+                "mime-type": 44
+            }, 
+            "receiveTime": 2.0137070000000676, 
+            "sentTime": 1.3425849999985076, 
+            "size": 94624, 
+            "type": "resource", 
+            "url": "http://www.apple.com/wss/fonts/Myriad-Set-Pro/v2/myriad-set-pro_extrathin.woff"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_42"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_44", 
+            "mimeType": "application/font-woff", 
+            "priority": {
+                "cp": 24, 
+                "cp-plus": 24, 
+                "depth": 50, 
+                "mime-type": 50
+            }, 
+            "receiveTime": 1.8559129999994184, 
+            "sentTime": 1.3434659999984433, 
+            "size": 5504, 
+            "type": "resource", 
+            "url": "http://www.apple.com/wss/fonts/Apple-Icons/v1/appleicons_ultralight.woff"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_42", 
+                "comp_7_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_7", 
+            "mimeType": "application/x-javascript", 
+            "priority": {
+                "cp": 9, 
+                "cp-plus": 9, 
+                "depth": 9, 
+                "mime-type": 9
+            }, 
+            "receiveTime": 0.8592419999986305, 
+            "sentTime": 0.7449870000000374, 
+            "size": 145255, 
+            "type": "resource", 
+            "url": "http://www.apple.com/ac/globalnav/2.0/en_US/scripts/ac-globalnav.built.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_42"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_30", 
+            "mimeType": "image/jpeg", 
+            "priority": {
+                "cp": 14, 
+                "cp-plus": 15, 
+                "depth": 36, 
+                "mime-type": 36
+            }, 
+            "receiveTime": 2.3585320000001957, 
+            "sentTime": 0.912477999998373, 
+            "size": 187639, 
+            "type": "resource", 
+            "url": "http://images.apple.com/v/home/cz/images/gallery/event_medium.jpg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_42", 
+                "comp_9"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_8", 
+            "mimeType": "application/x-javascript", 
+            "priority": {
+                "cp": 10, 
+                "cp-plus": 10, 
+                "depth": 10, 
+                "mime-type": 10
+            }, 
+            "receiveTime": 1.003244999999879, 
+            "sentTime": 0.8195409999989351, 
+            "size": 287658, 
+            "type": "resource", 
+            "url": "http://www.apple.com/metrics/ac-analytics/1.1/scripts/ac-analytics.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_42"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_33", 
+            "mimeType": "image/png", 
+            "priority": {
+                "cp": 27, 
+                "cp-plus": 27, 
+                "depth": 39, 
+                "mime-type": 39
+            }, 
+            "receiveTime": 1.3731040000002395, 
+            "sentTime": 0.9229619999987335, 
+            "size": 582, 
+            "type": "resource", 
+            "url": "http://images.apple.com/ac/flags/1/images/us/16.png"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_22"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_45", 
+            "mimeType": "image/gif", 
+            "priority": {
+                "cp": 22, 
+                "cp-plus": 22, 
+                "depth": 51, 
+                "mime-type": 51
+            }, 
+            "receiveTime": 2.9700559999982943, 
+            "sentTime": 2.4163549999993847, 
+            "size": 43, 
+            "type": "resource", 
+            "url": "http://metrics.apple.com/b/ss/appleglobal,applehome,applestoreww,applestoreamr,applestoreus/1/H.27/s4331778456456?AQB=1&ndh=1&t=8%2F10%2F2016%200%3A23%3A30%202%200&fid=6408BB13C7D06D48-110DF02984CF820F&pageName=apple%20-%20index%2Ftab%20%28us%29&g=http%3A%2F%2Fwww.apple.com%2F&cc=USD&ch=www.us.homepage&server=new%20approach%20ac-analytics&v3=aos%3A%20us&c4=D%3Dg&c5=linux%20x86_64&c9=10.5.x&c19=aos%3A%20us%3A%20apple%20-%20index%2Ftab%20%28us%29&c20=aos%3A%20us&c25=direct%20entry&c48=1&c49=D%3D2AC4106F851923F2-4000060220000D41&c50=homepage%3D9&v54=http%3A%2F%2Fwww.apple.com%2F&h1=www.us.homepage&s=1440x900&c=24&j=1.6&v=Y&k=Y&bw=934&bh=811&p=Remoting%20Viewer%3BNative%20Client%3BShockwave%20Flash%3BiTunes%20Application%20Detector%3BVLC%20Multimedia%20Plugin%20%28compatible%20Totem%203.0.1%29%3BWindows%20Media%20Player%20Plug-in%2010%20%28compatible%3B%20Totem%29%3BDivX%C2%AE%20Web%20Player%3BQuickTime%20Plug-in%207.6.6%3B&AQE=1"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_15", 
+                "comp_42"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_12", 
+            "mimeType": "application/x-javascript", 
+            "priority": {
+                "cp": 15, 
+                "cp-plus": 13, 
+                "depth": 13, 
+                "mime-type": 13
+            }, 
+            "receiveTime": 2.0156759999990754, 
+            "sentTime": 1.2556759999988572, 
+            "size": 242900, 
+            "type": "resource", 
+            "url": "http://images.apple.com/v/home/cz/built/scripts/main.built.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_42"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_28", 
+            "mimeType": "image/jpeg", 
+            "priority": {
+                "cp": 25, 
+                "cp-plus": 25, 
+                "depth": 34, 
+                "mime-type": 34
+            }, 
+            "receiveTime": 1.3698659999990923, 
+            "sentTime": 0.9119439999994938, 
+            "size": 51490, 
+            "type": "resource", 
+            "url": "http://images.apple.com/v/home/cz/images/gallery/iphone_square_large.jpg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_42"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_22", 
+            "mimeType": "image/svg+xml", 
+            "priority": {
+                "cp": 28, 
+                "cp-plus": 28, 
+                "depth": 28, 
+                "mime-type": 28
+            }, 
+            "receiveTime": 1.172947999999451, 
+            "sentTime": 0.72732299999916, 
+            "size": 1031, 
+            "type": "resource", 
+            "url": "http://www.apple.com/ac/globalnav/2.0/en_US/images/globalnav/search/image_large.svg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_42"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_39", 
+            "mimeType": "application/font-woff", 
+            "priority": {
+                "cp": 18, 
+                "cp-plus": 18, 
+                "depth": 45, 
+                "mime-type": 45
+            }, 
+            "receiveTime": 2.0449829999997746, 
+            "sentTime": 1.3427739999988262, 
+            "size": 100100, 
+            "type": "resource", 
+            "url": "http://www.apple.com/wss/fonts/Myriad-Set-Pro/v2/myriad-set-pro_semibold.woff"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_42"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_49", 
+            "mimeType": "", 
+            "priority": {
+                "cp": 49, 
+                "cp-plus": 49, 
+                "depth": 16, 
+                "mime-type": 16
+            }, 
+            "receiveTime": 0.6038909999988391, 
+            "sentTime": 0.6038909999988391, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "http://www.apple.com/wss/fonts/Myriad-Set-Pro/v2/myriad-set-pro_bold-italic.ttf"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_42"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_41", 
+            "mimeType": "application/font-woff", 
+            "priority": {
+                "cp": 26, 
+                "cp-plus": 26, 
+                "depth": 47, 
+                "mime-type": 47
+            }, 
+            "receiveTime": 1.7941919999993843, 
+            "sentTime": 1.3429319999995641, 
+            "size": 99664, 
+            "type": "resource", 
+            "url": "http://www.apple.com/wss/fonts/Myriad-Set-Pro/v2/myriad-set-pro_bold.woff"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_42"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_24", 
+            "mimeType": "image/png", 
+            "priority": {
+                "cp": 44, 
+                "cp-plus": 44, 
+                "depth": 30, 
+                "mime-type": 30
+            }, 
+            "receiveTime": 1.2417029999978695, 
+            "sentTime": 0.9110000000000582, 
+            "size": 2692, 
+            "type": "resource", 
+            "url": "http://images.apple.com/v/home/cz/images/shared/logo_macbookpro_large.png"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_42"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_57", 
+            "mimeType": "", 
+            "priority": {
+                "cp": 51, 
+                "cp-plus": 51, 
+                "depth": 18, 
+                "mime-type": 18
+            }, 
+            "receiveTime": 0.6041310000000522, 
+            "sentTime": 0.6041310000000522, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "http://www.apple.com/wss/fonts/Apple-Icons/v1/appleicons_text.ttf"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_14", 
+                "comp_42"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_9", 
+            "mimeType": "application/x-javascript", 
+            "priority": {
+                "cp": 12, 
+                "cp-plus": 12, 
+                "depth": 12, 
+                "mime-type": 12
+            }, 
+            "receiveTime": 1.0401189999993221, 
+            "sentTime": 1.2466679999997723, 
+            "size": 26317, 
+            "type": "resource", 
+            "url": "http://www.apple.com/ac/globalfooter/2.0/en_US/scripts/ac-globalfooter.built.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_42"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_16", 
+            "mimeType": "image/svg+xml", 
+            "priority": {
+                "cp": 34, 
+                "cp-plus": 34, 
+                "depth": 22, 
+                "mime-type": 22
+            }, 
+            "receiveTime": 1.162970999999743, 
+            "sentTime": 0.725918999998612, 
+            "size": 2706, 
+            "type": "resource", 
+            "url": "http://www.apple.com/ac/globalnav/2.0/en_US/images/globalnav/links/watch/image_large.svg"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_42"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_55", 
+            "mimeType": "", 
+            "priority": {
+                "cp": 50, 
+                "cp-plus": 50, 
+                "depth": 17, 
+                "mime-type": 17
+            }, 
+            "receiveTime": 0.6040269999994052, 
+            "sentTime": 0.6040269999994052, 
+            "size": 0, 
+            "type": "resource", 
+            "url": "http://www.apple.com/wss/fonts/Apple-Icons/v1/appleicons_thin.ttf"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_5_0", 
+                "comp_42"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_10", 
+            "mimeType": "text/css", 
+            "priority": {
+                "cp": 3, 
+                "cp-plus": 3, 
+                "depth": 7, 
+                "mime-type": 7
+            }, 
+            "receiveTime": 0.5911629999991419, 
+            "sentTime": 0.4230169999991631, 
+            "size": 108456, 
+            "type": "resource", 
+            "url": "http://images.apple.com/v/home/cz/built/styles/main.built.css"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_42", 
+                "comp_3"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_4", 
+            "mimeType": "text/css", 
+            "priority": {
+                "cp": 5, 
+                "cp-plus": 5, 
+                "depth": 5, 
+                "mime-type": 5
+            }, 
+            "receiveTime": 0.48527699999795004, 
+            "sentTime": 0.4226380000000063, 
+            "size": 9434, 
+            "type": "resource", 
+            "url": "http://www.apple.com/wss/fonts/?family=Myriad+Set+Pro&v=2"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_42"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_20", 
+            "mimeType": "image/svg+xml", 
+            "priority": {
+                "cp": 29, 
+                "cp-plus": 29, 
+                "depth": 26, 
+                "mime-type": 26
+            }, 
+            "receiveTime": 1.1702989999994315, 
+            "sentTime": 0.724832999998398, 
+            "size": 2737, 
+            "type": "resource", 
+            "url": "http://www.apple.com/ac/globalnav/2.0/en_US/images/globalnav/links/ipad/image_large.svg"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "comp_6"
+            ], 
+            "docUrl": "http://www.apple.com/", 
+            "enclosing": "None", 
+            "endTime": 0.46716099999866856, 
+            "evalType": "recalcStyle", 
+            "frame": 0, 
+            "id": "comp_0", 
+            "mode": "dom", 
+            "startTime": 0.4594679999991058, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "http://www.apple.com/ac/globalnav/2.0/en_US/styles/ac-globalnav.built.css"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "comp_6"
+            ], 
+            "docUrl": "http://www.apple.com/", 
+            "enclosing": "None", 
+            "endTime": 0.47417399999903864, 
+            "evalType": "recalcStyle", 
+            "frame": 0, 
+            "id": "comp_1", 
+            "mode": "dom", 
+            "startTime": 0.471029999998791, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "http://www.apple.com/ac/globalfooter/2.0/en_US/styles/ac-globalfooter.built.css"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "comp_6"
+            ], 
+            "docUrl": "http://www.apple.com/", 
+            "enclosing": "None", 
+            "endTime": 0.4849389999999403, 
+            "evalType": "recalcStyle", 
+            "frame": 0, 
+            "id": "comp_2", 
+            "mode": "dom", 
+            "startTime": 0.479881999999634, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "http://www.apple.com/ac/localnav/3.0/styles/ac-localnav.built.css"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "comp_6"
+            ], 
+            "docUrl": "http://www.apple.com/", 
+            "enclosing": "None", 
+            "endTime": 0.48562099999981, 
+            "evalType": "recalcStyle", 
+            "frame": 0, 
+            "id": "comp_3", 
+            "mode": "dom", 
+            "startTime": 0.4852839999985008, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "http://www.apple.com/wss/fonts/?family=Myriad+Set+Pro&v=2"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "comp_6"
+            ], 
+            "docUrl": "http://www.apple.com/", 
+            "enclosing": "None", 
+            "endTime": 0.4873489999990852, 
+            "evalType": "recalcStyle", 
+            "frame": 0, 
+            "id": "comp_4", 
+            "mode": "dom", 
+            "startTime": 0.48697399999946356, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "http://www.apple.com/wss/fonts/?family=Apple+Icons&v=1"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "comp_5_1", 
+                "download_47"
+            ], 
+            "docUrl": "http://www.apple.com/", 
+            "enclosing": "comp_5", 
+            "endTime": 0.6038699999990058, 
+            "evalType": "recalcStyle", 
+            "frame": 0, 
+            "id": "comp_5_0", 
+            "mode": "dom", 
+            "startTime": 0.5917959999987943, 
+            "subtree": "subtree_comp_5", 
+            "type": "eval", 
+            "url": "http://images.apple.com/v/home/cz/built/styles/main.built.css"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "download_48", 
+                "comp_5_2"
+            ], 
+            "docUrl": "http://www.apple.com/", 
+            "enclosing": "comp_5", 
+            "endTime": 0.6038859999989654, 
+            "evalType": "recalcStyle", 
+            "frame": 0, 
+            "id": "comp_5_1", 
+            "mode": "dom", 
+            "startTime": 0.6038699999990058, 
+            "subtree": "subtree_comp_5", 
+            "type": "eval", 
+            "url": "http://images.apple.com/v/home/cz/built/styles/main.built.css"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "download_49", 
+                "comp_5_3"
+            ], 
+            "docUrl": "http://www.apple.com/", 
+            "enclosing": "comp_5", 
+            "endTime": 0.6038909999988391, 
+            "evalType": "recalcStyle", 
+            "frame": 0, 
+            "id": "comp_5_2", 
+            "mode": "dom", 
+            "startTime": 0.6038859999989654, 
+            "subtree": "subtree_comp_5", 
+            "type": "eval", 
+            "url": "http://images.apple.com/v/home/cz/built/styles/main.built.css"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "comp_5_4", 
+                "download_55"
+            ], 
+            "docUrl": "http://www.apple.com/", 
+            "enclosing": "comp_5", 
+            "endTime": 0.6040269999994052, 
+            "evalType": "recalcStyle", 
+            "frame": 0, 
+            "id": "comp_5_3", 
+            "mode": "dom", 
+            "startTime": 0.6038909999988391, 
+            "subtree": "subtree_comp_5", 
+            "type": "eval", 
+            "url": "http://images.apple.com/v/home/cz/built/styles/main.built.css"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "download_57", 
+                "comp_5_5"
+            ], 
+            "docUrl": "http://www.apple.com/", 
+            "enclosing": "comp_5", 
+            "endTime": 0.6041310000000522, 
+            "evalType": "recalcStyle", 
+            "frame": 0, 
+            "id": "comp_5_4", 
+            "mode": "dom", 
+            "startTime": 0.6040269999994052, 
+            "subtree": "subtree_comp_5", 
+            "type": "eval", 
+            "url": "http://images.apple.com/v/home/cz/built/styles/main.built.css"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "download_35", 
+                "download_34", 
+                "download_37", 
+                "download_39", 
+                "download_38", 
+                "download_40", 
+                "download_41", 
+                "download_42", 
+                "download_43", 
+                "download_44", 
+                "comp_6"
+            ], 
+            "docUrl": "http://www.apple.com/", 
+            "enclosing": "comp_5", 
+            "endTime": 0.6068739999991521, 
+            "evalType": "recalcStyle", 
+            "frame": 0, 
+            "id": "comp_5_5", 
+            "mode": "dom", 
+            "startTime": 0.6041310000000522, 
+            "subtree": "subtree_comp_5", 
+            "type": "eval", 
+            "url": "http://images.apple.com/v/home/cz/built/styles/main.built.css"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_7"
+            ], 
+            "docUrl": "http://www.apple.com/", 
+            "enclosing": "None", 
+            "endTime": 0.7221409999983734, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_6", 
+            "mode": "dom", 
+            "startTime": 0.6958679999988817, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "http://images.apple.com/v/home/cz/built/scripts/head.built.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_8"
+            ], 
+            "docUrl": "http://www.apple.com/", 
+            "enclosing": "comp_7", 
+            "endTime": 0.8187959999995655, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_7_0", 
+            "mode": "dom", 
+            "startTime": 0.7449979999983043, 
+            "subtree": "subtree_comp_7", 
+            "type": "eval", 
+            "url": "http://www.apple.com/ac/globalnav/2.0/en_US/scripts/ac-globalnav.built.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_7_2", 
+                "download_23"
+            ], 
+            "docUrl": "http://www.apple.com/", 
+            "enclosing": "comp_7", 
+            "endTime": 0.819283999999243, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_7_1", 
+            "mode": "dom", 
+            "startTime": 0.8191639999986364, 
+            "subtree": "subtree_comp_7", 
+            "type": "eval", 
+            "url": "http://www.apple.com/ac/globalnav/2.0/en_US/scripts/ac-globalnav.built.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_18"
+            ], 
+            "docUrl": "http://www.apple.com/", 
+            "enclosing": "comp_7", 
+            "endTime": 0.8194319999984145, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_7_2", 
+            "mode": "dom", 
+            "startTime": 0.819283999999243, 
+            "subtree": "subtree_comp_7", 
+            "type": "eval", 
+            "url": "http://www.apple.com/ac/globalnav/2.0/en_US/scripts/ac-globalnav.built.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_7_1"
+            ], 
+            "docUrl": "http://www.apple.com/", 
+            "enclosing": "None", 
+            "endTime": 0.8191639999986364, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_8", 
+            "mode": "dom", 
+            "name": "readystatechange", 
+            "startTime": 0.8187959999995655, 
+            "subtree": "subtree_comp_7", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_19"
+            ], 
+            "docUrl": "http://www.apple.com/", 
+            "enclosing": "None", 
+            "endTime": 0.9076159999985975, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_9", 
+            "mode": "dom", 
+            "startTime": 0.8195509999986825, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "http://www.apple.com/metrics/ac-analytics/1.1/scripts/ac-analytics.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_20"
+            ], 
+            "docUrl": "http://www.apple.com/", 
+            "enclosing": "None", 
+            "endTime": 0.9085519999989629, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_10", 
+            "mode": "dom", 
+            "startTime": 0.9079089999995631, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "http://www.apple.com/metrics/ac-analytics/1.1/scripts/auto-init.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_12"
+            ], 
+            "docUrl": "http://www.apple.com/", 
+            "enclosing": "None", 
+            "endTime": 1.1754199999995762, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_11", 
+            "mode": "dom", 
+            "name": "readystatechange", 
+            "startTime": 1.1752859999996872, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_13"
+            ], 
+            "docUrl": "http://www.apple.com/", 
+            "enclosing": "None", 
+            "endTime": 1.1754459999992832, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_12", 
+            "mode": "dom", 
+            "name": "readystatechange", 
+            "startTime": 1.1754349999991973, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://www.apple.com/", 
+            "enclosing": "None", 
+            "endTime": 1.1843029999999999, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_13", 
+            "mode": "dom", 
+            "name": "readystatechange", 
+            "startTime": 1.1755509999984497, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_32"
+            ], 
+            "docUrl": "http://www.apple.com/", 
+            "enclosing": "None", 
+            "endTime": 1.2554049999998824, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_14", 
+            "mode": "dom", 
+            "startTime": 1.246674999998504, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "http://www.apple.com/ac/globalfooter/2.0/en_US/scripts/ac-globalfooter.built.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_33"
+            ], 
+            "docUrl": "http://www.apple.com/", 
+            "enclosing": "None", 
+            "endTime": 1.32617399999981, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_15", 
+            "mode": "dom", 
+            "startTime": 1.2556819999990694, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "http://images.apple.com/v/home/cz/built/scripts/main.built.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_17"
+            ], 
+            "docUrl": "http://www.apple.com/", 
+            "enclosing": "None", 
+            "endTime": 1.3263009999991482, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_16", 
+            "mode": "dom", 
+            "name": "readystatechange", 
+            "startTime": 1.3262219999996887, 
+            "subtree": "None", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_18"
+            ], 
+            "docUrl": "http://www.apple.com/", 
+            "enclosing": "None", 
+            "endTime": 1.3266089999997348, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_17", 
+            "mode": "dom", 
+            "name": "DOMContentLoaded", 
+            "startTime": 1.3263090000000375, 
+            "subtree": "None", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_42", 
+                "comp_20_0"
+            ], 
+            "docUrl": "http://www.apple.com/", 
+            "enclosing": "None", 
+            "endTime": 2.3787169999995967, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_18", 
+            "mode": "load", 
+            "name": "readystatechange", 
+            "startTime": 2.3697569999985717, 
+            "subtree": "None", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://www.apple.com/", 
+            "enclosing": "None", 
+            "endTime": 2.3788669999994454, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_42", 
+            "mode": "load", 
+            "name": "load", 
+            "startTime": 2.3788669999994454, 
+            "subtree": "None", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_45", 
+                "comp_20_1"
+            ], 
+            "docUrl": "http://www.apple.com/", 
+            "enclosing": "comp_20", 
+            "endTime": 2.4161649999987276, 
+            "evalType": "timer", 
+            "frame": 0, 
+            "id": "comp_20_0", 
+            "mode": "loadplus", 
+            "startTime": 2.379321999998865, 
+            "subtree": "subtree_comp_20", 
+            "timeout": 0, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://www.apple.com/", 
+            "enclosing": "comp_20", 
+            "endTime": 2.4185279999983322, 
+            "evalType": "timer", 
+            "frame": 0, 
+            "id": "comp_20_1", 
+            "mode": "loadplus", 
+            "startTime": 2.4161649999987276, 
+            "subtree": "subtree_comp_20", 
+            "timeout": 0, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://www.apple.com/", 
+            "enclosing": "None", 
+            "endTime": 2.970856999998432, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_22", 
+            "mode": "end", 
+            "name": "load", 
+            "startTime": 2.970475999998598, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "children": [
+                "pchunk_0_1", 
+                "download_1"
+            ], 
+            "docUrl": "http://www.apple.com/", 
+            "endColumn": 103, 
+            "endRow": 30, 
+            "endTag": "link", 
+            "endTime": 0.4212029999889637, 
+            "frame": 0, 
+            "id": "pchunk_0_0", 
+            "isFragment": false, 
+            "startColumn": 118, 
+            "startRow": 1, 
+            "startTag": "html", 
+            "startTime": 0.41819199999918055, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_2", 
+                "pchunk_0_2"
+            ], 
+            "docUrl": "http://www.apple.com/", 
+            "endColumn": 109, 
+            "endRow": 31, 
+            "endTag": "link", 
+            "endTime": 0.42182599999978265, 
+            "frame": 0, 
+            "id": "pchunk_0_1", 
+            "isFragment": false, 
+            "startColumn": 109, 
+            "startRow": 31, 
+            "startTag": "link", 
+            "startTime": 0.4214819999997417, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_3", 
+                "pchunk_0_3"
+            ], 
+            "docUrl": "http://www.apple.com/", 
+            "endColumn": 95, 
+            "endRow": 32, 
+            "endTag": "link", 
+            "endTime": 0.42203499999959604, 
+            "frame": 0, 
+            "id": "pchunk_0_2", 
+            "isFragment": false, 
+            "startColumn": 95, 
+            "startRow": 32, 
+            "startTag": "link", 
+            "startTime": 0.42183399999885296, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_4", 
+                "download_4"
+            ], 
+            "docUrl": "http://www.apple.com/", 
+            "endColumn": 104, 
+            "endRow": 57, 
+            "endTag": "link", 
+            "endTime": 0.42252799999914714, 
+            "frame": 0, 
+            "id": "pchunk_0_3", 
+            "isFragment": false, 
+            "startColumn": 9, 
+            "startRow": 36, 
+            "startTag": "title", 
+            "startTime": 0.4220439999990049, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_5", 
+                "download_5"
+            ], 
+            "docUrl": "http://www.apple.com/", 
+            "endColumn": 101, 
+            "endRow": 58, 
+            "endTag": "link", 
+            "endTime": 0.4229159999995318, 
+            "frame": 0, 
+            "id": "pchunk_0_4", 
+            "isFragment": false, 
+            "startColumn": 101, 
+            "startRow": 58, 
+            "startTag": "link", 
+            "startTime": 0.4227389999996376, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_6", 
+                "download_10"
+            ], 
+            "docUrl": "http://www.apple.com/", 
+            "endColumn": 112, 
+            "endRow": 59, 
+            "endTag": "link", 
+            "endTime": 0.4231129999989207, 
+            "frame": 0, 
+            "id": "pchunk_0_5", 
+            "isFragment": false, 
+            "startColumn": 112, 
+            "startRow": 59, 
+            "startTag": "link", 
+            "startTime": 0.422921999999744, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_7", 
+                "download_11"
+            ], 
+            "docUrl": "http://www.apple.com/", 
+            "endColumn": 126, 
+            "endRow": 61, 
+            "endTag": "script", 
+            "endTime": 0.42317499999808206, 
+            "frame": 0, 
+            "id": "pchunk_0_6", 
+            "isFragment": false, 
+            "startColumn": 117, 
+            "startRow": 61, 
+            "startTag": "script", 
+            "startTime": 0.4231199999994715, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_13", 
+                "pchunk_0_8"
+            ], 
+            "docUrl": "http://www.apple.com/", 
+            "endColumn": 108, 
+            "endRow": 105, 
+            "endTag": "a", 
+            "endTime": 0.7236009999960515, 
+            "frame": 0, 
+            "id": "pchunk_0_7", 
+            "isFragment": false, 
+            "startColumn": 8, 
+            "startRow": 62, 
+            "startTag": "head", 
+            "startTime": 0.7221579999986716, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_14", 
+                "pchunk_0_9"
+            ], 
+            "docUrl": "http://www.apple.com/", 
+            "endColumn": 81, 
+            "endRow": 110, 
+            "endTag": "a", 
+            "endTime": 0.7239749999989726, 
+            "frame": 0, 
+            "id": "pchunk_0_8", 
+            "isFragment": false, 
+            "startColumn": 35, 
+            "startRow": 106, 
+            "startTag": "span", 
+            "startTime": 0.723811999998361, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_10", 
+                "download_20"
+            ], 
+            "docUrl": "http://www.apple.com/", 
+            "endColumn": 84, 
+            "endRow": 115, 
+            "endTag": "a", 
+            "endTime": 0.7248880000006466, 
+            "frame": 0, 
+            "id": "pchunk_0_9", 
+            "isFragment": false, 
+            "startColumn": 35, 
+            "startRow": 111, 
+            "startTag": "span", 
+            "startTime": 0.7245469999998022, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_11", 
+                "download_15"
+            ], 
+            "docUrl": "http://www.apple.com/", 
+            "endColumn": 90, 
+            "endRow": 120, 
+            "endTag": "a", 
+            "endTime": 0.7253559999990102, 
+            "frame": 0, 
+            "id": "pchunk_0_10", 
+            "isFragment": false, 
+            "startColumn": 35, 
+            "startRow": 116, 
+            "startTag": "span", 
+            "startTime": 0.7249240000001009, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_16", 
+                "pchunk_0_12"
+            ], 
+            "docUrl": "http://www.apple.com/", 
+            "endColumn": 87, 
+            "endRow": 125, 
+            "endTag": "a", 
+            "endTime": 0.7259409999987838, 
+            "frame": 0, 
+            "id": "pchunk_0_11", 
+            "isFragment": false, 
+            "startColumn": 35, 
+            "startRow": 121, 
+            "startTag": "span", 
+            "startTime": 0.7254849999990256, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_17", 
+                "pchunk_0_13"
+            ], 
+            "docUrl": "http://www.apple.com/", 
+            "endColumn": 78, 
+            "endRow": 130, 
+            "endTag": "a", 
+            "endTime": 0.7262409999984811, 
+            "frame": 0, 
+            "id": "pchunk_0_12", 
+            "isFragment": false, 
+            "startColumn": 35, 
+            "startRow": 126, 
+            "startTag": "span", 
+            "startTime": 0.7259770000000572, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_14", 
+                "download_21"
+            ], 
+            "docUrl": "http://www.apple.com/", 
+            "endColumn": 87, 
+            "endRow": 135, 
+            "endTag": "a", 
+            "endTime": 0.7265819999993255, 
+            "frame": 0, 
+            "id": "pchunk_0_13", 
+            "isFragment": false, 
+            "startColumn": 35, 
+            "startRow": 131, 
+            "startTag": "span", 
+            "startTime": 0.7262749999990774, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_15", 
+                "download_19"
+            ], 
+            "docUrl": "http://www.apple.com/", 
+            "endColumn": 109, 
+            "endRow": 140, 
+            "endTag": "a", 
+            "endTime": 0.7270250000001397, 
+            "frame": 0, 
+            "id": "pchunk_0_14", 
+            "isFragment": false, 
+            "startColumn": 35, 
+            "startRow": 136, 
+            "startTag": "span", 
+            "startTime": 0.7266139999992447, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_22", 
+                "pchunk_0_16"
+            ], 
+            "docUrl": "http://www.apple.com/", 
+            "endColumn": 152, 
+            "endRow": 145, 
+            "endTag": "a", 
+            "endTime": 0.7273470000000088, 
+            "frame": 0, 
+            "id": "pchunk_0_15", 
+            "isFragment": false, 
+            "startColumn": 35, 
+            "startRow": 141, 
+            "startTag": "span", 
+            "startTime": 0.7270619999999326, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_17", 
+                "download_18"
+            ], 
+            "docUrl": "http://www.apple.com/", 
+            "endColumn": 190, 
+            "endRow": 150, 
+            "endTag": "a", 
+            "endTime": 0.7277239999966696, 
+            "frame": 0, 
+            "id": "pchunk_0_16", 
+            "isFragment": false, 
+            "startColumn": 63, 
+            "startRow": 146, 
+            "startTag": "span", 
+            "startTime": 0.7273799999984476, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_7", 
+                "pchunk_0_18"
+            ], 
+            "docUrl": "http://www.apple.com/", 
+            "endColumn": 100, 
+            "endRow": 188, 
+            "endTag": "script", 
+            "endTime": 0.7290279999942868, 
+            "frame": 0, 
+            "id": "pchunk_0_17", 
+            "isFragment": false, 
+            "startColumn": 35, 
+            "startRow": 151, 
+            "startTag": "span", 
+            "startTime": 0.7277859999994689, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_19", 
+                "download_8"
+            ], 
+            "docUrl": "http://www.apple.com/", 
+            "endColumn": 112, 
+            "endRow": 192, 
+            "endTag": "script", 
+            "endTime": 0.8195169999999052, 
+            "frame": 0, 
+            "id": "pchunk_0_18", 
+            "isFragment": false, 
+            "startColumn": 103, 
+            "startRow": 192, 
+            "startTag": "script", 
+            "startTime": 0.8194539999985864, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_6", 
+                "pchunk_0_20"
+            ], 
+            "docUrl": "http://www.apple.com/", 
+            "endColumn": 109, 
+            "endRow": 193, 
+            "endTag": "script", 
+            "endTime": 0.9078479999989213, 
+            "frame": 0, 
+            "id": "pchunk_0_19", 
+            "isFragment": false, 
+            "startColumn": 100, 
+            "startRow": 193, 
+            "startTag": "script", 
+            "startTime": 0.9077409999990778, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_24", 
+                "pchunk_0_21"
+            ], 
+            "docUrl": "http://www.apple.com/", 
+            "endColumn": 71, 
+            "endRow": 226, 
+            "endTag": "h1", 
+            "endTime": 0.9107749999966472, 
+            "frame": 0, 
+            "id": "pchunk_0_20", 
+            "isFragment": false, 
+            "startColumn": 45, 
+            "startRow": 196, 
+            "startTag": "main", 
+            "startTime": 0.9085669999985839, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_25", 
+                "pchunk_0_22"
+            ], 
+            "docUrl": "http://www.apple.com/", 
+            "endColumn": 59, 
+            "endRow": 231, 
+            "endTag": "figure", 
+            "endTime": 0.9113009999982751, 
+            "frame": 0, 
+            "id": "pchunk_0_21", 
+            "isFragment": false, 
+            "startColumn": 102, 
+            "startRow": 226, 
+            "startTag": "span", 
+            "startTime": 0.9110339999988355, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_27", 
+                "pchunk_0_23"
+            ], 
+            "docUrl": "http://www.apple.com/", 
+            "endColumn": 66, 
+            "endRow": 236, 
+            "endTag": "h1", 
+            "endTime": 0.911709999998493, 
+            "frame": 0, 
+            "id": "pchunk_0_22", 
+            "isFragment": false, 
+            "startColumn": 68, 
+            "startRow": 231, 
+            "startTag": "figure", 
+            "startTime": 0.9114549999994779, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_24", 
+                "download_28"
+            ], 
+            "docUrl": "http://www.apple.com/", 
+            "endColumn": 55, 
+            "endRow": 240, 
+            "endTag": "figure", 
+            "endTime": 0.9119269999973767, 
+            "frame": 0, 
+            "id": "pchunk_0_23", 
+            "isFragment": false, 
+            "startColumn": 97, 
+            "startRow": 236, 
+            "startTag": "span", 
+            "startTime": 0.9117439999990893, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_26", 
+                "pchunk_0_25"
+            ], 
+            "docUrl": "http://www.apple.com/", 
+            "endColumn": 66, 
+            "endRow": 246, 
+            "endTag": "h1", 
+            "endTime": 0.9122469999983878, 
+            "frame": 0, 
+            "id": "pchunk_0_24", 
+            "isFragment": false, 
+            "startColumn": 64, 
+            "startRow": 240, 
+            "startTag": "figure", 
+            "startTime": 0.9119599999994534, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_30", 
+                "pchunk_0_26"
+            ], 
+            "docUrl": "http://www.apple.com/", 
+            "endColumn": 54, 
+            "endRow": 251, 
+            "endTag": "figure", 
+            "endTime": 0.9124539999993431, 
+            "frame": 0, 
+            "id": "pchunk_0_25", 
+            "isFragment": false, 
+            "startColumn": 97, 
+            "startRow": 246, 
+            "startTag": "span", 
+            "startTime": 0.9122819999993226, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_31", 
+                "pchunk_0_27"
+            ], 
+            "docUrl": "http://www.apple.com/", 
+            "endColumn": 42, 
+            "endRow": 266, 
+            "endTag": "a", 
+            "endTime": 0.9127140000000509, 
+            "frame": 0, 
+            "id": "pchunk_0_26", 
+            "isFragment": false, 
+            "startColumn": 63, 
+            "startRow": 251, 
+            "startTag": "figure", 
+            "startTime": 0.9124939999983326, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_28", 
+                "download_29"
+            ], 
+            "docUrl": "http://www.apple.com/", 
+            "endColumn": 44, 
+            "endRow": 275, 
+            "endTag": "a", 
+            "endTime": 0.9129579999971611, 
+            "frame": 0, 
+            "id": "pchunk_0_27", 
+            "isFragment": false, 
+            "startColumn": 30, 
+            "startRow": 267, 
+            "startTag": "span", 
+            "startTime": 0.9127619999999297, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_32", 
+                "pchunk_0_29"
+            ], 
+            "docUrl": "http://www.apple.com/", 
+            "endColumn": 41, 
+            "endRow": 285, 
+            "endTag": "a", 
+            "endTime": 0.9131439999964641, 
+            "frame": 0, 
+            "id": "pchunk_0_28", 
+            "isFragment": false, 
+            "startColumn": 30, 
+            "startRow": 276, 
+            "startTag": "span", 
+            "startTime": 0.9129929999999149, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_30", 
+                "download_36"
+            ], 
+            "docUrl": "http://www.apple.com/", 
+            "endColumn": 47, 
+            "endRow": 295, 
+            "endTag": "a", 
+            "endTime": 0.9133299999975861, 
+            "frame": 0, 
+            "id": "pchunk_0_29", 
+            "isFragment": false, 
+            "startColumn": 30, 
+            "startRow": 286, 
+            "startTag": "span", 
+            "startTime": 0.9131760000000213, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_33", 
+                "pchunk_0_31"
+            ], 
+            "docUrl": "http://www.apple.com/", 
+            "endColumn": 221, 
+            "endRow": 463, 
+            "endTag": "span", 
+            "endTime": 0.9213250000047992, 
+            "frame": 0, 
+            "id": "pchunk_0_30", 
+            "isFragment": false, 
+            "startColumn": 30, 
+            "startRow": 296, 
+            "startTag": "span", 
+            "startTime": 0.9133689999998751, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_32", 
+                "download_9"
+            ], 
+            "docUrl": "http://www.apple.com/", 
+            "endColumn": 106, 
+            "endRow": 477, 
+            "endTag": "script", 
+            "endTime": 0.923518999996304, 
+            "frame": 0, 
+            "id": "pchunk_0_31", 
+            "isFragment": false, 
+            "startColumn": 228, 
+            "startRow": 463, 
+            "startTag": "span", 
+            "startTime": 0.923001999999542, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_33", 
+                "download_12"
+            ], 
+            "docUrl": "http://www.apple.com/", 
+            "endColumn": 126, 
+            "endRow": 531, 
+            "endTag": "script", 
+            "endTime": 1.2555729999967298, 
+            "frame": 0, 
+            "id": "pchunk_0_32", 
+            "isFragment": false, 
+            "startColumn": 35, 
+            "startRow": 478, 
+            "startTag": "script", 
+            "startTime": 1.255448999998407, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "comp_16"
+            ], 
+            "docUrl": "http://www.apple.com/", 
+            "endColumn": 7, 
+            "endRow": 534, 
+            "endTag": "html", 
+            "endTime": 1.3261999999995169, 
+            "frame": 0, 
+            "id": "pchunk_0_33", 
+            "isFragment": false, 
+            "startColumn": 8, 
+            "startRow": 533, 
+            "startTag": "body", 
+            "startTime": 1.326191000000108, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_1", 
+                "pchunk_0_0"
+            ], 
+            "id": "dchunk_0_0", 
+            "offset": 134, 
+            "resource": "download_0", 
+            "size": 7123, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_2", 
+                "pchunk_0_1"
+            ], 
+            "id": "dchunk_0_1", 
+            "offset": 7257, 
+            "resource": "download_0", 
+            "size": 0, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_3", 
+                "pchunk_0_2"
+            ], 
+            "id": "dchunk_0_2", 
+            "offset": 7257, 
+            "resource": "download_0", 
+            "size": 0, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_4", 
+                "pchunk_0_3"
+            ], 
+            "id": "dchunk_0_3", 
+            "offset": 7257, 
+            "resource": "download_0", 
+            "size": 1468, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_4", 
+                "dchunk_0_5"
+            ], 
+            "id": "dchunk_0_4", 
+            "offset": 8725, 
+            "resource": "download_0", 
+            "size": 0, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_5", 
+                "dchunk_0_6"
+            ], 
+            "id": "dchunk_0_5", 
+            "offset": 8725, 
+            "resource": "download_0", 
+            "size": 0, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_6", 
+                "dchunk_0_7"
+            ], 
+            "id": "dchunk_0_6", 
+            "offset": 8725, 
+            "resource": "download_0", 
+            "size": 9, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_8", 
+                "pchunk_0_7"
+            ], 
+            "id": "dchunk_0_7", 
+            "offset": 8734, 
+            "resource": "download_0", 
+            "size": 2462, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_9", 
+                "pchunk_0_8"
+            ], 
+            "id": "dchunk_0_8", 
+            "offset": 11196, 
+            "resource": "download_0", 
+            "size": 165, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_9", 
+                "dchunk_0_10"
+            ], 
+            "id": "dchunk_0_9", 
+            "offset": 11361, 
+            "resource": "download_0", 
+            "size": 167, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_10", 
+                "dchunk_0_11"
+            ], 
+            "id": "dchunk_0_10", 
+            "offset": 11528, 
+            "resource": "download_0", 
+            "size": 176, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_11", 
+                "dchunk_0_12"
+            ], 
+            "id": "dchunk_0_11", 
+            "offset": 11704, 
+            "resource": "download_0", 
+            "size": 174, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_12", 
+                "dchunk_0_13"
+            ], 
+            "id": "dchunk_0_12", 
+            "offset": 11878, 
+            "resource": "download_0", 
+            "size": 161, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_14", 
+                "pchunk_0_13"
+            ], 
+            "id": "dchunk_0_13", 
+            "offset": 12039, 
+            "resource": "download_0", 
+            "size": 170, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_15", 
+                "pchunk_0_14"
+            ], 
+            "id": "dchunk_0_14", 
+            "offset": 12209, 
+            "resource": "download_0", 
+            "size": 197, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_16", 
+                "pchunk_0_15"
+            ], 
+            "id": "dchunk_0_15", 
+            "offset": 12406, 
+            "resource": "download_0", 
+            "size": 255, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_17", 
+                "pchunk_0_16"
+            ], 
+            "id": "dchunk_0_16", 
+            "offset": 12661, 
+            "resource": "download_0", 
+            "size": 284, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_18", 
+                "pchunk_0_17"
+            ], 
+            "id": "dchunk_0_17", 
+            "offset": 12945, 
+            "resource": "download_0", 
+            "size": 2120, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_18", 
+                "dchunk_0_19"
+            ], 
+            "id": "dchunk_0_18", 
+            "offset": 15065, 
+            "resource": "download_0", 
+            "size": 9, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_19", 
+                "dchunk_0_20"
+            ], 
+            "id": "dchunk_0_19", 
+            "offset": 15074, 
+            "resource": "download_0", 
+            "size": 9, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_21", 
+                "pchunk_0_20"
+            ], 
+            "id": "dchunk_0_20", 
+            "offset": 15083, 
+            "resource": "download_0", 
+            "size": 2059, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_22", 
+                "pchunk_0_21"
+            ], 
+            "id": "dchunk_0_21", 
+            "offset": 17142, 
+            "resource": "download_0", 
+            "size": 199, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_23", 
+                "pchunk_0_22"
+            ], 
+            "id": "dchunk_0_22", 
+            "offset": 17341, 
+            "resource": "download_0", 
+            "size": 353, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_24", 
+                "pchunk_0_23"
+            ], 
+            "id": "dchunk_0_23", 
+            "offset": 17694, 
+            "resource": "download_0", 
+            "size": 168, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_24", 
+                "dchunk_0_25"
+            ], 
+            "id": "dchunk_0_24", 
+            "offset": 17862, 
+            "resource": "download_0", 
+            "size": 395, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_25", 
+                "dchunk_0_26"
+            ], 
+            "id": "dchunk_0_25", 
+            "offset": 18257, 
+            "resource": "download_0", 
+            "size": 202, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_26", 
+                "dchunk_0_27"
+            ], 
+            "id": "dchunk_0_26", 
+            "offset": 18459, 
+            "resource": "download_0", 
+            "size": 352, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_28", 
+                "pchunk_0_27"
+            ], 
+            "id": "dchunk_0_27", 
+            "offset": 18811, 
+            "resource": "download_0", 
+            "size": 343, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_29", 
+                "pchunk_0_28"
+            ], 
+            "id": "dchunk_0_28", 
+            "offset": 19154, 
+            "resource": "download_0", 
+            "size": 304, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_30", 
+                "pchunk_0_29"
+            ], 
+            "id": "dchunk_0_29", 
+            "offset": 19458, 
+            "resource": "download_0", 
+            "size": 319, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_31", 
+                "pchunk_0_30"
+            ], 
+            "id": "dchunk_0_30", 
+            "offset": 19777, 
+            "resource": "download_0", 
+            "size": 13226, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_32", 
+                "pchunk_0_31"
+            ], 
+            "id": "dchunk_0_31", 
+            "offset": 33003, 
+            "resource": "download_0", 
+            "size": 758, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_33", 
+                "pchunk_0_32"
+            ], 
+            "id": "dchunk_0_32", 
+            "offset": 33761, 
+            "resource": "download_0", 
+            "size": 1332, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_33"
+            ], 
+            "id": "dchunk_0_33", 
+            "offset": 35093, 
+            "resource": "download_0", 
+            "size": 8, 
+            "type": "download_chunk"
+        }
+    ], 
+    "frames": [
+        {
+            "id": 0, 
+            "subframes": [], 
+            "url": "http://www.apple.com/"
+        }
+    ], 
+    "loadEvent": "comp_42", 
+    "name": "http://www.apple.com/", 
+    "root_activity": "download_0"
+}

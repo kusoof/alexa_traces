@@ -1,0 +1,592 @@
+{
+    "DOMContentLoadedEvent": "comp_4", 
+    "activities": [
+        {
+            "cached": false, 
+            "children": [
+                "comp_5", 
+                "comp_2"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_3", 
+            "mimeType": "application/x-javascript", 
+            "priority": {
+                "cp": 3, 
+                "cp-plus": 3, 
+                "depth": 3, 
+                "mime-type": 4
+            }, 
+            "receiveTime": 0.8890819999978703, 
+            "sentTime": 0.7671319999990374, 
+            "size": 23792, 
+            "type": "resource", 
+            "url": "http://www.friv.com/menu/friv.js"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_5", 
+                "comp_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_6", 
+            "mimeType": "application/x-javascript", 
+            "originalResource": "download_3", 
+            "priority": {
+                "cp": 7, 
+                "cp-plus": 7, 
+                "depth": 7, 
+                "mime-type": 5
+            }, 
+            "sentTime": 0.768313999999009, 
+            "size": 23792, 
+            "type": "resource", 
+            "url": "http://www.friv.com/menu/friv.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_5"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_5", 
+            "mimeType": "application/x-shockwave-flash", 
+            "priority": {
+                "cp": 4, 
+                "cp-plus": 4, 
+                "depth": 6, 
+                "mime-type": 7
+            }, 
+            "receiveTime": 3.1464259999993374, 
+            "sentTime": 0.9484559999982594, 
+            "size": 1171483, 
+            "type": "resource", 
+            "url": "http://www.friv.com/menu/menuU.swf?browserlang=en-GB&invtype=normal"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_5"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_4", 
+            "mimeType": "image/gif", 
+            "priority": {
+                "cp": 6, 
+                "cp-plus": 6, 
+                "depth": 5, 
+                "mime-type": 6
+            }, 
+            "receiveTime": 1.159427999999025, 
+            "sentTime": 0.9180099999994127, 
+            "size": 35432, 
+            "type": "resource", 
+            "url": "http://www.friv.com/menu/frivsplash.gif"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_5"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_7", 
+            "mimeType": "image/gif", 
+            "originalResource": "download_4", 
+            "priority": {
+                "cp": 8, 
+                "cp-plus": 8, 
+                "depth": 8, 
+                "mime-type": 8
+            }, 
+            "sentTime": 0.9218779999991966, 
+            "size": 35432, 
+            "type": "resource", 
+            "url": "http://www.friv.com/menu/frivsplash.gif"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "dchunk_2_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_0", 
+            "mimeType": "text/html", 
+            "priority": {
+                "cp": 1, 
+                "cp-plus": 1, 
+                "depth": 1, 
+                "mime-type": 1
+            }, 
+            "receiveTime": 0.6155749999998079, 
+            "sentTime": 0.0, 
+            "size": 2020, 
+            "type": "resource", 
+            "url": "http://www.friv.com/"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "dchunk_0_0", 
+                "comp_5"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_1", 
+            "mimeType": "text/html", 
+            "priority": {
+                "cp": 2, 
+                "cp-plus": 2, 
+                "depth": 2, 
+                "mime-type": 2
+            }, 
+            "receiveTime": 0.7660589999995864, 
+            "sentTime": 0.6261019999983546, 
+            "size": 4356, 
+            "type": "resource", 
+            "url": "http://www.friv.com/menu/start.html?it=normal"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "dchunk_1_0", 
+                "comp_5"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_2", 
+            "mimeType": "text/html", 
+            "priority": {
+                "cp": 5, 
+                "cp-plus": 5, 
+                "depth": 4, 
+                "mime-type": 3
+            }, 
+            "receiveTime": 0.7674589999987802, 
+            "sentTime": 0.6273249999994732, 
+            "size": 3104, 
+            "type": "resource", 
+            "url": "http://www.friv.com/menu/zeropage.html?it=normal"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_1_1"
+            ], 
+            "docUrl": "http://www.friv.com/menu/zeropage.html?it=normal", 
+            "enclosing": "None", 
+            "endTime": 0.9049209999993764, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_0", 
+            "mode": "dom", 
+            "startTime": 0.8897289999986242, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "http://www.friv.com/menu/friv.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://www.friv.com/menu/zeropage.html?it=normal", 
+            "enclosing": "None", 
+            "endTime": 0.9081629999982397, 
+            "evalType": "execScript", 
+            "frame": 1, 
+            "id": "comp_1", 
+            "mode": "dom", 
+            "startTime": 0.9063579999983631, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_1"
+            ], 
+            "docUrl": "http://www.friv.com/menu/start.html?it=normal", 
+            "enclosing": "None", 
+            "endTime": 0.9134649999996327, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_2", 
+            "mode": "dom", 
+            "startTime": 0.9088119999996707, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "http://www.friv.com/menu/friv.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_5", 
+                "comp_3_1"
+            ], 
+            "docUrl": "http://www.friv.com/menu/start.html?it=normal", 
+            "enclosing": "comp_3", 
+            "endTime": 0.9161369999983435, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_3_0", 
+            "mode": "dom", 
+            "startTime": 0.9140079999997397, 
+            "subtree": "subtree_comp_3", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_3_2", 
+                "download_4"
+            ], 
+            "docUrl": "http://www.friv.com/menu/start.html?it=normal", 
+            "enclosing": "comp_3", 
+            "endTime": 0.9180339999984426, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_3_1", 
+            "mode": "dom", 
+            "startTime": 0.9161369999983435, 
+            "subtree": "subtree_comp_3", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_2"
+            ], 
+            "docUrl": "http://www.friv.com/menu/start.html?it=normal", 
+            "enclosing": "comp_3", 
+            "endTime": 0.9218009999985952, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_3_2", 
+            "mode": "dom", 
+            "startTime": 0.9180339999984426, 
+            "subtree": "subtree_comp_3", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_5"
+            ], 
+            "docUrl": "http://www.friv.com/", 
+            "enclosing": "None", 
+            "endTime": 1.1596149999986665, 
+            "evalType": "fireEvent", 
+            "frame": 2, 
+            "id": "comp_4", 
+            "mode": "dom", 
+            "name": "DOMContentLoaded", 
+            "startTime": 1.1596149999986665, 
+            "subtree": "None", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://www.friv.com/", 
+            "enclosing": "None", 
+            "endTime": 1.1596149999986665, 
+            "evalType": "fireEvent", 
+            "frame": 2, 
+            "id": "comp_5", 
+            "mode": "load", 
+            "name": "load", 
+            "startTime": 1.1596149999986665, 
+            "subtree": "None", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "children": [
+                "pchunk_2_1", 
+                "download_1"
+            ], 
+            "docUrl": "http://www.friv.com/", 
+            "endColumn": 147, 
+            "endRow": 7, 
+            "endTag": "frame", 
+            "endTime": 0.6242430000020249, 
+            "frame": 2, 
+            "id": "pchunk_2_0", 
+            "isFragment": false, 
+            "startColumn": 65, 
+            "startRow": 0, 
+            "startTag": "meta", 
+            "startTime": 0.6224419999998645, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_2", 
+                "download_2"
+            ], 
+            "docUrl": "http://www.friv.com/", 
+            "endColumn": 243, 
+            "endRow": 7, 
+            "endTag": "frame", 
+            "endTime": 0.626946999998836, 
+            "frame": 2, 
+            "id": "pchunk_2_1", 
+            "isFragment": false, 
+            "startColumn": 243, 
+            "startRow": 7, 
+            "startTag": "frame", 
+            "startTime": 0.6266399999985879, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "comp_4"
+            ], 
+            "docUrl": "http://www.friv.com/", 
+            "endColumn": 22, 
+            "endRow": 14, 
+            "endTag": "frameset", 
+            "endTime": 0.6277080000018032, 
+            "frame": 2, 
+            "id": "pchunk_2_2", 
+            "isFragment": false, 
+            "startColumn": 253, 
+            "startRow": 7, 
+            "startTag": "noframes", 
+            "startTime": 0.6276739999993879, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_0", 
+                "dchunk_2_1"
+            ], 
+            "id": "dchunk_2_0", 
+            "offset": 65, 
+            "resource": "download_0", 
+            "size": 1076, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_1", 
+                "dchunk_2_2"
+            ], 
+            "id": "dchunk_2_1", 
+            "offset": 1141, 
+            "resource": "download_0", 
+            "size": 0, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_2_2"
+            ], 
+            "id": "dchunk_2_2", 
+            "offset": 1141, 
+            "resource": "download_0", 
+            "size": 773, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_1", 
+                "download_3"
+            ], 
+            "docUrl": "http://www.friv.com/menu/start.html?it=normal", 
+            "endColumn": 29, 
+            "endRow": 1, 
+            "endTag": "script", 
+            "endTime": 0.766989999998259, 
+            "frame": 0, 
+            "id": "pchunk_0_0", 
+            "isFragment": false, 
+            "startColumn": 62, 
+            "startRow": 0, 
+            "startTag": "meta", 
+            "startTime": 0.7665769999985059, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "comp_3_0", 
+                "pchunk_0_2"
+            ], 
+            "docUrl": "http://www.friv.com/menu/start.html?it=normal", 
+            "endColumn": 9, 
+            "endRow": 40, 
+            "endTag": "script", 
+            "endTime": 0.9139540000032866, 
+            "frame": 0, 
+            "id": "pchunk_0_1", 
+            "isFragment": false, 
+            "startColumn": 36, 
+            "startRow": 1, 
+            "startTag": "style", 
+            "startTime": 0.9134699999995064, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_7", 
+                "pchunk_0_3"
+            ], 
+            "docUrl": "http://www.friv.com/menu/start.html?it=normal", 
+            "endColumn": 125, 
+            "endRow": 40, 
+            "endTag": "img", 
+            "endTime": 0.9218829999990703, 
+            "frame": 0, 
+            "id": "pchunk_0_2", 
+            "isFragment": false, 
+            "startColumn": 17, 
+            "startRow": 40, 
+            "startTag": "center", 
+            "startTime": 0.9218059999984689, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [], 
+            "docUrl": "http://www.friv.com/menu/start.html?it=normal", 
+            "endColumn": 215, 
+            "endRow": 40, 
+            "endTag": "br", 
+            "endTime": 0.921914000002289, 
+            "frame": 0, 
+            "id": "pchunk_0_3", 
+            "isFragment": false, 
+            "startColumn": 129, 
+            "startRow": 40, 
+            "startTag": "a", 
+            "startTime": 0.9218859999982669, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_1", 
+                "pchunk_0_0"
+            ], 
+            "id": "dchunk_0_0", 
+            "offset": 62, 
+            "resource": "download_1", 
+            "size": 349, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_2", 
+                "pchunk_0_1"
+            ], 
+            "id": "dchunk_0_1", 
+            "offset": 411, 
+            "resource": "download_1", 
+            "size": 3732, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_3", 
+                "pchunk_0_2"
+            ], 
+            "id": "dchunk_0_2", 
+            "offset": 4143, 
+            "resource": "download_1", 
+            "size": 108, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_3"
+            ], 
+            "id": "dchunk_0_3", 
+            "offset": 4251, 
+            "resource": "download_1", 
+            "size": 86, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "download_6", 
+                "pchunk_1_1"
+            ], 
+            "docUrl": "http://www.friv.com/menu/zeropage.html?it=normal", 
+            "endColumn": 132, 
+            "endRow": 0, 
+            "endTag": "script", 
+            "endTime": 0.7682859999986249, 
+            "frame": 1, 
+            "id": "pchunk_1_0", 
+            "isFragment": false, 
+            "startColumn": 62, 
+            "startRow": 0, 
+            "startTag": "meta", 
+            "startTime": 0.768114999998943, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "comp_1"
+            ], 
+            "docUrl": "http://www.friv.com/menu/zeropage.html?it=normal", 
+            "endColumn": 664, 
+            "endRow": 32, 
+            "endTag": "script", 
+            "endTime": 0.9062480000011419, 
+            "frame": 1, 
+            "id": "pchunk_1_1", 
+            "isFragment": false, 
+            "startColumn": 139, 
+            "startRow": 0, 
+            "startTag": "style", 
+            "startTime": 0.90492599999925, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_1_1", 
+                "pchunk_1_0"
+            ], 
+            "id": "dchunk_1_0", 
+            "offset": 63, 
+            "resource": "download_2", 
+            "size": 70, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_1_1"
+            ], 
+            "id": "dchunk_1_1", 
+            "offset": 133, 
+            "resource": "download_2", 
+            "size": 2963, 
+            "type": "download_chunk"
+        }
+    ], 
+    "frames": [
+        {
+            "id": 2, 
+            "subframes": [
+                0, 
+                1
+            ], 
+            "url": "http://www.friv.com/"
+        }, 
+        {
+            "id": 0, 
+            "parent": 2, 
+            "subframes": [], 
+            "url": "http://www.friv.com/menu/start.html?it=normal"
+        }, 
+        {
+            "id": 1, 
+            "parent": 2, 
+            "subframes": [], 
+            "url": "http://www.friv.com/menu/zeropage.html?it=normal"
+        }
+    ], 
+    "loadEvent": "comp_5", 
+    "name": "http://www.friv.com/", 
+    "root_activity": "download_0"
+}

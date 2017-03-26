@@ -1,0 +1,1656 @@
+{
+    "DOMContentLoadedEvent": "comp_25", 
+    "activities": [
+        {
+            "cached": false, 
+            "children": [
+                "dchunk_0_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_0", 
+            "mimeType": "text/html", 
+            "priority": {
+                "cp": 1, 
+                "cp-plus": 1, 
+                "depth": 1, 
+                "mime-type": 1
+            }, 
+            "receiveTime": 0.4669639999992796, 
+            "sentTime": 0.0, 
+            "size": 21297, 
+            "type": "resource", 
+            "url": "https://www.ups.com/"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_8_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_11", 
+            "mimeType": "application/x-javascript", 
+            "priority": {
+                "cp": 6, 
+                "cp-plus": 6, 
+                "depth": 6, 
+                "mime-type": 7
+            }, 
+            "receiveTime": 1.148403999997754, 
+            "sentTime": 1.0839479999995092, 
+            "size": 12491, 
+            "type": "resource", 
+            "url": "https://tags.tiqcdn.com/utag/ups/main/prod/utag.1.js?utv=ut4.41.201611031148"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_26"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_9", 
+            "mimeType": "image/gif", 
+            "priority": {
+                "cp": 11, 
+                "cp-plus": 11, 
+                "depth": 21, 
+                "mime-type": 22
+            }, 
+            "receiveTime": 1.0346989999979996, 
+            "sentTime": 0.6473069999992731, 
+            "size": 43, 
+            "type": "resource", 
+            "url": "https://www.ups.com/img/1.gif"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_26"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_20", 
+            "mimeType": "image/gif", 
+            "originalResource": "download_9", 
+            "priority": {
+                "cp": 20, 
+                "cp-plus": 20, 
+                "depth": 9, 
+                "mime-type": 11
+            }, 
+            "sentTime": 0.6476199999997334, 
+            "size": 43, 
+            "type": "resource", 
+            "url": "https://www.ups.com/img/1.gif"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_26"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_21", 
+            "mimeType": "image/gif", 
+            "originalResource": "download_9", 
+            "priority": {
+                "cp": 21, 
+                "cp-plus": 21, 
+                "depth": 10, 
+                "mime-type": 12
+            }, 
+            "sentTime": 0.6479369999997289, 
+            "size": 43, 
+            "type": "resource", 
+            "url": "https://www.ups.com/img/1.gif"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_26"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_22", 
+            "mimeType": "image/gif", 
+            "originalResource": "download_9", 
+            "priority": {
+                "cp": 22, 
+                "cp-plus": 22, 
+                "depth": 11, 
+                "mime-type": 13
+            }, 
+            "sentTime": 0.6482549999982439, 
+            "size": 43, 
+            "type": "resource", 
+            "url": "https://www.ups.com/img/1.gif"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_26"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_23", 
+            "mimeType": "image/gif", 
+            "originalResource": "download_9", 
+            "priority": {
+                "cp": 23, 
+                "cp-plus": 23, 
+                "depth": 12, 
+                "mime-type": 14
+            }, 
+            "sentTime": 0.6483819999994012, 
+            "size": 43, 
+            "type": "resource", 
+            "url": "https://www.ups.com/img/1.gif"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_26"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_24", 
+            "mimeType": "image/gif", 
+            "originalResource": "download_9", 
+            "priority": {
+                "cp": 24, 
+                "cp-plus": 24, 
+                "depth": 13, 
+                "mime-type": 15
+            }, 
+            "sentTime": 0.6483989999996993, 
+            "size": 43, 
+            "type": "resource", 
+            "url": "https://www.ups.com/img/1.gif"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_26"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_25", 
+            "mimeType": "image/gif", 
+            "originalResource": "download_9", 
+            "priority": {
+                "cp": 25, 
+                "cp-plus": 25, 
+                "depth": 14, 
+                "mime-type": 16
+            }, 
+            "sentTime": 0.6483989999996993, 
+            "size": 43, 
+            "type": "resource", 
+            "url": "https://www.ups.com/img/1.gif"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_26"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_26", 
+            "mimeType": "image/gif", 
+            "originalResource": "download_9", 
+            "priority": {
+                "cp": 26, 
+                "cp-plus": 26, 
+                "depth": 15, 
+                "mime-type": 17
+            }, 
+            "sentTime": 0.6483989999996993, 
+            "size": 43, 
+            "type": "resource", 
+            "url": "https://www.ups.com/img/1.gif"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_26"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_27", 
+            "mimeType": "image/gif", 
+            "originalResource": "download_9", 
+            "priority": {
+                "cp": 27, 
+                "cp-plus": 27, 
+                "depth": 16, 
+                "mime-type": 18
+            }, 
+            "sentTime": 0.6500469999991765, 
+            "size": 43, 
+            "type": "resource", 
+            "url": "https://www.ups.com/img/1.gif"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_2", 
+                "comp_26"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_4", 
+            "mimeType": "application/x-javascript", 
+            "priority": {
+                "cp": 3, 
+                "cp-plus": 3, 
+                "depth": 3, 
+                "mime-type": 4
+            }, 
+            "receiveTime": 0.6725249999999505, 
+            "sentTime": 0.5031599999983882, 
+            "size": 109, 
+            "type": "resource", 
+            "url": "https://tags.tiqcdn.com/utag/ups/main/prod/utag.sync.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_12", 
+                "comp_13"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_14", 
+            "mimeType": "text/javascript", 
+            "priority": {
+                "cp": 8, 
+                "cp-plus": 8, 
+                "depth": 8, 
+                "mime-type": 9
+            }, 
+            "receiveTime": 1.3177169999999023, 
+            "sentTime": 1.2324639999987994, 
+            "size": 59355, 
+            "type": "resource", 
+            "url": "https://www.ups.com/javascript/webtrends.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_5", 
+                "comp_26"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_6", 
+            "mimeType": "application/x-javascript", 
+            "priority": {
+                "cp": 5, 
+                "cp-plus": 5, 
+                "depth": 5, 
+                "mime-type": 6
+            }, 
+            "receiveTime": 0.6886699999995471, 
+            "sentTime": 0.6522249999998166, 
+            "size": 37943, 
+            "type": "resource", 
+            "url": "https://tags.tiqcdn.com/utag/ups/main/prod/utag.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_0_0", 
+                "comp_26"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_1", 
+            "mimeType": "text/javascript", 
+            "priority": {
+                "cp": 2, 
+                "cp-plus": 2, 
+                "depth": 2, 
+                "mime-type": 2
+            }, 
+            "receiveTime": 0.5008149999994203, 
+            "sentTime": 0.4660569999996369, 
+            "size": 4991, 
+            "type": "resource", 
+            "url": "https://www.ups.com/javascript/global_entry.js?V=1016"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_26"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_5", 
+            "mimeType": "image/gif", 
+            "priority": {
+                "cp": 18, 
+                "cp-plus": 18, 
+                "depth": 18, 
+                "mime-type": 19
+            }, 
+            "receiveTime": 0.6779479999986506, 
+            "sentTime": 0.6376579999996466, 
+            "size": 5530, 
+            "type": "resource", 
+            "url": "https://www.ups.com/img/ups_logo.gif"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_11_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_13", 
+            "mimeType": "application/x-javascript", 
+            "priority": {
+                "cp": 7, 
+                "cp-plus": 7, 
+                "depth": 7, 
+                "mime-type": 8
+            }, 
+            "receiveTime": 1.2263619999994262, 
+            "sentTime": 1.1609629999984463, 
+            "size": 23942, 
+            "type": "resource", 
+            "url": "https://tags.tiqcdn.com/utag/ups/main/prod/utag.6.js?utv=ut4.41.201611041017"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_23"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_17", 
+            "mimeType": "image/gif", 
+            "priority": {
+                "cp": 15, 
+                "cp-plus": 15, 
+                "depth": 26, 
+                "mime-type": 26
+            }, 
+            "receiveTime": 1.5472390000013547, 
+            "sentTime": 1.3409999999985303, 
+            "size": 43, 
+            "type": "resource", 
+            "url": "https://scs.webtrends.com/dcs2227ulli4xxp3oi2yv4qus_5g8l/dcs.gif?x=1&dcsdat=1478565810031&dcssip=www.ups.com&dcsuri=/&WT.tz=0&WT.bh=0&WT.ul=en-GB&WT.cd=24&WT.sr=1440x900&WT.jo=Yes&WT.ti=Shipping,%20Freight,%20Logistics%20and%20Supply%20Chain%20Management%20from%20UPS&WT.js=Yes&WT.jv=1.5&WT.ct=unknown&WT.bs=934x811&WT.fv=11.2&WT.slv=Not%20enabled&WT.tv=10.4.1&WT.dl=0&WT.ssl=1&WT.es=www.ups.com/&WT.ce=2&WT.vt_f_tlv=1474468147&WT.vt_f_tlh=1474468147&WT.vt_f_d=1&WT.vt_f_s=1&WT.vtvs=1478565810030&WT.vtid=c8aabc09-b28c-49c5-a356-7070c3ec6f99&WT.co_f=c8aabc09-b28c-49c5-a356-7070c3ec6f99&WT.z_country_cd=US&WT.z_lang=en&WT.z_log_st=1&WT.z_ti_id=homepage/ent.html&WT.z_prefship_stat=0&WT.z_st_area=Global%20Entry%20Point&WT.z_site=Global%20Home&WT.z_st_sbarea=Global%20Entry&WT.z_cps_st=Unknown&WT.z_es=www.ups.com/&WT.z_tealium_session_id=1478565809395&WT.z_tealium_account=ups&WT.z_tealium_environment=prod&WT.z_tealium_profile=main&WT.z_ut_version=ut4.41.201611041017&WT.z_tealium_version=ut4.41.201611041017&WT.z_website_version=old_ups.com&WT.z_co_f=c8aabc09-b28c-49c5-a356-7070c3ec6f99&pgf_site=Global%20Home&pcc=US&pll=en&psa=Global%20Entry%20Point&psu=Global%20Entry&ppid=homepage/ent.html&pps=0&pcs=Unknown&pss=4400,C3&pjsv=1016&pcv=1016&pli=1&WBPM_ac=1"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_22"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_16", 
+            "mimeType": "image/gif", 
+            "priority": {
+                "cp": 16, 
+                "cp-plus": 16, 
+                "depth": 25, 
+                "mime-type": 25
+            }, 
+            "receiveTime": 1.5221279999987019, 
+            "sentTime": 1.3405589999983931, 
+            "size": 67, 
+            "type": "resource", 
+            "url": "https://statse.webtrendslive.com/dcs2227ulli4xxp3oi2yv4qus_5g8l/dcs.gif?x=1&dcsdat=1478565810031&dcssip=www.ups.com&dcsuri=/&WT.tz=0&WT.bh=0&WT.ul=en-GB&WT.cd=24&WT.sr=1440x900&WT.jo=Yes&WT.ti=Shipping,%20Freight,%20Logistics%20and%20Supply%20Chain%20Management%20from%20UPS&WT.js=Yes&WT.jv=1.5&WT.ct=unknown&WT.bs=934x811&WT.fv=11.2&WT.slv=Not%20enabled&WT.tv=10.4.1&WT.dl=0&WT.ssl=1&WT.es=www.ups.com/&WT.ce=2&WT.vt_f_tlv=1474468147&WT.vt_f_tlh=1474468147&WT.vt_f_d=1&WT.vt_f_s=1&WT.vtvs=1478565810030&WT.vtid=c8aabc09-b28c-49c5-a356-7070c3ec6f99&WT.co_f=c8aabc09-b28c-49c5-a356-7070c3ec6f99&WT.z_country_cd=US&WT.z_lang=en&WT.z_log_st=1&WT.z_ti_id=homepage/ent.html&WT.z_prefship_stat=0&WT.z_st_area=Global%20Entry%20Point&WT.z_site=Global%20Home&WT.z_st_sbarea=Global%20Entry&WT.z_cps_st=Unknown&WT.z_es=www.ups.com/&WT.z_tealium_session_id=1478565809395&WT.z_tealium_account=ups&WT.z_tealium_environment=prod&WT.z_tealium_profile=main&WT.z_ut_version=ut4.41.201611041017&WT.z_tealium_version=ut4.41.201611041017&WT.z_website_version=old_ups.com&WT.z_co_f=c8aabc09-b28c-49c5-a356-7070c3ec6f99&pgf_site=Global%20Home&pcc=US&pll=en&psa=Global%20Entry%20Point&psu=Global%20Entry&ppid=homepage/ent.html&pps=0&pcs=Unknown&pss=4400,C3&pjsv=1016&pcv=1016&pli=1&WBPM_ac=1"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_3_0", 
+                "comp_26"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_2", 
+            "mimeType": "text/javascript", 
+            "priority": {
+                "cp": 4, 
+                "cp-plus": 4, 
+                "depth": 4, 
+                "mime-type": 5
+            }, 
+            "receiveTime": 0.7124190000013186, 
+            "sentTime": 0.6501689999986411, 
+            "size": 453, 
+            "type": "resource", 
+            "url": "https://www.ups.com/assets/tealium/tealium_wt.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_26"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_7", 
+            "mimeType": "image/gif", 
+            "priority": {
+                "cp": 10, 
+                "cp-plus": 10, 
+                "depth": 19, 
+                "mime-type": 20
+            }, 
+            "receiveTime": 1.0338899999987916, 
+            "sentTime": 0.6380239999998594, 
+            "size": 354, 
+            "type": "resource", 
+            "url": "https://www.ups.com/img/ups_tag_line.gif"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_26"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_10", 
+            "mimeType": "image/gif", 
+            "priority": {
+                "cp": 13, 
+                "cp-plus": 13, 
+                "depth": 22, 
+                "mime-type": 23
+            }, 
+            "receiveTime": 1.0349800000003597, 
+            "sentTime": 0.6531519999989541, 
+            "size": 43, 
+            "type": "resource", 
+            "url": "https://www.ups.com/img/icp.gif"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_26", 
+                "comp_1"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_3", 
+            "mimeType": "text/css", 
+            "priority": {
+                "cp": 17, 
+                "cp-plus": 17, 
+                "depth": 17, 
+                "mime-type": 3
+            }, 
+            "receiveTime": 0.6094040000007226, 
+            "sentTime": 0.5024719999983063, 
+            "size": 2987, 
+            "type": "resource", 
+            "url": "https://www.ups.com/stylesheets/globalhomepage.css"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_19"
+            ], 
+            "httpMethod": "POST", 
+            "id": "download_15", 
+            "mimeType": "image/gif", 
+            "priority": {
+                "cp": 14, 
+                "cp-plus": 14, 
+                "depth": 24, 
+                "mime-type": 24
+            }, 
+            "receiveTime": 1.4569719999999506, 
+            "sentTime": 1.156487999998717, 
+            "size": 43, 
+            "type": "resource", 
+            "url": "https://datacloud.tealiumiq.com/ups/main/2/i.gif"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_26"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_8", 
+            "mimeType": "image/gif", 
+            "priority": {
+                "cp": 12, 
+                "cp-plus": 12, 
+                "depth": 20, 
+                "mime-type": 21
+            }, 
+            "receiveTime": 1.0343749999992724, 
+            "sentTime": 0.6471519999995508, 
+            "size": 2298, 
+            "type": "resource", 
+            "url": "https://www.ups.com/img/icn_cmp_linkblue.gif"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_10"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_12", 
+            "mimeType": "application/x-javascript", 
+            "priority": {
+                "cp": 19, 
+                "cp-plus": 19, 
+                "depth": 23, 
+                "mime-type": 10
+            }, 
+            "receiveTime": 1.1915219999991677, 
+            "sentTime": 1.1570149999988644, 
+            "size": 2, 
+            "type": "resource", 
+            "url": "https://tags.tiqcdn.com/utag/tiqapp/utag.v.js?a=ups/main/201611041017&cb=1478565809849"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_24"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_18", 
+            "mimeType": "image/gif", 
+            "priority": {
+                "cp": 9, 
+                "cp-plus": 9, 
+                "depth": 27, 
+                "mime-type": 27
+            }, 
+            "receiveTime": 1.9813469999990048, 
+            "sentTime": 1.3412329999991925, 
+            "size": 43, 
+            "type": "resource", 
+            "url": "https://ssdcwebtrends.ups.com/dcslnrz6vne3g9s37bjvj8khc_2v8x/dcs.gif?x=1&dcsdat=1478565810031&dcssip=www.ups.com&dcsuri=/&WT.tz=0&WT.bh=0&WT.ul=en-GB&WT.cd=24&WT.sr=1440x900&WT.jo=Yes&WT.ti=Shipping,%20Freight,%20Logistics%20and%20Supply%20Chain%20Management%20from%20UPS&WT.js=Yes&WT.jv=1.5&WT.ct=unknown&WT.bs=934x811&WT.fv=11.2&WT.slv=Not%20enabled&WT.tv=10.4.1&WT.dl=0&WT.ssl=1&WT.es=www.ups.com/&WT.ce=2&WT.vt_f_tlv=1474468147&WT.vt_f_tlh=1474468147&WT.vt_f_d=1&WT.vt_f_s=1&WT.vtvs=1478565810030&WT.vtid=c8aabc09-b28c-49c5-a356-7070c3ec6f99&WT.co_f=c8aabc09-b28c-49c5-a356-7070c3ec6f99&WT.z_country_cd=US&WT.z_lang=en&WT.z_log_st=1&WT.z_ti_id=homepage/ent.html&WT.z_prefship_stat=0&WT.z_st_area=Global%20Entry%20Point&WT.z_site=Global%20Home&WT.z_st_sbarea=Global%20Entry&WT.z_cps_st=Unknown&WT.z_es=www.ups.com/&WT.z_tealium_session_id=1478565809395&WT.z_tealium_account=ups&WT.z_tealium_environment=prod&WT.z_tealium_profile=main&WT.z_ut_version=ut4.41.201611041017&WT.z_tealium_version=ut4.41.201611041017&WT.z_website_version=old_ups.com&WT.z_co_f=c8aabc09-b28c-49c5-a356-7070c3ec6f99&pgf_site=Global%20Home&pcc=US&pll=en&psa=Global%20Entry%20Point&psu=Global%20Entry&ppid=homepage/ent.html&pps=0&pcs=Unknown&pss=4400,C3&pjsv=1016&pcv=1016&pli=1&WBPM_ac=1"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_0_1", 
+                "download_3"
+            ], 
+            "docUrl": "https://www.ups.com/", 
+            "enclosing": "comp_0", 
+            "endTime": 0.5027499999996508, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_0_0", 
+            "mode": "dom", 
+            "startTime": 0.5011489999997139, 
+            "subtree": "subtree_comp_0", 
+            "type": "eval", 
+            "url": "https://www.ups.com/javascript/global_entry.js?V=1016"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_1"
+            ], 
+            "docUrl": "https://www.ups.com/", 
+            "enclosing": "comp_0", 
+            "endTime": 0.5028049999982613, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_0_1", 
+            "mode": "dom", 
+            "startTime": 0.5027499999996508, 
+            "subtree": "subtree_comp_0", 
+            "type": "eval", 
+            "url": "https://www.ups.com/javascript/global_entry.js?V=1016"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [], 
+            "docUrl": "https://www.ups.com/", 
+            "enclosing": "None", 
+            "endTime": 0.6105209999986982, 
+            "evalType": "recalcStyle", 
+            "frame": 0, 
+            "id": "comp_1", 
+            "mode": "dom", 
+            "startTime": 0.6095509999995556, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://www.ups.com/stylesheets/globalhomepage.css"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_2"
+            ], 
+            "docUrl": "https://www.ups.com/", 
+            "enclosing": "None", 
+            "endTime": 0.6359409999986383, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_2", 
+            "mode": "dom", 
+            "startTime": 0.6357729999999719, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://tags.tiqcdn.com/utag/ups/main/prod/utag.sync.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_6", 
+                "comp_3_1"
+            ], 
+            "docUrl": "https://www.ups.com/", 
+            "enclosing": "comp_3", 
+            "endTime": 0.650564999999915, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_3_0", 
+            "mode": "dom", 
+            "startTime": 0.6501759999991918, 
+            "subtree": "subtree_comp_3", 
+            "type": "eval", 
+            "url": "https://www.ups.com/assets/tealium/tealium_wt.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_15"
+            ], 
+            "docUrl": "https://www.ups.com/", 
+            "enclosing": "comp_3", 
+            "endTime": 0.6527489999989484, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_3_1", 
+            "mode": "dom", 
+            "startTime": 0.650564999999915, 
+            "subtree": "subtree_comp_3", 
+            "type": "eval", 
+            "url": "https://www.ups.com/assets/tealium/tealium_wt.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_16"
+            ], 
+            "docUrl": "https://www.ups.com/", 
+            "enclosing": "None", 
+            "endTime": 0.6529399999999441, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_4", 
+            "mode": "dom", 
+            "startTime": 0.6528379999999743, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "comp_7_0"
+            ], 
+            "docUrl": "https://www.ups.com/", 
+            "enclosing": "None", 
+            "endTime": 1.0335109999996348, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_5", 
+            "mode": "dom", 
+            "startTime": 0.6906699999999546, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://tags.tiqcdn.com/utag/ups/main/prod/utag.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_26"
+            ], 
+            "docUrl": "https://www.ups.com/", 
+            "enclosing": "None", 
+            "endTime": 1.0350319999997737, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_25", 
+            "mode": "dom", 
+            "name": "DOMContentLoaded", 
+            "startTime": 1.0350319999997737, 
+            "subtree": "None", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.ups.com/", 
+            "enclosing": "None", 
+            "endTime": 1.0350319999997737, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_26", 
+            "mode": "load", 
+            "name": "load", 
+            "startTime": 1.0350319999997737, 
+            "subtree": "None", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_11", 
+                "comp_7_1"
+            ], 
+            "docUrl": "https://www.ups.com/", 
+            "enclosing": "comp_7", 
+            "endTime": 1.0837459999984276, 
+            "evalType": "timer", 
+            "frame": 0, 
+            "id": "comp_7_0", 
+            "mode": "end", 
+            "startTime": 1.0831299999990733, 
+            "subtree": "subtree_comp_7", 
+            "timeout": 1, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.ups.com/", 
+            "enclosing": "comp_7", 
+            "endTime": 1.0840849999985949, 
+            "evalType": "timer", 
+            "frame": 0, 
+            "id": "comp_7_1", 
+            "mode": "end", 
+            "startTime": 1.0837459999984276, 
+            "subtree": "subtree_comp_7", 
+            "timeout": 1, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "comp_9"
+            ], 
+            "docUrl": "https://www.ups.com/", 
+            "enclosing": "comp_8", 
+            "endTime": 1.1559409999990748, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_8_0", 
+            "mode": "end", 
+            "startTime": 1.149011999999857, 
+            "subtree": "subtree_comp_8", 
+            "type": "eval", 
+            "url": "https://tags.tiqcdn.com/utag/ups/main/prod/utag.1.js?utv=ut4.41.201611031148"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_15", 
+                "comp_8_2"
+            ], 
+            "docUrl": "https://www.ups.com/", 
+            "enclosing": "comp_8", 
+            "endTime": 1.156487999998717, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_8_1", 
+            "mode": "end", 
+            "startTime": 1.1562419999991107, 
+            "subtree": "subtree_comp_8", 
+            "type": "eval", 
+            "url": "https://tags.tiqcdn.com/utag/ups/main/prod/utag.1.js?utv=ut4.41.201611031148"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_12", 
+                "comp_8_3"
+            ], 
+            "docUrl": "https://www.ups.com/", 
+            "enclosing": "comp_8", 
+            "endTime": 1.156857999998465, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_8_2", 
+            "mode": "end", 
+            "startTime": 1.156487999998717, 
+            "subtree": "subtree_comp_8", 
+            "type": "eval", 
+            "url": "https://tags.tiqcdn.com/utag/ups/main/prod/utag.1.js?utv=ut4.41.201611031148"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "comp_8_4", 
+                "download_13"
+            ], 
+            "docUrl": "https://www.ups.com/", 
+            "enclosing": "comp_8", 
+            "endTime": 1.1608419999993203, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_8_3", 
+            "mode": "end", 
+            "startTime": 1.156857999998465, 
+            "subtree": "subtree_comp_8", 
+            "type": "eval", 
+            "url": "https://tags.tiqcdn.com/utag/ups/main/prod/utag.1.js?utv=ut4.41.201611031148"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [], 
+            "docUrl": "https://www.ups.com/", 
+            "enclosing": "comp_8", 
+            "endTime": 1.161099999999351, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_8_4", 
+            "mode": "end", 
+            "startTime": 1.1608419999993203, 
+            "subtree": "subtree_comp_8", 
+            "type": "eval", 
+            "url": "https://tags.tiqcdn.com/utag/ups/main/prod/utag.1.js?utv=ut4.41.201611031148"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_8_1"
+            ], 
+            "docUrl": "https://www.ups.com/", 
+            "enclosing": "None", 
+            "endTime": 1.1562419999991107, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_9", 
+            "mode": "end", 
+            "name": "readystatechange", 
+            "startTime": 1.1559409999990748, 
+            "subtree": "subtree_comp_8", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [], 
+            "docUrl": "https://www.ups.com/", 
+            "enclosing": "None", 
+            "endTime": 1.1921169999986887, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_10", 
+            "mode": "end", 
+            "startTime": 1.1919249999991735, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://tags.tiqcdn.com/utag/tiqapp/utag.v.js?a=ups/main/201611041017&cb=1478565809849"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_14", 
+                "comp_11_1"
+            ], 
+            "docUrl": "https://www.ups.com/", 
+            "enclosing": "comp_11", 
+            "endTime": 1.232267999999749, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_11_0", 
+            "mode": "end", 
+            "startTime": 1.2266769999987446, 
+            "subtree": "subtree_comp_11", 
+            "type": "eval", 
+            "url": "https://tags.tiqcdn.com/utag/ups/main/prod/utag.6.js?utv=ut4.41.201611041017"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [], 
+            "docUrl": "https://www.ups.com/", 
+            "enclosing": "comp_11", 
+            "endTime": 1.2326039999989007, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_11_1", 
+            "mode": "end", 
+            "startTime": 1.232267999999749, 
+            "subtree": "subtree_comp_11", 
+            "type": "eval", 
+            "url": "https://tags.tiqcdn.com/utag/ups/main/prod/utag.6.js?utv=ut4.41.201611041017"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [], 
+            "docUrl": "https://www.ups.com/", 
+            "enclosing": "None", 
+            "endTime": 1.3263659999993251, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_12", 
+            "mode": "end", 
+            "startTime": 1.3181899999999587, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "https://www.ups.com/javascript/webtrends.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_16_0"
+            ], 
+            "docUrl": "https://www.ups.com/", 
+            "enclosing": "None", 
+            "endTime": 1.3294479999985924, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_13", 
+            "mode": "end", 
+            "name": "load", 
+            "startTime": 1.3263799999986077, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_16_1", 
+                "download_16"
+            ], 
+            "docUrl": "https://www.ups.com/", 
+            "enclosing": "comp_16", 
+            "endTime": 1.3403759999982867, 
+            "evalType": "timer", 
+            "frame": 0, 
+            "id": "comp_16_0", 
+            "mode": "end", 
+            "startTime": 1.3299689999985276, 
+            "subtree": "subtree_comp_16", 
+            "timeout": 1, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_17", 
+                "comp_16_2"
+            ], 
+            "docUrl": "https://www.ups.com/", 
+            "enclosing": "comp_16", 
+            "endTime": 1.3408970000000409, 
+            "evalType": "timer", 
+            "frame": 0, 
+            "id": "comp_16_1", 
+            "mode": "end", 
+            "startTime": 1.3403759999982867, 
+            "subtree": "subtree_comp_16", 
+            "timeout": 1, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_16_3", 
+                "download_18"
+            ], 
+            "docUrl": "https://www.ups.com/", 
+            "enclosing": "comp_16", 
+            "endTime": 1.3411319999995612, 
+            "evalType": "timer", 
+            "frame": 0, 
+            "id": "comp_16_2", 
+            "mode": "end", 
+            "startTime": 1.3408970000000409, 
+            "subtree": "subtree_comp_16", 
+            "timeout": 1, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.ups.com/", 
+            "enclosing": "comp_16", 
+            "endTime": 1.3414089999987482, 
+            "evalType": "timer", 
+            "frame": 0, 
+            "id": "comp_16_3", 
+            "mode": "end", 
+            "startTime": 1.3411319999995612, 
+            "subtree": "subtree_comp_16", 
+            "timeout": 1, 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_20"
+            ], 
+            "docUrl": "https://www.ups.com/", 
+            "enclosing": "None", 
+            "endTime": 1.4571359999990818, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_19", 
+            "mode": "end", 
+            "name": "readystatechange", 
+            "startTime": 1.4570019999991928, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_21"
+            ], 
+            "docUrl": "https://www.ups.com/", 
+            "enclosing": "None", 
+            "endTime": 1.4590129999996861, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_20", 
+            "mode": "end", 
+            "name": "readystatechange", 
+            "startTime": 1.45719199999985, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.ups.com/", 
+            "enclosing": "None", 
+            "endTime": 1.4591269999982615, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_21", 
+            "mode": "end", 
+            "name": "readystatechange", 
+            "startTime": 1.4591269999982615, 
+            "subtree": "None", 
+            "targetType": "XMLHTTPRequest", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.ups.com/", 
+            "enclosing": "None", 
+            "endTime": 1.5232949999990524, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_22", 
+            "mode": "end", 
+            "name": "load", 
+            "startTime": 1.5231019999991986, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.ups.com/", 
+            "enclosing": "None", 
+            "endTime": 1.547869999998511, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_23", 
+            "mode": "end", 
+            "name": "load", 
+            "startTime": 1.5476269999999204, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "https://www.ups.com/", 
+            "enclosing": "None", 
+            "endTime": 1.9823169999999664, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_24", 
+            "mode": "end", 
+            "name": "load", 
+            "startTime": 1.9822169999988546, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "children": [
+                "pchunk_0_1", 
+                "download_1"
+            ], 
+            "docUrl": "https://www.ups.com/", 
+            "endColumn": 84, 
+            "endRow": 28, 
+            "endTag": "script", 
+            "endTime": 0.4658370000015566, 
+            "frame": 0, 
+            "id": "pchunk_0_0", 
+            "isFragment": false, 
+            "startColumn": 6, 
+            "startRow": 7, 
+            "startTag": "html", 
+            "startTime": 0.4652799999985291, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_4", 
+                "pchunk_0_2"
+            ], 
+            "docUrl": "https://www.ups.com/", 
+            "endColumn": 116, 
+            "endRow": 34, 
+            "endTag": "script", 
+            "endTime": 0.5029240000003483, 
+            "frame": 0, 
+            "id": "pchunk_0_1", 
+            "isFragment": false, 
+            "startColumn": 68, 
+            "startRow": 30, 
+            "startTag": "meta", 
+            "startTime": 0.5028210000000399, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_5", 
+                "pchunk_0_3"
+            ], 
+            "docUrl": "https://www.ups.com/", 
+            "endColumn": 77, 
+            "endRow": 77, 
+            "endTag": "img", 
+            "endTime": 0.637709000000541, 
+            "frame": 0, 
+            "id": "pchunk_0_2", 
+            "isFragment": false, 
+            "startColumn": 7, 
+            "startRow": 37, 
+            "startTag": "head", 
+            "startTime": 0.6359669999983453, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_7", 
+                "pchunk_0_4"
+            ], 
+            "docUrl": "https://www.ups.com/", 
+            "endColumn": 66, 
+            "endRow": 80, 
+            "endTag": "img", 
+            "endTime": 0.6380310000004101, 
+            "frame": 0, 
+            "id": "pchunk_0_3", 
+            "isFragment": false, 
+            "startColumn": 83, 
+            "startRow": 77, 
+            "startTag": "div", 
+            "startTime": 0.6378629999999248, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_5", 
+                "download_8"
+            ], 
+            "docUrl": "https://www.ups.com/", 
+            "endColumn": 111, 
+            "endRow": 378, 
+            "endTag": "input", 
+            "endTime": 0.6435200000087207, 
+            "frame": 0, 
+            "id": "pchunk_0_4", 
+            "isFragment": false, 
+            "startColumn": 72, 
+            "startRow": 80, 
+            "startTag": "div", 
+            "startTime": 0.6380460000000312, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_6", 
+                "download_9"
+            ], 
+            "docUrl": "https://www.ups.com/", 
+            "endColumn": 108, 
+            "endRow": 380, 
+            "endTag": "img", 
+            "endTime": 0.6473369999966962, 
+            "frame": 0, 
+            "id": "pchunk_0_5", 
+            "isFragment": false, 
+            "startColumn": 116, 
+            "startRow": 378, 
+            "startTag": "td", 
+            "startTime": 0.6471809999984544, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_7", 
+                "download_20"
+            ], 
+            "docUrl": "https://www.ups.com/", 
+            "endColumn": 68, 
+            "endRow": 390, 
+            "endTag": "img", 
+            "endTime": 0.6475999999966007, 
+            "frame": 0, 
+            "id": "pchunk_0_6", 
+            "isFragment": false, 
+            "startColumn": 112, 
+            "startRow": 380, 
+            "startTag": "br", 
+            "startTime": 0.6473499999992782, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_8", 
+                "download_21"
+            ], 
+            "docUrl": "https://www.ups.com/", 
+            "endColumn": 72, 
+            "endRow": 409, 
+            "endTag": "img", 
+            "endTime": 0.6478469999983645, 
+            "frame": 0, 
+            "id": "pchunk_0_7", 
+            "isFragment": false, 
+            "startColumn": 73, 
+            "startRow": 390, 
+            "startTag": "td", 
+            "startTime": 0.647648999998637, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_9", 
+                "download_22"
+            ], 
+            "docUrl": "https://www.ups.com/", 
+            "endColumn": 31, 
+            "endRow": 425, 
+            "endTag": "img", 
+            "endTime": 0.6481970000004367, 
+            "frame": 0, 
+            "id": "pchunk_0_8", 
+            "isFragment": false, 
+            "startColumn": 77, 
+            "startRow": 409, 
+            "startTag": "td", 
+            "startTime": 0.6479729999991832, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_10", 
+                "download_23"
+            ], 
+            "docUrl": "https://www.ups.com/", 
+            "endColumn": 32, 
+            "endRow": 429, 
+            "endTag": "img", 
+            "endTime": 0.6483790000002045, 
+            "frame": 0, 
+            "id": "pchunk_0_9", 
+            "isFragment": false, 
+            "startColumn": 36, 
+            "startRow": 425, 
+            "startTag": "td", 
+            "startTime": 0.6482899999991787, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_11", 
+                "download_24"
+            ], 
+            "docUrl": "https://www.ups.com/", 
+            "endColumn": 31, 
+            "endRow": 431, 
+            "endTag": "img", 
+            "endTime": 0.6483989999996993, 
+            "frame": 0, 
+            "id": "pchunk_0_10", 
+            "isFragment": false, 
+            "startColumn": 37, 
+            "startRow": 429, 
+            "startTag": "td", 
+            "startTime": 0.6483949999983452, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_25", 
+                "pchunk_0_12"
+            ], 
+            "docUrl": "https://www.ups.com/", 
+            "endColumn": 32, 
+            "endRow": 433, 
+            "endTag": "img", 
+            "endTime": 0.6483989999996993, 
+            "frame": 0, 
+            "id": "pchunk_0_11", 
+            "isFragment": false, 
+            "startColumn": 36, 
+            "startRow": 431, 
+            "startTag": "td", 
+            "startTime": 0.6483989999996993, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_26", 
+                "pchunk_0_13"
+            ], 
+            "docUrl": "https://www.ups.com/", 
+            "endColumn": 14, 
+            "endRow": 437, 
+            "endTag": "img", 
+            "endTime": 0.6483989999996993, 
+            "frame": 0, 
+            "id": "pchunk_0_12", 
+            "isFragment": false, 
+            "startColumn": 37, 
+            "startRow": 433, 
+            "startTag": "td", 
+            "startTime": 0.6483989999996993, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_27", 
+                "pchunk_0_14"
+            ], 
+            "docUrl": "https://www.ups.com/", 
+            "endColumn": 14, 
+            "endRow": 454, 
+            "endTag": "img", 
+            "endTime": 0.6498269999974582, 
+            "frame": 0, 
+            "id": "pchunk_0_13", 
+            "isFragment": false, 
+            "startColumn": 19, 
+            "startRow": 437, 
+            "startTag": "td", 
+            "startTime": 0.6483989999996993, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_15", 
+                "download_2"
+            ], 
+            "docUrl": "https://www.ups.com/", 
+            "endColumn": 92, 
+            "endRow": 457, 
+            "endTag": "script", 
+            "endTime": 0.6501220000009198, 
+            "frame": 0, 
+            "id": "pchunk_0_14", 
+            "isFragment": false, 
+            "startColumn": 19, 
+            "startRow": 454, 
+            "startTag": "td", 
+            "startTime": 0.6500669999986712, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "comp_4", 
+                "pchunk_0_16"
+            ], 
+            "docUrl": "https://www.ups.com/", 
+            "endColumn": 80, 
+            "endRow": 465, 
+            "endTag": "script", 
+            "endTime": 0.6528209999996761, 
+            "frame": 0, 
+            "id": "pchunk_0_15", 
+            "isFragment": false, 
+            "startColumn": 8, 
+            "startRow": 465, 
+            "startTag": "script", 
+            "startTime": 0.6527790000000095, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_17", 
+                "download_10"
+            ], 
+            "docUrl": "https://www.ups.com/", 
+            "endColumn": 42, 
+            "endRow": 476, 
+            "endTag": "img", 
+            "endTime": 0.653175999999803, 
+            "frame": 0, 
+            "id": "pchunk_0_16", 
+            "isFragment": false, 
+            "startColumn": 5, 
+            "startRow": 469, 
+            "startTag": "td", 
+            "startTime": 0.652948999999353, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "comp_25"
+            ], 
+            "docUrl": "https://www.ups.com/", 
+            "endColumn": 7, 
+            "endRow": 479, 
+            "endTag": "html", 
+            "endTime": 0.6532299999980751, 
+            "frame": 0, 
+            "id": "pchunk_0_17", 
+            "isFragment": false, 
+            "startColumn": 7, 
+            "startRow": 477, 
+            "startTag": "body", 
+            "startTime": 0.6532229999993433, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_1", 
+                "pchunk_0_0"
+            ], 
+            "id": "dchunk_0_0", 
+            "offset": 76, 
+            "resource": "download_0", 
+            "size": 648, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_2", 
+                "pchunk_0_1"
+            ], 
+            "id": "dchunk_0_1", 
+            "offset": 724, 
+            "resource": "download_0", 
+            "size": 273, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_3", 
+                "pchunk_0_2"
+            ], 
+            "id": "dchunk_0_2", 
+            "offset": 997, 
+            "resource": "download_0", 
+            "size": 721, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_4", 
+                "pchunk_0_3"
+            ], 
+            "id": "dchunk_0_3", 
+            "offset": 1718, 
+            "resource": "download_0", 
+            "size": 85, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_4", 
+                "dchunk_0_5"
+            ], 
+            "id": "dchunk_0_4", 
+            "offset": 1803, 
+            "resource": "download_0", 
+            "size": 16741, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_5", 
+                "dchunk_0_6"
+            ], 
+            "id": "dchunk_0_5", 
+            "offset": 18544, 
+            "resource": "download_0", 
+            "size": 116, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_6", 
+                "dchunk_0_7"
+            ], 
+            "id": "dchunk_0_6", 
+            "offset": 18660, 
+            "resource": "download_0", 
+            "size": 283, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_8", 
+                "pchunk_0_7"
+            ], 
+            "id": "dchunk_0_7", 
+            "offset": 18943, 
+            "resource": "download_0", 
+            "size": 247, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_9", 
+                "pchunk_0_8"
+            ], 
+            "id": "dchunk_0_8", 
+            "offset": 19190, 
+            "resource": "download_0", 
+            "size": 225, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_9", 
+                "dchunk_0_10"
+            ], 
+            "id": "dchunk_0_9", 
+            "offset": 19415, 
+            "resource": "download_0", 
+            "size": 112, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_10", 
+                "dchunk_0_11"
+            ], 
+            "id": "dchunk_0_10", 
+            "offset": 19527, 
+            "resource": "download_0", 
+            "size": 89, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_11", 
+                "dchunk_0_12"
+            ], 
+            "id": "dchunk_0_11", 
+            "offset": 19616, 
+            "resource": "download_0", 
+            "size": 97, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_12", 
+                "dchunk_0_13"
+            ], 
+            "id": "dchunk_0_12", 
+            "offset": 19713, 
+            "resource": "download_0", 
+            "size": 89, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_14", 
+                "pchunk_0_13"
+            ], 
+            "id": "dchunk_0_13", 
+            "offset": 19802, 
+            "resource": "download_0", 
+            "size": 1027, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_15", 
+                "pchunk_0_14"
+            ], 
+            "id": "dchunk_0_14", 
+            "offset": 20829, 
+            "resource": "download_0", 
+            "size": 111, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_16", 
+                "pchunk_0_15"
+            ], 
+            "id": "dchunk_0_15", 
+            "offset": 20940, 
+            "resource": "download_0", 
+            "size": 72, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_17", 
+                "pchunk_0_16"
+            ], 
+            "id": "dchunk_0_16", 
+            "offset": 21012, 
+            "resource": "download_0", 
+            "size": 99, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_17"
+            ], 
+            "id": "dchunk_0_17", 
+            "offset": 21111, 
+            "resource": "download_0", 
+            "size": 9, 
+            "type": "download_chunk"
+        }
+    ], 
+    "frames": [
+        {
+            "id": 0, 
+            "subframes": [], 
+            "url": "https://www.ups.com/"
+        }
+    ], 
+    "loadEvent": "comp_26", 
+    "name": "https://www.ups.com/", 
+    "root_activity": "download_0"
+}

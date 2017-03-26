@@ -1,0 +1,2250 @@
+{
+    "DOMContentLoadedEvent": "comp_10_0", 
+    "activities": [
+        {
+            "cached": false, 
+            "children": [
+                "comp_25"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_16", 
+            "mimeType": "application/octet-stream", 
+            "priority": {
+                "cp": 22, 
+                "cp-plus": 22, 
+                "depth": 24, 
+                "mime-type": 25
+            }, 
+            "receiveTime": 0.9651730000005045, 
+            "sentTime": 0.543069999999716, 
+            "size": 108368, 
+            "type": "resource", 
+            "url": "http://s01.appmifile.com/css/fonts/proximanova/proxima-nova-extrabold.woff?p"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_25", 
+                "comp_13_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_9", 
+            "mimeType": "text/javascript", 
+            "priority": {
+                "cp": 28, 
+                "cp-plus": 28, 
+                "depth": 12, 
+                "mime-type": 9
+            }, 
+            "receiveTime": 0.54501899999741, 
+            "sentTime": 0.5114429999994172, 
+            "size": 27809, 
+            "type": "resource", 
+            "url": "http://www.google-analytics.com/analytics.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_25"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_12", 
+            "mimeType": "application/octet-stream", 
+            "priority": {
+                "cp": 31, 
+                "cp-plus": 31, 
+                "depth": 41, 
+                "mime-type": 41
+            }, 
+            "receiveTime": 0.7166550000001735, 
+            "sentTime": 0.5426669999978913, 
+            "size": 104116, 
+            "type": "resource", 
+            "url": "http://s01.appmifile.com/css/fonts/proximanova/proxima-nova-regular.woff?p"
+        }, 
+        {
+            "cached": false, 
+            "children": [], 
+            "httpMethod": "GET", 
+            "id": "download_35", 
+            "mimeType": "image/gif", 
+            "priority": {
+                "cp": 42, 
+                "cp-plus": 42, 
+                "depth": 42, 
+                "mime-type": 42
+            }, 
+            "receiveTime": 5.3346979999987525, 
+            "sentTime": 5.033747999998013, 
+            "size": 35, 
+            "type": "resource", 
+            "url": "http://sg.a.stat.mi.com/mstr?mid=&phpsessid=&mstuid=1474425211023_9980&muuid=&mucid=&sessionId=106889994&step=2&new_visitor=0&mstprevpid=&mstprev_pid_loc=&prevtarget=&lastsource=&timestamp=1474475477744&ref=&domain=.mi.com&screen=1440*900&language=en-GB&vendor=Google%20Inc.&platform=Linux%20x86_64&gu=&pu=&rf=0&mutid=&domain_id=110&pageid=7059f3e54e25357d&curl=http%3A%2F%2Fwww.mi.com%2Fen%2F&xmv=1474425211023_9980_1474475473307&v=1.4.12&vuuid=2SAAK8L808LISI2P&fs=4503&ws=3952&ua=4042&td=8530&type=performance"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_25", 
+                "comp_14_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_10", 
+            "mimeType": "application/javascript", 
+            "priority": {
+                "cp": 8, 
+                "cp-plus": 8, 
+                "depth": 13, 
+                "mime-type": 8
+            }, 
+            "receiveTime": 0.5461319999958505, 
+            "sentTime": 0.5117370000007213, 
+            "size": 11771, 
+            "type": "resource", 
+            "url": "http://s01.appmifile.com/stat/xmst-sg.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_25"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_29", 
+            "mimeType": "image/jpeg", 
+            "priority": {
+                "cp": 14, 
+                "cp-plus": 14, 
+                "depth": 32, 
+                "mime-type": 33
+            }, 
+            "receiveTime": 0.9666929999984859, 
+            "sentTime": 0.46475899999859394, 
+            "size": 13674, 
+            "type": "resource", 
+            "url": "http://i01.appmifile.com/webfile/globalimg/sg/EN/mi5v.jpg?width=398&height=320"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_25"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_30", 
+            "mimeType": "image/jpeg", 
+            "priority": {
+                "cp": 13, 
+                "cp-plus": 13, 
+                "depth": 33, 
+                "mime-type": 34
+            }, 
+            "receiveTime": 1.0004809999954887, 
+            "sentTime": 0.4650340000007418, 
+            "size": 17613, 
+            "type": "resource", 
+            "url": "http://i01.appmifile.com/webfile/globalimg/sg/EN/launchv.jpg?width=398&height=320"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_17_0", 
+                "comp_25"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_13", 
+            "mimeType": "image/jpeg", 
+            "priority": {
+                "cp": 27, 
+                "cp-plus": 27, 
+                "depth": 14, 
+                "mime-type": 15
+            }, 
+            "receiveTime": 0.7609309999970719, 
+            "sentTime": 0.4613260000005539, 
+            "size": 75123, 
+            "type": "resource", 
+            "url": "http://i01.appmifile.com/webfile/globalimg/sg/EN/3840_pb_pro.jpg"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_25"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_39", 
+            "mimeType": "image/jpeg", 
+            "originalResource": "download_13", 
+            "priority": {
+                "cp": 36, 
+                "cp-plus": 36, 
+                "depth": 16, 
+                "mime-type": 17
+            }, 
+            "sentTime": 0.5248790000005101, 
+            "size": 75123, 
+            "type": "resource", 
+            "url": "http://i01.appmifile.com/webfile/globalimg/sg/EN/3840_pb_pro.jpg"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_25"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_40", 
+            "mimeType": "image/jpeg", 
+            "originalResource": "download_13", 
+            "priority": {
+                "cp": 37, 
+                "cp-plus": 37, 
+                "depth": 17, 
+                "mime-type": 18
+            }, 
+            "sentTime": 0.7638499999993655, 
+            "size": 75123, 
+            "type": "resource", 
+            "url": "http://i01.appmifile.com/webfile/globalimg/sg/EN/3840_pb_pro.jpg"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_25"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_41", 
+            "mimeType": "image/jpeg", 
+            "originalResource": "download_13", 
+            "priority": {
+                "cp": 38, 
+                "cp-plus": 38, 
+                "depth": 18, 
+                "mime-type": 19
+            }, 
+            "sentTime": 0.946907999998075, 
+            "size": 75123, 
+            "type": "resource", 
+            "url": "http://i01.appmifile.com/webfile/globalimg/sg/EN/3840_pb_pro.jpg"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_25"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_42", 
+            "mimeType": "image/jpeg", 
+            "originalResource": "download_13", 
+            "priority": {
+                "cp": 39, 
+                "cp-plus": 39, 
+                "depth": 19, 
+                "mime-type": 20
+            }, 
+            "sentTime": 0.9487269999990531, 
+            "size": 75123, 
+            "type": "resource", 
+            "url": "http://i01.appmifile.com/webfile/globalimg/sg/EN/3840_pb_pro.jpg"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_25"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_43", 
+            "mimeType": "image/jpeg", 
+            "originalResource": "download_13", 
+            "priority": {
+                "cp": 40, 
+                "cp-plus": 40, 
+                "depth": 20, 
+                "mime-type": 21
+            }, 
+            "sentTime": 1.002386000000115, 
+            "size": 75123, 
+            "type": "resource", 
+            "url": "http://i01.appmifile.com/webfile/globalimg/sg/EN/3840_pb_pro.jpg"
+        }, 
+        {
+            "cached": true, 
+            "children": [
+                "comp_25"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_44", 
+            "mimeType": "image/jpeg", 
+            "originalResource": "download_13", 
+            "priority": {
+                "cp": 41, 
+                "cp-plus": 41, 
+                "depth": 21, 
+                "mime-type": 22
+            }, 
+            "sentTime": 1.0230740000006335, 
+            "size": 75123, 
+            "type": "resource", 
+            "url": "http://i01.appmifile.com/webfile/globalimg/sg/EN/3840_pb_pro.jpg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_25", 
+                "comp_3"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_4", 
+            "mimeType": "application/javascript", 
+            "priority": {
+                "cp": 5, 
+                "cp-plus": 5, 
+                "depth": 5, 
+                "mime-type": 5
+            }, 
+            "receiveTime": 0.5264039999965462, 
+            "sentTime": 0.4452199999977893, 
+            "size": 24507, 
+            "type": "resource", 
+            "url": "http://s01.appmifile.com/js/en_pandora/xm.base.js?Bd9b8360ffde3a442e41df46b537826e8"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_25"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_34", 
+            "mimeType": "image/gif", 
+            "priority": {
+                "cp": 9, 
+                "cp-plus": 9, 
+                "depth": 37, 
+                "mime-type": 37
+            }, 
+            "receiveTime": 5.027516000001924, 
+            "sentTime": 0.5978259999974398, 
+            "size": 35, 
+            "type": "resource", 
+            "url": "http://sg.a.stat.mi.com/mstr?mid=&phpsessid=&mstuid=1474425211023_9980&muuid=&mucid=&sessionId=106889994&step=1&new_visitor=0&mstprevpid=&mstprev_pid_loc=&prevtarget=&lastsource=&timestamp=1474475473306&ref=&domain=.mi.com&screen=1440*900&language=en-GB&vendor=Google%20Inc.&platform=Linux%20x86_64&gu=&pu=&rf=0&mutid=&ldns=0&con=0&res=315&down=2&redi=3502&domain_id=110&pageid=7059f3e54e25357d&curl=http%3A%2F%2Fwww.mi.com%2Fen%2F&xmv=1474425211023_9980_1474475473307&v=1.4.12&vuuid=2SAAK8L808LISI2P"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_21", 
+                "comp_25"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_28", 
+            "mimeType": "image/jpeg", 
+            "priority": {
+                "cp": 15, 
+                "cp-plus": 15, 
+                "depth": 31, 
+                "mime-type": 32
+            }, 
+            "receiveTime": 0.9649330000029295, 
+            "sentTime": 0.4640259999978298, 
+            "size": 7971, 
+            "type": "resource", 
+            "url": "http://i01.appmifile.com/webfile/globalimg/en/cms/AC649F11-E423-01CA-BFD1-27EE4C4182BD.jpg?width=398&height=230&160516"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_20", 
+                "comp_25"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_26", 
+            "mimeType": "image/jpeg", 
+            "priority": {
+                "cp": 16, 
+                "cp-plus": 16, 
+                "depth": 29, 
+                "mime-type": 30
+            }, 
+            "receiveTime": 0.9605609999998705, 
+            "sentTime": 0.4638620000005176, 
+            "size": 7258, 
+            "type": "resource", 
+            "url": "http://i01.appmifile.com/webfile/globalimg/en/cms/510FDB58-0831-8BE0-3FC9-671052960B48.jpg?width=398&height=230&160516"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_25"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_25", 
+            "mimeType": "image/gif", 
+            "priority": {
+                "cp": 30, 
+                "cp-plus": 30, 
+                "depth": 28, 
+                "mime-type": 29
+            }, 
+            "receiveTime": 0.7612900000021909, 
+            "sentTime": 0.5739749999993364, 
+            "size": 35, 
+            "type": "resource", 
+            "url": "https://stats.g.doubleclick.net/r/collect?t=dc&aip=1&_r=3&v=1&_v=j46&tid=UA-51415204-9&cid=1225303247.1474425211&jid=1004983337&_u=ACCAgAQ~&z=1298433286"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_18_0", 
+                "comp_25"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_18", 
+            "mimeType": "image/jpeg", 
+            "priority": {
+                "cp": 17, 
+                "cp-plus": 17, 
+                "depth": 8, 
+                "mime-type": 11
+            }, 
+            "receiveTime": 0.9298779999990074, 
+            "sentTime": 0.4621159999987867, 
+            "size": 36656, 
+            "type": "resource", 
+            "url": "http://i01.appmifile.com/webfile/globalimg/en/cms/9E2AF808-84C7-164C-F96E-98471B672FA4.jpg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_25", 
+                "comp_1"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_2", 
+            "mimeType": "text/css", 
+            "priority": {
+                "cp": 3, 
+                "cp-plus": 3, 
+                "depth": 3, 
+                "mime-type": 3
+            }, 
+            "receiveTime": 0.39776200000051176, 
+            "sentTime": 0.3250469999984489, 
+            "size": 87221, 
+            "type": "resource", 
+            "url": "http://s01.appmifile.com/css/en_pandora/en.xm.base.css?Bf4bcda55a6cde416783567f22056040e"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_25"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_15", 
+            "mimeType": "application/octet-stream", 
+            "priority": {
+                "cp": 25, 
+                "cp-plus": 25, 
+                "depth": 23, 
+                "mime-type": 24
+            }, 
+            "receiveTime": 0.9500549999975192, 
+            "sentTime": 0.5428250000004482, 
+            "size": 97828, 
+            "type": "resource", 
+            "url": "http://s01.appmifile.com/css/fonts/proximanova/proxima-nova-thin.woff?p"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_25"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_27", 
+            "mimeType": "application/octet-stream", 
+            "priority": {
+                "cp": 19, 
+                "cp-plus": 19, 
+                "depth": 30, 
+                "mime-type": 31
+            }, 
+            "receiveTime": 1.0061490000007325, 
+            "sentTime": 0.5431429999989632, 
+            "size": 104300, 
+            "type": "resource", 
+            "url": "http://s01.appmifile.com/css/fonts/proximanova/proxima-nova-black.woff?p"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_25", 
+                "comp_2"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_3", 
+            "mimeType": "application/javascript", 
+            "priority": {
+                "cp": 2, 
+                "cp-plus": 2, 
+                "depth": 4, 
+                "mime-type": 4
+            }, 
+            "receiveTime": 0.4074060000020836, 
+            "sentTime": 0.32546499999807565, 
+            "size": 92906, 
+            "type": "resource", 
+            "url": "http://s01.appmifile.com/js/libs/jquery18.js"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_25", 
+                "comp_24"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_33", 
+            "mimeType": "application/javascript", 
+            "priority": {
+                "cp": 23, 
+                "cp-plus": 23, 
+                "depth": 36, 
+                "mime-type": 10
+            }, 
+            "receiveTime": 1.0066960000003746, 
+            "sentTime": 0.5856480000002193, 
+            "size": 7694, 
+            "type": "resource", 
+            "url": "http://s02.appmifile.com/stat/jquery.statData.min.sgp.js?d=2016921"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_25", 
+                "comp_12"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_8", 
+            "mimeType": "image/png", 
+            "priority": {
+                "cp": 33, 
+                "cp-plus": 33, 
+                "depth": 39, 
+                "mime-type": 39
+            }, 
+            "receiveTime": 0.5451159999975062, 
+            "sentTime": 0.4552210000001651, 
+            "size": 515, 
+            "type": "resource", 
+            "url": "http://i01.appmifile.com/webfile/globalimg/pandora/mihome.png"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "dchunk_0_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_0", 
+            "mimeType": "text/html", 
+            "priority": {
+                "cp": 1, 
+                "cp-plus": 1, 
+                "depth": 1, 
+                "mime-type": 1
+            }, 
+            "receiveTime": 0.32801199999812525, 
+            "sentTime": 0.0, 
+            "size": 37174, 
+            "type": "resource", 
+            "url": "http://www.mi.com/en/"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_23_0", 
+                "comp_25"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_20", 
+            "mimeType": "image/jpeg", 
+            "priority": {
+                "cp": 10, 
+                "cp-plus": 10, 
+                "depth": 9, 
+                "mime-type": 12
+            }, 
+            "receiveTime": 1.0065670000003593, 
+            "sentTime": 0.46243499999764026, 
+            "size": 244288, 
+            "type": "resource", 
+            "url": "http://i01.appmifile.com/webfile/globalimg/sg/banner/mimax.jpg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_25"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_7", 
+            "mimeType": "image/png", 
+            "priority": {
+                "cp": 34, 
+                "cp-plus": 34, 
+                "depth": 38, 
+                "mime-type": 38
+            }, 
+            "receiveTime": 0.5445839999993041, 
+            "sentTime": 0.4559449999978824, 
+            "size": 369, 
+            "type": "resource", 
+            "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAAb1BMVEUAAABhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWE4/uRRAAAAJHRSTlMAL3DAoZB/GhSv+PLkD+3q1M3HZ1IgB927m5aEelo2hkU/KwVZCqF6AAAAjUlEQVQY023LRw6DMBQA0THNpvfQSfv3P2OcDbIl3nKkAUwul0zzt6TqEkVYZ665mOoEuh1H38IxPXC1PUUaeKIaaUNPJ4gCbd+yhK+GUShio5pYf+ZQjWszmD5nE6leq2TPJJNYNSILQTfazZRQGkDPCUGIJ71PReyZbKojT3E7vrNDOYZ8gL0SR73xA0TACy70SweaAAAAAElFTkSuQmCC"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_25"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_32", 
+            "mimeType": "image/jpeg", 
+            "priority": {
+                "cp": 12, 
+                "cp-plus": 12, 
+                "depth": 35, 
+                "mime-type": 36
+            }, 
+            "receiveTime": 1.0036540000000969, 
+            "sentTime": 0.46529499999815016, 
+            "size": 8351, 
+            "type": "resource", 
+            "url": "http://i01.appmifile.com/webfile/globalimg/sg/EN/redmiv.jpg?width=398&height=320"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_25", 
+                "comp_0"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_1", 
+            "mimeType": "text/css", 
+            "priority": {
+                "cp": 4, 
+                "cp-plus": 4, 
+                "depth": 2, 
+                "mime-type": 2
+            }, 
+            "receiveTime": 0.3853029999991122, 
+            "sentTime": 0.3252699999975448, 
+            "size": 19669, 
+            "type": "resource", 
+            "url": "http://s01.appmifile.com/css/en_pandora/en.p.index.css?B9404bff1fa4812d214e4367e17f2245f"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_5", 
+                "comp_25"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_6", 
+            "mimeType": "application/javascript", 
+            "priority": {
+                "cp": 6, 
+                "cp-plus": 6, 
+                "depth": 6, 
+                "mime-type": 6
+            }, 
+            "receiveTime": 0.5303590000003169, 
+            "sentTime": 0.44878500000049826, 
+            "size": 3563, 
+            "type": "resource", 
+            "url": "http://s01.appmifile.com/js/stats/xmsg_ti.js?B07705f3a6eb1e0c0625e9344ea87d55a"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_15", 
+                "comp_25"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_22", 
+            "mimeType": "image/jpeg", 
+            "priority": {
+                "cp": 29, 
+                "cp-plus": 29, 
+                "depth": 15, 
+                "mime-type": 16
+            }, 
+            "receiveTime": 0.6887519999982032, 
+            "sentTime": 0.4636319999990519, 
+            "size": 22687, 
+            "type": "resource", 
+            "url": "http://i01.appmifile.com/webfile/globalimg/sg/EN/398x230_bt_speaker.jpg?width=398&height=230&160516"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_25"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_19", 
+            "mimeType": "application/octet-stream", 
+            "priority": {
+                "cp": 21, 
+                "cp-plus": 21, 
+                "depth": 26, 
+                "mime-type": 27
+            }, 
+            "receiveTime": 0.9655989999992016, 
+            "sentTime": 0.5427510000008624, 
+            "size": 101364, 
+            "type": "resource", 
+            "url": "http://s01.appmifile.com/css/fonts/proximanova/proxima-nova-light.woff?p"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_16", 
+                "comp_25"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_24", 
+            "mimeType": "image/gif", 
+            "priority": {
+                "cp": 32, 
+                "cp-plus": 32, 
+                "depth": 27, 
+                "mime-type": 28
+            }, 
+            "receiveTime": 0.7007290000001376, 
+            "sentTime": 0.572411999997712, 
+            "size": 35, 
+            "type": "resource", 
+            "url": "http://www.google-analytics.com/collect?v=1&_v=j46&a=1259343407&t=pageview&_s=1&dl=http%3A%2F%2Fwww.mi.com%2Fen%2F&ul=en-gb&de=UTF-8&dt=Xiaomi%20China%20-%20Mi%20Global%20Home&sd=24-bit&sr=1440x900&vp=919x796&je=1&fl=11.2%20r202&_u=ACCAgAQ~&jid=1004983337&cid=1225303247.1474425211&tid=UA-51415204-9&z=486583653"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_19_0", 
+                "comp_25"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_21", 
+            "mimeType": "image/jpeg", 
+            "priority": {
+                "cp": 18, 
+                "cp-plus": 18, 
+                "depth": 10, 
+                "mime-type": 13
+            }, 
+            "receiveTime": 0.9322689999971772, 
+            "sentTime": 0.4630570000008447, 
+            "size": 55651, 
+            "type": "resource", 
+            "url": "http://i01.appmifile.com/webfile/globalimg/en/cms/AD51D956-03B9-553D-F879-A531AA9B582C.jpg"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_25"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_31", 
+            "mimeType": "image/png", 
+            "priority": {
+                "cp": 20, 
+                "cp-plus": 20, 
+                "depth": 34, 
+                "mime-type": 35
+            }, 
+            "receiveTime": 0.9979229999989911, 
+            "sentTime": 0.5389389999982086, 
+            "size": 1703, 
+            "type": "resource", 
+            "url": "http://i01.appmifile.com/webfile/globalimg/common/icons/icon-slide-nav1.png"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_25"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_14", 
+            "mimeType": "application/octet-stream", 
+            "priority": {
+                "cp": 24, 
+                "cp-plus": 24, 
+                "depth": 22, 
+                "mime-type": 23
+            }, 
+            "receiveTime": 0.9597069999981613, 
+            "sentTime": 0.5429089999997814, 
+            "size": 104032, 
+            "type": "resource", 
+            "url": "http://s01.appmifile.com/css/fonts/proximanova/proxima-nova-semibold.woff?p"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_7", 
+                "comp_25"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_5", 
+            "mimeType": "application/javascript", 
+            "priority": {
+                "cp": 7, 
+                "cp-plus": 7, 
+                "depth": 7, 
+                "mime-type": 7
+            }, 
+            "receiveTime": 0.547443999999814, 
+            "sentTime": 0.4680000000007567, 
+            "size": 33488, 
+            "type": "resource", 
+            "url": "http://s01.appmifile.com/js/en_pandora/p.index.js?Ba1b44f1d31be3ee7a46fd71707e1fafb"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_25"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_17", 
+            "mimeType": "application/octet-stream", 
+            "priority": {
+                "cp": 26, 
+                "cp-plus": 26, 
+                "depth": 25, 
+                "mime-type": 26
+            }, 
+            "receiveTime": 0.9301239999986137, 
+            "sentTime": 0.5429909999984375, 
+            "size": 106660, 
+            "type": "resource", 
+            "url": "http://s01.appmifile.com/css/fonts/proximanova/proxima-nova-bold.woff?p"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_25"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_11", 
+            "mimeType": "application/font-ttf", 
+            "priority": {
+                "cp": 35, 
+                "cp-plus": 35, 
+                "depth": 40, 
+                "mime-type": 40
+            }, 
+            "receiveTime": 0.5465609999992012, 
+            "sentTime": 0.5432779999973718, 
+            "size": 12344, 
+            "type": "resource", 
+            "url": "data:application/font-ttf;charset=utf-8;base64,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"
+        }, 
+        {
+            "cached": false, 
+            "children": [
+                "comp_22_0", 
+                "comp_25"
+            ], 
+            "httpMethod": "GET", 
+            "id": "download_23", 
+            "mimeType": "image/jpeg", 
+            "priority": {
+                "cp": 11, 
+                "cp-plus": 11, 
+                "depth": 11, 
+                "mime-type": 14
+            }, 
+            "receiveTime": 1.0001269999993383, 
+            "sentTime": 0.4627029999974184, 
+            "size": 162243, 
+            "type": "resource", 
+            "url": "http://i01.appmifile.com/webfile/globalimg/en/cms/A4799BA3-65CF-D1C1-6865-2A137C3565FE.jpg"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "comp_2"
+            ], 
+            "docUrl": "http://www.mi.com/en/", 
+            "enclosing": "None", 
+            "endTime": 0.3879239999987476, 
+            "evalType": "recalcStyle", 
+            "frame": 0, 
+            "id": "comp_0", 
+            "mode": "dom", 
+            "startTime": 0.385668999999325, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "http://s01.appmifile.com/css/en_pandora/en.p.index.css?B9404bff1fa4812d214e4367e17f2245f"
+        }, 
+        {
+            "blocking": 4, 
+            "children": [
+                "download_27", 
+                "download_19", 
+                "download_17", 
+                "download_16", 
+                "download_15", 
+                "download_14", 
+                "download_12", 
+                "download_11", 
+                "comp_2"
+            ], 
+            "docUrl": "http://www.mi.com/en/", 
+            "enclosing": "None", 
+            "endTime": 0.40657999999893946, 
+            "evalType": "recalcStyle", 
+            "frame": 0, 
+            "id": "comp_1", 
+            "mode": "dom", 
+            "startTime": 0.39857299999857787, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "http://s01.appmifile.com/css/en_pandora/en.xm.base.css?Bf4bcda55a6cde416783567f22056040e"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_3"
+            ], 
+            "docUrl": "http://www.mi.com/en/", 
+            "enclosing": "None", 
+            "endTime": 0.4451420000004873, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_2", 
+            "mode": "dom", 
+            "startTime": 0.4075329999977839, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "http://s01.appmifile.com/js/libs/jquery18.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_4"
+            ], 
+            "docUrl": "http://www.mi.com/en/", 
+            "enclosing": "None", 
+            "endTime": 0.4486780000006547, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_3", 
+            "mode": "dom", 
+            "startTime": 0.445227000000159, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "http://s01.appmifile.com/js/en_pandora/xm.base.js?Bd9b8360ffde3a442e41df46b537826e8"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_5"
+            ], 
+            "docUrl": "http://www.mi.com/en/", 
+            "enclosing": "None", 
+            "endTime": 0.44874399999753223, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_4", 
+            "mode": "dom", 
+            "startTime": 0.44871299999795156, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_6"
+            ], 
+            "docUrl": "http://www.mi.com/en/", 
+            "enclosing": "None", 
+            "endTime": 0.4498399999974936, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_5", 
+            "mode": "dom", 
+            "startTime": 0.4487889999982144, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "http://s01.appmifile.com/js/stats/xmsg_ti.js?B07705f3a6eb1e0c0625e9344ea87d55a"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_9"
+            ], 
+            "docUrl": "http://www.mi.com/en/", 
+            "enclosing": "None", 
+            "endTime": 0.4609119999986433, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_6", 
+            "mode": "dom", 
+            "startTime": 0.4603029999998398, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_21"
+            ], 
+            "docUrl": "http://www.mi.com/en/", 
+            "enclosing": "None", 
+            "endTime": 0.4729079999997339, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_7", 
+            "mode": "dom", 
+            "startTime": 0.468007999999827, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "http://s01.appmifile.com/js/en_pandora/p.index.js?Ba1b44f1d31be3ee7a46fd71707e1fafb"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_22"
+            ], 
+            "docUrl": "http://www.mi.com/en/", 
+            "enclosing": "None", 
+            "endTime": 0.5110109999986889, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_8", 
+            "mode": "dom", 
+            "startTime": 0.47302099999797065, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_9_1", 
+                "download_9"
+            ], 
+            "docUrl": "http://www.mi.com/en/", 
+            "enclosing": "comp_9", 
+            "endTime": 0.5113129999990633, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_9_0", 
+            "mode": "dom", 
+            "startTime": 0.5110999999997148, 
+            "subtree": "subtree_comp_9", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_9_2", 
+                "download_10"
+            ], 
+            "docUrl": "http://www.mi.com/en/", 
+            "enclosing": "comp_9", 
+            "endTime": 0.5116309999975783, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_9_1", 
+            "mode": "dom", 
+            "startTime": 0.5113129999990633, 
+            "subtree": "subtree_comp_9", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "pchunk_0_23"
+            ], 
+            "docUrl": "http://www.mi.com/en/", 
+            "enclosing": "comp_9", 
+            "endTime": 0.5118139999976847, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_9_2", 
+            "mode": "dom", 
+            "startTime": 0.5116309999975783, 
+            "subtree": "subtree_comp_9", 
+            "type": "eval", 
+            "url": ""
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_39", 
+                "comp_10_1"
+            ], 
+            "docUrl": "http://www.mi.com/en/", 
+            "enclosing": "comp_10", 
+            "endTime": 0.5247659999986354, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_10_0", 
+            "mode": "dom", 
+            "name": "DOMContentLoaded", 
+            "startTime": 0.512031999998726, 
+            "subtree": "subtree_comp_10", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_31", 
+                "comp_10_2"
+            ], 
+            "docUrl": "http://www.mi.com/en/", 
+            "enclosing": "comp_10", 
+            "endTime": 0.5360729999993055, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_10_1", 
+            "mode": "dom", 
+            "name": "DOMContentLoaded", 
+            "startTime": 0.5247659999986354, 
+            "subtree": "subtree_comp_10", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_25"
+            ], 
+            "docUrl": "http://www.mi.com/en/", 
+            "enclosing": "comp_10", 
+            "endTime": 0.5416779999977734, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_10_2", 
+            "mode": "dom", 
+            "name": "DOMContentLoaded", 
+            "startTime": 0.5360729999993055, 
+            "subtree": "subtree_comp_10", 
+            "targetType": "Document", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://www.mi.com/en/", 
+            "enclosing": "None", 
+            "endTime": 0.5469730000004347, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_12", 
+            "mode": "load", 
+            "name": "load", 
+            "startTime": 0.5468169999985548, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_24", 
+                "comp_13_1"
+            ], 
+            "docUrl": "http://www.mi.com/en/", 
+            "enclosing": "comp_13", 
+            "endTime": 0.5723020000004908, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_13_0", 
+            "mode": "load", 
+            "startTime": 0.546980999999505, 
+            "subtree": "subtree_comp_13", 
+            "type": "eval", 
+            "url": "http://www.google-analytics.com/analytics.js"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_25", 
+                "comp_13_2"
+            ], 
+            "docUrl": "http://www.mi.com/en/", 
+            "enclosing": "comp_13", 
+            "endTime": 0.5737860000008368, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_13_1", 
+            "mode": "load", 
+            "startTime": 0.5723020000004908, 
+            "subtree": "subtree_comp_13", 
+            "type": "eval", 
+            "url": "http://www.google-analytics.com/analytics.js"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [], 
+            "docUrl": "http://www.mi.com/en/", 
+            "enclosing": "comp_13", 
+            "endTime": 0.57534300000043, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_13_2", 
+            "mode": "load", 
+            "startTime": 0.5737860000008368, 
+            "subtree": "subtree_comp_13", 
+            "type": "eval", 
+            "url": "http://www.google-analytics.com/analytics.js"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_33", 
+                "comp_14_1"
+            ], 
+            "docUrl": "http://www.mi.com/en/", 
+            "enclosing": "comp_14", 
+            "endTime": 0.5854340000005323, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_14_0", 
+            "mode": "load", 
+            "startTime": 0.5757559999983641, 
+            "subtree": "subtree_comp_14", 
+            "type": "eval", 
+            "url": "http://s01.appmifile.com/stat/xmst-sg.js"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [
+                "download_34", 
+                "comp_14_2"
+            ], 
+            "docUrl": "http://www.mi.com/en/", 
+            "enclosing": "comp_14", 
+            "endTime": 0.5976100000007136, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_14_1", 
+            "mode": "load", 
+            "startTime": 0.5854340000005323, 
+            "subtree": "subtree_comp_14", 
+            "type": "eval", 
+            "url": "http://s01.appmifile.com/stat/xmst-sg.js"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [], 
+            "docUrl": "http://www.mi.com/en/", 
+            "enclosing": "comp_14", 
+            "endTime": 0.5983400000004622, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_14_2", 
+            "mode": "load", 
+            "startTime": 0.5976100000007136, 
+            "subtree": "subtree_comp_14", 
+            "type": "eval", 
+            "url": "http://s01.appmifile.com/stat/xmst-sg.js"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://www.mi.com/en/", 
+            "enclosing": "None", 
+            "endTime": 0.6919749999979103, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_15", 
+            "mode": "load", 
+            "name": "load", 
+            "startTime": 0.6919009999983246, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://www.mi.com/en/", 
+            "enclosing": "None", 
+            "endTime": 0.7036789999983739, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_16", 
+            "mode": "load", 
+            "name": "load", 
+            "startTime": 0.7028109999992012, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_40", 
+                "comp_17_1"
+            ], 
+            "docUrl": "http://www.mi.com/en/", 
+            "enclosing": "comp_17", 
+            "endTime": 0.7636610000008659, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_17_0", 
+            "mode": "load", 
+            "name": "load", 
+            "startTime": 0.7622029999984079, 
+            "subtree": "subtree_comp_17", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://www.mi.com/en/", 
+            "enclosing": "comp_17", 
+            "endTime": 0.8066049999979441, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_17_1", 
+            "mode": "load", 
+            "name": "load", 
+            "startTime": 0.7636610000008659, 
+            "subtree": "subtree_comp_17", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_41", 
+                "comp_18_1"
+            ], 
+            "docUrl": "http://www.mi.com/en/", 
+            "enclosing": "comp_18", 
+            "endTime": 0.9468229999984032, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_18_0", 
+            "mode": "load", 
+            "name": "load", 
+            "startTime": 0.9330499999996391, 
+            "subtree": "subtree_comp_18", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://www.mi.com/en/", 
+            "enclosing": "comp_18", 
+            "endTime": 0.9476350000004459, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_18_1", 
+            "mode": "load", 
+            "name": "load", 
+            "startTime": 0.9468229999984032, 
+            "subtree": "subtree_comp_18", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_42", 
+                "comp_19_1"
+            ], 
+            "docUrl": "http://www.mi.com/en/", 
+            "enclosing": "comp_19", 
+            "endTime": 0.9483770000006189, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_19_0", 
+            "mode": "load", 
+            "name": "load", 
+            "startTime": 0.9476570000006177, 
+            "subtree": "subtree_comp_19", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://www.mi.com/en/", 
+            "enclosing": "comp_19", 
+            "endTime": 0.9492079999981797, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_19_1", 
+            "mode": "load", 
+            "name": "load", 
+            "startTime": 0.9483770000006189, 
+            "subtree": "subtree_comp_19", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://www.mi.com/en/", 
+            "enclosing": "None", 
+            "endTime": 1.0011070000000473, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_20", 
+            "mode": "load", 
+            "name": "load", 
+            "startTime": 1.0010169999986829, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://www.mi.com/en/", 
+            "enclosing": "None", 
+            "endTime": 1.0011410000006435, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_21", 
+            "mode": "load", 
+            "name": "load", 
+            "startTime": 1.0011149999991176, 
+            "subtree": "None", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_22_1", 
+                "download_43"
+            ], 
+            "docUrl": "http://www.mi.com/en/", 
+            "enclosing": "comp_22", 
+            "endTime": 1.0023130000008678, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_22_0", 
+            "mode": "load", 
+            "name": "load", 
+            "startTime": 1.0011539999977686, 
+            "subtree": "subtree_comp_22", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://www.mi.com/en/", 
+            "enclosing": "comp_22", 
+            "endTime": 1.0028189999975439, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_22_1", 
+            "mode": "load", 
+            "name": "load", 
+            "startTime": 1.0023130000008678, 
+            "subtree": "subtree_comp_22", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "comp_23_1", 
+                "download_44"
+            ], 
+            "docUrl": "http://www.mi.com/en/", 
+            "enclosing": "comp_23", 
+            "endTime": 1.0229999999974098, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_23_0", 
+            "mode": "load", 
+            "name": "load", 
+            "startTime": 1.0212749999991502, 
+            "subtree": "subtree_comp_23", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [], 
+            "docUrl": "http://www.mi.com/en/", 
+            "enclosing": "comp_23", 
+            "endTime": 1.0237009999982547, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_23_1", 
+            "mode": "load", 
+            "name": "load", 
+            "startTime": 1.0229999999974098, 
+            "subtree": "subtree_comp_23", 
+            "targetType": "Element", 
+            "type": "eval"
+        }, 
+        {
+            "blocking": 3, 
+            "children": [], 
+            "docUrl": "http://www.mi.com/en/", 
+            "enclosing": "None", 
+            "endTime": 1.0608269999975164, 
+            "evalType": "execScript", 
+            "frame": 0, 
+            "id": "comp_24", 
+            "mode": "load", 
+            "startTime": 1.0237149999993562, 
+            "subtree": "None", 
+            "type": "eval", 
+            "url": "http://s02.appmifile.com/stat/jquery.statData.min.sgp.js?d=2016921"
+        }, 
+        {
+            "blocking": 1, 
+            "children": [
+                "download_35"
+            ], 
+            "docUrl": "http://www.mi.com/en/", 
+            "enclosing": "None", 
+            "endTime": 5.033747999998013, 
+            "evalType": "fireEvent", 
+            "frame": 0, 
+            "id": "comp_25", 
+            "mode": "load", 
+            "name": "load", 
+            "startTime": 5.0280149999998685, 
+            "subtree": "None", 
+            "targetType": "Window", 
+            "type": "eval"
+        }, 
+        {
+            "children": [
+                "pchunk_0_1", 
+                "download_2"
+            ], 
+            "docUrl": "http://www.mi.com/en/", 
+            "endColumn": 136, 
+            "endRow": 19, 
+            "endTag": "link", 
+            "endTime": 0.32500300000901916, 
+            "frame": 0, 
+            "id": "pchunk_0_0", 
+            "isFragment": false, 
+            "startColumn": 36, 
+            "startRow": 3, 
+            "startTag": "html", 
+            "startTime": 0.32411599999977625, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_1", 
+                "pchunk_0_2"
+            ], 
+            "docUrl": "http://www.mi.com/en/", 
+            "endColumn": 137, 
+            "endRow": 21, 
+            "endTag": "link", 
+            "endTime": 0.3253579999982321, 
+            "frame": 0, 
+            "id": "pchunk_0_1", 
+            "isFragment": false, 
+            "startColumn": 137, 
+            "startRow": 21, 
+            "startTag": "link", 
+            "startTime": 0.32519999999931315, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_3", 
+                "pchunk_0_3"
+            ], 
+            "docUrl": "http://www.mi.com/en/", 
+            "endColumn": 91, 
+            "endRow": 22, 
+            "endTag": "script", 
+            "endTime": 0.32538799999747425, 
+            "frame": 0, 
+            "id": "pchunk_0_2", 
+            "isFragment": false, 
+            "startColumn": 82, 
+            "startRow": 22, 
+            "startTag": "script", 
+            "startTime": 0.32536500000060187, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_4", 
+                "download_4"
+            ], 
+            "docUrl": "http://www.mi.com/en/", 
+            "endColumn": 130, 
+            "endRow": 23, 
+            "endTag": "script", 
+            "endTime": 0.44518299999981537, 
+            "frame": 0, 
+            "id": "pchunk_0_3", 
+            "isFragment": false, 
+            "startColumn": 121, 
+            "startRow": 23, 
+            "startTag": "script", 
+            "startTime": 0.4451549999976123, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_5", 
+                "comp_4"
+            ], 
+            "docUrl": "http://www.mi.com/en/", 
+            "endColumn": 11, 
+            "endRow": 26, 
+            "endTag": "script", 
+            "endTime": 0.4487040000021807, 
+            "frame": 0, 
+            "id": "pchunk_0_4", 
+            "isFragment": false, 
+            "startColumn": 10, 
+            "startRow": 24, 
+            "startTag": "script", 
+            "startTime": 0.4486909999977797, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_6", 
+                "pchunk_0_6"
+            ], 
+            "docUrl": "http://www.mi.com/en/", 
+            "endColumn": 125, 
+            "endRow": 27, 
+            "endTag": "script", 
+            "endTime": 0.44876599999770406, 
+            "frame": 0, 
+            "id": "pchunk_0_5", 
+            "isFragment": false, 
+            "startColumn": 116, 
+            "startRow": 27, 
+            "startTag": "script", 
+            "startTime": 0.448750999999902, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_7", 
+                "download_8"
+            ], 
+            "docUrl": "http://www.mi.com/en/", 
+            "endColumn": 82, 
+            "endRow": 173, 
+            "endTag": "img", 
+            "endTime": 0.45459199998003896, 
+            "frame": 0, 
+            "id": "pchunk_0_6", 
+            "isFragment": false, 
+            "startColumn": 7, 
+            "startRow": 30, 
+            "startTag": "head", 
+            "startTime": 0.4498490000005404, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_7", 
+                "pchunk_0_8"
+            ], 
+            "docUrl": "http://www.mi.com/en/", 
+            "endColumn": 86, 
+            "endRow": 181, 
+            "endTag": "a", 
+            "endTime": 0.4559519999966142, 
+            "frame": 0, 
+            "id": "pchunk_0_7", 
+            "isFragment": false, 
+            "startColumn": 14, 
+            "startRow": 175, 
+            "startTag": "div", 
+            "startTime": 0.4555819999986852, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "comp_6", 
+                "pchunk_0_9"
+            ], 
+            "docUrl": "http://www.mi.com/en/", 
+            "endColumn": 9, 
+            "endRow": 395, 
+            "endTag": "script", 
+            "endTime": 0.4588599999915459, 
+            "frame": 0, 
+            "id": "pchunk_0_8", 
+            "isFragment": false, 
+            "startColumn": 95, 
+            "startRow": 181, 
+            "startTag": "a", 
+            "startTime": 0.45601199999873643, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_10", 
+                "download_13"
+            ], 
+            "docUrl": "http://www.mi.com/en/", 
+            "endColumn": 133, 
+            "endRow": 403, 
+            "endTag": "img", 
+            "endTime": 0.4613309999986086, 
+            "frame": 0, 
+            "id": "pchunk_0_9", 
+            "isFragment": false, 
+            "startColumn": 23, 
+            "startRow": 396, 
+            "startTag": "div", 
+            "startTime": 0.460929999997461, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_11", 
+                "download_18"
+            ], 
+            "docUrl": "http://www.mi.com/en/", 
+            "endColumn": 142, 
+            "endRow": 423, 
+            "endTag": "img", 
+            "endTime": 0.46193500000663335, 
+            "frame": 0, 
+            "id": "pchunk_0_10", 
+            "isFragment": false, 
+            "startColumn": 5, 
+            "startRow": 404, 
+            "startTag": "a", 
+            "startTime": 0.4613790000003064, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_12", 
+                "download_20"
+            ], 
+            "docUrl": "http://www.mi.com/en/", 
+            "endColumn": 111, 
+            "endRow": 444, 
+            "endTag": "img", 
+            "endTime": 0.46233100001336425, 
+            "frame": 0, 
+            "id": "pchunk_0_11", 
+            "isFragment": false, 
+            "startColumn": 5, 
+            "startRow": 424, 
+            "startTag": "a", 
+            "startTime": 0.4621359999982815, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_13", 
+                "download_23"
+            ], 
+            "docUrl": "http://www.mi.com/en/", 
+            "endColumn": 133, 
+            "endRow": 463, 
+            "endTag": "img", 
+            "endTime": 0.46263800000815536, 
+            "frame": 0, 
+            "id": "pchunk_0_12", 
+            "isFragment": false, 
+            "startColumn": 5, 
+            "startRow": 445, 
+            "startTag": "a", 
+            "startTime": 0.4624519999997574, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_14", 
+                "download_21"
+            ], 
+            "docUrl": "http://www.mi.com/en/", 
+            "endColumn": 133, 
+            "endRow": 483, 
+            "endTag": "img", 
+            "endTime": 0.46298400000159745, 
+            "frame": 0, 
+            "id": "pchunk_0_13", 
+            "isFragment": false, 
+            "startColumn": 5, 
+            "startRow": 464, 
+            "startTag": "a", 
+            "startTime": 0.4627199999995355, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_15", 
+                "download_22"
+            ], 
+            "docUrl": "http://www.mi.com/en/", 
+            "endColumn": 130, 
+            "endRow": 506, 
+            "endTag": "img", 
+            "endTime": 0.4635739999866928, 
+            "frame": 0, 
+            "id": "pchunk_0_14", 
+            "isFragment": false, 
+            "startColumn": 5, 
+            "startRow": 484, 
+            "startTag": "a", 
+            "startTime": 0.4630729999989853, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_26", 
+                "pchunk_0_16"
+            ], 
+            "docUrl": "http://www.mi.com/en/", 
+            "endColumn": 149, 
+            "endRow": 512, 
+            "endTag": "img", 
+            "endTime": 0.4638439999980619, 
+            "frame": 0, 
+            "id": "pchunk_0_15", 
+            "isFragment": false, 
+            "startColumn": 14, 
+            "startRow": 507, 
+            "startTag": "a", 
+            "startTime": 0.4636949999985518, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_17", 
+                "download_28"
+            ], 
+            "docUrl": "http://www.mi.com/en/", 
+            "endColumn": 149, 
+            "endRow": 518, 
+            "endTag": "img", 
+            "endTime": 0.46402600000510574, 
+            "frame": 0, 
+            "id": "pchunk_0_16", 
+            "isFragment": false, 
+            "startColumn": 14, 
+            "startRow": 513, 
+            "startTag": "a", 
+            "startTime": 0.4638889999987441, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_18", 
+                "download_29"
+            ], 
+            "docUrl": "http://www.mi.com/en/", 
+            "endColumn": 107, 
+            "endRow": 538, 
+            "endTag": "img", 
+            "endTime": 0.4646929999908025, 
+            "frame": 0, 
+            "id": "pchunk_0_17", 
+            "isFragment": false, 
+            "startColumn": 14, 
+            "startRow": 519, 
+            "startTag": "a", 
+            "startTime": 0.46405199999935576, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_19", 
+                "download_30"
+            ], 
+            "docUrl": "http://www.mi.com/en/", 
+            "endColumn": 110, 
+            "endRow": 547, 
+            "endTag": "img", 
+            "endTime": 0.46501100000023143, 
+            "frame": 0, 
+            "id": "pchunk_0_18", 
+            "isFragment": false, 
+            "startColumn": 12, 
+            "startRow": 539, 
+            "startTag": "a", 
+            "startTime": 0.4647980000008829, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_32", 
+                "pchunk_0_20"
+            ], 
+            "docUrl": "http://www.mi.com/en/", 
+            "endColumn": 109, 
+            "endRow": 555, 
+            "endTag": "img", 
+            "endTime": 0.4652769999956945, 
+            "frame": 0, 
+            "id": "pchunk_0_19", 
+            "isFragment": false, 
+            "startColumn": 12, 
+            "startRow": 548, 
+            "startTag": "a", 
+            "startTime": 0.4650629999996454, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "download_5", 
+                "pchunk_0_21"
+            ], 
+            "docUrl": "http://www.mi.com/en/", 
+            "endColumn": 130, 
+            "endRow": 720, 
+            "endTag": "script", 
+            "endTime": 0.46725300000980496, 
+            "frame": 0, 
+            "id": "pchunk_0_20", 
+            "isFragment": false, 
+            "startColumn": 12, 
+            "startRow": 556, 
+            "startTag": "a", 
+            "startTime": 0.4653230000003532, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "comp_8", 
+                "pchunk_0_22"
+            ], 
+            "docUrl": "http://www.mi.com/en/", 
+            "endColumn": 9, 
+            "endRow": 765, 
+            "endTag": "script", 
+            "endTime": 0.47296600000117905, 
+            "frame": 0, 
+            "id": "pchunk_0_21", 
+            "isFragment": false, 
+            "startColumn": 31, 
+            "startRow": 722, 
+            "startTag": "script", 
+            "startTime": 0.4729239999978745, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "comp_9_0", 
+                "pchunk_0_23"
+            ], 
+            "docUrl": "http://www.mi.com/en/", 
+            "endColumn": 9, 
+            "endRow": 789, 
+            "endTag": "script", 
+            "endTime": 0.5110729999978503, 
+            "frame": 0, 
+            "id": "pchunk_0_22", 
+            "isFragment": false, 
+            "startColumn": 31, 
+            "startRow": 767, 
+            "startTag": "script", 
+            "startTime": 0.5110289999975066, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "comp_10_0"
+            ], 
+            "docUrl": "http://www.mi.com/en/", 
+            "endColumn": 7, 
+            "endRow": 791, 
+            "endTag": "html", 
+            "endTime": 0.5118360000014945, 
+            "frame": 0, 
+            "id": "pchunk_0_23", 
+            "isFragment": false, 
+            "startColumn": 7, 
+            "startRow": 790, 
+            "startTag": "body", 
+            "startTime": 0.5118289999991248, 
+            "type": "parse_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_1", 
+                "pchunk_0_0"
+            ], 
+            "id": "dchunk_0_0", 
+            "offset": 54, 
+            "resource": "download_0", 
+            "size": 1269, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_2", 
+                "pchunk_0_1"
+            ], 
+            "id": "dchunk_0_1", 
+            "offset": 1323, 
+            "resource": "download_0", 
+            "size": 0, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_3", 
+                "pchunk_0_2"
+            ], 
+            "id": "dchunk_0_2", 
+            "offset": 1323, 
+            "resource": "download_0", 
+            "size": 9, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_4", 
+                "pchunk_0_3"
+            ], 
+            "id": "dchunk_0_3", 
+            "offset": 1332, 
+            "resource": "download_0", 
+            "size": 9, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_4", 
+                "dchunk_0_5"
+            ], 
+            "id": "dchunk_0_4", 
+            "offset": 1341, 
+            "resource": "download_0", 
+            "size": 31, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_5", 
+                "dchunk_0_6"
+            ], 
+            "id": "dchunk_0_5", 
+            "offset": 1372, 
+            "resource": "download_0", 
+            "size": 9, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_6", 
+                "dchunk_0_7"
+            ], 
+            "id": "dchunk_0_6", 
+            "offset": 1381, 
+            "resource": "download_0", 
+            "size": 5568, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_8", 
+                "pchunk_0_7"
+            ], 
+            "id": "dchunk_0_7", 
+            "offset": 6949, 
+            "resource": "download_0", 
+            "size": 265, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_9", 
+                "pchunk_0_8"
+            ], 
+            "id": "dchunk_0_8", 
+            "offset": 7214, 
+            "resource": "download_0", 
+            "size": 13395, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_9", 
+                "dchunk_0_10"
+            ], 
+            "id": "dchunk_0_9", 
+            "offset": 20609, 
+            "resource": "download_0", 
+            "size": 300, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_10", 
+                "dchunk_0_11"
+            ], 
+            "id": "dchunk_0_10", 
+            "offset": 20909, 
+            "resource": "download_0", 
+            "size": 844, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_11", 
+                "dchunk_0_12"
+            ], 
+            "id": "dchunk_0_11", 
+            "offset": 21753, 
+            "resource": "download_0", 
+            "size": 868, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_12", 
+                "dchunk_0_13"
+            ], 
+            "id": "dchunk_0_12", 
+            "offset": 22621, 
+            "resource": "download_0", 
+            "size": 801, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_14", 
+                "pchunk_0_13"
+            ], 
+            "id": "dchunk_0_13", 
+            "offset": 23422, 
+            "resource": "download_0", 
+            "size": 813, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_15", 
+                "pchunk_0_14"
+            ], 
+            "id": "dchunk_0_14", 
+            "offset": 24235, 
+            "resource": "download_0", 
+            "size": 939, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_16", 
+                "pchunk_0_15"
+            ], 
+            "id": "dchunk_0_15", 
+            "offset": 25174, 
+            "resource": "download_0", 
+            "size": 268, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_17", 
+                "pchunk_0_16"
+            ], 
+            "id": "dchunk_0_16", 
+            "offset": 25442, 
+            "resource": "download_0", 
+            "size": 275, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_18", 
+                "pchunk_0_17"
+            ], 
+            "id": "dchunk_0_17", 
+            "offset": 25717, 
+            "resource": "download_0", 
+            "size": 626, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_18", 
+                "dchunk_0_19"
+            ], 
+            "id": "dchunk_0_18", 
+            "offset": 26343, 
+            "resource": "download_0", 
+            "size": 435, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_19", 
+                "dchunk_0_20"
+            ], 
+            "id": "dchunk_0_19", 
+            "offset": 26778, 
+            "resource": "download_0", 
+            "size": 415, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_21", 
+                "pchunk_0_20"
+            ], 
+            "id": "dchunk_0_20", 
+            "offset": 27193, 
+            "resource": "download_0", 
+            "size": 6861, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_22", 
+                "pchunk_0_21"
+            ], 
+            "id": "dchunk_0_21", 
+            "offset": 34054, 
+            "resource": "download_0", 
+            "size": 1486, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "dchunk_0_23", 
+                "pchunk_0_22"
+            ], 
+            "id": "dchunk_0_22", 
+            "offset": 35540, 
+            "resource": "download_0", 
+            "size": 875, 
+            "type": "download_chunk"
+        }, 
+        {
+            "children": [
+                "pchunk_0_23"
+            ], 
+            "id": "dchunk_0_23", 
+            "offset": 36415, 
+            "resource": "download_0", 
+            "size": 8, 
+            "type": "download_chunk"
+        }
+    ], 
+    "frames": [
+        {
+            "id": 0, 
+            "subframes": [], 
+            "url": "http://www.mi.com/en/"
+        }
+    ], 
+    "loadEvent": "comp_25", 
+    "name": "http://www.mi.com/en/", 
+    "root_activity": "download_0"
+}

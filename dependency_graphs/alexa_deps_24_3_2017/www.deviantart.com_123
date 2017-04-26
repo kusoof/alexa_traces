@@ -9,12 +9,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_9", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": true, 
+                "mime-type": true
+            }, 
             "mimeType": "text/css", 
             "priority": {
                 "cp": 2, 
                 "cp-plus": 2, 
-                "depth": 8, 
-                "mime-type": 8
+                "depth": 7, 
+                "mime-type": 7
             }, 
             "receiveTime": 6.568973999999798, 
             "sentTime": 5.813814999999522, 
@@ -32,11 +38,17 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_32", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "text/html", 
             "priority": {
                 "cp": 22, 
                 "cp-plus": 22, 
-                "depth": 23, 
+                "depth": 18, 
                 "mime-type": 19
             }, 
             "receiveTime": 6.887022999999317, 
@@ -52,12 +64,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_122", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "priority": {
                 "cp": 69, 
                 "cp-plus": 69, 
-                "depth": 92, 
-                "mime-type": 110
+                "depth": 244, 
+                "mime-type": 244
             }, 
             "receiveTime": 8.17194500000005, 
             "sentTime": 6.720880000000761, 
@@ -74,6 +92,12 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_182", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": true, 
+                "mime-type": false
+            }, 
             "mimeType": "application/json", 
             "priority": {
                 "cp": 26, 
@@ -94,12 +118,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_113", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/png", 
             "priority": {
                 "cp": 29, 
                 "cp-plus": 29, 
-                "depth": 83, 
-                "mime-type": 101
+                "depth": 235, 
+                "mime-type": 235
             }, 
             "receiveTime": 8.167096000001038, 
             "sentTime": 6.632974000000104, 
@@ -114,12 +144,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_53", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "priority": {
                 "cp": 135, 
                 "cp-plus": 135, 
-                "depth": 114, 
-                "mime-type": 131
+                "depth": 99, 
+                "mime-type": 127
             }, 
             "receiveTime": 7.0058830000016314, 
             "sentTime": 6.6422139999995125, 
@@ -134,12 +170,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_110", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "priority": {
                 "cp": 62, 
                 "cp-plus": 62, 
-                "depth": 172, 
-                "mime-type": 174
+                "depth": 232, 
+                "mime-type": 232
             }, 
             "receiveTime": 8.165106000000378, 
             "sentTime": 6.712837999999465, 
@@ -154,12 +196,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_58", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "priority": {
                 "cp": 82, 
                 "cp-plus": 82, 
-                "depth": 119, 
-                "mime-type": 135
+                "depth": 59, 
+                "mime-type": 97
             }, 
             "receiveTime": 8.092944999998508, 
             "sentTime": 6.669933000001038, 
@@ -174,13 +222,19 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_242", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "originalResource": "download_58", 
             "priority": {
-                "cp": 240, 
-                "cp-plus": 240, 
-                "depth": 240, 
-                "mime-type": 240
+                "cp": 237, 
+                "cp-plus": 237, 
+                "depth": 183, 
+                "mime-type": 188
             }, 
             "sentTime": 6.670006000000285, 
             "size": 27124, 
@@ -194,12 +248,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_100", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/png", 
             "priority": {
                 "cp": 66, 
                 "cp-plus": 66, 
-                "depth": 162, 
-                "mime-type": 164
+                "depth": 222, 
+                "mime-type": 222
             }, 
             "receiveTime": 8.157564999999522, 
             "sentTime": 6.70592200000101, 
@@ -216,12 +276,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_174", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "application/json", 
             "priority": {
                 "cp": 156, 
                 "cp-plus": 156, 
-                "depth": 38, 
-                "mime-type": 90
+                "depth": 36, 
+                "mime-type": 91
             }, 
             "receiveTime": 8.852520000000368, 
             "sentTime": 8.665021000000706, 
@@ -236,12 +302,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_204", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "", 
             "priority": {
-                "cp": 205, 
-                "cp-plus": 205, 
-                "depth": 205, 
-                "mime-type": 205
+                "cp": 225, 
+                "cp-plus": 225, 
+                "depth": 144, 
+                "mime-type": 171
             }, 
             "receiveTime": 6.604295000001002, 
             "sentTime": 6.604295000001002, 
@@ -256,12 +328,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_213", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "", 
             "priority": {
-                "cp": 254, 
-                "cp-plus": 254, 
-                "depth": 254, 
-                "mime-type": 254
+                "cp": 205, 
+                "cp-plus": 205, 
+                "depth": 124, 
+                "mime-type": 151
             }, 
             "receiveTime": 6.608177000000069, 
             "sentTime": 6.608177000000069, 
@@ -277,12 +355,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_27", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "application/javascript", 
             "priority": {
                 "cp": 101, 
                 "cp-plus": 101, 
-                "depth": 137, 
-                "mime-type": 71
+                "depth": 78, 
+                "mime-type": 53
             }, 
             "receiveTime": 7.823836000001393, 
             "sentTime": 6.836492000000362, 
@@ -297,12 +381,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_36", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "priority": {
                 "cp": 158, 
                 "cp-plus": 158, 
-                "depth": 122, 
-                "mime-type": 138
+                "depth": 83, 
+                "mime-type": 112
             }, 
             "receiveTime": 6.910122999999658, 
             "sentTime": 6.637372000001051, 
@@ -317,13 +407,19 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_224", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "originalResource": "download_36", 
             "priority": {
-                "cp": 222, 
-                "cp-plus": 222, 
-                "depth": 222, 
-                "mime-type": 222
+                "cp": 213, 
+                "cp-plus": 213, 
+                "depth": 132, 
+                "mime-type": 159
             }, 
             "sentTime": 6.637584000000061, 
             "size": 12936, 
@@ -337,12 +433,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_65", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "priority": {
                 "cp": 56, 
                 "cp-plus": 56, 
-                "depth": 189, 
-                "mime-type": 191
+                "depth": 66, 
+                "mime-type": 104
             }, 
             "receiveTime": 8.109985000000961, 
             "sentTime": 6.650548999999955, 
@@ -359,11 +461,17 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_170", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "application/javascript", 
             "priority": {
                 "cp": 150, 
                 "cp-plus": 150, 
-                "depth": 19, 
+                "depth": 21, 
                 "mime-type": 26
             }, 
             "receiveTime": 8.72576399999889, 
@@ -377,6 +485,12 @@
             "children": [], 
             "httpMethod": "GET", 
             "id": "download_193", 
+            "iscrit": {
+                "cp": true, 
+                "cp-plus": true, 
+                "depth": true, 
+                "mime-type": true
+            }, 
             "mimeType": "text/html", 
             "priority": {
                 "cp": 256, 
@@ -400,12 +514,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_171", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "application/javascript", 
             "priority": {
                 "cp": 177, 
                 "cp-plus": 177, 
-                "depth": 30, 
-                "mime-type": 36
+                "depth": 28, 
+                "mime-type": 35
             }, 
             "receiveTime": 8.750833000000057, 
             "sentTime": 8.678013000000647, 
@@ -423,6 +543,12 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_33", 
+            "iscrit": {
+                "cp": true, 
+                "cp-plus": false, 
+                "depth": true, 
+                "mime-type": false
+            }, 
             "mimeType": "text/html", 
             "priority": {
                 "cp": 12, 
@@ -444,12 +570,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_179", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "text/plain", 
             "priority": {
-                "cp": 188, 
-                "cp-plus": 188, 
-                "depth": 42, 
-                "mime-type": 92
+                "cp": 187, 
+                "cp-plus": 187, 
+                "depth": 40, 
+                "mime-type": 93
             }, 
             "receiveTime": 8.899986000000354, 
             "sentTime": 8.899922000000515, 
@@ -465,12 +597,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_136", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "application/javascript", 
             "priority": {
                 "cp": 123, 
                 "cp-plus": 123, 
-                "depth": 106, 
-                "mime-type": 64
+                "depth": 153, 
+                "mime-type": 63
             }, 
             "receiveTime": 8.203724000000875, 
             "sentTime": 7.393423999999868, 
@@ -486,12 +624,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_189", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "text/html", 
             "priority": {
                 "cp": 181, 
                 "cp-plus": 181, 
-                "depth": 34, 
-                "mime-type": 85
+                "depth": 32, 
+                "mime-type": 86
             }, 
             "receiveTime": 12.884595000001354, 
             "sentTime": 12.924662999999782, 
@@ -506,12 +650,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_50", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "priority": {
                 "cp": 139, 
                 "cp-plus": 139, 
-                "depth": 111, 
-                "mime-type": 128
+                "depth": 96, 
+                "mime-type": 124
             }, 
             "receiveTime": 7.005065999999715, 
             "sentTime": 6.643260000000737, 
@@ -526,12 +676,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_76", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "priority": {
                 "cp": 73, 
                 "cp-plus": 73, 
-                "depth": 175, 
-                "mime-type": 177
+                "depth": 109, 
+                "mime-type": 136
             }, 
             "receiveTime": 8.11268100000052, 
             "sentTime": 6.662830999999642, 
@@ -548,12 +704,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_140", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "application/javascript", 
             "priority": {
                 "cp": 118, 
                 "cp-plus": 118, 
-                "depth": 72, 
-                "mime-type": 59
+                "depth": 157, 
+                "mime-type": 67
             }, 
             "receiveTime": 8.218612000000576, 
             "sentTime": 7.394379999999728, 
@@ -568,12 +730,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_111", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "priority": {
                 "cp": 39, 
                 "cp-plus": 39, 
-                "depth": 81, 
-                "mime-type": 99
+                "depth": 233, 
+                "mime-type": 233
             }, 
             "receiveTime": 8.165751999998974, 
             "sentTime": 6.664655000000494, 
@@ -588,13 +756,19 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_239", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "originalResource": "download_111", 
             "priority": {
-                "cp": 237, 
-                "cp-plus": 237, 
-                "depth": 237, 
-                "mime-type": 237
+                "cp": 234, 
+                "cp-plus": 234, 
+                "depth": 180, 
+                "mime-type": 185
             }, 
             "sentTime": 6.66471300000012, 
             "size": 15600, 
@@ -608,12 +782,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_38", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "priority": {
                 "cp": 145, 
                 "cp-plus": 145, 
-                "depth": 124, 
-                "mime-type": 139
+                "depth": 85, 
+                "mime-type": 113
             }, 
             "receiveTime": 6.995965000000069, 
             "sentTime": 6.6387180000001536, 
@@ -628,13 +808,19 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_226", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "originalResource": "download_38", 
             "priority": {
-                "cp": 224, 
-                "cp-plus": 224, 
-                "depth": 224, 
-                "mime-type": 224
+                "cp": 215, 
+                "cp-plus": 215, 
+                "depth": 134, 
+                "mime-type": 161
             }, 
             "sentTime": 6.638850999999704, 
             "size": 8051, 
@@ -649,12 +835,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_24", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "application/javascript", 
             "priority": {
                 "cp": 107, 
                 "cp-plus": 107, 
-                "depth": 134, 
-                "mime-type": 68
+                "depth": 75, 
+                "mime-type": 50
             }, 
             "receiveTime": 7.701858000000357, 
             "sentTime": 6.836445000000822, 
@@ -670,12 +862,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_151", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": true
+            }, 
             "mimeType": "text/css", 
             "priority": {
                 "cp": 170, 
                 "cp-plus": 170, 
-                "depth": 63, 
-                "mime-type": 13
+                "depth": 168, 
+                "mime-type": 15
             }, 
             "receiveTime": 8.229182999999466, 
             "sentTime": 8.023789000000761, 
@@ -692,12 +890,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_178", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "text/html", 
             "priority": {
                 "cp": 155, 
                 "cp-plus": 155, 
-                "depth": 41, 
-                "mime-type": 87
+                "depth": 39, 
+                "mime-type": 88
             }, 
             "receiveTime": 8.947293000001082, 
             "sentTime": 8.75963799999954, 
@@ -712,12 +916,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_219", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "", 
             "priority": {
-                "cp": 246, 
-                "cp-plus": 246, 
-                "depth": 246, 
-                "mime-type": 246
+                "cp": 211, 
+                "cp-plus": 211, 
+                "depth": 130, 
+                "mime-type": 157
             }, 
             "receiveTime": 6.608249999999316, 
             "sentTime": 6.608249999999316, 
@@ -732,12 +942,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_31", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/gif", 
             "priority": {
                 "cp": 162, 
                 "cp-plus": 162, 
-                "depth": 140, 
-                "mime-type": 148
+                "depth": 81, 
+                "mime-type": 110
             }, 
             "receiveTime": 6.876641000000745, 
             "sentTime": 6.62524300000041, 
@@ -752,13 +968,19 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_258", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/gif", 
             "originalResource": "download_31", 
             "priority": {
-                "cp": 220, 
-                "cp-plus": 220, 
-                "depth": 220, 
-                "mime-type": 220
+                "cp": 253, 
+                "cp-plus": 253, 
+                "depth": 199, 
+                "mime-type": 204
             }, 
             "sentTime": 6.730489999999918, 
             "size": 313, 
@@ -772,13 +994,19 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_259", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/gif", 
             "originalResource": "download_31", 
             "priority": {
-                "cp": 197, 
-                "cp-plus": 197, 
-                "depth": 57, 
-                "mime-type": 96
+                "cp": 254, 
+                "cp-plus": 254, 
+                "depth": 200, 
+                "mime-type": 205
             }, 
             "sentTime": 6.73106800000096, 
             "size": 313, 
@@ -792,12 +1020,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_107", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "priority": {
                 "cp": 54, 
                 "cp-plus": 54, 
-                "depth": 169, 
-                "mime-type": 171
+                "depth": 229, 
+                "mime-type": 229
             }, 
             "receiveTime": 8.163248000002568, 
             "sentTime": 6.701344999999492, 
@@ -812,12 +1046,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_126", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/png", 
             "priority": {
                 "cp": 71, 
                 "cp-plus": 71, 
-                "depth": 96, 
-                "mime-type": 114
+                "depth": 248, 
+                "mime-type": 248
             }, 
             "receiveTime": 8.173501999999644, 
             "sentTime": 6.722432000000481, 
@@ -832,12 +1072,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_71", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "priority": {
                 "cp": 49, 
                 "cp-plus": 49, 
-                "depth": 195, 
-                "mime-type": 197
+                "depth": 104, 
+                "mime-type": 131
             }, 
             "receiveTime": 8.11074600000029, 
             "sentTime": 6.64354800000001, 
@@ -853,12 +1099,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_2", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "application/x-javascript", 
             "priority": {
                 "cp": 194, 
                 "cp-plus": 194, 
-                "depth": 198, 
-                "mime-type": 80
+                "depth": 57, 
+                "mime-type": 46
             }, 
             "receiveTime": 5.725981000001411, 
             "sentTime": 5.703392999999778, 
@@ -874,12 +1126,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_149", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "application/javascript", 
             "priority": {
                 "cp": 164, 
                 "cp-plus": 164, 
-                "depth": 51, 
-                "mime-type": 29
+                "depth": 55, 
+                "mime-type": 30
             }, 
             "receiveTime": 8.243954999999914, 
             "sentTime": 8.022911000000022, 
@@ -894,12 +1152,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_135", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "priority": {
                 "cp": 23, 
                 "cp-plus": 23, 
-                "depth": 105, 
-                "mime-type": 123
+                "depth": 152, 
+                "mime-type": 174
             }, 
             "receiveTime": 8.37069800000063, 
             "sentTime": 6.688530999999784, 
@@ -917,11 +1181,17 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_34", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "text/html", 
             "priority": {
                 "cp": 127, 
                 "cp-plus": 127, 
-                "depth": 24, 
+                "depth": 19, 
                 "mime-type": 20
             }, 
             "receiveTime": 6.9076159999985975, 
@@ -937,12 +1207,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_115", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "priority": {
                 "cp": 34, 
                 "cp-plus": 34, 
-                "depth": 85, 
-                "mime-type": 103
+                "depth": 237, 
+                "mime-type": 237
             }, 
             "receiveTime": 8.167579000000842, 
             "sentTime": 6.660233000000517, 
@@ -957,13 +1233,19 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_236", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "originalResource": "download_115", 
             "priority": {
-                "cp": 234, 
-                "cp-plus": 234, 
-                "depth": 234, 
-                "mime-type": 234
+                "cp": 231, 
+                "cp-plus": 231, 
+                "depth": 177, 
+                "mime-type": 182
             }, 
             "sentTime": 6.660603000000265, 
             "size": 28451, 
@@ -977,12 +1259,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_75", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/gif", 
             "priority": {
                 "cp": 72, 
                 "cp-plus": 72, 
-                "depth": 174, 
-                "mime-type": 176
+                "depth": 108, 
+                "mime-type": 135
             }, 
             "receiveTime": 8.112528999999995, 
             "sentTime": 6.661501000000499, 
@@ -998,12 +1286,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_8", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "text/css", 
             "priority": {
                 "cp": 3, 
                 "cp-plus": 3, 
-                "depth": 7, 
-                "mime-type": 7
+                "depth": 6, 
+                "mime-type": 6
             }, 
             "receiveTime": 6.483987000001434, 
             "sentTime": 5.813319999999294, 
@@ -1019,12 +1313,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_146", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "text/css", 
             "priority": {
                 "cp": 173, 
                 "cp-plus": 173, 
-                "depth": 78, 
-                "mime-type": 15
+                "depth": 163, 
+                "mime-type": 14
             }, 
             "receiveTime": 8.225688000000446, 
             "sentTime": 8.02306900000076, 
@@ -1041,11 +1341,17 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_188", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "text/html", 
             "priority": {
                 "cp": 175, 
                 "cp-plus": 175, 
-                "depth": 21, 
+                "depth": 22, 
                 "mime-type": 83
             }, 
             "receiveTime": 12.855970999999045, 
@@ -1062,12 +1368,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_21", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "application/javascript", 
             "priority": {
                 "cp": 112, 
                 "cp-plus": 112, 
-                "depth": 147, 
-                "mime-type": 78
+                "depth": 72, 
+                "mime-type": 47
             }, 
             "receiveTime": 7.65815400000065, 
             "sentTime": 6.796324999999342, 
@@ -1082,12 +1394,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_128", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/svg+xml", 
             "priority": {
                 "cp": 36, 
                 "cp-plus": 36, 
-                "depth": 98, 
-                "mime-type": 116
+                "depth": 250, 
+                "mime-type": 250
             }, 
             "receiveTime": 8.176853000000847, 
             "sentTime": 6.672792999999729, 
@@ -1102,12 +1420,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_59", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "priority": {
                 "cp": 81, 
                 "cp-plus": 81, 
-                "depth": 120, 
-                "mime-type": 136
+                "depth": 60, 
+                "mime-type": 98
             }, 
             "receiveTime": 8.092364000000089, 
             "sentTime": 6.65834200000063, 
@@ -1124,11 +1448,17 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_176", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "text/html", 
             "priority": {
                 "cp": 104, 
                 "cp-plus": 104, 
-                "depth": 22, 
+                "depth": 24, 
                 "mime-type": 84
             }, 
             "receiveTime": 8.898169000000053, 
@@ -1144,12 +1474,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_103", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/gif", 
             "priority": {
                 "cp": 65, 
                 "cp-plus": 65, 
-                "depth": 165, 
-                "mime-type": 167
+                "depth": 225, 
+                "mime-type": 225
             }, 
             "receiveTime": 8.161862999999357, 
             "sentTime": 6.710140000001047, 
@@ -1164,12 +1500,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_120", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/png", 
             "priority": {
                 "cp": 68, 
                 "cp-plus": 68, 
-                "depth": 90, 
-                "mime-type": 108
+                "depth": 242, 
+                "mime-type": 242
             }, 
             "receiveTime": 8.17059800000061, 
             "sentTime": 6.719336000000112, 
@@ -1184,12 +1526,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_214", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "", 
             "priority": {
-                "cp": 253, 
-                "cp-plus": 253, 
-                "depth": 253, 
-                "mime-type": 253
+                "cp": 206, 
+                "cp-plus": 206, 
+                "depth": 125, 
+                "mime-type": 152
             }, 
             "receiveTime": 6.60818400000062, 
             "sentTime": 6.60818400000062, 
@@ -1204,12 +1552,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_123", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/png", 
             "priority": {
                 "cp": 63, 
                 "cp-plus": 63, 
-                "depth": 93, 
-                "mime-type": 111
+                "depth": 245, 
+                "mime-type": 245
             }, 
             "receiveTime": 8.172480999999607, 
             "sentTime": 6.720386999999391, 
@@ -1226,12 +1580,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_166", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "text/javascript", 
             "priority": {
                 "cp": 159, 
                 "cp-plus": 159, 
-                "depth": 28, 
-                "mime-type": 34
+                "depth": 26, 
+                "mime-type": 33
             }, 
             "receiveTime": 8.651512000000366, 
             "sentTime": 8.469546000000264, 
@@ -1246,12 +1606,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_74", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "priority": {
                 "cp": 52, 
                 "cp-plus": 52, 
-                "depth": 173, 
-                "mime-type": 175
+                "depth": 107, 
+                "mime-type": 134
             }, 
             "receiveTime": 8.112316000000646, 
             "sentTime": 6.647863000000143, 
@@ -1266,13 +1632,19 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_229", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "originalResource": "download_74", 
             "priority": {
-                "cp": 227, 
-                "cp-plus": 227, 
-                "depth": 227, 
-                "mime-type": 227
+                "cp": 218, 
+                "cp-plus": 218, 
+                "depth": 137, 
+                "mime-type": 164
             }, 
             "sentTime": 6.647924999999304, 
             "size": 5653, 
@@ -1286,12 +1658,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_211", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "", 
             "priority": {
-                "cp": 248, 
-                "cp-plus": 248, 
-                "depth": 248, 
-                "mime-type": 248
+                "cp": 203, 
+                "cp-plus": 203, 
+                "depth": 122, 
+                "mime-type": 149
             }, 
             "receiveTime": 6.608164999999644, 
             "sentTime": 6.608164999999644, 
@@ -1308,12 +1686,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_158", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "application/x-javascript", 
             "priority": {
                 "cp": 183, 
                 "cp-plus": 183, 
-                "depth": 67, 
-                "mime-type": 54
+                "depth": 172, 
+                "mime-type": 76
             }, 
             "receiveTime": 8.380950999999186, 
             "sentTime": 8.266631000000416, 
@@ -1330,12 +1714,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_165", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "application/x-javascript", 
             "priority": {
                 "cp": 196, 
                 "cp-plus": 196, 
-                "depth": 60, 
-                "mime-type": 48
+                "depth": 148, 
+                "mime-type": 61
             }, 
             "receiveTime": 8.650080999999773, 
             "sentTime": 8.644831999999951, 
@@ -1352,13 +1742,19 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_277", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "application/x-javascript", 
             "originalResource": "download_165", 
             "priority": {
-                "cp": 186, 
-                "cp-plus": 186, 
-                "depth": 27, 
-                "mime-type": 33
+                "cp": 189, 
+                "cp-plus": 189, 
+                "depth": 47, 
+                "mime-type": 43
             }, 
             "sentTime": 8.665869000000384, 
             "size": 35, 
@@ -1372,12 +1768,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_198", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "", 
             "priority": {
-                "cp": 202, 
-                "cp-plus": 202, 
-                "depth": 202, 
-                "mime-type": 202
+                "cp": 222, 
+                "cp-plus": 222, 
+                "depth": 141, 
+                "mime-type": 168
             }, 
             "receiveTime": 6.590828000000329, 
             "sentTime": 6.590828000000329, 
@@ -1392,12 +1794,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_99", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/gif", 
             "priority": {
                 "cp": 60, 
                 "cp-plus": 60, 
-                "depth": 161, 
-                "mime-type": 163
+                "depth": 221, 
+                "mime-type": 221
             }, 
             "receiveTime": 8.157834000001458, 
             "sentTime": 6.705328000000009, 
@@ -1413,12 +1821,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_25", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "application/javascript", 
             "priority": {
                 "cp": 110, 
                 "cp-plus": 110, 
-                "depth": 135, 
-                "mime-type": 69
+                "depth": 76, 
+                "mime-type": 51
             }, 
             "receiveTime": 7.659997999999177, 
             "sentTime": 6.7967700000008335, 
@@ -1433,12 +1847,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_62", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "priority": {
                 "cp": 88, 
                 "cp-plus": 88, 
-                "depth": 186, 
-                "mime-type": 188
+                "depth": 63, 
+                "mime-type": 101
             }, 
             "receiveTime": 8.107560000002195, 
             "sentTime": 6.695466999999553, 
@@ -1453,13 +1873,19 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_247", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "originalResource": "download_62", 
             "priority": {
-                "cp": 209, 
-                "cp-plus": 209, 
-                "depth": 209, 
-                "mime-type": 209
+                "cp": 242, 
+                "cp-plus": 242, 
+                "depth": 188, 
+                "mime-type": 193
             }, 
             "sentTime": 6.69554799999969, 
             "size": 8891, 
@@ -1474,12 +1900,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_28", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "application/javascript", 
             "priority": {
                 "cp": 106, 
                 "cp-plus": 106, 
-                "depth": 138, 
-                "mime-type": 72
+                "depth": 79, 
+                "mime-type": 54
             }, 
             "receiveTime": 7.702150999999503, 
             "sentTime": 6.836537999999564, 
@@ -1496,12 +1928,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_181", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "application/x-javascript", 
             "priority": {
                 "cp": 129, 
                 "cp-plus": 129, 
-                "depth": 44, 
-                "mime-type": 42
+                "depth": 42, 
+                "mime-type": 39
             }, 
             "receiveTime": 9.099165000001449, 
             "sentTime": 8.67935000000034, 
@@ -1519,12 +1957,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_184", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": true, 
+                "mime-type": false
+            }, 
             "mimeType": "text/javascript", 
             "priority": {
                 "cp": 102, 
                 "cp-plus": 102, 
-                "depth": 45, 
-                "mime-type": 43
+                "depth": 29, 
+                "mime-type": 36
             }, 
             "receiveTime": 10.077562000000398, 
             "sentTime": 9.126953999999387, 
@@ -1539,12 +1983,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_88", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "text/plain", 
             "priority": {
-                "cp": 200, 
-                "cp-plus": 200, 
-                "depth": 151, 
-                "mime-type": 153
+                "cp": 255, 
+                "cp-plus": 255, 
+                "depth": 211, 
+                "mime-type": 211
             }, 
             "receiveTime": 6.992748000000574, 
             "sentTime": 6.992881000000125, 
@@ -1559,12 +2009,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_44", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/png", 
             "priority": {
                 "cp": 132, 
                 "cp-plus": 132, 
-                "depth": 129, 
-                "mime-type": 144
+                "depth": 90, 
+                "mime-type": 118
             }, 
             "receiveTime": 6.998310000000856, 
             "sentTime": 6.628468999999313, 
@@ -1581,11 +2037,17 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_194", 
+            "iscrit": {
+                "cp": true, 
+                "cp-plus": false, 
+                "depth": true, 
+                "mime-type": false
+            }, 
             "mimeType": "text/html", 
             "priority": {
                 "cp": 190, 
                 "cp-plus": 190, 
-                "depth": 53, 
+                "depth": 54, 
                 "mime-type": 95
             }, 
             "receiveTime": 14.114544000000024, 
@@ -1601,12 +2063,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_102", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "priority": {
                 "cp": 57, 
                 "cp-plus": 57, 
-                "depth": 164, 
-                "mime-type": 166
+                "depth": 224, 
+                "mime-type": 224
             }, 
             "receiveTime": 8.160727000000406, 
             "sentTime": 6.7064919999993435, 
@@ -1621,12 +2089,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_87", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "font/ttf", 
             "priority": {
                 "cp": 99, 
                 "cp-plus": 99, 
-                "depth": 150, 
-                "mime-type": 152
+                "depth": 210, 
+                "mime-type": 210
             }, 
             "receiveTime": 8.118193000000247, 
             "sentTime": 6.8665450000007695, 
@@ -1641,12 +2115,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_217", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "", 
             "priority": {
-                "cp": 249, 
-                "cp-plus": 249, 
-                "depth": 249, 
-                "mime-type": 249
+                "cp": 209, 
+                "cp-plus": 209, 
+                "depth": 128, 
+                "mime-type": 155
             }, 
             "receiveTime": 6.608234999999695, 
             "sentTime": 6.608234999999695, 
@@ -1661,12 +2141,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_97", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "priority": {
                 "cp": 43, 
                 "cp-plus": 43, 
-                "depth": 159, 
-                "mime-type": 161
+                "depth": 219, 
+                "mime-type": 219
             }, 
             "receiveTime": 8.156417000000147, 
             "sentTime": 6.670262999999977, 
@@ -1683,6 +2169,12 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_160", 
+            "iscrit": {
+                "cp": true, 
+                "cp-plus": false, 
+                "depth": true, 
+                "mime-type": false
+            }, 
             "mimeType": "application/x-javascript", 
             "priority": {
                 "cp": 14, 
@@ -1704,12 +2196,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_17", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/gif", 
             "priority": {
                 "cp": 125, 
                 "cp-plus": 125, 
-                "depth": 144, 
-                "mime-type": 150
+                "depth": 203, 
+                "mime-type": 206
             }, 
             "receiveTime": 6.441652000001341, 
             "sentTime": 5.843974999999773, 
@@ -1724,12 +2222,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_125", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/png", 
             "priority": {
                 "cp": 64, 
                 "cp-plus": 64, 
-                "depth": 95, 
-                "mime-type": 113
+                "depth": 247, 
+                "mime-type": 247
             }, 
             "receiveTime": 8.17331600000034, 
             "sentTime": 6.721364000000904, 
@@ -1744,12 +2248,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_49", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/gif", 
             "priority": {
                 "cp": 136, 
                 "cp-plus": 136, 
-                "depth": 110, 
-                "mime-type": 127
+                "depth": 95, 
+                "mime-type": 123
             }, 
             "receiveTime": 7.003706999999849, 
             "sentTime": 6.64115800000036, 
@@ -1766,11 +2276,17 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_173", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": true, 
+                "mime-type": false
+            }, 
             "mimeType": "text/javascript", 
             "priority": {
                 "cp": 100, 
                 "cp-plus": 100, 
-                "depth": 20, 
+                "depth": 23, 
                 "mime-type": 27
             }, 
             "receiveTime": 9.21142399999917, 
@@ -1786,12 +2302,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_105", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/gif", 
             "priority": {
                 "cp": 67, 
                 "cp-plus": 67, 
-                "depth": 167, 
-                "mime-type": 169
+                "depth": 227, 
+                "mime-type": 227
             }, 
             "receiveTime": 8.162693000000218, 
             "sentTime": 6.7111299999996845, 
@@ -1806,12 +2328,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_60", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/gif", 
             "priority": {
                 "cp": 70, 
                 "cp-plus": 70, 
-                "depth": 121, 
-                "mime-type": 137
+                "depth": 61, 
+                "mime-type": 99
             }, 
             "receiveTime": 8.092540999999983, 
             "sentTime": 6.641462999999931, 
@@ -1826,12 +2354,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_92", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "application/octet-stream", 
             "priority": {
                 "cp": 97, 
                 "cp-plus": 97, 
-                "depth": 155, 
-                "mime-type": 157
+                "depth": 215, 
+                "mime-type": 215
             }, 
             "receiveTime": 8.121135999999751, 
             "sentTime": 6.866501000000426, 
@@ -1846,12 +2380,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_95", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "priority": {
                 "cp": 41, 
                 "cp-plus": 41, 
-                "depth": 157, 
-                "mime-type": 159
+                "depth": 217, 
+                "mime-type": 217
             }, 
             "receiveTime": 8.155982000000222, 
             "sentTime": 6.662242000000333, 
@@ -1866,13 +2406,19 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_237", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "originalResource": "download_95", 
             "priority": {
-                "cp": 235, 
-                "cp-plus": 235, 
-                "depth": 235, 
-                "mime-type": 235
+                "cp": 232, 
+                "cp-plus": 232, 
+                "depth": 178, 
+                "mime-type": 183
             }, 
             "sentTime": 6.662514999999985, 
             "size": 26928, 
@@ -1887,12 +2433,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_139", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "application/javascript", 
             "priority": {
                 "cp": 121, 
                 "cp-plus": 121, 
-                "depth": 71, 
-                "mime-type": 58
+                "depth": 156, 
+                "mime-type": 66
             }, 
             "receiveTime": 8.208757000000332, 
             "sentTime": 7.39450399999987, 
@@ -1907,12 +2459,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_47", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "priority": {
                 "cp": 142, 
                 "cp-plus": 142, 
-                "depth": 132, 
-                "mime-type": 147
+                "depth": 93, 
+                "mime-type": 121
             }, 
             "receiveTime": 7.003272000001743, 
             "sentTime": 6.643411999999444, 
@@ -1928,6 +2486,12 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_11", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": true, 
+                "mime-type": true
+            }, 
             "mimeType": "text/css", 
             "priority": {
                 "cp": 11, 
@@ -1948,12 +2512,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_72", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "priority": {
                 "cp": 55, 
                 "cp-plus": 55, 
-                "depth": 196, 
-                "mime-type": 198
+                "depth": 105, 
+                "mime-type": 132
             }, 
             "receiveTime": 8.1119920000001, 
             "sentTime": 6.652385999999751, 
@@ -1968,13 +2538,19 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_232", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "originalResource": "download_72", 
             "priority": {
-                "cp": 230, 
-                "cp-plus": 230, 
-                "depth": 230, 
-                "mime-type": 230
+                "cp": 227, 
+                "cp-plus": 227, 
+                "depth": 173, 
+                "mime-type": 178
             }, 
             "sentTime": 6.652442000000519, 
             "size": 8727, 
@@ -1988,12 +2564,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_45", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "priority": {
                 "cp": 141, 
                 "cp-plus": 141, 
-                "depth": 130, 
-                "mime-type": 145
+                "depth": 91, 
+                "mime-type": 119
             }, 
             "receiveTime": 7.002699000000575, 
             "sentTime": 6.642479000000094, 
@@ -2008,12 +2590,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_131", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "priority": {
                 "cp": 47, 
                 "cp-plus": 47, 
-                "depth": 101, 
-                "mime-type": 119
+                "depth": 253, 
+                "mime-type": 253
             }, 
             "receiveTime": 8.191654000000199, 
             "sentTime": 6.7230429999999615, 
@@ -2028,12 +2616,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_35", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "priority": {
                 "cp": 157, 
                 "cp-plus": 157, 
-                "depth": 141, 
-                "mime-type": 149
+                "depth": 82, 
+                "mime-type": 111
             }, 
             "receiveTime": 6.910242000001745, 
             "sentTime": 6.636372999999367, 
@@ -2048,13 +2642,19 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_223", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "originalResource": "download_35", 
             "priority": {
-                "cp": 221, 
-                "cp-plus": 221, 
-                "depth": 221, 
-                "mime-type": 221
+                "cp": 212, 
+                "cp-plus": 212, 
+                "depth": 131, 
+                "mime-type": 158
             }, 
             "sentTime": 6.636533000000782, 
             "size": 49078, 
@@ -2068,12 +2668,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_55", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/gif", 
             "priority": {
                 "cp": 133, 
                 "cp-plus": 133, 
-                "depth": 116, 
-                "mime-type": 133
+                "depth": 101, 
+                "mime-type": 129
             }, 
             "receiveTime": 7.006781000000046, 
             "sentTime": 6.641617999999653, 
@@ -2088,12 +2694,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_70", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "priority": {
                 "cp": 79, 
                 "cp-plus": 79, 
-                "depth": 194, 
-                "mime-type": 196
+                "depth": 71, 
+                "mime-type": 109
             }, 
             "receiveTime": 8.1104090000008, 
             "sentTime": 6.666290999999546, 
@@ -2109,6 +2721,12 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_6", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "text/css", 
             "priority": {
                 "cp": 7, 
@@ -2129,12 +2747,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_127", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/svg+xml", 
             "priority": {
                 "cp": 37, 
                 "cp-plus": 37, 
-                "depth": 97, 
-                "mime-type": 115
+                "depth": 249, 
+                "mime-type": 249
             }, 
             "receiveTime": 8.174632000000202, 
             "sentTime": 6.67260399999941, 
@@ -2150,12 +2774,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_145", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "text/css", 
             "priority": {
                 "cp": 116, 
                 "cp-plus": 116, 
-                "depth": 77, 
-                "mime-type": 14
+                "depth": 162, 
+                "mime-type": 13
             }, 
             "receiveTime": 8.219558000000688, 
             "sentTime": 7.3939250000003085, 
@@ -2170,12 +2800,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_94", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "priority": {
                 "cp": 42, 
                 "cp-plus": 42, 
-                "depth": 156, 
-                "mime-type": 158
+                "depth": 216, 
+                "mime-type": 216
             }, 
             "receiveTime": 8.155342000000019, 
             "sentTime": 6.6682700000001205, 
@@ -2192,12 +2828,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_150", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "application/javascript", 
             "priority": {
                 "cp": 169, 
                 "cp-plus": 169, 
-                "depth": 62, 
-                "mime-type": 50
+                "depth": 167, 
+                "mime-type": 72
             }, 
             "receiveTime": 8.228508000000147, 
             "sentTime": 8.02274799999941, 
@@ -2213,12 +2855,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_1", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "text/javascript", 
             "priority": {
                 "cp": 124, 
                 "cp-plus": 124, 
-                "depth": 56, 
-                "mime-type": 45
+                "depth": 50, 
+                "mime-type": 44
             }, 
             "receiveTime": 5.704601000001276, 
             "sentTime": 5.701888999999937, 
@@ -2233,12 +2881,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_81", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "priority": {
                 "cp": 53, 
                 "cp-plus": 53, 
-                "depth": 180, 
-                "mime-type": 182
+                "depth": 114, 
+                "mime-type": 141
             }, 
             "receiveTime": 8.115309999999226, 
             "sentTime": 6.653081000000384, 
@@ -2253,13 +2907,19 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_234", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "originalResource": "download_81", 
             "priority": {
-                "cp": 232, 
-                "cp-plus": 232, 
-                "depth": 232, 
-                "mime-type": 232
+                "cp": 229, 
+                "cp-plus": 229, 
+                "depth": 175, 
+                "mime-type": 180
             }, 
             "sentTime": 6.653134000000136, 
             "size": 10631, 
@@ -2275,12 +2935,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_155", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "text/javascript", 
             "priority": {
                 "cp": 149, 
                 "cp-plus": 149, 
-                "depth": 31, 
-                "mime-type": 37
+                "depth": 43, 
+                "mime-type": 40
             }, 
             "receiveTime": 8.371172000001025, 
             "sentTime": 8.143667000000278, 
@@ -2295,12 +2961,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_117", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "priority": {
                 "cp": 31, 
                 "cp-plus": 31, 
-                "depth": 87, 
-                "mime-type": 105
+                "depth": 239, 
+                "mime-type": 239
             }, 
             "receiveTime": 8.185371999999916, 
             "sentTime": 6.663763000000472, 
@@ -2315,13 +2987,19 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_238", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "originalResource": "download_117", 
             "priority": {
-                "cp": 236, 
-                "cp-plus": 236, 
-                "depth": 236, 
-                "mime-type": 236
+                "cp": 233, 
+                "cp-plus": 233, 
+                "depth": 179, 
+                "mime-type": 184
             }, 
             "sentTime": 6.663835999999719, 
             "size": 34993, 
@@ -2335,12 +3013,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_114", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "priority": {
                 "cp": 38, 
                 "cp-plus": 38, 
-                "depth": 84, 
-                "mime-type": 102
+                "depth": 236, 
+                "mime-type": 236
             }, 
             "receiveTime": 8.167311000001064, 
             "sentTime": 6.665841, 
@@ -2355,13 +3039,19 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_240", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "originalResource": "download_114", 
             "priority": {
-                "cp": 238, 
-                "cp-plus": 238, 
-                "depth": 238, 
-                "mime-type": 238
+                "cp": 235, 
+                "cp-plus": 235, 
+                "depth": 181, 
+                "mime-type": 186
             }, 
             "sentTime": 6.666009000000486, 
             "size": 7922, 
@@ -2375,12 +3065,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_46", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "priority": {
                 "cp": 140, 
                 "cp-plus": 140, 
-                "depth": 131, 
-                "mime-type": 146
+                "depth": 92, 
+                "mime-type": 120
             }, 
             "receiveTime": 7.002944999998363, 
             "sentTime": 6.641841000000568, 
@@ -2396,12 +3092,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_143", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "application/javascript", 
             "priority": {
                 "cp": 119, 
                 "cp-plus": 119, 
-                "depth": 75, 
-                "mime-type": 60
+                "depth": 160, 
+                "mime-type": 68
             }, 
             "receiveTime": 8.217313999999533, 
             "sentTime": 7.393529999999373, 
@@ -2416,12 +3118,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_142", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "priority": {
                 "cp": 24, 
                 "cp-plus": 24, 
-                "depth": 74, 
-                "mime-type": 98
+                "depth": 159, 
+                "mime-type": 176
             }, 
             "receiveTime": 8.380817999999636, 
             "sentTime": 6.701623999999356, 
@@ -2436,13 +3144,19 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_254", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "originalResource": "download_142", 
             "priority": {
-                "cp": 216, 
-                "cp-plus": 216, 
-                "depth": 216, 
-                "mime-type": 216
+                "cp": 249, 
+                "cp-plus": 249, 
+                "depth": 195, 
+                "mime-type": 200
             }, 
             "sentTime": 6.701829999999973, 
             "size": 277983, 
@@ -2456,12 +3170,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_84", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "priority": {
                 "cp": 86, 
                 "cp-plus": 86, 
-                "depth": 183, 
-                "mime-type": 185
+                "depth": 207, 
+                "mime-type": 207
             }, 
             "receiveTime": 8.117147000000841, 
             "sentTime": 6.701119999999719, 
@@ -2477,12 +3197,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_16", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "application/javascript", 
             "priority": {
                 "cp": 128, 
                 "cp-plus": 128, 
-                "depth": 143, 
-                "mime-type": 75
+                "depth": 202, 
+                "mime-type": 78
             }, 
             "receiveTime": 7.350658999999723, 
             "sentTime": 6.79439900000034, 
@@ -2497,12 +3223,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_109", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "priority": {
                 "cp": 75, 
                 "cp-plus": 75, 
-                "depth": 171, 
-                "mime-type": 173
+                "depth": 231, 
+                "mime-type": 231
             }, 
             "receiveTime": 8.165027000000919, 
             "sentTime": 6.71841300000051, 
@@ -2517,12 +3249,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_39", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "priority": {
                 "cp": 143, 
                 "cp-plus": 143, 
-                "depth": 125, 
-                "mime-type": 140
+                "depth": 86, 
+                "mime-type": 114
             }, 
             "receiveTime": 6.9963019999995595, 
             "sentTime": 6.637853000000177, 
@@ -2537,13 +3275,19 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_225", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "originalResource": "download_39", 
             "priority": {
-                "cp": 223, 
-                "cp-plus": 223, 
-                "depth": 223, 
-                "mime-type": 223
+                "cp": 214, 
+                "cp-plus": 214, 
+                "depth": 133, 
+                "mime-type": 160
             }, 
             "sentTime": 6.638108999999531, 
             "size": 7288, 
@@ -2557,12 +3301,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_112", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/png", 
             "priority": {
                 "cp": 28, 
                 "cp-plus": 28, 
-                "depth": 82, 
-                "mime-type": 100
+                "depth": 234, 
+                "mime-type": 234
             }, 
             "receiveTime": 8.191408000000592, 
             "sentTime": 6.652681999999913, 
@@ -2577,13 +3327,19 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_233", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/png", 
             "originalResource": "download_112", 
             "priority": {
-                "cp": 231, 
-                "cp-plus": 231, 
-                "depth": 231, 
-                "mime-type": 231
+                "cp": 228, 
+                "cp-plus": 228, 
+                "depth": 174, 
+                "mime-type": 179
             }, 
             "sentTime": 6.652810999999929, 
             "size": 98961, 
@@ -2598,12 +3354,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_22", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "application/javascript", 
             "priority": {
                 "cp": 113, 
                 "cp-plus": 113, 
-                "depth": 148, 
-                "mime-type": 79
+                "depth": 73, 
+                "mime-type": 48
             }, 
             "receiveTime": 7.697968000000401, 
             "sentTime": 6.836613999999827, 
@@ -2620,12 +3382,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_147", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "application/javascript", 
             "priority": {
                 "cp": 171, 
                 "cp-plus": 171, 
-                "depth": 79, 
-                "mime-type": 62
+                "depth": 165, 
+                "mime-type": 70
             }, 
             "receiveTime": 8.22747900000104, 
             "sentTime": 8.023284999999305, 
@@ -2641,12 +3409,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_191", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/gif", 
             "priority": {
                 "cp": 182, 
                 "cp-plus": 182, 
-                "depth": 36, 
-                "mime-type": 89
+                "depth": 34, 
+                "mime-type": 90
             }, 
             "receiveTime": 12.882994000001418, 
             "sentTime": 13.024854999999661, 
@@ -2662,12 +3436,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_15", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "application/javascript", 
             "priority": {
                 "cp": 103, 
                 "cp-plus": 103, 
-                "depth": 142, 
-                "mime-type": 74
+                "depth": 201, 
+                "mime-type": 77
             }, 
             "receiveTime": 7.652435999998488, 
             "sentTime": 6.624702999999499, 
@@ -2682,12 +3462,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_73", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "priority": {
                 "cp": 51, 
                 "cp-plus": 51, 
-                "depth": 197, 
-                "mime-type": 199
+                "depth": 106, 
+                "mime-type": 133
             }, 
             "receiveTime": 8.112230000000636, 
             "sentTime": 6.647445000000516, 
@@ -2702,13 +3488,19 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_228", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "originalResource": "download_73", 
             "priority": {
-                "cp": 226, 
-                "cp-plus": 226, 
-                "depth": 226, 
-                "mime-type": 226
+                "cp": 217, 
+                "cp-plus": 217, 
+                "depth": 136, 
+                "mime-type": 163
             }, 
             "sentTime": 6.64759100000083, 
             "size": 7876, 
@@ -2723,12 +3515,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_37", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "application/x-javascript", 
             "priority": {
                 "cp": 178, 
                 "cp-plus": 178, 
-                "depth": 123, 
-                "mime-type": 66
+                "depth": 84, 
+                "mime-type": 56
             }, 
             "receiveTime": 6.985822999999073, 
             "sentTime": 6.842086000000563, 
@@ -2745,12 +3543,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_175", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "application/javascript", 
             "priority": {
                 "cp": 163, 
                 "cp-plus": 163, 
-                "depth": 39, 
-                "mime-type": 41
+                "depth": 37, 
+                "mime-type": 38
             }, 
             "receiveTime": 8.890821999999389, 
             "sentTime": 8.74869100000069, 
@@ -2765,12 +3569,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_134", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "priority": {
                 "cp": 20, 
                 "cp-plus": 20, 
-                "depth": 104, 
-                "mime-type": 122
+                "depth": 151, 
+                "mime-type": 173
             }, 
             "receiveTime": 8.370938000001843, 
             "sentTime": 6.682726999999431, 
@@ -2785,12 +3595,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_207", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "", 
             "priority": {
-                "cp": 207, 
-                "cp-plus": 207, 
-                "depth": 207, 
-                "mime-type": 207
+                "cp": 199, 
+                "cp-plus": 199, 
+                "depth": 118, 
+                "mime-type": 145
             }, 
             "receiveTime": 6.608141000000614, 
             "sentTime": 6.608141000000614, 
@@ -2806,6 +3622,12 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_12", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "text/css", 
             "priority": {
                 "cp": 10, 
@@ -2827,12 +3649,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_19", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "application/javascript", 
             "priority": {
                 "cp": 111, 
                 "cp-plus": 111, 
-                "depth": 146, 
-                "mime-type": 77
+                "depth": 205, 
+                "mime-type": 80
             }, 
             "receiveTime": 7.657116000002134, 
             "sentTime": 6.794783999999709, 
@@ -2848,12 +3676,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_141", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/gif", 
             "priority": {
                 "cp": 95, 
                 "cp-plus": 95, 
-                "depth": 73, 
-                "mime-type": 97
+                "depth": 158, 
+                "mime-type": 175
             }, 
             "receiveTime": 8.210786999999982, 
             "sentTime": 6.840743000000657, 
@@ -2868,12 +3702,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_66", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "priority": {
                 "cp": 78, 
                 "cp-plus": 78, 
-                "depth": 190, 
-                "mime-type": 192
+                "depth": 67, 
+                "mime-type": 105
             }, 
             "receiveTime": 8.10907699999916, 
             "sentTime": 6.664944000000105, 
@@ -2888,12 +3728,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_96", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/png", 
             "priority": {
                 "cp": 59, 
                 "cp-plus": 59, 
-                "depth": 158, 
-                "mime-type": 160
+                "depth": 218, 
+                "mime-type": 218
             }, 
             "receiveTime": 8.156828999999561, 
             "sentTime": 6.704087000000072, 
@@ -2909,12 +3755,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_10", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "text/css", 
             "priority": {
                 "cp": 4, 
                 "cp-plus": 4, 
-                "depth": 2, 
-                "mime-type": 2
+                "depth": 8, 
+                "mime-type": 8
             }, 
             "receiveTime": 6.420584999999846, 
             "sentTime": 5.814080000000104, 
@@ -2930,12 +3782,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_190", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "text/html", 
             "priority": {
-                "cp": 187, 
-                "cp-plus": 187, 
-                "depth": 35, 
-                "mime-type": 86
+                "cp": 186, 
+                "cp-plus": 186, 
+                "depth": 33, 
+                "mime-type": 87
             }, 
             "receiveTime": 12.858280000000377, 
             "sentTime": 12.858471999999892, 
@@ -2951,12 +3809,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_144", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "application/javascript", 
             "priority": {
                 "cp": 117, 
                 "cp-plus": 117, 
-                "depth": 76, 
-                "mime-type": 61
+                "depth": 161, 
+                "mime-type": 69
             }, 
             "receiveTime": 8.218487999998615, 
             "sentTime": 7.393266000000949, 
@@ -2972,12 +3836,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_29", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "application/javascript", 
             "priority": {
                 "cp": 108, 
                 "cp-plus": 108, 
-                "depth": 139, 
-                "mime-type": 73
+                "depth": 80, 
+                "mime-type": 55
             }, 
             "receiveTime": 7.701325000001816, 
             "sentTime": 6.8366449999994074, 
@@ -2993,11 +3863,17 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_20", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "application/javascript", 
             "priority": {
                 "cp": 114, 
                 "cp-plus": 114, 
-                "depth": 200, 
+                "depth": 206, 
                 "mime-type": 81
             }, 
             "receiveTime": 7.697473000000173, 
@@ -3014,12 +3890,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_153", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "application/javascript", 
             "priority": {
                 "cp": 167, 
                 "cp-plus": 167, 
-                "depth": 65, 
-                "mime-type": 52
+                "depth": 170, 
+                "mime-type": 74
             }, 
             "receiveTime": 8.243469999999434, 
             "sentTime": 8.023521000000983, 
@@ -3036,12 +3918,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_154", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "application/javascript", 
             "priority": {
                 "cp": 165, 
                 "cp-plus": 165, 
-                "depth": 66, 
-                "mime-type": 53
+                "depth": 171, 
+                "mime-type": 75
             }, 
             "receiveTime": 8.360834000000978, 
             "sentTime": 8.13489699999991, 
@@ -3058,13 +3946,19 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_276", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "application/javascript", 
             "originalResource": "download_154", 
             "priority": {
-                "cp": 185, 
-                "cp-plus": 185, 
-                "depth": 26, 
-                "mime-type": 32
+                "cp": 188, 
+                "cp-plus": 188, 
+                "depth": 46, 
+                "mime-type": 42
             }, 
             "sentTime": 8.465674999999464, 
             "size": 11470, 
@@ -3078,12 +3972,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_79", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "priority": {
                 "cp": 33, 
                 "cp-plus": 33, 
-                "depth": 178, 
-                "mime-type": 180
+                "depth": 112, 
+                "mime-type": 139
             }, 
             "receiveTime": 8.161466000001383, 
             "sentTime": 6.6514509999997244, 
@@ -3098,13 +3998,19 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_231", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "originalResource": "download_79", 
             "priority": {
-                "cp": 229, 
-                "cp-plus": 229, 
-                "depth": 229, 
-                "mime-type": 229
+                "cp": 220, 
+                "cp-plus": 220, 
+                "depth": 139, 
+                "mime-type": 166
             }, 
             "sentTime": 6.651574999999866, 
             "size": 207493, 
@@ -3118,12 +4024,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_130", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "priority": {
                 "cp": 30, 
                 "cp-plus": 30, 
-                "depth": 100, 
-                "mime-type": 118
+                "depth": 252, 
+                "mime-type": 252
             }, 
             "receiveTime": 8.211739000000307, 
             "sentTime": 6.677739000000656, 
@@ -3138,12 +4050,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_216", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "", 
             "priority": {
-                "cp": 250, 
-                "cp-plus": 250, 
-                "depth": 250, 
-                "mime-type": 250
+                "cp": 208, 
+                "cp-plus": 208, 
+                "depth": 127, 
+                "mime-type": 154
             }, 
             "receiveTime": 6.608196000001044, 
             "sentTime": 6.608196000001044, 
@@ -3159,6 +4077,12 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_13", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": true, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "application/javascript", 
             "priority": {
                 "cp": 9, 
@@ -3179,12 +4103,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_197", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "", 
             "priority": {
-                "cp": 201, 
-                "cp-plus": 201, 
-                "depth": 201, 
-                "mime-type": 201
+                "cp": 221, 
+                "cp-plus": 221, 
+                "depth": 140, 
+                "mime-type": 167
             }, 
             "receiveTime": 6.590823000000455, 
             "sentTime": 6.590823000000455, 
@@ -3199,12 +4129,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_133", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "priority": {
                 "cp": 21, 
                 "cp-plus": 21, 
-                "depth": 103, 
-                "mime-type": 121
+                "depth": 255, 
+                "mime-type": 255
             }, 
             "receiveTime": 8.370598999999856, 
             "sentTime": 6.684033999999883, 
@@ -3220,6 +4156,12 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_4", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "text/css", 
             "priority": {
                 "cp": 5, 
@@ -3240,12 +4182,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_77", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/png", 
             "priority": {
                 "cp": 35, 
                 "cp-plus": 35, 
-                "depth": 176, 
-                "mime-type": 178
+                "depth": 110, 
+                "mime-type": 137
             }, 
             "receiveTime": 8.155780999999479, 
             "sentTime": 6.6502720000007685, 
@@ -3262,12 +4210,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_137", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "application/javascript", 
             "priority": {
                 "cp": 120, 
                 "cp-plus": 120, 
-                "depth": 69, 
-                "mime-type": 56
+                "depth": 154, 
+                "mime-type": 64
             }, 
             "receiveTime": 8.206623000000036, 
             "sentTime": 7.389769999999771, 
@@ -3282,12 +4236,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_121", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "priority": {
                 "cp": 18, 
                 "cp-plus": 18, 
-                "depth": 91, 
-                "mime-type": 109
+                "depth": 243, 
+                "mime-type": 243
             }, 
             "receiveTime": 8.368038999999044, 
             "sentTime": 6.67446800000107, 
@@ -3303,12 +4263,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_148", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "application/javascript", 
             "priority": {
                 "cp": 172, 
                 "cp-plus": 172, 
-                "depth": 80, 
-                "mime-type": 63
+                "depth": 166, 
+                "mime-type": 71
             }, 
             "receiveTime": 8.227671000000555, 
             "sentTime": 8.02364099999977, 
@@ -3323,12 +4289,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_83", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "priority": {
                 "cp": 50, 
                 "cp-plus": 50, 
-                "depth": 182, 
-                "mime-type": 184
+                "depth": 116, 
+                "mime-type": 143
             }, 
             "receiveTime": 8.117003000001205, 
             "sentTime": 6.649996000000101, 
@@ -3343,12 +4315,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_63", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "priority": {
                 "cp": 89, 
                 "cp-plus": 89, 
-                "depth": 187, 
-                "mime-type": 189
+                "depth": 64, 
+                "mime-type": 102
             }, 
             "receiveTime": 8.108284999998432, 
             "sentTime": 6.700345000001107, 
@@ -3363,13 +4341,19 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_253", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "originalResource": "download_63", 
             "priority": {
-                "cp": 215, 
-                "cp-plus": 215, 
-                "depth": 215, 
-                "mime-type": 215
+                "cp": 248, 
+                "cp-plus": 248, 
+                "depth": 194, 
+                "mime-type": 199
             }, 
             "sentTime": 6.700418000000354, 
             "size": 33424, 
@@ -3385,6 +4369,12 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_187", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "text/html", 
             "priority": {
                 "cp": 166, 
@@ -3407,12 +4397,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_159", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "application/javascript", 
             "priority": {
                 "cp": 179, 
                 "cp-plus": 179, 
-                "depth": 33, 
-                "mime-type": 39
+                "depth": 25, 
+                "mime-type": 32
             }, 
             "receiveTime": 8.430376000000251, 
             "sentTime": 8.379246000000421, 
@@ -3427,12 +4423,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_67", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/png", 
             "priority": {
                 "cp": 76, 
                 "cp-plus": 76, 
-                "depth": 191, 
-                "mime-type": 193
+                "depth": 68, 
+                "mime-type": 106
             }, 
             "receiveTime": 8.109225000000151, 
             "sentTime": 6.6641230000004725, 
@@ -3448,12 +4450,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_152", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "application/javascript", 
             "priority": {
                 "cp": 168, 
                 "cp-plus": 168, 
-                "depth": 64, 
-                "mime-type": 51
+                "depth": 169, 
+                "mime-type": 73
             }, 
             "receiveTime": 8.242455999999947, 
             "sentTime": 8.0233989999997, 
@@ -3469,12 +4477,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_3", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/gif", 
             "priority": {
                 "cp": 153, 
                 "cp-plus": 153, 
-                "depth": 199, 
-                "mime-type": 200
+                "depth": 58, 
+                "mime-type": 96
             }, 
             "receiveTime": 6.012993000000279, 
             "sentTime": 5.724745999999868, 
@@ -3489,12 +4503,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_98", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/png", 
             "priority": {
                 "cp": 61, 
                 "cp-plus": 61, 
-                "depth": 160, 
-                "mime-type": 162
+                "depth": 220, 
+                "mime-type": 220
             }, 
             "receiveTime": 8.15705799999887, 
             "sentTime": 6.704777000000831, 
@@ -3510,12 +4530,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_18", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "application/javascript", 
             "priority": {
                 "cp": 115, 
                 "cp-plus": 115, 
-                "depth": 145, 
-                "mime-type": 76
+                "depth": 204, 
+                "mime-type": 79
             }, 
             "receiveTime": 7.639220999999452, 
             "sentTime": 6.795819999999367, 
@@ -3530,12 +4556,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_52", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "priority": {
                 "cp": 151, 
                 "cp-plus": 151, 
-                "depth": 113, 
-                "mime-type": 130
+                "depth": 98, 
+                "mime-type": 126
             }, 
             "receiveTime": 7.005688000001101, 
             "sentTime": 6.696706000000631, 
@@ -3550,13 +4582,19 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_249", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "originalResource": "download_52", 
             "priority": {
-                "cp": 211, 
-                "cp-plus": 211, 
-                "depth": 211, 
-                "mime-type": 211
+                "cp": 244, 
+                "cp-plus": 244, 
+                "depth": 190, 
+                "mime-type": 195
             }, 
             "sentTime": 6.696761000001061, 
             "size": 5786, 
@@ -3570,12 +4608,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_42", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/gif", 
             "priority": {
                 "cp": 144, 
                 "cp-plus": 144, 
-                "depth": 127, 
-                "mime-type": 142
+                "depth": 88, 
+                "mime-type": 116
             }, 
             "receiveTime": 6.997985999998491, 
             "sentTime": 6.640583000000333, 
@@ -3590,13 +4634,19 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_243", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/gif", 
             "originalResource": "download_42", 
             "priority": {
-                "cp": 241, 
-                "cp-plus": 241, 
-                "depth": 241, 
-                "mime-type": 241
+                "cp": 238, 
+                "cp-plus": 238, 
+                "depth": 184, 
+                "mime-type": 189
             }, 
             "sentTime": 6.672077000001082, 
             "size": 262, 
@@ -3610,13 +4660,19 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_244", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/gif", 
             "originalResource": "download_42", 
             "priority": {
-                "cp": 242, 
-                "cp-plus": 242, 
-                "depth": 242, 
-                "mime-type": 242
+                "cp": 239, 
+                "cp-plus": 239, 
+                "depth": 185, 
+                "mime-type": 190
             }, 
             "sentTime": 6.676611000000776, 
             "size": 262, 
@@ -3630,12 +4686,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_43", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/gif", 
             "priority": {
                 "cp": 131, 
                 "cp-plus": 131, 
-                "depth": 128, 
-                "mime-type": 143
+                "depth": 89, 
+                "mime-type": 117
             }, 
             "receiveTime": 7.001726000000417, 
             "sentTime": 6.628742000000784, 
@@ -3651,12 +4713,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_186", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/gif", 
             "priority": {
                 "cp": 147, 
                 "cp-plus": 147, 
-                "depth": 47, 
-                "mime-type": 94
+                "depth": 31, 
+                "mime-type": 89
             }, 
             "receiveTime": 9.143299999999726, 
             "sentTime": 12.23050400000102, 
@@ -3672,12 +4740,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_40", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "application/javascript", 
             "priority": {
                 "cp": 126, 
                 "cp-plus": 126, 
-                "depth": 54, 
-                "mime-type": 44
+                "depth": 52, 
+                "mime-type": 45
             }, 
             "receiveTime": 6.9972820000002685, 
             "sentTime": 6.84138300000086, 
@@ -3692,12 +4766,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_61", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "priority": {
                 "cp": 91, 
                 "cp-plus": 91, 
-                "depth": 185, 
-                "mime-type": 187
+                "depth": 62, 
+                "mime-type": 100
             }, 
             "receiveTime": 8.107351000000563, 
             "sentTime": 6.700858000000153, 
@@ -3712,12 +4792,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_78", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "priority": {
                 "cp": 84, 
                 "cp-plus": 84, 
-                "depth": 177, 
-                "mime-type": 179
+                "depth": 111, 
+                "mime-type": 138
             }, 
             "receiveTime": 8.114041999999245, 
             "sentTime": 6.694524000000456, 
@@ -3732,13 +4818,19 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_245", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "originalResource": "download_78", 
             "priority": {
-                "cp": 243, 
-                "cp-plus": 243, 
-                "depth": 243, 
-                "mime-type": 243
+                "cp": 240, 
+                "cp-plus": 240, 
+                "depth": 186, 
+                "mime-type": 191
             }, 
             "sentTime": 6.694585000001098, 
             "size": 23550, 
@@ -3753,6 +4845,12 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_14", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": true
+            }, 
             "mimeType": "application/javascript", 
             "priority": {
                 "cp": 16, 
@@ -3773,12 +4871,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_48", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "priority": {
                 "cp": 138, 
                 "cp-plus": 138, 
-                "depth": 109, 
-                "mime-type": 126
+                "depth": 94, 
+                "mime-type": 122
             }, 
             "receiveTime": 7.004683000001023, 
             "sentTime": 6.642670999999609, 
@@ -3793,12 +4897,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_90", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "font/otf", 
             "priority": {
                 "cp": 96, 
                 "cp-plus": 96, 
-                "depth": 153, 
-                "mime-type": 155
+                "depth": 213, 
+                "mime-type": 213
             }, 
             "receiveTime": 8.164127000000008, 
             "sentTime": 6.86672499999986, 
@@ -3813,12 +4923,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_203", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "", 
             "priority": {
-                "cp": 204, 
-                "cp-plus": 204, 
-                "depth": 204, 
-                "mime-type": 204
+                "cp": 224, 
+                "cp-plus": 224, 
+                "depth": 143, 
+                "mime-type": 170
             }, 
             "receiveTime": 6.604287000000113, 
             "sentTime": 6.604287000000113, 
@@ -3833,12 +4949,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_212", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "", 
             "priority": {
-                "cp": 255, 
-                "cp-plus": 255, 
-                "depth": 255, 
-                "mime-type": 255
+                "cp": 204, 
+                "cp-plus": 204, 
+                "depth": 123, 
+                "mime-type": 150
             }, 
             "receiveTime": 6.608170999999857, 
             "sentTime": 6.608170999999857, 
@@ -3855,6 +4977,12 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_93", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "application/javascript", 
             "priority": {
                 "cp": 85, 
@@ -3877,6 +5005,12 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_273", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": true, 
+                "mime-type": false
+            }, 
             "mimeType": "application/javascript", 
             "originalResource": "download_93", 
             "priority": {
@@ -3899,12 +5033,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_274", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "application/javascript", 
             "originalResource": "download_93", 
             "priority": {
                 "cp": 154, 
                 "cp-plus": 154, 
-                "depth": 25, 
+                "depth": 45, 
                 "mime-type": 21
             }, 
             "sentTime": 6.907219000000623, 
@@ -3919,12 +5059,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_209", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "", 
             "priority": {
-                "cp": 245, 
-                "cp-plus": 245, 
-                "depth": 245, 
-                "mime-type": 245
+                "cp": 201, 
+                "cp-plus": 201, 
+                "depth": 120, 
+                "mime-type": 147
             }, 
             "receiveTime": 6.608153999999558, 
             "sentTime": 6.608153999999558, 
@@ -3939,12 +5085,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_69", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "priority": {
                 "cp": 48, 
                 "cp-plus": 48, 
-                "depth": 193, 
-                "mime-type": 195
+                "depth": 70, 
+                "mime-type": 108
             }, 
             "receiveTime": 8.11026899999888, 
             "sentTime": 6.6417380000002595, 
@@ -3959,12 +5111,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_106", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "priority": {
                 "cp": 40, 
                 "cp-plus": 40, 
-                "depth": 168, 
-                "mime-type": 170
+                "depth": 228, 
+                "mime-type": 228
             }, 
             "receiveTime": 8.167853000000832, 
             "sentTime": 6.666902000000846, 
@@ -3979,13 +5137,19 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_241", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "originalResource": "download_106", 
             "priority": {
-                "cp": 239, 
-                "cp-plus": 239, 
-                "depth": 239, 
-                "mime-type": 239
+                "cp": 236, 
+                "cp-plus": 236, 
+                "depth": 182, 
+                "mime-type": 187
             }, 
             "sentTime": 6.6669569999994565, 
             "size": 35549, 
@@ -3999,12 +5163,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_215", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "", 
             "priority": {
-                "cp": 251, 
-                "cp-plus": 251, 
-                "depth": 251, 
-                "mime-type": 251
+                "cp": 207, 
+                "cp-plus": 207, 
+                "depth": 126, 
+                "mime-type": 153
             }, 
             "receiveTime": 6.608188000000155, 
             "sentTime": 6.608188000000155, 
@@ -4019,12 +5189,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_132", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "priority": {
                 "cp": 19, 
                 "cp-plus": 19, 
-                "depth": 102, 
-                "mime-type": 120
+                "depth": 254, 
+                "mime-type": 254
             }, 
             "receiveTime": 8.370222999999896, 
             "sentTime": 6.680419000000256, 
@@ -4041,6 +5217,12 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_172", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": true, 
+                "mime-type": false
+            }, 
             "mimeType": "text/html", 
             "priority": {
                 "cp": 25, 
@@ -4061,6 +5243,12 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_0", 
+            "iscrit": {
+                "cp": true, 
+                "cp-plus": true, 
+                "depth": true, 
+                "mime-type": true
+            }, 
             "mimeType": "text/html", 
             "priority": {
                 "cp": 1, 
@@ -4083,12 +5271,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_177", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "application/json", 
             "priority": {
                 "cp": 146, 
                 "cp-plus": 146, 
-                "depth": 40, 
-                "mime-type": 91
+                "depth": 38, 
+                "mime-type": 92
             }, 
             "receiveTime": 8.932086000000709, 
             "sentTime": 8.678696999999374, 
@@ -4105,12 +5299,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_156", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "application/javascript", 
             "priority": {
                 "cp": 148, 
                 "cp-plus": 148, 
-                "depth": 32, 
-                "mime-type": 38
+                "depth": 44, 
+                "mime-type": 41
             }, 
             "receiveTime": 8.379206999999951, 
             "sentTime": 8.141357000000426, 
@@ -4125,12 +5325,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_80", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "priority": {
                 "cp": 87, 
                 "cp-plus": 87, 
-                "depth": 179, 
-                "mime-type": 181
+                "depth": 113, 
+                "mime-type": 140
             }, 
             "receiveTime": 8.11509599999954, 
             "sentTime": 6.70249800000056, 
@@ -4145,13 +5351,19 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_255", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "originalResource": "download_80", 
             "priority": {
-                "cp": 217, 
-                "cp-plus": 217, 
-                "depth": 217, 
-                "mime-type": 217
+                "cp": 250, 
+                "cp-plus": 250, 
+                "depth": 196, 
+                "mime-type": 201
             }, 
             "sentTime": 6.702604000000065, 
             "size": 11648, 
@@ -4165,12 +5377,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_82", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "priority": {
                 "cp": 44, 
                 "cp-plus": 44, 
-                "depth": 181, 
-                "mime-type": 183
+                "depth": 115, 
+                "mime-type": 142
             }, 
             "receiveTime": 8.116196999999374, 
             "sentTime": 6.639204000000973, 
@@ -4185,13 +5403,19 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_227", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "originalResource": "download_82", 
             "priority": {
-                "cp": 225, 
-                "cp-plus": 225, 
-                "depth": 225, 
-                "mime-type": 225
+                "cp": 216, 
+                "cp-plus": 216, 
+                "depth": 135, 
+                "mime-type": 162
             }, 
             "sentTime": 6.639268000000811, 
             "size": 13725, 
@@ -4206,12 +5430,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_26", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "application/javascript", 
             "priority": {
                 "cp": 105, 
                 "cp-plus": 105, 
-                "depth": 136, 
-                "mime-type": 70
+                "depth": 77, 
+                "mime-type": 52
             }, 
             "receiveTime": 7.660966000001281, 
             "sentTime": 6.794708999999784, 
@@ -4226,12 +5456,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_104", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/png", 
             "priority": {
                 "cp": 77, 
                 "cp-plus": 77, 
-                "depth": 166, 
-                "mime-type": 168
+                "depth": 226, 
+                "mime-type": 226
             }, 
             "receiveTime": 8.162185999999565, 
             "sentTime": 6.717376000000513, 
@@ -4248,12 +5484,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_163", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "text/javascript", 
             "priority": {
                 "cp": 160, 
                 "cp-plus": 160, 
-                "depth": 59, 
-                "mime-type": 47
+                "depth": 147, 
+                "mime-type": 60
             }, 
             "receiveTime": 8.638183999999455, 
             "sentTime": 8.367389000000912, 
@@ -4270,12 +5512,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_162", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "application/javascript", 
             "priority": {
-                "cp": 198, 
-                "cp-plus": 198, 
-                "depth": 58, 
-                "mime-type": 46
+                "cp": 226, 
+                "cp-plus": 226, 
+                "depth": 146, 
+                "mime-type": 59
             }, 
             "receiveTime": 8.330119000000195, 
             "sentTime": 8.330380999999761, 
@@ -4290,12 +5538,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_218", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "", 
             "priority": {
-                "cp": 247, 
-                "cp-plus": 247, 
-                "depth": 247, 
-                "mime-type": 247
+                "cp": 210, 
+                "cp-plus": 210, 
+                "depth": 129, 
+                "mime-type": 156
             }, 
             "receiveTime": 6.608242000000246, 
             "sentTime": 6.608242000000246, 
@@ -4311,12 +5565,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_30", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "text/javascript", 
             "priority": {
                 "cp": 161, 
                 "cp-plus": 161, 
-                "depth": 55, 
-                "mime-type": 31
+                "depth": 51, 
+                "mime-type": 28
             }, 
             "receiveTime": 6.876221000000442, 
             "sentTime": 6.6241399999998976, 
@@ -4333,12 +5593,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_157", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "text/javascript", 
             "priority": {
                 "cp": 176, 
                 "cp-plus": 176, 
-                "depth": 52, 
-                "mime-type": 30
+                "depth": 56, 
+                "mime-type": 31
             }, 
             "receiveTime": 8.380450000000565, 
             "sentTime": 8.265787000000273, 
@@ -4355,12 +5621,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_164", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "text/javascript", 
             "priority": {
                 "cp": 192, 
                 "cp-plus": 192, 
-                "depth": 50, 
-                "mime-type": 28
+                "depth": 53, 
+                "mime-type": 29
             }, 
             "receiveTime": 8.646812999999383, 
             "sentTime": 8.644130000000587, 
@@ -4377,11 +5649,17 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_168", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "text/javascript", 
             "priority": {
                 "cp": 180, 
                 "cp-plus": 180, 
-                "depth": 18, 
+                "depth": 20, 
                 "mime-type": 25
             }, 
             "receiveTime": 8.682376000000659, 
@@ -4398,12 +5676,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_180", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/gif", 
             "priority": {
                 "cp": 174, 
                 "cp-plus": 174, 
-                "depth": 43, 
-                "mime-type": 93
+                "depth": 41, 
+                "mime-type": 94
             }, 
             "receiveTime": 9.002336999999898, 
             "sentTime": 8.89980900000046, 
@@ -4418,12 +5702,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_85", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "priority": {
                 "cp": 83, 
                 "cp-plus": 83, 
-                "depth": 184, 
-                "mime-type": 186
+                "depth": 208, 
+                "mime-type": 208
             }, 
             "receiveTime": 8.117583000001105, 
             "sentTime": 6.696390999999494, 
@@ -4438,13 +5728,19 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_248", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "originalResource": "download_85", 
             "priority": {
-                "cp": 210, 
-                "cp-plus": 210, 
-                "depth": 210, 
-                "mime-type": 210
+                "cp": 243, 
+                "cp-plus": 243, 
+                "depth": 189, 
+                "mime-type": 194
             }, 
             "sentTime": 6.696449000000939, 
             "size": 8286, 
@@ -4458,12 +5754,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_116", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "priority": {
                 "cp": 46, 
                 "cp-plus": 46, 
-                "depth": 86, 
-                "mime-type": 104
+                "depth": 238, 
+                "mime-type": 238
             }, 
             "receiveTime": 8.168853999999556, 
             "sentTime": 6.699869000000035, 
@@ -4478,13 +5780,19 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_252", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "originalResource": "download_116", 
             "priority": {
-                "cp": 214, 
-                "cp-plus": 214, 
-                "depth": 214, 
-                "mime-type": 214
+                "cp": 247, 
+                "cp-plus": 247, 
+                "depth": 193, 
+                "mime-type": 198
             }, 
             "sentTime": 6.6999699999996665, 
             "size": 8295, 
@@ -4498,12 +5806,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_54", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "priority": {
                 "cp": 134, 
                 "cp-plus": 134, 
-                "depth": 115, 
-                "mime-type": 132
+                "depth": 100, 
+                "mime-type": 128
             }, 
             "receiveTime": 7.006102999999712, 
             "sentTime": 6.642023000000336, 
@@ -4518,12 +5832,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_86", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "priority": {
                 "cp": 32, 
                 "cp-plus": 32, 
-                "depth": 149, 
-                "mime-type": 151
+                "depth": 209, 
+                "mime-type": 209
             }, 
             "receiveTime": 8.164069000000381, 
             "sentTime": 6.649129999999786, 
@@ -4538,13 +5858,19 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_230", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "originalResource": "download_86", 
             "priority": {
-                "cp": 228, 
-                "cp-plus": 228, 
-                "depth": 228, 
-                "mime-type": 228
+                "cp": 219, 
+                "cp-plus": 219, 
+                "depth": 138, 
+                "mime-type": 165
             }, 
             "sentTime": 6.649269999999888, 
             "size": 110770, 
@@ -4558,12 +5884,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_183", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/gif", 
             "priority": {
                 "cp": 130, 
                 "cp-plus": 130, 
-                "depth": 108, 
-                "mime-type": 125
+                "depth": 164, 
+                "mime-type": 177
             }, 
             "receiveTime": 9.529574000000139, 
             "sentTime": 9.09092100000089, 
@@ -4578,12 +5910,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_124", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/png", 
             "priority": {
                 "cp": 58, 
                 "cp-plus": 58, 
-                "depth": 94, 
-                "mime-type": 112
+                "depth": 246, 
+                "mime-type": 246
             }, 
             "receiveTime": 8.172687000000224, 
             "sentTime": 6.7198760000010225, 
@@ -4598,12 +5936,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_202", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "", 
             "priority": {
-                "cp": 203, 
-                "cp-plus": 203, 
-                "depth": 203, 
-                "mime-type": 203
+                "cp": 223, 
+                "cp-plus": 223, 
+                "depth": 142, 
+                "mime-type": 169
             }, 
             "receiveTime": 6.604268000000957, 
             "sentTime": 6.604268000000957, 
@@ -4618,12 +5962,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_210", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "", 
             "priority": {
-                "cp": 252, 
-                "cp-plus": 252, 
-                "depth": 252, 
-                "mime-type": 252
+                "cp": 202, 
+                "cp-plus": 202, 
+                "depth": 121, 
+                "mime-type": 148
             }, 
             "receiveTime": 6.608159999999771, 
             "sentTime": 6.608159999999771, 
@@ -4639,12 +5989,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_7", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "text/css", 
             "priority": {
                 "cp": 6, 
                 "cp-plus": 6, 
-                "depth": 6, 
-                "mime-type": 6
+                "depth": 2, 
+                "mime-type": 2
             }, 
             "receiveTime": 6.198158000001058, 
             "sentTime": 5.813022000000274, 
@@ -4659,12 +6015,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_41", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "priority": {
                 "cp": 152, 
                 "cp-plus": 152, 
-                "depth": 126, 
-                "mime-type": 141
+                "depth": 87, 
+                "mime-type": 115
             }, 
             "receiveTime": 7.001662999999098, 
             "sentTime": 6.698061000000962, 
@@ -4679,13 +6041,19 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_251", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "originalResource": "download_41", 
             "priority": {
-                "cp": 213, 
-                "cp-plus": 213, 
-                "depth": 213, 
-                "mime-type": 213
+                "cp": 246, 
+                "cp-plus": 246, 
+                "depth": 192, 
+                "mime-type": 197
             }, 
             "sentTime": 6.698609999999462, 
             "size": 7440, 
@@ -4699,12 +6067,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_56", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "priority": {
                 "cp": 94, 
                 "cp-plus": 94, 
-                "depth": 117, 
-                "mime-type": 134
+                "depth": 102, 
+                "mime-type": 130
             }, 
             "receiveTime": 8.091363999999885, 
             "sentTime": 6.6970149999997375, 
@@ -4719,13 +6093,19 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_250", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "originalResource": "download_56", 
             "priority": {
-                "cp": 212, 
-                "cp-plus": 212, 
-                "depth": 212, 
-                "mime-type": 212
+                "cp": 245, 
+                "cp-plus": 245, 
+                "depth": 191, 
+                "mime-type": 196
             }, 
             "sentTime": 6.697131999999328, 
             "size": 7178, 
@@ -4739,12 +6119,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_108", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/png", 
             "priority": {
                 "cp": 74, 
                 "cp-plus": 74, 
-                "depth": 170, 
-                "mime-type": 172
+                "depth": 230, 
+                "mime-type": 230
             }, 
             "receiveTime": 8.163708000000042, 
             "sentTime": 6.716848000000027, 
@@ -4759,12 +6145,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_91", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "application/octet-stream", 
             "priority": {
                 "cp": 98, 
                 "cp-plus": 98, 
-                "depth": 154, 
-                "mime-type": 156
+                "depth": 214, 
+                "mime-type": 214
             }, 
             "receiveTime": 8.120992000000115, 
             "sentTime": 6.866396999999779, 
@@ -4779,12 +6171,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_206", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "", 
             "priority": {
-                "cp": 206, 
-                "cp-plus": 206, 
-                "depth": 206, 
-                "mime-type": 206
+                "cp": 198, 
+                "cp-plus": 198, 
+                "depth": 117, 
+                "mime-type": 144
             }, 
             "receiveTime": 6.608132999999725, 
             "sentTime": 6.608132999999725, 
@@ -4802,12 +6200,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_192", 
+            "iscrit": {
+                "cp": true, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "text/javascript", 
             "priority": {
                 "cp": 15, 
                 "cp-plus": 15, 
-                "depth": 37, 
-                "mime-type": 40
+                "depth": 35, 
+                "mime-type": 37
             }, 
             "receiveTime": 14.072630000000572, 
             "sentTime": 8.67903699999988, 
@@ -4822,12 +6226,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_51", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "priority": {
                 "cp": 137, 
                 "cp-plus": 137, 
-                "depth": 112, 
-                "mime-type": 129
+                "depth": 97, 
+                "mime-type": 125
             }, 
             "receiveTime": 7.005402999999205, 
             "sentTime": 6.643108000000211, 
@@ -4844,12 +6254,18 @@
             ], 
             "httpMethod": "POST", 
             "id": "download_185", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "text/html", 
             "priority": {
-                "cp": 189, 
-                "cp-plus": 189, 
-                "depth": 46, 
-                "mime-type": 88
+                "cp": 185, 
+                "cp-plus": 185, 
+                "depth": 30, 
+                "mime-type": 85
             }, 
             "receiveTime": 11.661146000000372, 
             "sentTime": 11.661146000000372, 
@@ -4864,12 +6280,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_101", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/gif", 
             "priority": {
                 "cp": 80, 
                 "cp-plus": 80, 
-                "depth": 163, 
-                "mime-type": 165
+                "depth": 223, 
+                "mime-type": 223
             }, 
             "receiveTime": 8.159685000000536, 
             "sentTime": 6.723622999999861, 
@@ -4884,12 +6306,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_64", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "priority": {
                 "cp": 92, 
                 "cp-plus": 92, 
-                "depth": 188, 
-                "mime-type": 190
+                "depth": 65, 
+                "mime-type": 103
             }, 
             "receiveTime": 8.109015, 
             "sentTime": 6.702940999999555, 
@@ -4904,13 +6332,19 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_256", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "originalResource": "download_64", 
             "priority": {
-                "cp": 218, 
-                "cp-plus": 218, 
-                "depth": 218, 
-                "mime-type": 218
+                "cp": 251, 
+                "cp-plus": 251, 
+                "depth": 197, 
+                "mime-type": 202
             }, 
             "sentTime": 6.703093000000081, 
             "size": 3211, 
@@ -4924,12 +6358,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_119", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "priority": {
                 "cp": 17, 
                 "cp-plus": 17, 
-                "depth": 89, 
-                "mime-type": 107
+                "depth": 241, 
+                "mime-type": 241
             }, 
             "receiveTime": 8.369854000000487, 
             "sentTime": 6.6576010000007955, 
@@ -4944,13 +6384,19 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_235", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "originalResource": "download_119", 
             "priority": {
-                "cp": 233, 
-                "cp-plus": 233, 
-                "depth": 233, 
-                "mime-type": 233
+                "cp": 230, 
+                "cp-plus": 230, 
+                "depth": 176, 
+                "mime-type": 181
             }, 
             "sentTime": 6.657839999999851, 
             "size": 623258, 
@@ -4964,12 +6410,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_208", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "", 
             "priority": {
-                "cp": 208, 
-                "cp-plus": 208, 
-                "depth": 208, 
-                "mime-type": 208
+                "cp": 200, 
+                "cp-plus": 200, 
+                "depth": 119, 
+                "mime-type": 146
             }, 
             "receiveTime": 6.608146000000488, 
             "sentTime": 6.608146000000488, 
@@ -4984,12 +6436,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_89", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/png", 
             "priority": {
                 "cp": 93, 
                 "cp-plus": 93, 
-                "depth": 152, 
-                "mime-type": 154
+                "depth": 212, 
+                "mime-type": 212
             }, 
             "receiveTime": 8.120107999999163, 
             "sentTime": 6.71793500000058, 
@@ -5004,12 +6462,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_57", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "text/javascript", 
             "priority": {
-                "cp": 199, 
-                "cp-plus": 199, 
-                "depth": 118, 
-                "mime-type": 65
+                "cp": 197, 
+                "cp-plus": 197, 
+                "depth": 103, 
+                "mime-type": 57
             }, 
             "receiveTime": 6.976722999999765, 
             "sentTime": 6.976838000000498, 
@@ -5026,12 +6490,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_161", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "text/javascript", 
             "priority": {
                 "cp": 191, 
                 "cp-plus": 191, 
-                "depth": 68, 
-                "mime-type": 55
+                "depth": 145, 
+                "mime-type": 58
             }, 
             "receiveTime": 8.472351000000344, 
             "sentTime": 8.417530000000625, 
@@ -5048,12 +6518,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_167", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "text/javascript", 
             "priority": {
                 "cp": 193, 
                 "cp-plus": 193, 
-                "depth": 61, 
-                "mime-type": 49
+                "depth": 149, 
+                "mime-type": 62
             }, 
             "receiveTime": 8.682158999999956, 
             "sentTime": 8.649335000000065, 
@@ -5070,12 +6546,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_169", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "text/javascript", 
             "priority": {
                 "cp": 184, 
                 "cp-plus": 184, 
-                "depth": 29, 
-                "mime-type": 35
+                "depth": 27, 
+                "mime-type": 34
             }, 
             "receiveTime": 8.710014000000228, 
             "sentTime": 8.7005079999999, 
@@ -5090,12 +6572,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_195", 
+            "iscrit": {
+                "cp": true, 
+                "cp-plus": false, 
+                "depth": true, 
+                "mime-type": false
+            }, 
             "mimeType": "image/gif", 
             "priority": {
                 "cp": 195, 
                 "cp-plus": 195, 
-                "depth": 107, 
-                "mime-type": 124
+                "depth": 150, 
+                "mime-type": 172
             }, 
             "receiveTime": 14.240836999999374, 
             "sentTime": 14.255771000000095, 
@@ -5111,12 +6599,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_23", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "application/javascript", 
             "priority": {
                 "cp": 109, 
                 "cp-plus": 109, 
-                "depth": 133, 
-                "mime-type": 67
+                "depth": 74, 
+                "mime-type": 49
             }, 
             "receiveTime": 7.658698999999615, 
             "sentTime": 6.795224999999846, 
@@ -5132,12 +6626,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_138", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "application/javascript", 
             "priority": {
                 "cp": 122, 
                 "cp-plus": 122, 
-                "depth": 70, 
-                "mime-type": 57
+                "depth": 155, 
+                "mime-type": 65
             }, 
             "receiveTime": 8.204035000000658, 
             "sentTime": 7.393642999999429, 
@@ -5153,6 +6653,12 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_5", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "text/css", 
             "priority": {
                 "cp": 8, 
@@ -5173,12 +6679,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_68", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "priority": {
                 "cp": 90, 
                 "cp-plus": 90, 
-                "depth": 192, 
-                "mime-type": 194
+                "depth": 69, 
+                "mime-type": 107
             }, 
             "receiveTime": 8.110106000000087, 
             "sentTime": 6.703362000000197, 
@@ -5193,13 +6705,19 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_257", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "originalResource": "download_68", 
             "priority": {
-                "cp": 219, 
-                "cp-plus": 219, 
-                "depth": 219, 
-                "mime-type": 219
+                "cp": 252, 
+                "cp-plus": 252, 
+                "depth": 198, 
+                "mime-type": 203
             }, 
             "sentTime": 6.703424999999697, 
             "size": 7398, 
@@ -5213,12 +6731,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_129", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "priority": {
                 "cp": 27, 
                 "cp-plus": 27, 
-                "depth": 99, 
-                "mime-type": 117
+                "depth": 251, 
+                "mime-type": 251
             }, 
             "receiveTime": 8.211412000000564, 
             "sentTime": 6.672332000000097, 
@@ -5233,12 +6757,18 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_118", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "priority": {
                 "cp": 45, 
                 "cp-plus": 45, 
-                "depth": 88, 
-                "mime-type": 106
+                "depth": 240, 
+                "mime-type": 240
             }, 
             "receiveTime": 8.170132999999623, 
             "sentTime": 6.695138999999472, 
@@ -5253,13 +6783,19 @@
             ], 
             "httpMethod": "GET", 
             "id": "download_246", 
+            "iscrit": {
+                "cp": false, 
+                "cp-plus": false, 
+                "depth": false, 
+                "mime-type": false
+            }, 
             "mimeType": "image/jpeg", 
             "originalResource": "download_118", 
             "priority": {
-                "cp": 244, 
-                "cp-plus": 244, 
-                "depth": 244, 
-                "mime-type": 244
+                "cp": 241, 
+                "cp-plus": 241, 
+                "depth": 187, 
+                "mime-type": 192
             }, 
             "sentTime": 6.695198999999775, 
             "size": 12895, 
